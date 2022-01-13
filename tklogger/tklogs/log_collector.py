@@ -20,7 +20,7 @@ class logScrapper():
     self.out_dir = directory
     return 
 
-  def get_all_logs(self,limit=10):
+  def get_all_logs(self,limit=3):
       """Get all logs up to limit"""
       log_html=self.get_log()
       self.save_html(log_html,"debug.html")
@@ -36,9 +36,8 @@ class logScrapper():
 
   def format_filename(self,link):
     """Formats links into filenames"""
-    filename = link.replace(".","-")
-    filename = filename.replace("/","_")
-    filename = filename.rstrip("_")
+    filename = link.split("/")[2]
+    filename = filename.replace(".","-")
     filename = self.out_dir + "/" + filename + ".csv"
     return filename
     
