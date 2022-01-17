@@ -20,18 +20,19 @@ class logScrapper():
     self.out_dir = directory
     return 
 
-  def get_all_logs(self,limit=3):
+  def get_all_logs(self,limit=3,start=""):
       """Get all logs up to limit"""
-      log_html=self.get_log()
-      self.save_html(log_html,"debug.html")
+      log_html=self.get_log("log/"+start)
+      #self.save_html(log_html,"debug.html")
       chat,link = self.parse_log_page(log_html)
       self.save_chat_page(chat,self.out_dir+"log.csv")
       for i in range(limit):
         log_html=self.get_log(link)
+        self.cache.add(link)
         chat,link = self.parse_log_page(log_html)
         fname = self.format_filename(link)
         self.save_chat_page(chat,fname) 
-    
+          
       return 
 
   def format_filename(self,link):
@@ -42,7 +43,7 @@ class logScrapper():
     return filename
     
 
-  def get_log(self,entry="log"):
+  def get_log(self,entry="log/"):
     """Gets logs from date entry"""
     # Add some jitter 
     base_sleep = 1
@@ -50,6 +51,7 @@ class logScrapper():
     time.sleep(base_sleep + jitter)
 
     log_url = base_url+entry
+    print("Querying for {}".format(log_url))
     r = requests.get(log_url)
     log_html = r.text
     return log_html
@@ -59,14 +61,15 @@ class logScrapper():
     title = soup.find("h1").text
     title = " ".join(title.split())
     link = soup.find("h1").a['href']
-    print(title)
+    day = link.split("/")[2]
+    day = day.replace(".","-")
     chat_area = soup.find(id="resultsArea")
     chat_entries = chat_area.find_all("div")
     # fmt = "{}, {}: {}"
     chat = []
     for msg in chat_entries:
       spans = msg.find_all("span")
-      time = msg['id']
+      time = day + 'T' + msg['id']
       user = spans[1].text
       txt = spans[2].text
      # print(fmt.format(time,user,txt))
@@ -87,8 +90,4 @@ class logScrapper():
 
     return
       
-  def persist_cache(self):
-    save_cache(self.cache)
-    return
-    
 

@@ -13,7 +13,9 @@ if __name__=="__main__":
 
   ls = logScrapper(cache,args.outdir)
   
-  ls.get_all_logs()
+  ls.get_all_logs(args.limit,args.start)
+  
+  utils.loader.save_cache(args.out_cache,ls.cache)
 
 #  ls.parse_log_page(page)
 #  ls.get_all_logs()

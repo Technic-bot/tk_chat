@@ -2,8 +2,10 @@ import argparse
 
 def process_opt():
   parser = argparse.ArgumentParser()
-  parser.add_argument("--limit",help="Max date to scrape", default=10)
+  parser.add_argument("--limit",help="Max date to scrape", type=int,default=5)
+  parser.add_argument("--start",help="Date to start ", default="")
   parser.add_argument("--cache",help="Cache filename")
+  parser.add_argument("--out-cache",help="Cache filename",default="cache.txt")
   parser.add_argument("outdir",help="directory to store results")
   return parser.parse_args()
 
