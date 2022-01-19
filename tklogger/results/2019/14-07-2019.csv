@@ -1,0 +1,216 @@
+date,user,comment
+14-07-2019T00:03:15,SpazztasticKiwi,nite Tom
+14-07-2019T00:35:13,Twokinds,:ctwokinds-RainezZz:
+14-07-2019T00:36:08,BadFoMo,Good night?
+14-07-2019T00:40:22,SpazztasticKiwi,sleep like your life depends on it
+14-07-2019T01:18:55,unsteddyphoenix,:ctwokinds-nataniAAAAshake:
+14-07-2019T02:08:04,SpazztasticKiwi,no yelling after curfew
+14-07-2019T02:21:42,SpazztasticKiwi,🛌
+14-07-2019T02:25:44,TeapotOfDoom,Morning peeps
+14-07-2019T02:27:02,TeapotOfDoom,Also i just woke up. I yell all i want :ctwokinds-sleepoverA:
+14-07-2019T02:56:04,DarthRexKing,Goodnight. :V
+14-07-2019T03:58:08,TerraTheWizard,:ctwokinds-natsducky:
+14-07-2019T05:58:40,AspiringNoodle,I haf returned
+14-07-2019T06:02:00,Orthonox,"Morning, lads"
+14-07-2019T06:21:02,AspiringNoodle,It's so weird waking up this early
+14-07-2019T06:21:27,AspiringNoodle,"At this point, I'm used to my college sleep schedule of go to sleep at 1, wake up at 9 - 10"
+14-07-2019T07:00:44,AspiringNoodle,I think I'm about done with the idea of putting RGB into my next build
+14-07-2019T07:41:19,AspiringNoodle,"Until all these companies pull their heads out of their collective asses and work to make a universal ecosystem, it's just not worth it..."
+14-07-2019T07:57:12,CrimsonQuill,Good day
+14-07-2019T07:57:19,CrimsonQuill,How many Tom picks were there?
+14-07-2019T08:04:27,AspiringNoodle,...I actually don't remember ;_;
+14-07-2019T08:06:56,TeapotOfDoom,Hoi noodle and quill
+14-07-2019T08:07:35,TeapotOfDoom,"If you wanna use rbg, use the mainboard header and as many things from one vendor as possibel"
+14-07-2019T08:08:00,TeapotOfDoom,as far as i know asus aurora is the biggest one as far as i know
+14-07-2019T08:08:06,TeapotOfDoom,as far as i know
+14-07-2019T08:13:01,AspiringNoodle,I'm just getting one giant headache from thinking about my new computer...
+14-07-2019T08:13:13,AspiringNoodle,"Like, the absurd level of complexity RGB adds is completely unacceptable"
+14-07-2019T08:14:04,AspiringNoodle,"You shouldn't have to worry about needing multiple pieces of software to control lighting for everything, and compatibility because each vendor likes using its own proprietary connectors -_-"
+14-07-2019T08:14:52,AspiringNoodle,Eventually I'm gonna reach my eff it point and build a computer with little concern for how everything looks together because screw the system
+14-07-2019T08:17:05,TeapotOfDoom,Again use standard rgb headers
+14-07-2019T08:17:16,TeapotOfDoom,Or stay with one vendor
+14-07-2019T08:17:34,TeapotOfDoom,But yes why the heck is there no standard?
+14-07-2019T08:18:56,AspiringNoodle,"Probably because every single vendors wants to strong-arm you into their ecosystem, because otherwise they'd lose sales"
+14-07-2019T08:19:09,AspiringNoodle,Off the top of my head
+14-07-2019T08:19:32,AspiringNoodle,"MSI Mystic Light, Gigabyte RGB Fusion, ASUS Aura Sync, Corsair iCUE"
+14-07-2019T08:20:31,AspiringNoodle,"And while some parts from different vendors are compatible with a given software, there's no real way to unify your entire system under one standard without severely limiting part choices"
+14-07-2019T08:21:08,AspiringNoodle,"Example: ASUS's system works well if you have their mobo, gpu, and use G.skill memory"
+14-07-2019T08:21:22,AspiringNoodle,"But once you go to CPU coolers and fans, I'm not sure what parts work"
+14-07-2019T08:22:17,TerraTheWizard,:ctwokinds-nibrun::ctwokinds-nibrun:
+14-07-2019T08:23:03,AspiringNoodle,"But yeah, it's absolutely ridiculous that there's no way to have your entire build's RGB controlled by ONE software"
+14-07-2019T08:25:01,CrimsonQuill,Hiya Teapit
+14-07-2019T08:25:10,CrimsonQuill,Teapot
+14-07-2019T08:25:18,CrimsonQuill,Didn't see earlier message sorry
+14-07-2019T08:25:25,CrimsonQuill,Was trying out SPV3
+14-07-2019T08:28:26,AspiringNoodle,"Okay, so apparently there is a way to use one ecosystem"
+14-07-2019T08:29:48,AspiringNoodle,"If you use what I described above, and use Cooler Master coolers / fans, then you can have a build all controlled by ASUS Aura.  That said, Cooler Master fans ugly as sin."
+14-07-2019T08:34:40,TeapotOfDoom,if the fans use standard four lead wires i'm pretty sure it will work with asus
+14-07-2019T08:35:00,AspiringNoodle,"Nope, just checked."
+14-07-2019T08:35:06,TeapotOfDoom,really?
+14-07-2019T08:35:15,AspiringNoodle,"Corsair's RGB RAMwill work with Asus Aura, but not the fans"
+14-07-2019T08:35:28,TeapotOfDoom,i mean there may be no software standard but the hardware behind it is mostly standard
+14-07-2019T08:35:43,TeapotOfDoom,but why...
+14-07-2019T08:35:51,TeapotOfDoom,:ctwokinds-keifacepalm:
+14-07-2019T08:37:34,CrimsonQuill,I don't really know what any of this means...
+14-07-2019T08:37:40,AspiringNoodle,https://linustechtips.com/main/topic/927212-ultimate-guide-to-fan-rpm-rgb-ecosystems/
+14-07-2019T08:37:43,CrimsonQuill,But I think I'm in love with Halo SPV3
+14-07-2019T08:37:52,AspiringNoodle,Check out how different fan manufacturers handle RGB ecosystems
+14-07-2019T08:38:52,AspiringNoodle,"Thermaltake seems to have the best setup possible, and I don't actually hate the looks of their fans"
+14-07-2019T08:39:56,CrimsonQuill,brb
+14-07-2019T08:42:13,AspiringNoodle,"But yeah, aRGB is broken as all hell.  Everyone wants customers to use their ecosystem, and the limited compatibility makes it hard to unify a build"
+14-07-2019T08:42:31,AspiringNoodle,"At this point, it seems like it's easier to forsake RGB wherever possible, or to use static lighting"
+14-07-2019T08:56:26,SniperJackal,@CrimsonQuill so you played SPV3?
+14-07-2019T09:01:03,AspiringNoodle,Just had a thought
+14-07-2019T09:01:14,AspiringNoodle,"If Corsair ever started making motherboards / gpus, I'd be set xD"
+14-07-2019T09:01:26,CrimsonQuill,@SniperJackal Just got it last night
+14-07-2019T09:01:33,SniperJackal,enjoy it
+14-07-2019T09:01:35,SniperJackal,I did
+14-07-2019T09:01:36,CrimsonQuill,But didn't get a chance to play it till toda
+14-07-2019T09:01:38,CrimsonQuill,today
+14-07-2019T09:01:48,CrimsonQuill,Becuase I was watching the stream
+14-07-2019T09:01:50,SniperJackal,The Lumoria missions have a lot of cool weapons
+14-07-2019T09:02:11,CrimsonQuill,"I love the weapons, the music.."
+14-07-2019T09:02:17,CrimsonQuill,My aim sucks though
+14-07-2019T09:03:11,SniperJackal,so you didnt play SPV3.1 before?
+14-07-2019T09:03:34,CrimsonQuill,No
+14-07-2019T09:03:36,CrimsonQuill,No
+14-07-2019T09:03:43,SniperJackal,"Well it doesnt matter, .2 is much better"
+14-07-2019T09:03:53,CrimsonQuill,Didn't even realise that it was a pc mod till Bgrmystr2 told me
+14-07-2019T09:03:58,SniperJackal,anyways have fun with it
+14-07-2019T09:04:11,CrimsonQuill,Thanks
+14-07-2019T09:04:15,SniperJackal,I do recommend starting with normal tho
+14-07-2019T09:04:40,SniperJackal,Or If you wanna commit suicide and complete all missions on noble
+14-07-2019T09:04:51,CrimsonQuill,I'm on Heroic
+14-07-2019T09:04:56,CrimsonQuill,I might try Nobl
+14-07-2019T09:04:57,CrimsonQuill,Noble
+14-07-2019T09:04:58,SniperJackal,Thats ok too
+14-07-2019T09:05:06,CrimsonQuill,I love how there is no 'easy'
+14-07-2019T09:05:09,CrimsonQuill,Makes sense
+14-07-2019T09:05:14,SniperJackal,"I did the original 10 missions on noble, absolute fuckfest"
+14-07-2019T09:05:14,CrimsonQuill,How hard is Noble?
+14-07-2019T09:05:29,CrimsonQuill,That hard?
+14-07-2019T09:05:31,SniperJackal,"Its extremely hard, but I liked the challenge :P"
+14-07-2019T09:05:33,CrimsonQuill,As in Halo 2 hard?
+14-07-2019T09:05:39,SniperJackal,Not really
+14-07-2019T09:05:43,SniperJackal,I mean
+14-07-2019T09:05:52,SniperJackal,It can be unfair
+14-07-2019T09:06:00,SniperJackal,But you dont get 1 shotted by snipers
+14-07-2019T09:06:03,CrimsonQuill,I fear Halo 2 legendary
+14-07-2019T09:06:18,SniperJackal,Grunts are also very deadly on noble
+14-07-2019T09:06:27,CrimsonQuill,Never underestimate grunts
+14-07-2019T09:06:29,SniperJackal,they spam plasma pistols like crazy
+14-07-2019T09:06:32,CrimsonQuill,Do they carry Fuel Rods?
+14-07-2019T09:06:45,SniperJackal,I think they dont in this version
+14-07-2019T09:06:50,CrimsonQuill,Ok
+14-07-2019T09:06:58,SniperJackal,But on Two betrayals they sometimes carry rocket launchers
+14-07-2019T09:07:02,SniperJackal,so even worse
+14-07-2019T09:07:05,CrimsonQuill,HELPP
+14-07-2019T09:07:13,SniperJackal,And brutes aswell
+14-07-2019T09:07:20,SniperJackal,sometimes
+14-07-2019T09:07:42,SniperJackal,"anyways, I dont wanna ruin too much"
+14-07-2019T09:07:53,CrimsonQuill,I saw the Brutes
+14-07-2019T09:08:02,CrimsonQuill,Nice to see them as they would have been in the fleet
+14-07-2019T09:08:10,SniperJackal,yeah they arent as op as in Halo 2
+14-07-2019T09:08:13,CrimsonQuill,But they are bullet sponges
+14-07-2019T09:08:29,SniperJackal,dmr or br + headshots
+14-07-2019T09:08:32,CrimsonQuill,"And those Grifshots....Umm, I mean Bruteshots!"
+14-07-2019T09:08:42,SniperJackal,grifshots :O
+14-07-2019T09:08:51,CrimsonQuill,Red vs Blue
+14-07-2019T09:09:01,SniperJackal,yeah I know about grifball
+14-07-2019T09:09:19,CrimsonQuill,I was really annoyed when i tried it on Reach though
+14-07-2019T09:09:28,CrimsonQuill,Hardly any matches have people actually play the game
+14-07-2019T09:09:42,CrimsonQuill,"They just grab the bomb, and farm XP rather than bring it to the goal"
+14-07-2019T09:09:58,CrimsonQuill,And teamkilling out of spite
+14-07-2019T09:10:07,CrimsonQuill,I had one match like that
+14-07-2019T09:10:23,SniperJackal,Im gonna try it out when it comes to pc
+14-07-2019T09:10:59,SniperJackal,soon™
+14-07-2019T09:11:10,CrimsonQuill,:)
+14-07-2019T09:44:23,AspiringNoodle,FINALLY starting to watch anime again
+14-07-2019T09:44:36,AspiringNoodle,Already freaking out 3 minutes into S2 of One Punch Man
+14-07-2019T09:49:57,AspiringNoodle,Aaaaaaaaaand did not see that twist coming.  And somehow I love King even more now.
+14-07-2019T09:50:13,CrimsonQuill,:)
+14-07-2019T09:52:51,AspiringNoodle,One thing I love about One Punch Man is the total subversion of Saitama's capabilities
+14-07-2019T09:53:42,AspiringNoodle,"He's so strong that most people can't accept it, and they have to rationalize it away"
+14-07-2019T10:30:05,MisterWho,"@AspiringNoodle: Sooo, you're not reading the manga? Then wait for S3. *GRINS*"
+14-07-2019T10:32:33,AspiringNoodle,"Alas, I have no more room for manga :("
+14-07-2019T10:32:40,TeapotOfDoom,I still have to catch up on opm s2
+14-07-2019T10:32:43,AspiringNoodle,"Which is a shame, because there's some series I have that I'd LOVE to finish"
+14-07-2019T10:32:56,TeapotOfDoom,I watched the first three episodes and they are amazing
+14-07-2019T10:33:23,AspiringNoodle,I love that other heroes are realizing just how powerful he is
+14-07-2019T10:33:30,AspiringNoodle,"It's like, ""YAAAAAAAAAAAAAAAAAAAAAAAS, RECOGNITIOOOOOOOOON!!!"""
+14-07-2019T12:18:26,TeapotOfDoom,Now finally on my way home
+14-07-2019T12:18:57,TeapotOfDoom,I was so in the zone until now completely forgot the time
+14-07-2019T13:10:10,Orthonox,Sweet that you are watching S2 of OPM. I'm thinking about rewatching the show.
+14-07-2019T13:10:21,CrimsonQuill,Tea time
+14-07-2019T13:10:25,CrimsonQuill,:ctwokinds-kingtea:
+14-07-2019T13:10:30,CrimsonQuill,I am so happy
+14-07-2019T13:10:43,CrimsonQuill,I finally got the poses in my picture right after ages
+14-07-2019T13:10:56,CrimsonQuill,And I am almost able to start inking
+14-07-2019T13:21:21,CrimsonQuill,"Now...time to get the trousers scared off of me with Alien Isolation,"
+14-07-2019T13:21:28,CrimsonQuill,Cya
+14-07-2019T13:28:15,NibblyBot,https://www.patreon.com/posts/mind-massage-28398716
+14-07-2019T13:40:44,TerraTheWizard,:ctwokinds-NoraEyebrows:
+14-07-2019T14:37:56,Xexanoth,Zen is the only person who complains about a free massage....
+14-07-2019T14:39:46,Azumachan,:ctwokinds-floraquestion: True
+14-07-2019T16:00:59,SpazztasticKiwi,studying vacation points. Cinci is over 500 miles closer than my other option
+14-07-2019T16:04:53,AspiringNoodle,"The more logical explanation is that as an assassin, he probably doesn't like it when things aren't in his control :P"
+14-07-2019T16:31:51,Orthonox,"Given their assassin career from what we have seen, I cannot think there was ever a moment where the 'Magi Brothers' had anything in their control."
+14-07-2019T17:09:41,Twokinds,Okay! All Patreon sketches scheduled for the next week
+14-07-2019T17:09:50,Twokinds,So that's taken care of.
+14-07-2019T17:10:31,BadFoMo,Cool!
+14-07-2019T17:10:40,BadFoMo,...Now what?
+14-07-2019T17:15:49,TerraTheWizard,:ctwokinds-evalswink_sparkl:
+14-07-2019T17:17:51,IronHorseComics,world domination
+14-07-2019T17:17:53,IronHorseComics,that's what
+14-07-2019T17:19:45,TerraTheWizard,*pinky and the brain theme tune plays in distance*
+14-07-2019T17:29:48,IronHorseComics,"oh and make the hero eat dirt! *evil giggle, then looks at the villain next to me giving an odd look* Uh in addition to that domination thing eheh"
+14-07-2019T17:34:29,TerraTheWizard,:ctwokinds-floraquestion:
+14-07-2019T17:36:56,IronHorseComics,wondr how many people actually got that joke
+14-07-2019T17:37:00,IronHorseComics,*wonder
+14-07-2019T17:44:35,AspiringNoodle,...really...
+14-07-2019T17:44:42,AspiringNoodle,...REALLY?!
+14-07-2019T17:44:57,AspiringNoodle,The Hero Association spends 2 hours and THAT'S the name they come up with for Saitama?!?
+14-07-2019T17:45:03,AspiringNoodle,THAT WAS A JOKE NAME FROM S1!
+14-07-2019T17:45:22,AspiringNoodle,*pinches bridge* F***ing suits...
+14-07-2019T17:45:38,TerraTheWizard,[:ctwokinds-floraquestion:intensifies]
+14-07-2019T17:46:39,IronHorseComics,wait what?
+14-07-2019T17:47:06,IronHorseComics,"for clues about my joke, here's a hint ""Every Villain Is Lemons"""
+14-07-2019T17:48:31,TerraTheWizard,pretty sure this is a reference to something i've not seen
+14-07-2019T17:49:51,IronHorseComics,"it's from the Spongebob episode where the main cast are forced into dressing up as super heroes to fight Man Ray, the Dirty Bubble, and Barnacle Boy who turned evil for that episode because he wanted an adult sized krabby patty"
+14-07-2019T17:51:27,TerraTheWizard,"yeah, i've seen barely any spongebob"
+14-07-2019T17:53:04,TerraTheWizard,:ctwokinds-RainezZz:
+14-07-2019T18:06:33,AspiringNoodle,Oh my
+14-07-2019T18:06:59,AspiringNoodle,S2E3: Perfect example of why you DON'T pick random fights with Saitama
+14-07-2019T18:07:28,AspiringNoodle,That looked super painful ;_;
+14-07-2019T18:31:30,AspiringNoodle,Is this what it's like to not need to sleep all the time?
+14-07-2019T18:31:37,AspiringNoodle,I like it :ptv-hearts:
+14-07-2019T19:08:53,SpazztasticKiwi,what’s next is Tom goes into hibernation
+14-07-2019T19:45:17,AspiringNoodle,"uuuuuuuuh, so much for me stopping at s2e6 of OPM ^^;"
+14-07-2019T19:45:25,AspiringNoodle,Just finished episode 9
+14-07-2019T19:50:33,Orthonox,Nice. How are you enjoying the season so far?
+14-07-2019T20:04:37,RimaDraws,wait season 2 is out of one punch man?!
+14-07-2019T20:05:57,Bgrmystr2,"S2 is already complete, Rima"
+14-07-2019T20:06:12,RimaDraws,how did i not know it was out...
+14-07-2019T20:06:34,Bgrmystr2,I'd ask the very same question.
+14-07-2019T20:06:53,RimaDraws,its not on crunchyroll...
+14-07-2019T20:07:31,RimaDraws,its not out on netflix either...great....
+14-07-2019T20:23:15,Ordithus,:ctwokinds-floAAA:
+14-07-2019T20:28:09,MarvTheHugPharaoh,:ctwokinds-RainezZz:
+14-07-2019T21:25:51,SpazztasticKiwi,I have a paint color literally called “flesh”
+14-07-2019T21:29:05,CrRAR,Save it for a zombie apocalypse.
+14-07-2019T21:30:01,CrRAR,It'll be sure to confuse at lease a few of them.
+14-07-2019T21:34:33,CrRAR,Their terrible dexterity will provide ample time to escape.
+14-07-2019T21:34:39,CrRAR,:ctwokinds-nibrun::ctwokinds-nibrun::ctwokinds-nibrun:
+14-07-2019T21:35:01,Ordithus,:ctwokinds-LauraCry:*[Braaaaainss]
+14-07-2019T21:35:36,CrRAR,haha
+14-07-2019T21:36:05,Ordithus,I maintain that Laura is the cutest zombie that ever was
+14-07-2019T21:41:03,CrRAR,":ctwokinds-nataniAAAAshake:*[Run, Zen! RUN!]"
+14-07-2019T21:41:07,Ordithus,I wouldn't even run https://www.deviantart.com/twokinds/art/Thriller-790156915
+14-07-2019T21:41:08,CrRAR,[...b-but she's not like OTHER Zombies]*:ctwokinds-zenshocked:
+14-07-2019T21:41:49,CrRAR,*horrible munching noises*
+14-07-2019T21:42:04,CrRAR,:poultry_leg:
+14-07-2019T21:42:21,CrRAR,"Zen: ""Ehh, I didn't need that anyway"""
+14-07-2019T21:43:01,CrRAR,"""It was already kinda... toast"""
+14-07-2019T21:44:38,Dadrobit,7o7 One of my proudest suggestions to get colored!
+14-07-2019T21:47:20,CrRAR,7o7
+14-07-2019T23:30:58,SpazztasticKiwi,Marks out there playing a rescue the princess game and can’t find the princess

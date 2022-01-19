@@ -1,0 +1,204 @@
+date,user,comment
+04-11-2020T00:44:39,CrRAR,It's an incredibly clear night sky out here tonight.
+04-11-2020T00:45:16,CrRAR,:bridge_at_night::cw0lfmare-EmberO:
+04-11-2020T00:45:37,CrRAR,moon like a big ol streetlamp
+04-11-2020T00:45:49,CrRAR,very many stars~
+04-11-2020T00:56:39,SpazztasticKiwi,🦉
+04-11-2020T01:27:02,CrRAR,:crescent_moon::owl::leaves:
+04-11-2020T01:28:38,CrRAR,:zzz:
+04-11-2020T01:28:41,CrRAR,:chipmunk:
+04-11-2020T02:13:05,SpazztasticKiwi,👀
+04-11-2020T02:28:03,SpazztasticKiwi,everybody flew south for the winter
+04-11-2020T02:40:46,SpazztasticKiwi,🛌
+04-11-2020T03:35:13,TerraTheWizard,:ctwokinds-renirar:
+04-11-2020T08:42:01,CrRAR,:ctwokinds-renirar:
+04-11-2020T10:57:47,AspiringNoodle,RIP Intel
+04-11-2020T10:58:12,SonOfGoku,Yeah
+04-11-2020T11:00:06,AspiringNoodle,AMD's new 5600X (6c/12t $299 USD) is beating Intel's 10900k (10c/20t $499 - $529 USD) processor in game performance
+04-11-2020T11:00:50,AspiringNoodle,Intel is officially the worse brand :|
+04-11-2020T11:01:30,AspiringNoodle,Just to drive in how much faster the new AMD processors are.
+04-11-2020T11:02:08,AspiringNoodle,CS:GO - Dust II 1080p Very High no AA (Average FPS)
+04-11-2020T11:02:20,AspiringNoodle,10900k: 544
+04-11-2020T11:02:26,AspiringNoodle,5600X: 666 (nice)
+04-11-2020T11:02:49,AspiringNoodle,Intel ded
+04-11-2020T11:25:56,CrRAR,The fact that Intel let the model numbers wrap around to above 10k without a rename tells me they basically given up.
+04-11-2020T11:26:25,CrRAR,Like that alone indicates their management is just asleep on the job.
+04-11-2020T11:26:47,CrRAR,>not even a logical marketing revamp
+04-11-2020T11:26:55,CrRAR,>sure that’s fine
+04-11-2020T11:27:05,CrRAR,>saves MONEY! :D
+04-11-2020T11:27:48,AspiringNoodle,Intel is a prime example of what happens to a company when they've had no competition for years
+04-11-2020T11:28:10,AspiringNoodle,"They stop trying to push boundaries, focus more on consistent, incremental improvements, and more or less rest on their laurels, try to maximize profit."
+04-11-2020T11:28:29,CrRAR,"Yeah, they have responded to competition in the past, this is just another lazy era for them I guess."
+04-11-2020T11:28:36,AspiringNoodle,"AMD comes along and starts making waves, and Intel actually had to start TRYING again."
+04-11-2020T11:28:51,CrRAR,Like the Core series in 2006 was a huge wake-up for them
+04-11-2020T11:28:57,AspiringNoodle,Well... now Intel has hit some major road bumps in trying to improve.
+04-11-2020T11:29:20,CrRAR,They realized they HAD TO or would die cuz of the Athlon 64
+04-11-2020T11:29:26,CrRAR,Yeah
+04-11-2020T11:29:36,CrRAR,It’s architecture now
+04-11-2020T11:29:43,AspiringNoodle,AMD's approach may be what's needed to keep moving forward.
+04-11-2020T11:30:02,CrRAR,...and Intel has actually lost advantage owning their own fabs.
+04-11-2020T11:30:05,AspiringNoodle,"Intel's whole approach of ""We design one single CHIP for every processor because muh quality"" is a bad design approach..."
+04-11-2020T11:30:25,CrRAR,Which was one of their superiority complexes for so long
+04-11-2020T11:30:33,CrRAR,But now it’s a weakness
+04-11-2020T11:30:52,CrRAR,cuz it’s made them too inflexible
+04-11-2020T11:31:00,AspiringNoodle,Fun fact: Every single intel processors (bar Xeon) is designed by creating one giant monolith chip for every product SKU.
+04-11-2020T11:31:51,CrRAR,Yeah Xeon expansion to consumer is a huge gaff just to score higher pricetags for uninformed folks
+04-11-2020T11:32:04,AspiringNoodle,"While I'm sure they can disable some cores should it not pass quality control and be branded as a lower quality product, AMD's approach allows them to scale up, with a solid baseline."
+04-11-2020T11:32:33,CrRAR,They are usually superior specimen CPUs but they’re really not incredibly different
+04-11-2020T11:32:54,AspiringNoodle,"Also, Intel is a joke from a professional viewpoint.  To get ECC memory you HAVE to bump up to Xeons, which charge a ridiculous premium for business features."
+04-11-2020T11:33:25,AspiringNoodle,Xeon is definitely designed for longevity.  Lower core clocks and power consumption as a tradeoff for stability.
+04-11-2020T11:33:44,AspiringNoodle,"But if you're a solo professional working from home, AMD's entire product stack offers ECC memory support baseline."
+04-11-2020T11:33:50,CrRAR,"Yeah but ECC is just for computation integrity, you lose performance."
+04-11-2020T11:34:19,CrRAR,Like ECC makes sense for large-scale computational maybe like finance industry stuff
+04-11-2020T11:34:47,CrRAR,Cuz they can’t tolerate a minor data problem
+04-11-2020T11:35:07,AspiringNoodle,"On the bright side, I can't wait to upgrade to a 12-core :D"
+04-11-2020T11:35:45,CrRAR,"Yeah, I haven’t read benchmarks in ages, are games and apps crazy threaded now?"
+04-11-2020T11:37:34,AspiringNoodle,"Games are *slowly* heading that direction.  But for the most part, higher core count CPUs also tend to have better single-thread performance"
+04-11-2020T11:38:11,AspiringNoodle,"Looking at some of the benchmarks for the new 5000 series processors, the 5900X (12c) seems to have the best gaming performance."
+04-11-2020T11:38:30,CrRAR,Oh yeah I think AMD would have the same thing but turbo on Intel kicks in when a few cores are in use and kick the Ghz way up
+04-11-2020T11:38:51,AspiringNoodle,"May not always have the highest average FPS compared to the 5950X, but the minimums tend to be higher, which means the dips in framerate aren't as bad and the experience will be more enjoyable."
+04-11-2020T11:38:55,CrRAR,Cuz one core at a high clocks is fine if the rest are sitting idle
+04-11-2020T11:39:10,CrRAR,yeah
+04-11-2020T11:39:29,AspiringNoodle,"So if you're building a gaming rig, the 5900X is as high as you'd want to go.  It'll also save you $200 or so"
+04-11-2020T11:39:50,AspiringNoodle,"And as an added bonus, with 12 cores it can double as an excellent streaming rig"
+04-11-2020T11:40:38,AspiringNoodle,"At most, games these days will only take advantage of 8 cores, so that leaves 4 to handle OS tasks and any background programs."
+04-11-2020T11:44:26,AspiringNoodle,"Also, I think Windows' scheduler still needs optimization for high thread-count cpus xD"
+04-11-2020T12:00:56,NibblyBot,New Deviantart Post: Curse of the Weresnep https://www.deviantart.com/twokinds/art/Curse-of-the-Weresnep-860086339
+04-11-2020T12:01:04,NibblyBot,New Patreon Post: Curse of the Weresnep https://www.patreon.com/posts/curse-of-43484544
+04-11-2020T12:01:27,NinoGD,nice
+04-11-2020T12:09:32,AspiringNoodle,fluff
+04-11-2020T12:10:31,CrRAR,*eerie spooky mystery music*
+04-11-2020T12:10:49,CrRAR,:thunder_cloud_rain::ctwokinds-awoo:
+04-11-2020T13:09:57,TerraTheWizard,:ctwokinds-awoo:
+04-11-2020T14:42:46,SpazztasticKiwi,🦉
+04-11-2020T14:44:34,NinoGD,hi kiwi
+04-11-2020T15:35:50,CrRAR,:chipmunk:
+04-11-2020T15:39:42,SpazztasticKiwi,🐙
+04-11-2020T16:07:49,CrRAR,:fish::herb:
+04-11-2020T16:11:27,TerraTheWizard,:ctwokinds-RainezZz:
+04-11-2020T16:12:09,CrRAR,:v: terra
+04-11-2020T16:23:21,SpazztasticKiwi,🦔
+04-11-2020T16:34:25,SpazztasticKiwi,I pet kitty
+04-11-2020T16:41:31,SpazztasticKiwi,& gots 🍝
+04-11-2020T18:36:47,CrRAR,:spaghetti::ccrrar-chickcr::ok_hand:
+04-11-2020T18:42:30,CrRAR,sat on the couch after dinner and almost fell asleep
+04-11-2020T18:42:37,CrRAR,gonna have some cereal
+04-11-2020T18:42:57,CrRAR,:stew::cw0lfmare-Paperflora:
+04-11-2020T18:57:54,SonOfGoku,Finally got my wings
+04-11-2020T18:58:42,SpazztasticKiwi,that cereal is steaming
+04-11-2020T19:21:16,CrRAR,Keidran customary cereal
+04-11-2020T19:21:24,CrRAR,very meaty
+04-11-2020T19:21:50,CrRAR,such hearty
+04-11-2020T19:21:53,CrRAR,wow
+04-11-2020T19:33:12,AspiringNoodle,"breakfast sub, mini hashbrowns, a slushy, and some gummy sushi"
+04-11-2020T19:33:23,AspiringNoodle,Because I'm an adult and I can eat what I want :ptv-laugh:
+04-11-2020T19:33:25,SpazztasticKiwi,🌯
+04-11-2020T19:33:31,AspiringNoodle,...and then lament why I'm so fat later :ptv-whiny:
+04-11-2020T19:40:03,CrRAR,winter is coming
+04-11-2020T19:40:13,CrRAR,it's practically instinct
+04-11-2020T19:40:29,CrRAR,proof: thanksgiving
+04-11-2020T19:40:51,CrRAR,also: soup
+04-11-2020T19:46:58,AspiringNoodle,Holy eff
+04-11-2020T19:47:06,AspiringNoodle,Blizzard is finally killing multi-boxing
+04-11-2020T19:47:12,AspiringNoodle,I am in disbelief
+04-11-2020T19:57:46,CrRAR,*munches more tomato goldfish*
+04-11-2020T19:57:54,CrRAR,:ptv-unimpressed:
+04-11-2020T19:58:02,CrRAR,"you know, these make we want an ACTUAL tomato because of how vaguely tomato-y they taste"
+04-11-2020T19:58:27,CrRAR,They should have added basil or oregano seasoning to them or something
+04-11-2020T19:58:39,CrRAR,That’d be tasty
+04-11-2020T20:00:54,CrRAR,the fact some of them are tomato shaped indicates they know what they did
+04-11-2020T20:01:00,CrRAR,“They taste more like teddy grahams!”
+04-11-2020T20:01:11,AspiringNoodle,My teeth still hurt at the thought of a new M&M flavor I saw while picking up dinner
+04-11-2020T20:01:16,AspiringNoodle,White
+04-11-2020T20:01:18,AspiringNoodle,Chocolate
+04-11-2020T20:01:19,AspiringNoodle,Sugar
+04-11-2020T20:01:20,CrRAR,"“Uhh, put some tomot-y shaped ones in there! That’ll trick ‘em!”"
+04-11-2020T20:01:20,AspiringNoodle,Cookie
+04-11-2020T20:01:25,AspiringNoodle,dammit rar
+04-11-2020T20:01:33,CrRAR,White
+04-11-2020T20:01:37,CrRAR,Chocolate
+04-11-2020T20:01:40,CrRAR,Sugar
+04-11-2020T20:01:42,CrRAR,Cookie
+04-11-2020T20:01:45,CrRAR,:cookie:
+04-11-2020T20:01:48,CrRAR,You say?
+04-11-2020T20:01:51,AspiringNoodle,[(b;e[(]:snake:
+04-11-2020T20:01:58,AspiringNoodle,[*blep*]:snake:
+04-11-2020T20:02:08,AspiringNoodle,"Dangit, how could I forget how to do that"
+04-11-2020T20:02:20,AspiringNoodle,[*blep*]*:snake:
+04-11-2020T20:02:26,AspiringNoodle,Noodle happy now <3
+04-11-2020T20:02:33,CrRAR,That does sound like a hell of a flavor
+04-11-2020T20:02:53,CrRAR,Should have just been called “Basically... sugary crack!”
+04-11-2020T20:03:09,AspiringNoodle,Next year
+04-11-2020T20:03:16,CrRAR,"“We put sugar in your sugar, in YOUR CHOCOLATE!!!”"
+04-11-2020T20:03:20,AspiringNoodle,"""New and improved White Chocolate Sugar Cookie!"""
+04-11-2020T20:03:21,CrRAR,:ctwokinds-nataniAAAAshake:
+04-11-2020T20:03:32,AspiringNoodle,"""It's literally just crack now.  You won't notice the difference."""
+04-11-2020T20:03:36,AspiringNoodle,"""Maybe."""
+04-11-2020T20:03:43,CrRAR,xD
+04-11-2020T20:04:26,CrRAR,>Add candycane sprinkles
+04-11-2020T20:04:44,CrRAR,Magical Mystical Christmasy Crack Edition:tm:
+04-11-2020T20:05:29,CrRAR,Does it live up to the “cookie” taste part of it?
+04-11-2020T20:05:37,CrRAR,:ptv-snicker::ptv-confused::question:
+04-11-2020T20:06:08,CrRAR,Like birthday cake oreos have that cakey taste
+04-11-2020T20:06:25,CrRAR,H-how does that work with an M&M
+04-11-2020T20:09:18,CrRAR,“Easy!”
+04-11-2020T20:09:28,CrRAR,:ctwokinds-rose:*[we extract its sweet cookie ESSENCE]
+04-11-2020T20:10:17,CrRAR,:cw0lfmare-Paperflora:*[can’t was just ENJOY the cookies themselves?]
+04-11-2020T20:11:02,CrRAR,:ctwokinds-clovischuckle:*[If ya’s can afford ‘em]
+04-11-2020T20:11:19,CrRAR,:moneybag:
+04-11-2020T20:11:28,CrRAR,:cookie:
+04-11-2020T20:11:42,AspiringNoodle,Looking at this gummy sushi...
+04-11-2020T20:11:46,AspiringNoodle,Now I want *real* sushi ._.
+04-11-2020T20:12:12,CrRAR,Wait is it just sushi-shaped candy?
+04-11-2020T20:12:21,AspiringNoodle,"The only thing that throws me off about sushi is the texture.  But the taste I can live with.  Honestly, if I cut out a lot of processed foods and stuff just loaded with sugar / fat / salt, I would probably love it more."
+04-11-2020T20:12:26,AspiringNoodle,Sushi-shaped gummies :D
+04-11-2020T20:12:33,AspiringNoodle,hold on
+04-11-2020T20:12:49,CrRAR,"Yeh, sushi has that mild *squeeh*"
+04-11-2020T20:12:54,AspiringNoodle,https://www.walmart.com/ip/Raindrops-Gummy-Candy-Sushi-Mini-Bento-Box-9-Pieces-5-Kinds-Rolls-Garnishes-Made-Marshmallows-Licorice-Sour-Strips-Gummi-Bears-Fish-Fun-Unique-Gifts/790279666?wmlspartner=wlpa&selectedSellerId=101017809&&adid=2222222222735248476
+04-11-2020T20:12:58,AspiringNoodle,:ptv-shock:
+04-11-2020T20:13:00,AspiringNoodle,THAT LINK
+04-11-2020T20:13:32,AspiringNoodle,Um... link is accurate description of itself?
+04-11-2020T20:14:16,CrRAR,Honestly a gummy pack of ushi is good preparation for the texture experience of eating sushi
+04-11-2020T20:14:32,CrRAR,just w/o the sugary rush!
+04-11-2020T20:14:41,CrRAR,:ccrrar-reni:
+04-11-2020T20:14:54,CrRAR,:cw0lfmare-Emberflail::sushi:
+04-11-2020T20:42:31,AspiringNoodle,"Yay LGBT!!!: ""Is fine."""
+04-11-2020T20:42:40,AspiringNoodle,"RIP, forgot to whisper, lol"
+04-11-2020T20:48:59,AspiringNoodle,Here are some reasons why I like jumping to random twitter accounts
+04-11-2020T20:49:02,AspiringNoodle,https://twitter.com/syvzwvn/status/1323966574206709760?s=20
+04-11-2020T20:49:22,AspiringNoodle,https://twitter.com/HumansNoContext/status/1324315112648396801?s=20
+04-11-2020T20:49:34,CrRAR,"wow, buff kitty"
+04-11-2020T20:49:44,CrRAR,:muscle::smirk_cat:
+04-11-2020T20:50:48,AspiringNoodle,EXTREME
+04-11-2020T20:50:58,CrRAR,"lol, firefighter guy gotta learn to lock that down"
+04-11-2020T20:56:01,AspiringNoodle,How is The Amazing World of Gumball a kids show again? XD: https://www.youtube.com/watch?v=Fc6FM799z1Y
+04-11-2020T21:13:53,CrRAR,:ccrrar-katsip:
+04-11-2020T21:14:19,Dadrobit,"""pls no copyright strike I say this all the time but it still happens, cmon youtube i don't claim i own anything T_T"""
+04-11-2020T21:14:35,Dadrobit,They are thiiiiiiis close to understanding copyright.
+04-11-2020T21:15:12,CrRAR,"ya know, watching that gumball video, old kids shows were disturbing, but at least they were also mostly nonsensical"
+04-11-2020T21:15:37,CrRAR,Made for good imagination inspriation
+04-11-2020T22:27:36,SpazztasticKiwi,the perfect fit https://media.discordapp.net/attachments/524825976597643265/774112596667138068/image0.jpg
+04-11-2020T22:31:36,CrRAR,First they snacc
+04-11-2020T22:31:45,CrRAR,then they napp
+04-11-2020T22:31:58,CrRAR,purrfection
+04-11-2020T22:32:21,CrRAR,This bunny is like the arctic Basitin of bunnies:
+04-11-2020T22:32:25,CrRAR,https://i.redd.it/3673ro0t5hx51.jpg
+04-11-2020T22:32:56,AspiringNoodle,kitties :ptv-excited:
+04-11-2020T22:33:11,CrRAR,If only it was like a jackalope also with antlers xD
+04-11-2020T22:35:13,CrRAR,Whoever was in charge of platapuses should get on that.
+04-11-2020T22:45:39,CrRAR,"Also, for the biology buffs out there:"
+04-11-2020T22:45:42,CrRAR,“Here we witness the rare event of a kitty undergoing mitosis”
+04-11-2020T23:17:04,CrRAR,:zzz:
+04-11-2020T23:17:07,CrRAR,:chipmunk:
+04-11-2020T23:35:32,SpazztasticKiwi,https://media.discordapp.net/attachments/524825976597643265/774129345907392532/image0.jpg
+04-11-2020T23:36:25,SpazztasticKiwi,cats
+04-11-2020T23:41:36,CrRAR,:ctwokinds-smug:
+04-11-2020T23:41:45,CrRAR,You could say he's been
+04-11-2020T23:41:58,CrRAR,:ptv-dealwithit: cat-ptured
+04-11-2020T23:45:14,CrRAR,deprived of his basic ki-ber-ties
+04-11-2020T23:48:07,AspiringNoodle,"Guy under arrest: ""I'm okay with this."""
+04-11-2020T23:49:46,SpazztasticKiwi,https://media.discordapp.net/attachments/524825976597643265/774129351091552256/image0.jpg
+04-11-2020T23:51:00,AspiringNoodle,scorp go *squeesh*
+04-11-2020T23:52:49,CrRAR,:ctwokinds-RaineEep:
+04-11-2020T23:55:00,CrRAR,also that judgemental deer in the background back there being judgemental
+04-11-2020T23:55:28,CrRAR,:deer:*[you... twit]
