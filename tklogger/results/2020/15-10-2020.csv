@@ -1,0 +1,2283 @@
+date,user,comment
+15-10-2020T00:32:47,SpazztasticKiwi,🦉
+15-10-2020T04:04:28,TerraTheWizard,:ctwokinds-renirar::ctwokinds-kingtea:
+15-10-2020T06:04:32,CrRAR,:ctwokinds-renirar:
+15-10-2020T06:53:57,AspiringNoodle,"Me: ""Hmm... an 850W power supply might be overkill for my build... but I can get it for a few dollars cheaper than a 750W if I get this one from Amazon..."""
+15-10-2020T06:54:22,AspiringNoodle,"LTT's latest video: ""Two 3090's in SLI and a 10900K are tripping overvolt protection on a 1000W power supply."""
+15-10-2020T06:54:55,AspiringNoodle,"Suddenly I feel confident in my purchase, especially since I plan on upgrading the processor / GPU at some point in the future xD"
+15-10-2020T07:23:28,CrRAR,"Yeah, you're better just over speccing a PSU than not, you're just buying more capability going higher wattage."
+15-10-2020T07:24:14,CrRAR,Also any PSU using a fraction of its capacity is more efficient (less overhead watt burn) if running under it's full capacity.
+15-10-2020T07:25:05,CrRAR,Like how brakes on cars 'fade' when overused/stressed reduce stopping distance.
+15-10-2020T07:25:41,CrRAR,Increased heat causes reduced functionality at the fringes of designed capacity.
+15-10-2020T07:26:19,CrRAR,Hence why bigger brakes are an upgrade that enhances stopping power and reduces brake fatigue.
+15-10-2020T07:43:03,CrRAR,"Don't always need it, but it sure is great when you do."
+15-10-2020T08:05:51,TerraTheWizard,:ctwokinds-floraquestion:
+15-10-2020T08:06:49,AspiringNoodle,LTT was testing RTX 3090's in SLI for reasons
+15-10-2020T08:07:15,AspiringNoodle,"And combined with the 10900k, it was enough to trip the overcurrent protection on their 1000W power supply, lol"
+15-10-2020T08:08:34,AspiringNoodle,"suffice to say, my power supply should comfortably handle a 3080 and any ryzen processor I choose, and have plenty of wattage to spare for degredation over time"
+15-10-2020T08:31:20,CrRAR,"Yeah, it might just be the architecture is due for a refresh I remember 2010-11 the reviews of nvidia cards that era were like, ""it sucks power, and it's 1000 degrees, but boy does it kick out great frame rates"""
+15-10-2020T08:31:50,AspiringNoodle,"the 30 series is the true next gen, haha"
+15-10-2020T08:32:04,CrRAR,Around the time the Fermi archetecture/gen was out.
+15-10-2020T08:32:21,AspiringNoodle,"20 series caught flak, and rightfully so, for the massive price hike and generally *meh* improvement in performance.  Wasn't great, but wasn't terrible."
+15-10-2020T08:32:49,AspiringNoodle,"Also, NOBODY had access to the raytracing tech before hand so we're now on the 30 series and the list of raytracing capable games is still just barely growing."
+15-10-2020T08:32:57,CrRAR,"Yeah, I think what happened was the fallout from the effectiveness of mining cryptos probably j"
+15-10-2020T08:33:11,CrRAR,had them selling fewer cards now
+15-10-2020T08:33:20,CrRAR,*has
+15-10-2020T08:33:28,AspiringNoodle,"So the 30 series is a ridiculous performance improvement, AND they're cheaper."
+15-10-2020T08:33:53,AspiringNoodle,"Pro tip, Nvidia, if yah gonna sell a product on a gimmick, make sure the gimmick is actually flippin' usable."
+15-10-2020T08:34:21,CrRAR,"Like they have to spread the R&D costs now over fewer expected to sell units maybe, when back when everyone was buying for crypto ppl were buying by the pallet/crate xD"
+15-10-2020T08:34:39,AspiringNoodle,"Seriously, the level of optimization that's taken over a year for ray tracing to not nuke your FPS is ridiculous."
+15-10-2020T08:34:59,CrRAR,"Plus, I'd imagine people might actually have less to spend these days."
+15-10-2020T08:35:00,AspiringNoodle,Jayztwocents did an update on ray tracing not that long ago
+15-10-2020T08:35:11,CrRAR,Oh yeah
+15-10-2020T08:35:15,AspiringNoodle,"Same video card, same settings, same game, HUGE fps gains"
+15-10-2020T08:35:41,AspiringNoodle,I'll probably buy a 40 series at the earliest
+15-10-2020T08:35:49,CrRAR,The 1000 series was literally dedicated to ramping up computation
+15-10-2020T08:36:49,CrRAR,Was worth skipping to the 2000s cuz for most typical workloads/games the real improvement was at the 2000 release
+15-10-2020T08:37:11,CrRAR,That too was really the big VR capable generation too
+15-10-2020T08:37:30,AspiringNoodle,I got a 2070 super :P
+15-10-2020T08:37:36,CrRAR,Nice
+15-10-2020T08:37:57,AspiringNoodle,"Much better than a 2070, and about as much performance as a 2080, but the price of a 2070 xD"
+15-10-2020T08:40:56,AspiringNoodle,love random blackouts
+15-10-2020T08:41:14,AspiringNoodle,"But this is a nice computer, so it doesn't take long to get back up and running :ptv-laugh:"
+15-10-2020T08:51:25,CrRAR,Yeah we had a 10 second power blink yesterday.
+15-10-2020T10:26:57,CrimsonQuill,:ctwokinds-nibrun::pen_ballpoint::green_book: Afternoon/evening/morning/whatever time zone y'all have.
+15-10-2020T10:54:30,JojoGD,morning
+15-10-2020T10:54:50,JojoGD,:coffee:
+15-10-2020T10:55:53,CrimsonQuill,hULLO
+15-10-2020T10:55:58,CrimsonQuill,How are all?
+15-10-2020T10:59:54,JojoGD,good
+15-10-2020T11:00:04,JojoGD,on my zoom classes
+15-10-2020T11:19:48,CrimsonQuill,Just finished mine
+15-10-2020T11:31:14,JojoGD,nice
+15-10-2020T11:35:20,TerraTheWizard,:ctwokinds-reniderp::ctwokinds-nibrun:
+15-10-2020T11:52:46,CrimsonQuill,Haiya Terra
+15-10-2020T11:54:26,JojoGD,Hi terra
+15-10-2020T12:04:05,TerraTheWizard,:ctwokinds-nibrun::ctwokinds-reniderp_flip:
+15-10-2020T12:08:18,JojoGD,:chipmunk:
+15-10-2020T12:23:01,JojoGD,first class done
+15-10-2020T12:23:09,CrimsonQuill,:)
+15-10-2020T12:25:52,JojoGD,the 2nd class is boring
+15-10-2020T12:26:08,SonOfGoku,What class is it?
+15-10-2020T12:27:49,JojoGD,AP Spanish
+15-10-2020T12:28:16,JojoGD,It feels like I'm taking Spanish 3-4
+15-10-2020T12:28:56,CrimsonQuill,My attention span was shot to bits over the last two years. I'm desperately trying to recover it.
+15-10-2020T12:32:12,K3IDRAN,Hola
+15-10-2020T12:32:19,CrimsonQuill,hi
+15-10-2020T12:35:19,SonOfGoku,Hello
+15-10-2020T12:35:25,CrimsonQuill,yo
+15-10-2020T12:36:29,JojoGD,hello
+15-10-2020T12:41:24,AspiringNoodle,"Lol, looks like Stadia is gonna die soon"
+15-10-2020T12:49:26,CrimsonQuill,Stadia?
+15-10-2020T12:50:31,TerraTheWizard,that was fast
+15-10-2020T12:50:37,TerraTheWizard,google's game streaming thing
+15-10-2020T12:51:04,CrimsonQuill,Oh
+15-10-2020T12:51:05,TerraTheWizard,i think microsoft did their own one which is a lot better
+15-10-2020T12:51:10,TerraTheWizard,has the game pass games
+15-10-2020T12:51:10,CrimsonQuill,Okayu
+15-10-2020T12:58:47,AspiringNoodle,Google is releasing a new Chromecast and discontinuing the old one (which is a necessity if you want to use Stadia on a TV)
+15-10-2020T12:59:27,AspiringNoodle,BUT Stadia is not officially supported on the new Chromecast... and you can only get the old one by buying one of the founder's editions of Stadia that ships a Stadia controller
+15-10-2020T12:59:57,AspiringNoodle,"You can try side-loading Stadia onto the new Chromecast, but it might either act janky or refuse to work at all."
+15-10-2020T13:00:50,AspiringNoodle,"So... let's think about this.  Goodle is releasing new hardware which is essential for Stadia to work at home.  But they aren't supporting Stadia at launch.  Meanwhile, alternatives like Geforce Now and Steam Link are supported on the new device."
+15-10-2020T13:01:35,AspiringNoodle,It's almost like Stadia is failing hard and they're hoping it'll just die off and people will forget about it.
+15-10-2020T13:01:53,CrimsonQuill,"Ah, I see now"
+15-10-2020T13:02:11,AspiringNoodle,"I remember finding a Stadia fan boy on Twitter, oh man was this guy sucking Google's D HARD."
+15-10-2020T13:02:33,AspiringNoodle,"Man is he gonna be devastated when everyone finally tells him ""I told you so.  For months.  But you didn't listen."""
+15-10-2020T13:03:30,AspiringNoodle,"Technical issues abound, nonsensical business model, Google's prevalence for bailing on new products / services if they aren't immediately a smash hit :/"
+15-10-2020T13:04:01,CrimsonQuill,The wonderful life of corporate business...
+15-10-2020T13:04:05,AspiringNoodle,We all saw this coming.  The only way I'll be shocked is if Google reverses course and starts pumping resources into Stadia again
+15-10-2020T13:04:45,AspiringNoodle,"But given how it's going and how they've behaved in the past, I feel like this new product is well on its way to the Google Graveyard."
+15-10-2020T13:05:43,AspiringNoodle,"In other news, the new Marvel's Avengers game is going the way of Anthem"
+15-10-2020T13:05:48,AspiringNoodle,:ptv-laugh:
+15-10-2020T13:07:28,TerraTheWizard,the problem is it's still too early for streamed games
+15-10-2020T13:07:43,TerraTheWizard,give it another decade or so for internet to catch up
+15-10-2020T13:12:30,AspiringNoodle,It's not even that.  Google's business model made 0 sense
+15-10-2020T13:12:47,AspiringNoodle,"First off, you can ONLY stream.  Other services give you the option to either stream, or download the games you want to play"
+15-10-2020T13:13:30,AspiringNoodle,"Second, you pay for ACCESS.  While there is a free version that limits things like resolution, framerate, quality, etc, to get the better experience, you pay a subscription."
+15-10-2020T13:14:38,AspiringNoodle,"Third, and this ties into the second point, you don't own games on Stadia.  You have to pay for every single game you want to play, like you're buying to own.  But you're buying access to that title."
+15-10-2020T13:15:10,AspiringNoodle,"If Stadia is ever killed off, every single purchase you make is thrown in the garbage, and there's nothing you can do."
+15-10-2020T13:15:42,AspiringNoodle,"I feel sorry for the people who like Stadia, I really do.  They just don't see that they've thrown their money away."
+15-10-2020T13:17:54,AspiringNoodle,Ugh... I gotta work on condensing my thoughts.  Wall-of-text :ptv-unimpressed:
+15-10-2020T13:29:28,SpazztasticKiwi,seems to be the only thing to come online to
+15-10-2020T13:29:36,SpazztasticKiwi,a wall of rant text
+15-10-2020T13:29:39,SpazztasticKiwi,every time
+15-10-2020T13:30:31,AspiringNoodle,[hoi]*:snake:
+15-10-2020T13:30:45,CrimsonQuill,Hiya Spazz
+15-10-2020T13:32:56,JojoGD,hi spazz
+15-10-2020T13:34:03,K3IDRAN,Google: Were gonna update YouTube with 10 90 minute unskipable ads
+15-10-2020T13:34:50,K3IDRAN,And all of the are furry!
+15-10-2020T13:34:56,AspiringNoodle,:ptv-laugh:
+15-10-2020T13:35:19,K3IDRAN,*Google gets raided like Area 51*
+15-10-2020T13:35:56,CrimsonQuill,Throw in some Hornets or Banshees as Air vehicles in the hangars
+15-10-2020T13:36:27,K3IDRAN,AA Wraiths?
+15-10-2020T13:36:59,CrimsonQuill,Only if they're hijackable.
+15-10-2020T13:37:21,CrimsonQuill,"(Don't mind us, just spouting silly Halo references everywhere)"
+15-10-2020T13:38:26,K3IDRAN,Theirs a glitch still on Halo 3 mcc where you can jack the AA Wraith and it's also on. H3s Forge mcc
+15-10-2020T13:40:13,K3IDRAN,Thank you 343
+15-10-2020T13:40:54,CrimsonQuill,Saw that video
+15-10-2020T13:41:41,K3IDRAN,Could you imagine your Spartan ended ip in Mekkan
+15-10-2020T13:42:21,K3IDRAN,I mean he's Stronger then everyone else
+15-10-2020T13:45:29,K3IDRAN,My Spartan could probably beat up yhe ambassador
+15-10-2020T13:46:53,CrimsonQuill,"Well, ever since Halo Raine became a thing, my mind's been more toward someone being pulled OUT of Mekkan, than being dropped in."
+15-10-2020T13:48:26,K3IDRAN,Yeap
+15-10-2020T13:48:56,K3IDRAN,Oh god a Flood infected. Keidran
+15-10-2020T13:49:17,CrimsonQuill,No thanks.
+15-10-2020T13:49:20,CrimsonQuill,...
+15-10-2020T13:49:27,CrimsonQuill,Can't wait to see the next page.
+15-10-2020T13:49:34,K3IDRAN,Ikr
+15-10-2020T13:49:53,CrimsonQuill,Detritus...
+15-10-2020T13:50:06,CrimsonQuill,"""Lance Constable Detritus! SALUTE!"""
+15-10-2020T13:50:09,CrimsonQuill,*THOCK*
+15-10-2020T13:55:12,K3IDRAN,Oh god. HLAs city 17 looks scary
+15-10-2020T14:08:06,JojoGD,I cheated on kahoot
+15-10-2020T14:13:35,K3IDRAN,Loo
+15-10-2020T14:13:37,K3IDRAN,L
+15-10-2020T14:38:17,NibblyBot,New Patreon Post: Rose Hallway https://www.patreon.com/posts/rose-hallway-42824445
+15-10-2020T14:40:45,Xexanoth,:ptv-shock:
+15-10-2020T14:51:22,Azumachan,2 spooky
+15-10-2020T14:57:52,TerraTheWizard,:ctwokinds-floAAA:
+15-10-2020T14:58:07,CrimsonQuill,"""Yes...Master?"""
+15-10-2020T15:02:14,NibblyBot,New Patreon Post: Submit Sketch Suggestions! https://www.patreon.com/posts/submit-sketch-42828245
+15-10-2020T15:02:36,CrimsonQuill,I think I'll change my one this week. Last one wwas a bit too dark.
+15-10-2020T15:10:27,TheBeginnerArtisst,Hey
+15-10-2020T15:25:26,CrimsonQuill,hi
+15-10-2020T15:37:53,TerraTheWizard,changing the wording of my one because i don't think people are getting my reference
+15-10-2020T15:38:07,CrimsonQuill,Ah okee
+15-10-2020T15:38:36,CrimsonQuill,"I was going to go for a sequel to Halo  Raine, but I think that we're having a mite enough sequels as is."
+15-10-2020T15:38:46,CrimsonQuill,So I'm going for something new ! :D
+15-10-2020T15:39:28,CrimsonQuill,The last suggestion I had (which I'm replacing) was Red having a nightmare of an alternate reality where he had been a little more...deadly...with his sword the night of Zen's attack.
+15-10-2020T15:39:45,CrimsonQuill,"So, rather dark."
+15-10-2020T15:40:01,CrimsonQuill,Now it's something somewhat more light hearted.
+15-10-2020T15:41:22,TerraTheWizard,in other news i drew a meme thing https://twitter.com/TerraTheWizard/status/1317189999071236096
+15-10-2020T15:42:16,CrimsonQuill,Ouchies.
+15-10-2020T15:42:32,CrimsonQuill,:ctwokinds-NataniHAHA:
+15-10-2020T15:53:37,TerraTheWizard,:ctwokinds-RainezZz:
+15-10-2020T15:56:55,AspiringNoodle,"oh no, his dingus and / or squishies"
+15-10-2020T16:04:15,Xexanoth,this is why its important to know your limits
+15-10-2020T16:14:03,AspiringNoodle,[I has no limits!]*:ptv-excited:
+15-10-2020T16:14:07,AspiringNoodle,*crrrrack*
+15-10-2020T16:14:14,AspiringNoodle,[I has found my limits...]*:snake:
+15-10-2020T16:22:05,JojoGD,oof
+15-10-2020T16:29:41,CrimsonQuill,I must sleep
+15-10-2020T16:29:43,CrimsonQuill,Goodnight
+15-10-2020T16:29:52,CrimsonQuill,:ctwokinds-RainezZz::ctwokinds-RainezZz::ctwokinds-RainezZz:
+15-10-2020T16:36:30,JojoGD,night quill
+15-10-2020T16:37:21,K3IDRAN,Night niht quill
+15-10-2020T16:41:17,K3IDRAN,At least. Twokinds & Bloodline has a good community
+15-10-2020T16:50:14,JojoGD,reminds me I have to finish reading bloodline
+15-10-2020T16:50:44,JojoGD,also reread twokinds cause I forgot mostly everthing
+15-10-2020T16:50:49,K3IDRAN,Alright jojojoey
+15-10-2020T16:52:33,JojoGD,i have to change my name too cause i no longer like the name Jojo due to people assuming im a jojo fan
+15-10-2020T16:53:39,K3IDRAN,I feel you bro
+15-10-2020T16:54:13,NinoGD,i changed it
+15-10-2020T16:55:20,K3IDRAN,Gj
+15-10-2020T16:57:52,K3IDRAN,I think the blue silence ismy new fav Knife  on mw
+15-10-2020T16:58:33,K3IDRAN,It kills everything except jugs in one hit
+15-10-2020T17:04:04,K3IDRAN,Plus the name sounds badass Blue Silence
+15-10-2020T17:31:30,AspiringNoodle,stepped foot inside a restaurant  that has full service to grab some takeout
+15-10-2020T17:32:11,AspiringNoodle,"Yeah... you'd have to pay me to eat in a restaurant these days.  Spacing was good, but 2 - 4 people per table without masks on holding conversations, that's just a recipe for an outbreak at some point :snake:"
+15-10-2020T18:27:09,Zakuru,peeks into chat
+15-10-2020T18:30:16,AspiringNoodle,BOOPS. THE. SNOOT.
+15-10-2020T18:30:31,AspiringNoodle,[Howdy.]* @w@
+15-10-2020T18:32:22,K3IDRAN,I do hope a if it's ever gonna come oout a Tk anime that hsas music  that impacts you like Halo did
+15-10-2020T18:35:45,K3IDRAN,Has*
+15-10-2020T18:37:32,TerrifyingBoiofficiall,Oh there’s a stream later today all the crazed fans are here already lol
+15-10-2020T18:37:36,TerrifyingBoiofficiall,Including me
+15-10-2020T18:38:39,K3IDRAN,Yep XD
+15-10-2020T18:38:50,K3IDRAN,Don't forget wOlfmare
+15-10-2020T18:40:50,K3IDRAN,FemMike
+15-10-2020T19:46:31,K3IDRAN,Yeeee
+15-10-2020T19:49:43,K3IDRAN,Tbh if i were in the event where Ember & Flint were fighting i would If  beatennd flint with the chair
+15-10-2020T19:52:12,Zakuru,"are you like, talking to yourself? X3"
+15-10-2020T19:52:34,MarvTheHugPharaoh,:wave::ptv-sleepy:
+15-10-2020T19:52:59,Zakuru,bed time marv? or just sleepy?
+15-10-2020T19:53:23,MarvTheHugPharaoh,For the past week I've been waking up at 5am for work.  So sleepy
+15-10-2020T19:53:36,Zakuru,"oof, thats sucky. *gives tea*"
+15-10-2020T19:53:45,MarvTheHugPharaoh,Thank for tea
+15-10-2020T19:53:55,Zakuru,ya taking daytime naps at least?
+15-10-2020T19:54:05,MarvTheHugPharaoh,Nope
+15-10-2020T19:54:13,Zakuru,D:
+15-10-2020T19:54:20,MarvTheHugPharaoh,"Just toughing it out till I go ""Okay bed time"""
+15-10-2020T19:54:24,Zakuru,sorry to hear ;w;
+15-10-2020T19:55:13,MarvTheHugPharaoh,"It is what it is, but thank you.  Once we find a new guy to fill in the space life for me will go back to normal."
+15-10-2020T19:55:29,Zakuru,hoping for the best bro
+15-10-2020T19:56:00,MarvTheHugPharaoh,<3
+15-10-2020T19:56:24,Zakuru,"=w= need tea myself actually, got some bad sniffles today"
+15-10-2020T19:56:43,MarvTheHugPharaoh,Get that leaf broth \o/
+15-10-2020T19:56:50,Zakuru,haha first time heard that
+15-10-2020T19:57:24,K3IDRAN,Hope you feel better
+15-10-2020T19:57:50,Zakuru,gracias. I bet its just fall allergies just hitting me all at once
+15-10-2020T19:58:12,Ordithus,hi zak hi marv
+15-10-2020T19:58:16,Zakuru,yo ord
+15-10-2020T19:58:18,BadFoMo,Yo.
+15-10-2020T19:58:22,MarvTheHugPharaoh,ORD
+15-10-2020T19:58:42,Ordithus,hi fomo
+15-10-2020T19:59:00,Ordithus,:cw0lfmare-Emberboop: wakey wakey marv
+15-10-2020T19:59:12,MarvTheHugPharaoh,:cmarvthehugpharaoh-7219657933271859:
+15-10-2020T19:59:17,MarvTheHugPharaoh,My nose!!
+15-10-2020T20:00:41,CrRAR,:cw0lfmare-ReniRawr::point_left:
+15-10-2020T20:00:43,FoxxTrotter,[DORKS.]* :cfoxxtrotter-LadyRaynIcon:
+15-10-2020T20:00:51,BadFoMo,Keven?
+15-10-2020T20:00:54,K3IDRAN,I'm tryna get an Original Xbox
+15-10-2020T20:00:57,MarvTheHugPharaoh,"Hi Foxx, CrRARARA:cmarvthehugpharaoh-BalthasarGelt:"
+15-10-2020T20:01:01,Ordithus,o/ crrar foxx
+15-10-2020T20:01:05,K3IDRAN,Hi Foxxy
+15-10-2020T20:01:13,FoxxTrotter,Ey'dere. :cfoxxtrotter-FoxxTrotterIconS:
+15-10-2020T20:01:19,BadFoMo,Yo.
+15-10-2020T20:01:58,BadFoMo,"Also, Sage is late! Post lewd Nyna art!"
+15-10-2020T20:02:09,Ordithus,:csagesaga-nynasmirk:
+15-10-2020T20:02:24,NezumiYuki,"sneaks in like a little skaven, and takes up her usual spot in the rafters above*"
+15-10-2020T20:02:33,K3IDRAN,Does anyone have any Original Xbox recommendations?
+15-10-2020T20:02:59,Twokinds,:ctwokinds-nibsdance:
+15-10-2020T20:03:04,BadFoMo,Hi.
+15-10-2020T20:03:05,NezumiYuki,TOM!
+15-10-2020T20:03:06,K3IDRAN,Toom
+15-10-2020T20:03:07,Snowmanwizard,hello all
+15-10-2020T20:03:08,Zakuru,Good evening Tom =w=
+15-10-2020T20:03:09,Ordithus,:ctwokinds-nibsbounce:
+15-10-2020T20:03:18,MarvTheHugPharaoh,"HI Tom, how's you today?"
+15-10-2020T20:04:46,Ordithus,spooky marv you scared him off
+15-10-2020T20:05:13,MarvTheHugPharaoh,:cmarvthehugpharaoh-gsrgsrgsr: Tis the spooking season
+15-10-2020T20:05:50,RimaDraws,hiiii
+15-10-2020T20:05:54,FoxxTrotter,"Hi, Tom."
+15-10-2020T20:05:54,MarvTheHugPharaoh,Hi Rima
+15-10-2020T20:05:57,CrRAR,helllooo
+15-10-2020T20:05:58,FoxxTrotter,"E'lo, Rima."
+15-10-2020T20:06:01,Ordithus,hi rima
+15-10-2020T20:06:03,RimaDraws,how is all
+15-10-2020T20:06:45,Ordithus,"just finished devouring a pulled pork sammich, so excellent"
+15-10-2020T20:06:48,Ordithus,you?
+15-10-2020T20:06:52,RimaDraws,i got a new job
+15-10-2020T20:06:58,Ordithus,\o/
+15-10-2020T20:07:03,CrRAR,way to go!
+15-10-2020T20:07:09,RimaDraws,i finally had it with my old job quit and got a new one
+15-10-2020T20:07:13,NezumiYuki,"Hey Rima, congrats!"
+15-10-2020T20:07:22,Snowmanwizard,congrats rima
+15-10-2020T20:07:27,RimaDraws,ty guys
+15-10-2020T20:07:30,Ordithus,hope the new one suits ya
+15-10-2020T20:07:33,NezumiYuki,Most welcome :D
+15-10-2020T20:07:38,K3IDRAN,Ja
+15-10-2020T20:07:40,NezumiYuki,Agreed with Ord
+15-10-2020T20:07:41,RimaDraws,i got in with some classmates of mine that work there too
+15-10-2020T20:07:54,NezumiYuki,Oh nice Rima
+15-10-2020T20:08:00,CrRAR,nice
+15-10-2020T20:08:08,CrRAR,employee powah
+15-10-2020T20:08:13,CrRAR,:ptv-dealwithit:
+15-10-2020T20:08:21,RimaDraws,yee and my classmate who works in the offices up at the new job got me in
+15-10-2020T20:08:35,RimaDraws,so i have her to thank
+15-10-2020T20:08:49,NezumiYuki,The powwah of clout ish a good thing
+15-10-2020T20:09:03,RimaDraws,^^
+15-10-2020T20:11:09,NezumiYuki,I smell rice... think late lunch is ready... runs off*
+15-10-2020T20:11:17,RimaDraws,yummy
+15-10-2020T20:17:57,SageSaga,my alarm did not go off
+15-10-2020T20:18:03,Ordithus,Yo!
+15-10-2020T20:18:13,RimaDraws,hi sage!
+15-10-2020T20:18:23,SageSaga,im closing up my game be streaming in a few minutes XD
+15-10-2020T20:18:28,BadFoMo,I hate when that happens.
+15-10-2020T20:18:30,CrRAR,okay
+15-10-2020T20:18:35,Ordithus,:cw0lfmare-Disappoint:
+15-10-2020T20:18:44,BadFoMo,"...Also, hi."
+15-10-2020T20:18:49,RimaDraws,hi fomo
+15-10-2020T20:18:49,InTheLionsDen,:alarm_clock::ctwokinds-sleepoverB:
+15-10-2020T20:18:54,CrRAR,such insolence
+15-10-2020T20:18:55,Zakuru,ring ring ring~
+15-10-2020T20:18:56,CrRAR,:alarm_clock:
+15-10-2020T20:19:24,NezumiYuki,"Hey Sage, how would you feel if you didn't bother to notice the time, AND your alarm still didn't go off?"
+15-10-2020T20:19:34,NezumiYuki,Intense gaming session I take it?  xD
+15-10-2020T20:20:34,BadFoMo,And we're off!
+15-10-2020T20:20:55,CrRAR,:rocket:
+15-10-2020T20:21:03,Ordithus,:csagesaga-bounce:
+15-10-2020T20:21:08,SageSaga,the game was fun- like usual- but i could have sworn i told google to set an alarm for 8:50
+15-10-2020T20:21:13,SageSaga,wait a second
+15-10-2020T20:21:19,BadFoMo,Google?
+15-10-2020T20:21:27,SageSaga,google home
+15-10-2020T20:21:38,NezumiYuki,"LOL AM or PM setting, Sage?   xD"
+15-10-2020T20:21:40,BadFoMo,What is that?
+15-10-2020T20:21:41,AspiringNoodle,"Sage, stahp"
+15-10-2020T20:21:43,SageSaga,=-= i just checked my alarm and it said it was set for am <_<
+15-10-2020T20:21:44,InTheLionsDen,You will get your alarm going off tomorrow morning
+15-10-2020T20:21:47,K3IDRAN,Google had awesome easter eggs
+15-10-2020T20:21:48,AspiringNoodle,I don't wanna think about 20 years in the future
+15-10-2020T20:21:54,CrRAR,haha
+15-10-2020T20:21:56,AspiringNoodle,Google Homes will be a thing and it will be terrible
+15-10-2020T20:22:16,BadFoMo,"Oh, I /hate/ when I make that mistake."
+15-10-2020T20:22:17,NezumiYuki,That's why I've adopted the 24 hour Mil clock... 17:00 is 3:00pm and easier to recognize
+15-10-2020T20:22:30,CrRAR,maybe better to tell it a elapsable time from now on xD
+15-10-2020T20:22:36,K3IDRAN,Red: You were my brother. Trace Legacy i loved you!
+15-10-2020T20:22:39,CrRAR,hey its Tom
+15-10-2020T20:22:40,AspiringNoodle,"woop woop, double strem is a go"
+15-10-2020T20:22:44,FoxxTrotter,1700 hours is actually 5 PM. ;0P
+15-10-2020T20:22:50,InTheLionsDen,Top is up!
+15-10-2020T20:22:54,InTheLionsDen,*Tom
+15-10-2020T20:22:54,Snowmanwizard,:eyes:
+15-10-2020T20:22:58,K3IDRAN,Trace: I HATE YOU!
+15-10-2020T20:23:03,NezumiYuki,Good good somebody caught that!  I am impress!
+15-10-2020T20:23:03,Ordithus,:ctwokinds-KatDance:
+15-10-2020T20:23:10,Zakuru,^w^ yay
+15-10-2020T20:23:10,CrRAR,:ctwokinds-FloDance:
+15-10-2020T20:23:11,NezumiYuki,yes 17:00 is 5pm
+15-10-2020T20:23:17,K3IDRAN,*ends up becoming the human torch
+15-10-2020T20:23:23,FoxxTrotter,It's 5 o'clock somewhere...
+15-10-2020T20:23:24,K3IDRAN,Buttchat
+15-10-2020T20:23:32,NezumiYuki,What?
+15-10-2020T20:23:36,NezumiYuki,Buttchat already?!
+15-10-2020T20:23:36,BovineRen,why does tech cat have a belt there....
+15-10-2020T20:23:38,BovineRen,Lol
+15-10-2020T20:23:47,Ordithus,to keep her pants on of course
+15-10-2020T20:23:58,NezumiYuki,whut?  her pants?
+15-10-2020T20:24:00,HeresyArtStream,mow mow mow:cheresyartstream-harrywave01:
+15-10-2020T20:24:01,NezumiYuki,I umm....
+15-10-2020T20:24:04,CrRAR,:ccrrar-pants2:
+15-10-2020T20:24:05,Ordithus,hi heresy
+15-10-2020T20:24:12,BovineRen,its to keep the pants away
+15-10-2020T20:24:12,NezumiYuki,I dunt see any pants...  xD
+15-10-2020T20:24:13,FoxxTrotter,"E'lo, Heresy."
+15-10-2020T20:24:15,NezumiYuki,Hey Harry!
+15-10-2020T20:24:27,BadFoMo,Don't her legs ever get cold when she's wearing a shirt?
+15-10-2020T20:24:31,BovineRen,belt is just pantaloon repellent
+15-10-2020T20:24:33,CrRAR,:musical_keyboard::ctwokinds-reniderp_flip:
+15-10-2020T20:24:39,K3IDRAN,The 2nd grear pants war
+15-10-2020T20:24:43,Ordithus,:eyes:
+15-10-2020T20:24:45,CrRAR,hooo dannng
+15-10-2020T20:24:45,Ordithus,woah
+15-10-2020T20:24:48,NezumiYuki,Whoa!   Nice one tom!
+15-10-2020T20:24:53,K3IDRAN,Ikr
+15-10-2020T20:24:53,BadFoMo,That looks cool!
+15-10-2020T20:24:55,NezumiYuki,West Basitin I take it?
+15-10-2020T20:24:58,AspiringNoodle,oooooooooooo
+15-10-2020T20:25:04,unsteddyphoenix,ooooh hello
+15-10-2020T20:25:06,RimaDraws,looking good
+15-10-2020T20:25:12,Ordithus,hi teddy!
+15-10-2020T20:25:17,NezumiYuki,Heya Ted
+15-10-2020T20:25:23,CrRAR,:island::ptv-excited:
+15-10-2020T20:25:23,unsteddyphoenix,o/
+15-10-2020T20:25:26,FoxxTrotter,:crab:
+15-10-2020T20:25:35,FoxxTrotter,"Hi, Unsteddy."
+15-10-2020T20:25:37,Twokinds,:ctwokinds-nibsbounce:
+15-10-2020T20:25:37,BadFoMo,There's the crab again!
+15-10-2020T20:25:42,NezumiYuki,Honda Crab:  I PINCH!
+15-10-2020T20:25:48,FoxxTrotter,I PEENCH.
+15-10-2020T20:25:50,RimaDraws,hi tom
+15-10-2020T20:25:56,AspiringNoodle,Roberto best character
+15-10-2020T20:25:57,NezumiYuki,Maybe little pinch?
+15-10-2020T20:25:58,Twokinds,Hello!
+15-10-2020T20:26:01,Twokinds,Welcome
+15-10-2020T20:26:02,InTheLionsDen,Beautiful scene.
+15-10-2020T20:26:03,unsteddyphoenix,Thats really nice! You should show kame later too
+15-10-2020T20:26:11,BadFoMo,And a suqrril!
+15-10-2020T20:26:17,CrRAR,oh a nibbly up dere
+15-10-2020T20:26:18,RimaDraws,this is beautiful tom
+15-10-2020T20:26:24,BlackjackSec99,o7
+15-10-2020T20:26:26,K3IDRAN,Tom question what's your fav Star wars prequal film?
+15-10-2020T20:26:26,CrRAR,:ctwokinds-nibsbounce:
+15-10-2020T20:26:30,unsteddyphoenix,Oh yeah a cheeky lil' nibbly
+15-10-2020T20:26:31,Ordithus,hi blackjack
+15-10-2020T20:26:36,Twokinds,I dunno
+15-10-2020T20:26:45,BadFoMo,Inb4 Tom: The good one.
+15-10-2020T20:26:50,K3IDRAN,Mines Episode 3
+15-10-2020T20:27:01,Ordithus,"the downed tree is how they were trying to ""send"" carver ""home"""
+15-10-2020T20:27:07,CrRAR,lol
+15-10-2020T20:27:13,CrRAR,Makeshift trebuchet
+15-10-2020T20:27:19,Zakuru,whooooaaa wth is this <3 <3 <3
+15-10-2020T20:27:27,FoxxTrotter,Art.
+15-10-2020T20:27:48,AspiringNoodle,There's an emote that's the perfect response
+15-10-2020T20:27:50,BlackjackSec99,I spy a Roberto
+15-10-2020T20:27:54,AspiringNoodle,I can't remember who has it tho ;-;
+15-10-2020T20:28:16,BadFoMo,Neon?
+15-10-2020T20:28:20,TraceLegacyXI,What’s happening here??
+15-10-2020T20:28:28,K3IDRAN,Art
+15-10-2020T20:28:31,ThePurpleKitty,hello
+15-10-2020T20:28:35,AspiringNoodle,ART!
+15-10-2020T20:28:37,K3IDRAN,Hi iitt
+15-10-2020T20:28:38,TraceLegacyXI,Howdy everybody
+15-10-2020T20:28:40,Twokinds,You guys wanna see something cool?
+15-10-2020T20:28:44,TraceLegacyXI,Yes
+15-10-2020T20:28:44,K3IDRAN,Ye
+15-10-2020T20:28:45,BadFoMo,Sure.
+15-10-2020T20:28:46,AspiringNoodle,yes
+15-10-2020T20:28:46,Ordithus,Maybe
+15-10-2020T20:28:46,Zakuru,yes yes!
+15-10-2020T20:28:47,RimaDraws,yes please
+15-10-2020T20:28:52,w0lfmare,:eyes:
+15-10-2020T20:28:57,CrRAR,this is already pretty cool
+15-10-2020T20:29:02,TraceLegacyXI,^
+15-10-2020T20:29:02,CrRAR,but yes :eyes:
+15-10-2020T20:29:03,ThePurpleKitty,also hey tom
+15-10-2020T20:29:04,Ordithus,:cw0lfmare-Emberdemon: hey w0lf
+15-10-2020T20:29:04,CrimsonHelsing,Do it!
+15-10-2020T20:29:05,BadFoMo,"Wait, this is a trick, isn't it?"
+15-10-2020T20:29:09,Pwatcher67,hi all
+15-10-2020T20:29:13,BadFoMo,Yo.
+15-10-2020T20:29:15,FoxxTrotter,"E'lo, again, w0lf."
+15-10-2020T20:29:17,TraceLegacyXI,Dew it Tom
+15-10-2020T20:29:24,Twokinds,hm
+15-10-2020T20:29:24,FoxxTrotter,"Hi, Pwatcher."
+15-10-2020T20:29:28,Twokinds,Hello!
+15-10-2020T20:29:30,Twokinds,Hi W0lf!
+15-10-2020T20:29:41,w0lfmare,Hi!
+15-10-2020T20:29:45,RimaDraws,w0lfie!
+15-10-2020T20:29:48,BlackjackSec99,"""do you want to see something cool""  -Tom      YEEESSSSSS!!!!!!! - the fans"
+15-10-2020T20:29:49,TraceLegacyXI,Hey wolf
+15-10-2020T20:29:51,K3IDRAN,Questions wOlf what's your  fav tps game?
+15-10-2020T20:29:57,ThePurpleKitty,omg! thank you windows mail! never would have guessed tom was streaming on picarto :D
+15-10-2020T20:30:02,BadFoMo,TPS?
+15-10-2020T20:30:04,CrRAR,ohhhhhhhhhhhhh
+15-10-2020T20:30:04,BlackjackSec99,O.O
+15-10-2020T20:30:04,Zakuru,BRO
+15-10-2020T20:30:05,unsteddyphoenix,Yooo what
+15-10-2020T20:30:05,Ordithus,whaaaat
+15-10-2020T20:30:05,TiloKitsu23,WOAH
+15-10-2020T20:30:09,TraceLegacyXI,Third person shooter
+15-10-2020T20:30:12,CrRAR,360 broooo
+15-10-2020T20:30:13,BlackjackSec99,omg dude WHAT
+15-10-2020T20:30:13,BadFoMo,WTF?!
+15-10-2020T20:30:15,Zakuru,how the hell!!!!
+15-10-2020T20:30:16,Ordithus,:cw0lfmare-Echolove:
+15-10-2020T20:30:16,CrRAR,36000000
+15-10-2020T20:30:19,Zakuru,duuuuuuuuuuuuude
+15-10-2020T20:30:20,SamuelLeumas,What the
+15-10-2020T20:30:21,TiloKitsu23,Imagine 360 omics
+15-10-2020T20:30:23,unsteddyphoenix,Holy shit that IS cool
+15-10-2020T20:30:25,CrRAR,we in da VRRR
+15-10-2020T20:30:25,BadFoMo,How?!
+15-10-2020T20:30:26,TiloKitsu23,*comics
+15-10-2020T20:30:27,TraceLegacyXI,Wtf
+15-10-2020T20:30:27,AspiringNoodle,WHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAT?!?
+15-10-2020T20:30:28,w0lfmare,Woah!
+15-10-2020T20:30:31,NezumiYuki,"Stitched together panorama, hmm Tom?   Very nice! <3"
+15-10-2020T20:30:31,eric190,heyo
+15-10-2020T20:30:33,unsteddyphoenix,ACTUALLY the future
+15-10-2020T20:30:34,BlackjackSec99,thats insane man!
+15-10-2020T20:30:34,MarvTheHugPharaoh,"Tom, you need to calm down"
+15-10-2020T20:30:34,CrRAR,Skyboxxxx
+15-10-2020T20:30:35,RimaDraws,NO WAY
+15-10-2020T20:30:36,AspiringNoodle,My mind is blowing
+15-10-2020T20:30:36,Scep,Holy Cow
+15-10-2020T20:30:38,RimaDraws,this is awesome!
+15-10-2020T20:30:39,Snowmanwizard,wow
+15-10-2020T20:30:43,w0lfmare,What the heck Tom XD
+15-10-2020T20:30:43,K3IDRAN,Broo
+15-10-2020T20:30:44,TraceLegacyXI,My god this is amazing
+15-10-2020T20:30:45,BluePhantom90,lol NICE
+15-10-2020T20:30:46,Ordithus,:ctwokinds-rainehappy:*[Magic!]
+15-10-2020T20:30:47,CrimsonHelsing,No - freaking - way!
+15-10-2020T20:30:47,CrRAR,beeeg mountainn
+15-10-2020T20:30:52,unsteddyphoenix,Wait how????
+15-10-2020T20:30:56,BlackjackSec99,hooooly crap how long did that take you to do???????
+15-10-2020T20:30:57,AspiringNoodle,O_O
+15-10-2020T20:30:58,CrimsonHelsing,"Count me in for this, Tom!"
+15-10-2020T20:31:00,w0lfmare,Give me this power
+15-10-2020T20:31:01,unsteddyphoenix,You need to explain this
+15-10-2020T20:31:01,CrRAR,bird
+15-10-2020T20:31:05,Zakuru,:ptv-excited::ptv-excited::ptv-excited:
+15-10-2020T20:31:05,BlackjackSec99,BIRB
+15-10-2020T20:31:06,CrRAR,food birb
+15-10-2020T20:31:12,AspiringNoodle,BIRB STEAL SAMMICH
+15-10-2020T20:31:13,unsteddyphoenix,Ohhh the zoom
+15-10-2020T20:31:13,BlackjackSec99,skyrim!
+15-10-2020T20:31:14,AspiringNoodle,STOP BIRB
+15-10-2020T20:31:15,K3IDRAN,@wOlfmare same
+15-10-2020T20:31:20,TraceLegacyXI,Is it possible to learn this power?
+15-10-2020T20:31:22,Werewing,Ooh. A bird Keidrian?
+15-10-2020T20:31:26,FoxxTrotter,:cfoxxtrotter-Vulture:
+15-10-2020T20:31:29,Ordithus,this is really cool
+15-10-2020T20:31:32,BadFoMo,Who's backpack was that?
+15-10-2020T20:31:34,unsteddyphoenix,Wizardry
+15-10-2020T20:31:36,BluJax,Very nice
+15-10-2020T20:31:40,CrRAR,treasueeee
+15-10-2020T20:31:41,Mediawatcher,How were you able to draw that?
+15-10-2020T20:31:49,Mediawatcher,This is amazing
+15-10-2020T20:31:49,unsteddyphoenix,Wait she didnt notice the treasure
+15-10-2020T20:31:56,BluePhantom90,Was  that a chocobo Tom
+15-10-2020T20:32:00,Werewing,"Ooh, a panarama!"
+15-10-2020T20:32:16,CrimsonHelsing,Panorama
+15-10-2020T20:32:17,K3IDRAN,Me want. Mark 5 in Infinite
+15-10-2020T20:32:18,ThePurpleKitty,"@Mediawatcher, very carefully"
+15-10-2020T20:32:19,BluePhantom90,Went all out on this man
+15-10-2020T20:32:20,AspiringNoodle,This clearly Basitin black magic
+15-10-2020T20:32:23,TraceLegacyXI,VR Twokinds?
+15-10-2020T20:32:25,TraceLegacyXI,Finally
+15-10-2020T20:32:28,NezumiYuki,Tom STOP teasing us with this newfangled technology!  You're spoiling us!  We'll demand more of this in the future!  <3
+15-10-2020T20:32:33,ElvenHunter84,Can I vote for this to be colored?
+15-10-2020T20:32:36,CrRAR,dangggg
+15-10-2020T20:32:37,BlackjackSec99,^
+15-10-2020T20:32:39,BlackjackSec99,^^
+15-10-2020T20:32:40,CrRAR,big danggggg
+15-10-2020T20:32:40,ElvenHunter84,It'll get all of my votes
+15-10-2020T20:32:41,K3IDRAN,VR twokinds is a thkng
+15-10-2020T20:32:41,BlackjackSec99,^^^^
+15-10-2020T20:32:41,Mediawatcher,This needs to be colored!
+15-10-2020T20:32:43,AspiringNoodle,"Um... Tom might die if we did that, haha"
+15-10-2020T20:32:45,BadFoMo,This is awsome! But how will it be posted?
+15-10-2020T20:32:50,BovineRen,Tom gonna create a VR game with twokinds
+15-10-2020T20:32:51,w0lfmare,Now go talk to the npcs
+15-10-2020T20:32:53,RimaDraws,wow this is beautiful
+15-10-2020T20:32:59,TraceLegacyXI,I agree wolf
+15-10-2020T20:32:59,BovineRen,and then you'll never escape to reality
+15-10-2020T20:33:04,Twokinds,This took a long time XD
+15-10-2020T20:33:05,Ordithus,flirt with the npcs
+15-10-2020T20:33:07,BlackjackSec99,thats aweseome!
+15-10-2020T20:33:08,CrimsonHelsing,This is incredible
+15-10-2020T20:33:12,SageSaga,tom go around again plz
+15-10-2020T20:33:13,Zakuru,When did you start?
+15-10-2020T20:33:15,FoxxTrotter,:cfoxxtrotter-RverieIconNight:
+15-10-2020T20:33:16,CrRAR,Now we know why the tree is like it be
+15-10-2020T20:33:16,w0lfmare,No flirting!
+15-10-2020T20:33:18,BovineRen,seriously this is cool though
+15-10-2020T20:33:20,CrimsonHelsing,Can I download this thing plz?
+15-10-2020T20:33:20,unsteddyphoenix,Mindblown
+15-10-2020T20:33:22,TraceLegacyXI,It’s amazing tommy boi
+15-10-2020T20:33:22,BlackjackSec99,"Tom, how..... thats insane"
+15-10-2020T20:33:23,CrRAR,"Tree: ""big OOF"""
+15-10-2020T20:33:24,Werewing,"I assume the same way news sites did, or Youtube, FoMo."
+15-10-2020T20:33:27,Mediawatcher,How long did this take to make?
+15-10-2020T20:33:27,K3IDRAN,Romance with the npcs
+15-10-2020T20:33:29,unsteddyphoenix,What software did you make this on?
+15-10-2020T20:33:33,HiddenWorlds,Holy crap tom
+15-10-2020T20:33:36,MarvTheHugPharaoh,ROBERTO!!!
+15-10-2020T20:33:41,InTheLionsDen,It came out great. Looks awesome.
+15-10-2020T20:33:47,TraceLegacyXI,ROBERTOOOOO
+15-10-2020T20:33:49,ElvenHunter84,This would make a sick poster
+15-10-2020T20:33:53,BadFoMo,I'm not surprised this took a long time to make!
+15-10-2020T20:33:59,BovineRen,wot
+15-10-2020T20:34:01,HiddenWorlds,I would love to set that as my VR background
+15-10-2020T20:34:06,BovineRen,i didn't think it was full 360
+15-10-2020T20:34:09,ThePurpleKitty,"i mean, its technicaly how video games are drawn from a concept point. obviously its rendereded in and a computer figures out the scaling and placement to smooth things out, but has to be drawn in panoramic at some point"
+15-10-2020T20:34:09,Twokinds,This was done purely in Photoshop
+15-10-2020T20:34:15,Mediawatcher,Nice job
+15-10-2020T20:34:15,K3IDRAN,Yee
+15-10-2020T20:34:15,TraceLegacyXI,Dang
+15-10-2020T20:34:16,ThePurpleKitty,still amazing tho
+15-10-2020T20:34:16,BadFoMo,How?!
+15-10-2020T20:34:18,steelabjur,Ooooh!
+15-10-2020T20:34:19,BovineRen,Holy crap
+15-10-2020T20:34:22,AspiringNoodle,...Photoshop suddenly justifying the sub cost...
+15-10-2020T20:34:23,BluePhantom90,is this before that fox boy appears and the girls have their spears pointed at him
+15-10-2020T20:34:26,Ordithus,360 images!
+15-10-2020T20:34:31,TraceLegacyXI,Still ROBERTOOOOO
+15-10-2020T20:34:39,w0lfmare,Wat
+15-10-2020T20:34:40,unsteddyphoenix,Thats...crazy
+15-10-2020T20:34:42,NezumiYuki,Tom!
+15-10-2020T20:34:43,HiddenWorlds,That is amazingly epic
+15-10-2020T20:34:46,w0lfmare,All in photoshop?
+15-10-2020T20:34:49,NezumiYuki,Do a 720 NO SCOPE!
+15-10-2020T20:34:51,Twokinds,Yeah
+15-10-2020T20:34:54,Zakuru,"My mind is blown Tom, you've really out done yourself!"
+15-10-2020T20:35:02,AspiringNoodle,I have a sudden urge to give adobe all my money
+15-10-2020T20:35:04,K3IDRAN,Yes wOlf all in photoshop
+15-10-2020T20:35:04,AspiringNoodle,Hmmm....
+15-10-2020T20:35:05,RimaDraws,omg...i want this lol <3
+15-10-2020T20:35:08,Ordithus,this is probably used more for photography
+15-10-2020T20:35:08,Twokinds,It's a 20k image so it took forever
+15-10-2020T20:35:09,BadFoMo,...Not that I could do it or understand what you were talking about.
+15-10-2020T20:35:11,TraceLegacyXI,3D model of Legacy Estate next
+15-10-2020T20:35:11,steelabjur,Who's that getting into the picnic basket?
+15-10-2020T20:35:12,Ordithus,but this is cool
+15-10-2020T20:35:13,AspiringNoodle,O_O
+15-10-2020T20:35:15,Werewing,"Oh, and it even has perspective details!"
+15-10-2020T20:35:15,BlackjackSec99,20K?!?!?!?!?!?!?!
+15-10-2020T20:35:16,AspiringNoodle,dats a lot of pixels
+15-10-2020T20:35:17,Twokinds,20000 x 10000 px
+15-10-2020T20:35:23,K3IDRAN,I sanna do this on Reach
+15-10-2020T20:35:26,BlackjackSec99,dear gods......
+15-10-2020T20:35:26,ThePurpleKitty,"@Ortdithus it made me think of a new concept of looking up art for vr honestly. think of something like e621, but for vr and in 360 :D"
+15-10-2020T20:35:29,Ordithus,:fire::computer::fire:
+15-10-2020T20:35:34,BadFoMo,Holy ****!
+15-10-2020T20:35:35,Mediawatcher,This is probably the hardest art you’ve ever made huh tom
+15-10-2020T20:35:35,ThePurpleKitty,@Ordithus
+15-10-2020T20:35:36,totallynotTrace,"just got on and i must say, thats a masterpiece, Tom"
+15-10-2020T20:35:45,AspiringNoodle,"So... 200,000,000 pixels total"
+15-10-2020T20:35:47,CrimsonHelsing,It is brilliant
+15-10-2020T20:35:49,HiddenWorlds,I want to set this as my Quest Home
+15-10-2020T20:35:49,SamuelLeumas,@TraceLegacyXI We need schematics! Then someone can make it
+15-10-2020T20:35:52,AspiringNoodle,Sweet Lady Nora...
+15-10-2020T20:36:03,Twokinds,It really makes photoshop chug trying to paint in 3d at this res
+15-10-2020T20:36:05,CrRAR,so many pretty moments all in one
+15-10-2020T20:36:06,TraceLegacyXI,Yes Samuel yes
+15-10-2020T20:36:13,Twokinds,"So I had to go back and forth, painting in 2d and then seeing how it looked in 3d"
+15-10-2020T20:36:15,BluePhantom90,"Should have had Nora at the side saying ""Look around"""
+15-10-2020T20:36:18,BlackjackSec99,I cant imagine why..... lol
+15-10-2020T20:36:19,SamuelLeumas,"But as everyone said, incredibly impressive, Tom"
+15-10-2020T20:36:32,AspiringNoodle,Someone buy Tom a supercomputer
+15-10-2020T20:36:34,CrRAR,crazy good perspective warping
+15-10-2020T20:36:35,AspiringNoodle,Remove all limitations
+15-10-2020T20:36:41,SageSaga,awesome work man
+15-10-2020T20:36:43,Ordithus,:ctwokinds-KeithNeat:
+15-10-2020T20:36:48,BlackjackSec99,so incredibly glad I logged in when i did
+15-10-2020T20:36:49,TraceLegacyXI,Get this man a supercomputer
+15-10-2020T20:36:52,SamuelLeumas,Someone get Tom a 3080
+15-10-2020T20:36:53,BlackjackSec99,^
+15-10-2020T20:36:55,TraceLegacyXI,And an award or yhree
+15-10-2020T20:36:57,unsteddyphoenix,How do the girls like...face the camera....what??
+15-10-2020T20:37:03,Twokinds,In the final person I'll probably have Nora in the sky somewhere
+15-10-2020T20:37:05,BadFoMo,...Can you post the 6 pic?
+15-10-2020T20:37:05,unsteddyphoenix,How does this work
+15-10-2020T20:37:13,BovineRen,get tom nasa's space computer
+15-10-2020T20:37:16,HiddenWorlds,"Words cannot describe how epic that is, Tom."
+15-10-2020T20:37:20,BadFoMo,*pics
+15-10-2020T20:37:32,TraceLegacyXI,Make Nora a giant cloud
+15-10-2020T20:37:36,Twokinds,You're looking at the inside of a 3d sphere
+15-10-2020T20:37:37,ThePurpleKitty,"but seriously, think about this kind of art on a website that is vr compatable"
+15-10-2020T20:37:42,K3IDRAN,Nasa called they want their super computer back
+15-10-2020T20:37:44,ThePurpleKitty,this is the future :D
+15-10-2020T20:37:47,ElvenHunter84,Was this just for fun or will this be merch?
+15-10-2020T20:37:47,CrRAR,tree summarizes how we all feel: floored
+15-10-2020T20:37:52,Twokinds,The scene is projected so it wraps around the viewer
+15-10-2020T20:37:54,FoxxTrotter,Sphere. :cfoxxtrotter-Escher:
+15-10-2020T20:37:55,BadFoMo,A /Sphere/?!
+15-10-2020T20:37:59,AspiringNoodle,"If Tom keeps spinning this image around, Ima get dizzy from the pure awesome"
+15-10-2020T20:38:00,TraceLegacyXI,Ball
+15-10-2020T20:38:01,SageSaga,"the crazy part is you can almost stop anywhere and people would be like ""Cool drawing"" and then you move it and people are like WHATS GOING ON?!"
+15-10-2020T20:38:02,CrRAR,Died and went to West Baitania
+15-10-2020T20:38:12,HiddenWorlds,Exactly Sage
+15-10-2020T20:38:13,Ordithus,Just like how the stars are painted on a really big sphere!
+15-10-2020T20:38:14,unsteddyphoenix,In reality all the foreground entities are curved?
+15-10-2020T20:38:16,SpazztasticKiwi,you could make a prank alternate version with a scary behind the viewer to see when they turn their phone
+15-10-2020T20:38:25,steelabjur,That's crazy. I cooked dinner and did the laundry. That's my big project. :p
+15-10-2020T20:38:26,BlackjackSec99,^^^^^^
+15-10-2020T20:38:32,SpazztasticKiwi,if you can post it in 360 view
+15-10-2020T20:38:33,BlackjackSec99,what spazz said!
+15-10-2020T20:38:36,BlackjackSec99,agrred
+15-10-2020T20:38:39,BlackjackSec99,agreed
+15-10-2020T20:38:40,TraceLegacyXI,Yes
+15-10-2020T20:38:42,InTheLionsDen,No feet for the viewer?
+15-10-2020T20:38:43,Werewing,So the PoV character is a Basitan?
+15-10-2020T20:38:44,CrRAR,lol spazz
+15-10-2020T20:38:49,HiddenWorlds,"Spazz, he can if he finds the correct webtool"
+15-10-2020T20:38:51,AspiringNoodle,beans :eyes:
+15-10-2020T20:38:55,Zakuru,"Nah, pov is Carver XD"
+15-10-2020T20:38:56,ThePurpleKitty,thats why i'm saying it would work so well with vr
+15-10-2020T20:38:59,Twokinds,"Unfortunately, neither Patreon nor Deviantart supports panoramas"
+15-10-2020T20:39:04,TraceLegacyXI,Nooooo
+15-10-2020T20:39:05,BlackjackSec99,:(
+15-10-2020T20:39:11,Twokinds,The only art site I know of that does is Artstation
+15-10-2020T20:39:12,CrRAR,"lucky unlucky boi, zakuru"
+15-10-2020T20:39:17,AspiringNoodle,D I S A P P O I N T M E N T
+15-10-2020T20:39:17,BadFoMo,Oh! Can we look down a see our legs?!
+15-10-2020T20:39:21,Werewing,Couldn't you post it to your personal website?
+15-10-2020T20:39:29,Twokinds,No legs
+15-10-2020T20:39:31,TraceLegacyXI,There’s a personal website?
+15-10-2020T20:39:32,Ordithus,"It needs something to display it, were"
+15-10-2020T20:39:33,CrRAR,:ctwokinds-nataniAAAAshake:
+15-10-2020T20:39:34,CrRAR,:ctwokinds-zenshocked:
+15-10-2020T20:39:41,CrRAR,we're Zen confirm't
+15-10-2020T20:39:46,Ordithus,lol
+15-10-2020T20:39:46,Twokinds,I could put it onto my own website with javascript
+15-10-2020T20:39:47,CrRAR,somehow
+15-10-2020T20:39:48,K3IDRAN,I wanna photoshop my spartan on tk animations
+15-10-2020T20:39:48,unsteddyphoenix,lmao
+15-10-2020T20:39:48,steelabjur,"Ah, so Zen view?"
+15-10-2020T20:39:48,BlackjackSec99,Sprite Cam
+15-10-2020T20:40:05,BluePhantom90,Warp speed
+15-10-2020T20:40:05,BlackjackSec99,omg it zooms!
+15-10-2020T20:40:07,CrRAR,beeeg zoom
+15-10-2020T20:40:08,Twokinds,Quake fov
+15-10-2020T20:40:13,BlackjackSec99,lol
+15-10-2020T20:40:16,TraceLegacyXI,Lmao
+15-10-2020T20:40:17,CrRAR,:fish:
+15-10-2020T20:40:18,Ordithus,:ptv-grossedout:
+15-10-2020T20:40:19,HiddenWorlds,Every FPS
+15-10-2020T20:40:19,unsteddyphoenix,It zooms out too
+15-10-2020T20:40:24,CrRAR,Feeesh-ovision
+15-10-2020T20:40:29,totallynotTrace,that fallen tree must feel like toms hand. ded
+15-10-2020T20:40:30,unsteddyphoenix,fisheye
+15-10-2020T20:40:47,CrRAR,feeeesh sees ALLLLL
+15-10-2020T20:40:48,TraceLegacyXI,Inverted
+15-10-2020T20:40:56,NezumiYuki,Extreme FEEH eye
+15-10-2020T20:40:58,BluePhantom90,I admit I would love to see the sections you did Tom. But yeah this looks amazing.
+15-10-2020T20:40:58,BadFoMo,"Haha I yeah, legs would have been a little too much (they wouldn't move with the camera)."
+15-10-2020T20:40:59,SpazztasticKiwi,fb has 360 capabilities and ig might too
+15-10-2020T20:41:01,BlackjackSec99,nibbly!
+15-10-2020T20:41:01,NezumiYuki,FEESH rather
+15-10-2020T20:41:05,steelabjur,Nibs!
+15-10-2020T20:41:06,HiddenWorlds,lol
+15-10-2020T20:41:09,NezumiYuki,NIBS!!!!!!!!!!!!
+15-10-2020T20:41:10,TraceLegacyXI,B E N D Y   S I G H T
+15-10-2020T20:41:12,Ordithus,:ctwokinds-nibsbounce:
+15-10-2020T20:41:14,CrRAR,:ctwokinds-nibsbounce:
+15-10-2020T20:41:16,Werewing,"Ah, a hidden nibbley. The new hidden mickey."
+15-10-2020T20:41:18,Mediawatcher,Hey nibbly
+15-10-2020T20:41:22,K3IDRAN,K anime us possible
+15-10-2020T20:41:22,BlackjackSec99,:ctwokinds-nibsbounce:
+15-10-2020T20:41:26,SpazztasticKiwi,the new where’s Waldo
+15-10-2020T20:41:26,TraceLegacyXI,Nibs!!
+15-10-2020T20:41:29,K3IDRAN,Tk
+15-10-2020T20:41:34,Twokinds,I'll probably hide a bunch of stuff in the final version
+15-10-2020T20:41:39,InTheLionsDen,:ctwokinds-nibsbounce:
+15-10-2020T20:41:43,Mediawatcher,Can’t wait for the final version tom!
+15-10-2020T20:41:44,TraceLegacyXI,There Twokinds of Waldos in this world
+15-10-2020T20:41:44,unsteddyphoenix,Final? Are you actually colouring this?
+15-10-2020T20:41:45,Twokinds,"And yeah, this was just done for fun."
+15-10-2020T20:41:48,BlackjackSec99,easter egg hunt!! YUSSSS
+15-10-2020T20:41:51,Twokinds,Oh yeah
+15-10-2020T20:41:51,BadFoMo,@Werewing Tom slipped us a Nibble?
+15-10-2020T20:41:54,Twokinds,I plan to paint this
+15-10-2020T20:41:54,ElvenHunter84,It was to push your limits
+15-10-2020T20:41:56,SpazztasticKiwi,another alternate to post: play “where’s/find Nibbly” but remove Nibbly & watch the panic
+15-10-2020T20:41:59,ElvenHunter84,to go even further beyond
+15-10-2020T20:42:03,unsteddyphoenix,Youre a lunatic and I support you 100%
+15-10-2020T20:42:05,BluePhantom90,"pulling a Disney land ""Find the hidden Mikey"""
+15-10-2020T20:42:07,CrRAR,Nibbly travels far and wide to see all the Basitins the panorama hides~
+15-10-2020T20:42:07,Twokinds,It'll take forever I'm sure
+15-10-2020T20:42:12,Mediawatcher,You are crazy tom!
+15-10-2020T20:42:13,BadFoMo,@Twokinds You're a MadMan!
+15-10-2020T20:42:19,TraceLegacyXI,"The way I see it, there are Twokinds of waldos in this world"
+15-10-2020T20:42:19,totallynotTrace,Done for fun? absolute madlad over here
+15-10-2020T20:42:21,CrRAR,yeah best not think bout dat rn xD
+15-10-2020T20:42:28,Werewing,"A fun experiment, I support this, TwoKinds."
+15-10-2020T20:42:36,HiddenWorlds,I can definitely see if I can try to port this to VR.
+15-10-2020T20:42:42,BadFoMo,...Can we get the sketch version too?
+15-10-2020T20:42:44,ElvenHunter84,defnitely one of the best things you've ever drawn
+15-10-2020T20:42:46,TraceLegacyXI,I think tom’s hand is just gonna detach after he finishes painting this bad boy
+15-10-2020T20:42:47,SageSaga,does anyone else hate Pinterest?
+15-10-2020T20:42:52,SamuelLeumas,Yes
+15-10-2020T20:42:54,BluePhantom90,kinda
+15-10-2020T20:42:55,HiddenWorlds,I never really used it
+15-10-2020T20:42:56,unsteddyphoenix,Ooh me
+15-10-2020T20:42:58,BluePhantom90,yes
+15-10-2020T20:43:00,TraceLegacyXI,Yws
+15-10-2020T20:43:00,BlackjackSec99,yes
+15-10-2020T20:43:01,RimaDraws,me
+15-10-2020T20:43:04,Werewing,"With a blinding passion, since the posts generally lack information, yes."
+15-10-2020T20:43:08,Ordithus,:eyes:
+15-10-2020T20:43:08,TraceLegacyXI,It annoys me
+15-10-2020T20:43:09,BluePhantom90,Oh wow
+15-10-2020T20:43:09,Twokinds,Here's was the art looks like flat
+15-10-2020T20:43:18,TraceLegacyXI,Still pretty
+15-10-2020T20:43:21,BadFoMo,Cool!
+15-10-2020T20:43:23,HiddenWorlds,I like
+15-10-2020T20:43:28,unsteddyphoenix,Can we look at it 3D but flat?
+15-10-2020T20:43:28,BlackjackSec99,flat?!?!?!! :ctwokinds-flomad:
+15-10-2020T20:43:29,CrRAR,so much stuuuuuufffff
+15-10-2020T20:43:32,Mediawatcher,Looks good flat and 3d
+15-10-2020T20:43:33,steelabjur,"Me: reads a book for fun, Tom: creates a whole ass village scene in 3D for fun. WTH am I doing with my life? :p"
+15-10-2020T20:43:35,CrRAR,lol blackjack
+15-10-2020T20:43:35,AspiringNoodle,amazing
+15-10-2020T20:43:38,SamuelLeumas,Take that and slap it into unity
+15-10-2020T20:43:41,BadFoMo,@SageSaga What's wrong with Pinterest?
+15-10-2020T20:43:44,Twokinds,The photoshop file is 1GB XD And it's just a 1 layer sketch
+15-10-2020T20:43:50,totallynotTrace,lol it no longer looks like she is looking to see. rather to the vilage. thats perspective for ya
+15-10-2020T20:43:51,CrRAR,D E N S E
+15-10-2020T20:43:53,SamuelLeumas,Yikes
+15-10-2020T20:43:54,BlackjackSec99,!!!!!!
+15-10-2020T20:43:55,unsteddyphoenix,With colour layers...rip
+15-10-2020T20:43:59,CrRAR,:ptv-ohmy:
+15-10-2020T20:44:01,AspiringNoodle,1 layer?  Kame would be proud
+15-10-2020T20:44:12,SamuelLeumas,RIP VRAM when it gets coloured
+15-10-2020T20:44:12,w0lfmare,Neat!
+15-10-2020T20:44:14,Ordithus,Paint it like Kame so it doesn't grow
+15-10-2020T20:44:15,K3IDRAN,@Twokindd  mike's Transformation in vr
+15-10-2020T20:44:17,CrRAR,"Fun fact about fallen palm trees: some can survive and bend 90 degrees and slowly grow back ""upward""."
+15-10-2020T20:44:17,TraceLegacyXI,Tom: *slaps roof of picture* this bad boy can fit so many Nibbly’s in it
+15-10-2020T20:44:27,SageSaga,"pinterest is trash - that and i went to look for a reference and i found one and its a picture of Laura from Twokinds under the tag ""Animal Drawings"""
+15-10-2020T20:44:40,CrRAR,The little palm tree that could
+15-10-2020T20:44:41,Ordithus,rude
+15-10-2020T20:44:41,NezumiYuki,"If tom outputs this image with some html5, our browsers could view this in 3D panorama too. but that'd be extra work on Tom... Not sure if he'd wanna do that."
+15-10-2020T20:44:50,NezumiYuki,Would make for an interesting project though!
+15-10-2020T20:44:51,unsteddyphoenix,I guess Laura is trash confirmed by Sage
+15-10-2020T20:44:55,unsteddyphoenix,Poor thing
+15-10-2020T20:45:00,HiddenWorlds,I'm sure there's plenty of us that would be willing
+15-10-2020T20:45:01,NinoGD,oof
+15-10-2020T20:45:02,Ordithus,even more rude
+15-10-2020T20:45:18,BadFoMo,Well... Keidran are /sort of/ animals.
+15-10-2020T20:45:21,BlackjackSec99,much rude
+15-10-2020T20:45:24,SageSaga,im not sure whats wrong with unsteddy
+15-10-2020T20:45:25,totallynotTrace,1 gb for a file that istn animated a rediculous levels of work
+15-10-2020T20:45:26,TraceLegacyXI,Big rude
+15-10-2020T20:45:42,HiddenWorlds,"oh no, lag spike"
+15-10-2020T20:45:48,Twokinds,yeah well photoshop isn't really meant for this I imagine XD
+15-10-2020T20:45:51,Werewing,"As I understand, being unsteddy comes with a balance problem."
+15-10-2020T20:45:51,Ordithus,have you tried turning teddy off and on again
+15-10-2020T20:45:52,CrRAR,:feet::feet::feet::feet::feet:
+15-10-2020T20:46:00,unsteddyphoenix,But you are sure whats wrong with Laura apparently :(
+15-10-2020T20:46:04,BlackjackSec99,lol Tom pushing the limits of PS
+15-10-2020T20:46:04,AspiringNoodle,Photoshop is magic
+15-10-2020T20:46:06,AspiringNoodle,can do anything
+15-10-2020T20:46:09,TraceLegacyXI,@Twokinds still made it work like a dream tho
+15-10-2020T20:46:19,SageSaga,you didnt read what i said right then Unsteddy
+15-10-2020T20:46:23,K3IDRAN,Photoshop: PLEASE STOP IT IT HURTS SGHHH
+15-10-2020T20:46:29,BlackjackSec99,The question is....  whats more powerful that PS??
+15-10-2020T20:46:35,Mediawatcher,This was an amazing art showcase tom
+15-10-2020T20:46:44,qwe304,how big is the file?
+15-10-2020T20:46:47,Twokinds,"Well, ideally you'd just use a dedicated 3d software. XD But I'm not familiar enough."
+15-10-2020T20:46:48,AspiringNoodle,Photoshop is more powerful than Photoshop
+15-10-2020T20:46:48,unsteddyphoenix,"I picked up on your devious subtext, bully"
+15-10-2020T20:46:48,BluePhantom90,"But Basitins are not animals. In a way Tom could have a Closed ""Furry race"" and sell adopts of Basitins if he wanted"
+15-10-2020T20:46:51,Werewing,"Paint, Blackjack."
+15-10-2020T20:47:12,BlackjackSec99,"""can this pc run Crysis?""  ""who cares about that, can it run PS and open Tom's 360 photo???"""
+15-10-2020T20:47:14,Ordithus,"qwe, he said 1 GB"
+15-10-2020T20:47:31,AspiringNoodle,"Um... Blackjack, they're remastering the original Crysis, lol"
+15-10-2020T20:47:33,BadFoMo,@Werewing Haha! I was thinking that very joke.
+15-10-2020T20:47:38,AspiringNoodle,"And yes, it makes even a 3090 cry xD"
+15-10-2020T20:47:39,unsteddyphoenix,Is this like. To do with a newer photoshop feature or something?
+15-10-2020T20:47:39,SamuelLeumas,"Eh, most 3D software have pretty crappy 2D brush options"
+15-10-2020T20:47:44,unsteddyphoenix,Or could photoshop always do this
+15-10-2020T20:47:50,qwe304,@BluePhantom90 you could no more copyright a fantasy species than you could a specific breed of dog. legal basis just isnt there
+15-10-2020T20:47:53,BlackjackSec99,"Noodle, I know, and it made a 3090Ti beg for mercy"
+15-10-2020T20:47:56,SageSaga,the 3090 is not for games
+15-10-2020T20:48:02,qwe304,@Ordithus thanks
+15-10-2020T20:48:04,TraceLegacyXI,Computer talk hurt my brain
+15-10-2020T20:48:05,Dimensional,It's for Game Developers
+15-10-2020T20:48:11,Corgay,what's the name of this song it's so pretty <3
+15-10-2020T20:48:12,TraceLegacyXI,I no smart in the ways of technology
+15-10-2020T20:48:16,AspiringNoodle,True.  Is for GAMES
+15-10-2020T20:48:18,HiddenWorlds,I need that then
+15-10-2020T20:48:33,Ordithus,google maps uses a similar mapping technique I'm sure
+15-10-2020T20:48:33,SageSaga,its not even for game devs =_=
+15-10-2020T20:48:34,HiddenWorlds,"My god, its hard to develop a decent game on a laptop"
+15-10-2020T20:48:51,CrRAR,oh hey chapter cover remaster
+15-10-2020T20:48:57,BlackjackSec99,is that a COVER????????
+15-10-2020T20:48:57,TraceLegacyXI,Yes
+15-10-2020T20:49:03,TraceLegacyXI,I hope so
+15-10-2020T20:49:04,Ordithus,:ctwokinds-sleepoverB:
+15-10-2020T20:49:06,Werewing,Is that flora with a dragon tail?
+15-10-2020T20:49:06,Mediawatcher,Remake cover?
+15-10-2020T20:49:07,ZapiliDver,3090 is for ML/CUDA... and mining
+15-10-2020T20:49:08,unsteddyphoenix,Kats in the cover!! \o/
+15-10-2020T20:49:11,BlackjackSec99,:ctwokinds-sleepoverA:
+15-10-2020T20:49:14,ElvenHunter84,Volume 5 cover
+15-10-2020T20:49:18,Mediawatcher,Nice!
+15-10-2020T20:49:19,BadFoMo,Oh! Is this the next book cover?
+15-10-2020T20:49:20,unsteddyphoenix,Existence confirmed!
+15-10-2020T20:49:21,TraceLegacyXI,Wait sits this?
+15-10-2020T20:49:26,ElvenHunter84,or is it 4
+15-10-2020T20:49:32,SamuelLeumas,"3090 is a workstation card, more for huge professional grade 3D scenes for movies or even AI learning."
+15-10-2020T20:49:37,AspiringNoodle,"Sage: ""the 3090 is not for games"""
+15-10-2020T20:49:37,Ordithus,tis this but new http://twokinds.keenspot.com/comic/717/
+15-10-2020T20:49:40,Dragusthor,hi
+15-10-2020T20:49:41,AspiringNoodle,"Nvidia: ""Plus, it features a staggering 24 GB of G6X memory, all to deliver the ultimate gaming experience."""
+15-10-2020T20:49:45,CrRAR,hello dragust
+15-10-2020T20:49:51,AspiringNoodle,Nvidia betrays you and itself xD
+15-10-2020T20:49:55,Mediawatcher,It’s the chapter 16 cover!
+15-10-2020T20:49:59,BlackjackSec99,Thor!
+15-10-2020T20:50:03,TraceLegacyXI,Ah gotcha
+15-10-2020T20:50:15,unsteddyphoenix,Lauras whole butt now in frame
+15-10-2020T20:50:16,SamuelLeumas,Oh I recognize this kurzgesagt music
+15-10-2020T20:50:16,unsteddyphoenix,Nice
+15-10-2020T20:50:25,SamuelLeumas,It's from their largest star video
+15-10-2020T20:50:26,BluePhantom90,yeah is the boat ride back. chapter. 1 of the longest parts.
+15-10-2020T20:50:30,Dragusthor,how was your week?
+15-10-2020T20:50:38,Ordithus,can't hide Laura booty
+15-10-2020T20:50:40,SageSaga,you get like 5% more performance for nearly double the price- also - doesnt actually run games at native 8k- and no one games at 8k
+15-10-2020T20:50:55,TraceLegacyXI,So how’s everybody doing today?
+15-10-2020T20:51:04,TraceLegacyXI,Didn’t get to ask earlier cuz 3d
+15-10-2020T20:51:07,qwe304,@Corgay  Largest Star – Soundtrack https://www.youtube.com/watch?v=U76HoYWMBI0&ab_channel=EpicMountainMusic
+15-10-2020T20:51:18,BadFoMo,"I'm fine, you?"
+15-10-2020T20:51:33,NinoGD,"meh, and you?"
+15-10-2020T20:51:34,SageSaga,man how do i draw this even-
+15-10-2020T20:51:35,AspiringNoodle,"Talking about 3090 and it's non-gaming uses.  When even Nvidia markets it as a gaming gpu, lol"
+15-10-2020T20:51:35,TraceLegacyXI,"Pretty good, actually."
+15-10-2020T20:51:48,SamuelLeumas,"@qwe304 It's also on soundcloud, for a less compressed option"
+15-10-2020T20:51:52,CrimsonHelsing,Awww I love this cover redo for chapter 16! ❤️
+15-10-2020T20:51:55,Twokinds,I'm working on the final touches of book 5. It'll be ready for print soon.
+15-10-2020T20:51:55,NezumiYuki,back with another small bol of chili and yay I see some cute Tiggy!
+15-10-2020T20:51:57,TiloKitsu23,"I got a promotion at work today, so I'm doing awesome! How about you Trace?"
+15-10-2020T20:52:03,qwe304,nvidias design team and marketing team are clearly not on the same page
+15-10-2020T20:52:04,CrRAR,awesome
+15-10-2020T20:52:04,BadFoMo,@SageSaga What is it?
+15-10-2020T20:52:05,SageSaga,this person wants my character dressed up as Ghost Laura for Halloween- but how do you even dress up like a girl who is mostly naked- and also a ghost
+15-10-2020T20:52:18,BlackjackSec99,.......
+15-10-2020T20:52:23,Twokinds,ghost sheet
+15-10-2020T20:52:23,AspiringNoodle,throw a bedsheet on her
+15-10-2020T20:52:25,BlackjackSec99,thats a good question....
+15-10-2020T20:52:26,SpazztasticKiwi,bleach the colors
+15-10-2020T20:52:28,AspiringNoodle,cut some eye holes
+15-10-2020T20:52:28,Ordithus,:ctwokinds-floraquestion: that is a tough one
+15-10-2020T20:52:30,TraceLegacyXI,Tiggy
+15-10-2020T20:52:41,FoxxTrotter,:ghost:
+15-10-2020T20:52:44,Werewing,Body paint?
+15-10-2020T20:52:44,unsteddyphoenix,Giant urn outfit
+15-10-2020T20:52:49,Ordithus,sweet
+15-10-2020T20:52:51,qwe304,@SageSaga I imagine one of those PJ onzies+a white sheet
+15-10-2020T20:52:52,CrimsonHelsing,Mama tiggy~!
+15-10-2020T20:52:57,CrRAR,:3
+15-10-2020T20:53:02,Ordithus,lol sage
+15-10-2020T20:53:05,BadFoMo,Fursuit and chains? I heard that Ghost Laura has a thing for chains.
+15-10-2020T20:53:12,NezumiYuki,"Nice cover, Tom!"
+15-10-2020T20:53:14,qwe304,I remember this cover... mustve showed it on stream a while ago
+15-10-2020T20:53:16,CheddarCat,ooo new  cover
+15-10-2020T20:53:18,AspiringNoodle,"A+, 10/10, great job Sage!"
+15-10-2020T20:53:24,CheddarCat,hi everbody
+15-10-2020T20:53:28,BadFoMo,Yo.
+15-10-2020T20:53:28,TraceLegacyXI,WOAHHH
+15-10-2020T20:53:30,BlackjackSec99,perfect!
+15-10-2020T20:53:33,Ordithus,needs to be flatter
+15-10-2020T20:53:34,TraceLegacyXI,hey cheddat
+15-10-2020T20:53:45,TraceLegacyXI,*cheddar
+15-10-2020T20:53:53,BlackjackSec99,KITTY!
+15-10-2020T20:54:00,CheddarCat,mrow??
+15-10-2020T20:54:04,Twokinds,Yeah I'm not sure how you'd do it
+15-10-2020T20:54:13,Twokinds,Laura doesn't have that many distinguishing features
+15-10-2020T20:54:22,TraceLegacyXI,Apart from the socks
+15-10-2020T20:54:27,SpazztasticKiwi,idunno
+15-10-2020T20:54:38,Ordithus,she has the nose marking
+15-10-2020T20:54:43,BlackjackSec99,black socks on red fur?
+15-10-2020T20:54:51,SpazztasticKiwi,lack of life seems to be quite the distinguishing feature
+15-10-2020T20:54:58,TraceLegacyXI,Lol
+15-10-2020T20:55:21,Twokinds,Lots of people lack a life
+15-10-2020T20:55:28,TraceLegacyXI,Then I guess Alaric’s special too?
+15-10-2020T20:55:30,SpazztasticKiwi,true
+15-10-2020T20:55:33,BlackjackSec99,*raises hand* ME
+15-10-2020T20:55:34,unsteddyphoenix,\o right here~
+15-10-2020T20:55:40,TraceLegacyXI,Heeeyyyy
+15-10-2020T20:55:43,Ordithus,that hurts
+15-10-2020T20:55:48,BadFoMo,"@SageSaga Maybe one of thoes... pajama hoodie thing, face paint and fome chains?"
+15-10-2020T20:55:54,qwe304,found it! that cover was shown on stream on march 20th
+15-10-2020T20:56:06,SamuelLeumas,o/ me as well
+15-10-2020T20:56:06,SpazztasticKiwi,why ord? did we step on your toes?
+15-10-2020T20:56:10,Werewing,"You could copyright the art, but not the character in this case."
+15-10-2020T20:56:13,BlackjackSec99,"FoMo, you mean like a onsie?"
+15-10-2020T20:56:14,Twokinds,Yeah! I painted it quite a while ago.
+15-10-2020T20:56:15,Mihari,"The short answer, Sage...  You don't."
+15-10-2020T20:56:24,BlackjackSec99,Hi Mihari
+15-10-2020T20:56:29,BadFoMo,@BlackjackSec99 Most likely.
+15-10-2020T20:56:32,WINDOWS98SE,Laura's clothing is quite distinctive. would that work?
+15-10-2020T20:56:35,NezumiYuki,Hello Speed Kitty!
+15-10-2020T20:56:48,qwe304,tbh im surprised I remembered it
+15-10-2020T20:56:55,Twokinds,Book 5 was supposed to come out in July
+15-10-2020T20:56:58,qwe304,but I had it in my archives
+15-10-2020T20:57:01,Twokinds,But then... uh... this year happened
+15-10-2020T20:57:05,qwe304,fair
+15-10-2020T20:57:08,CrRAR,:fog:
+15-10-2020T20:57:10,BlackjackSec99,yeahhhhhhhhhhhh understandable
+15-10-2020T20:57:10,BadFoMo,Yeah...
+15-10-2020T20:57:29,Dimensional,"This year happened, which made Flora sad. At least she won't have her child this year, thank goodness"
+15-10-2020T20:57:33,BadFoMo,****ing plaeg
+15-10-2020T20:57:36,BadFoMo,*.
+15-10-2020T20:57:38,Twokinds,brb laundry
+15-10-2020T20:57:38,SpazztasticKiwi,who really does have a life in this year anyway
+15-10-2020T20:57:40,NezumiYuki,Can we all like... take a Mulligan on 2020?   Like seriously... 2020 didn't happen....
+15-10-2020T20:57:40,BlackjackSec99,"No worries, Ive still got some $ set aside for whenever it does come out"
+15-10-2020T20:57:42,CrRAR,ok k
+15-10-2020T20:57:46,SpazztasticKiwi,if we’re being honest
+15-10-2020T20:57:49,RimaDraws,i try to
+15-10-2020T20:57:57,SpazztasticKiwi,it’s work if you got it and home
+15-10-2020T20:58:07,steelabjur,Maybe Laura's red & black outfit with the legs all ghost-like?
+15-10-2020T20:58:07,Ordithus,and streams
+15-10-2020T20:58:08,BlackjackSec99,"Nezumi,  2021 is going to be 2020- The Mulligan"
+15-10-2020T20:58:10,SpazztasticKiwi,if it’s not a rare occasion of grocery shopping
+15-10-2020T20:58:22,CrRAR,yum goodies
+15-10-2020T20:58:26,RimaDraws,my only lunch date friend moved away
+15-10-2020T20:58:27,SpazztasticKiwi,stream & laundry
+15-10-2020T20:58:28,w0lfmare,I announced my Volume 2 preorders a few days before the pandemic started
+15-10-2020T20:58:30,TraceLegacyXI,Aight bois I think ima head out
+15-10-2020T20:58:30,qwe304,you also gave us a nice close up in that stream https://imgur.com/a/6Sq2ZcO
+15-10-2020T20:58:33,SpazztasticKiwi,"boy, toms booked"
+15-10-2020T20:58:35,TraceLegacyXI,It was nice seeing y’all abain
+15-10-2020T20:58:37,w0lfmare,:cw0lfmare-GoogleyEmber:
+15-10-2020T20:58:40,unsteddyphoenix,Hahaha
+15-10-2020T20:58:41,BadFoMo,Bye?
+15-10-2020T20:58:43,Snowmanwizard,bye trace
+15-10-2020T20:58:43,w0lfmare,Talk about poor timing
+15-10-2020T20:58:47,NezumiYuki,Hiiii W0lfy!
+15-10-2020T20:58:51,w0lfmare,:wave:
+15-10-2020T20:58:55,TraceLegacyXI,Thanks for the show Tom! Had a blast
+15-10-2020T20:58:56,Ordithus,"It's almost ready, though!"
+15-10-2020T20:59:02,w0lfmare,It is!
+15-10-2020T20:59:03,CrRAR,:wave::ccrrar-rocky:
+15-10-2020T20:59:04,qwe304,"place your bets now, which will come out first, book 7 or artbook #2..."
+15-10-2020T20:59:05,BlackjackSec99,later Trace!
+15-10-2020T20:59:13,CrimsonHelsing,"Yeah Tom, this yea5 has been terrible for all of us"
+15-10-2020T20:59:20,CrimsonHelsing,*year
+15-10-2020T20:59:21,w0lfmare,But it sure delayed things
+15-10-2020T20:59:31,Ordithus,Just a bit
+15-10-2020T20:59:52,CrimsonHelsing,"Honestly, I for one can use a break from all of this madness"
+15-10-2020T21:00:07,Twokinds,Hopefully the next artbook
+15-10-2020T21:00:15,Twokinds,"Fun fact, we're actually on Book 7 right now"
+15-10-2020T21:00:24,BadFoMo,Oh?
+15-10-2020T21:00:27,Twokinds,It's on track to be about 200 pages.
+15-10-2020T21:00:32,Twokinds,Book 6 is plotted out already.
+15-10-2020T21:00:35,qwe304,have you finished more than just the first piece on the next artbook?
+15-10-2020T21:00:38,CrimsonHelsing,Sweet!
+15-10-2020T21:00:52,qwe304,iirc thats where you were at the last status update
+15-10-2020T21:00:56,Twokinds,Not really
+15-10-2020T21:01:00,SpazztasticKiwi,will you have 10 books in all or is that still in the air
+15-10-2020T21:01:10,Twokinds,"Right now my priority is book 5, and then I'm working on a short choose your own adventure story"
+15-10-2020T21:01:17,Twokinds,And then book 6 and the next artbook
+15-10-2020T21:01:24,CrRAR,ooo
+15-10-2020T21:01:27,RimaDraws,nice
+15-10-2020T21:01:28,BlackjackSec99,"heh, me too... Right now Im managing a store with 3 other employees,  2 of which are new, and the other is lazy, we get 400+ customers a day, and despite being foreman, I make $13 an hour.... after 16 YEARS of working there...."
+15-10-2020T21:01:31,RimaDraws,go go tom ^^
+15-10-2020T21:01:34,Ordithus,Nice!
+15-10-2020T21:01:38,microbuss,ROAR!!!
+15-10-2020T21:01:49,CrRAR,casually dropping future stuff hints
+15-10-2020T21:01:49,qwe304,@Twokinds in print or a VN?
+15-10-2020T21:01:52,NezumiYuki,Hiya Buss
+15-10-2020T21:01:52,SpazztasticKiwi,is the side story TK or other characters
+15-10-2020T21:01:53,qwe304,like in renpy
+15-10-2020T21:01:59,BadFoMo,VN?
+15-10-2020T21:02:04,qwe304,visual novel
+15-10-2020T21:02:06,BadFoMo,Oh.
+15-10-2020T21:02:10,unsteddyphoenix,oooh next artbook too~
+15-10-2020T21:02:11,BadFoMo,Thanks.
+15-10-2020T21:02:16,CrRAR,:ccrrar-yis:
+15-10-2020T21:02:17,microbuss,rower hiss fft rrr *bares claws!*
+15-10-2020T21:02:19,Rainelover,"I have Arrived! I was having crippling latency issues at first, but I am here now!"
+15-10-2020T21:02:22,microbuss,:stuck_out_tongue_winking_eye:
+15-10-2020T21:02:25,CrimsonHelsing,Take my money!
+15-10-2020T21:02:27,NezumiYuki,VN is another way of saying GN or graphic novel
+15-10-2020T21:02:30,BadFoMo,Yo.
+15-10-2020T21:02:32,BADBackgroundProductions,Hi everyone!
+15-10-2020T21:02:34,qwe304,@BadFoMo think ddlc or katawa shoujo
+15-10-2020T21:02:38,BlackjackSec99,iz a BAD
+15-10-2020T21:02:42,NezumiYuki,hey Bad BG
+15-10-2020T21:02:50,BadFoMo,Yo.
+15-10-2020T21:02:53,Mediawatcher,Choose your own adventure? Well I’m certainly buying when it comes out!
+15-10-2020T21:02:58,microbuss,"@CrimsonHelsing its ""shut up & take my money!"" :P"
+15-10-2020T21:03:11,SpazztasticKiwi,I’ll wait for a convention to buy my share - my last preorder experience was shit
+15-10-2020T21:03:12,BADBackgroundProductions,What about chose your own adventure
+15-10-2020T21:03:14,BadFoMo,@qwe304 Never heard of ether ov thoes.
+15-10-2020T21:03:19,Ordithus,"the maze was fun, so I'm down for more of choose your own stuff"
+15-10-2020T21:03:22,Ordithus,lol sage
+15-10-2020T21:03:22,NezumiYuki,Hey since we have two Bads in here... Who wants to be called what?
+15-10-2020T21:03:26,Mediawatcher,"Looks like you’ve got a lot planned for the future tom, can’t wait"
+15-10-2020T21:03:28,Twokinds,I like gamebooks so I'm hoping it's fun.
+15-10-2020T21:03:32,BlackjackSec99,cant wait for a chance to buy an artbook! I came to late to the fandom to buy the first one
+15-10-2020T21:03:36,BADBackgroundProductions,I’m bad
+15-10-2020T21:03:37,microbuss,hey BAD I have one & its a Transformers story
+15-10-2020T21:03:41,RimaDraws,i love choose your own adventure books
+15-10-2020T21:03:46,NezumiYuki,Should we call BadBackground just BG and FoMo as well.... FoMo?
+15-10-2020T21:03:55,Mediawatcher,I wonder how the story in the book will be like
+15-10-2020T21:04:16,Mediawatcher,"Either funny or dark, or both"
+15-10-2020T21:04:26,BlackjackSec99,<3 Keith    lol sage
+15-10-2020T21:04:38,CrRAR,:ctwokinds-NataniHAHA::ctwokinds-laura:
+15-10-2020T21:04:40,steelabjur,I'm a fan of game books too. Choose Your Own Adventure and The Adventures of Lone Wolf were favorites of mine growing up. :)
+15-10-2020T21:04:45,SpazztasticKiwi,sage do you feel less like death
+15-10-2020T21:04:48,BadFoMo,"I have an /idea/ for a CYOA. @Twokinds the eMail is still at GMail, right?"
+15-10-2020T21:04:52,Ordithus,:ctwokinds-laura: :ctwokinds-keith8D:
+15-10-2020T21:04:52,Twokinds,Oh yeah
+15-10-2020T21:05:02,Twokinds,Lone Wolf is great.
+15-10-2020T21:05:13,microbuss,awooo
+15-10-2020T21:05:13,BADBackgroundProductions,I remember the goosebumps chose your own adventure books
+15-10-2020T21:05:18,NezumiYuki,Sage pls don't make me laugh spit my chili?!   Keith indeed!  xD
+15-10-2020T21:05:25,HiddenWorlds,I have one BAD
+15-10-2020T21:05:33,HiddenWorlds,two actually
+15-10-2020T21:05:49,BluePhantom90,So anyone excited for ANIMANIACS returning
+15-10-2020T21:05:55,steelabjur,"Loved the artstyle of the Lone Wolf books, still have a bunch of them around here."
+15-10-2020T21:05:58,HiddenWorlds,wait it is?
+15-10-2020T21:06:03,BlackjackSec99,"brb, need to make foods for my mini peoples."
+15-10-2020T21:06:07,CrRAR,ok
+15-10-2020T21:06:19,Mediawatcher,Will the adventure be a comic or literature tom?
+15-10-2020T21:06:27,qwe304,im guessing this is the cover for next chapter?
+15-10-2020T21:06:35,Ordithus,chapter 16 cover redo
+15-10-2020T21:06:37,CrRAR,remaster of 16
+15-10-2020T21:06:39,Mediawatcher,No it’s chapter 16 cover remake
+15-10-2020T21:06:40,Ordithus,for the book
+15-10-2020T21:06:40,qwe304,oh
+15-10-2020T21:06:45,qwe304,didnt recognize it
+15-10-2020T21:07:07,HiddenWorlds,wait did one of you guys have a link to the original cover?
+15-10-2020T21:07:18,CrRAR,http://twokinds.keenspot.com/comic/717/
+15-10-2020T21:07:23,HiddenWorlds,thx
+15-10-2020T21:07:25,CrRAR,c:
+15-10-2020T21:07:34,qwe304,"ah, I mistook raine for natani, thats why it didnt click"
+15-10-2020T21:07:45,steelabjur,"But yeah, a TK CYOA book? Count me in!"
+15-10-2020T21:07:53,CrRAR,:ctwokinds-smug::ctwokinds-rainehappy:
+15-10-2020T21:08:00,CrRAR,"""similar?"""
+15-10-2020T21:08:06,Dragusthor,A is materializing chapter 16 wow:ptv-excited:
+15-10-2020T21:08:08,HiddenWorlds,qwe you're not the only one
+15-10-2020T21:08:09,Ordithus,:ctwokinds-natsducky: they are both adorable so yes
+15-10-2020T21:08:09,KeefMcDerpface,hello
+15-10-2020T21:08:19,CrRAR,ellloooo
+15-10-2020T21:08:23,Dragusthor,hi Keef
+15-10-2020T21:08:26,qwe304,i mean without color ... ¯\_(ツ)_/¯
+15-10-2020T21:08:27,CrRAR,:ccrrar-renibop::notes:
+15-10-2020T21:08:28,Werewing,I played the The Lone Wolf video game. It was kind of nice.
+15-10-2020T21:08:40,Dragusthor,how are you?
+15-10-2020T21:08:58,BADBackgroundProductions,Keef!!!
+15-10-2020T21:09:06,HiddenWorlds,I got the port for The Walking Dead game onto my Quest.
+15-10-2020T21:09:11,NezumiYuki,"Off tangent question~  Tom, how far along into the kurzgesagt album are we?   xDDDD"
+15-10-2020T21:09:29,HiddenWorlds,3%
+15-10-2020T21:09:34,NezumiYuki,LOL!
+15-10-2020T21:09:37,KeefMcDerpface,Better question: Does it even have an end?
+15-10-2020T21:09:40,HiddenWorlds,no
+15-10-2020T21:09:46,KeefMcDerpface,Thought so.
+15-10-2020T21:09:48,NezumiYuki,MORE LOL!
+15-10-2020T21:09:49,CrRAR,it goes on and o friend
+15-10-2020T21:09:51,BADBackgroundProductions,"I mean, there can only be SO much science to listen to"
+15-10-2020T21:09:54,HiddenWorlds,"once it hits 100%, it loops"
+15-10-2020T21:10:03,CrimsonHelsing,Mama tight >w<
+15-10-2020T21:10:10,HiddenWorlds,and then you enter another universe
+15-10-2020T21:10:24,CrimsonHelsing,*tiggy
+15-10-2020T21:10:29,CrRAR,:ccrrar-beakr:
+15-10-2020T21:10:38,BadFoMo,@CrRAR Some people started singing...
+15-10-2020T21:10:50,CrRAR,goal achieved
+15-10-2020T21:11:00,BADBackgroundProductions,"Keef, much like the universe, this soundtrack has no end"
+15-10-2020T21:11:03,HiddenWorlds,Sci-Fi Mini-Boss Fight song here
+15-10-2020T21:11:12,Dragusthor,"I really liked this chapter confessions, drama and intense emotions, I don't know what else to say, it was very fantastic."
+15-10-2020T21:11:24,SpazztasticKiwi,"so, unrelated but I want to know if anyone else is as Disgusted by this other than me: bacon wrapped deep fried oreos"
+15-10-2020T21:11:39,CrRAR,huh
+15-10-2020T21:11:42,HiddenWorlds,"when I first started reading it, I was immediately hooked"
+15-10-2020T21:11:46,NezumiYuki,also uhhh
+15-10-2020T21:11:47,BadFoMo,@BADBackgroundProductions I thought it was Human stupidity that had no end?
+15-10-2020T21:12:19,HiddenWorlds,wth bacon wrapped deep fried oreos?
+15-10-2020T21:12:35,CrRAR,next step they add avocado
+15-10-2020T21:12:35,SpazztasticKiwi,I didn’t stutter
+15-10-2020T21:12:38,HiddenWorlds,Sounds like carnival food...
+15-10-2020T21:12:41,BADBackgroundProductions,"Very true, yet creativity can be endless"
+15-10-2020T21:13:04,BADBackgroundProductions,Not often though
+15-10-2020T21:13:27,NeoShinGundam,howdy!  :ptv-right:
+15-10-2020T21:13:31,BadFoMo,Yo.
+15-10-2020T21:13:35,KeefMcDerpface,hello
+15-10-2020T21:13:38,CrRAR,elllooo neoshin
+15-10-2020T21:13:38,BADBackgroundProductions,Hi Neo!
+15-10-2020T21:13:52,NezumiYuki,"Imma go save this pic when you post it, Sage! :D <3"
+15-10-2020T21:13:55,Dragusthor,Hi Neo
+15-10-2020T21:14:00,NezumiYuki,save myself a copy rather
+15-10-2020T21:14:04,CrRAR,oh Laura got W I N G SSSSS
+15-10-2020T21:14:05,CrRAR,lol
+15-10-2020T21:14:12,SageSaga,why
+15-10-2020T21:14:21,CrRAR,oh nvm she had them last time too
+15-10-2020T21:14:30,microbuss,if I am crazy Its cause I in a good mood
+15-10-2020T21:14:32,BadFoMo,12/2029?! Sage is in the future?!
+15-10-2020T21:14:49,Ordithus,"cute, sage!"
+15-10-2020T21:14:55,CrRAR,must also be google's fault fomo
+15-10-2020T21:14:56,SageSaga,you cant read Bad
+15-10-2020T21:15:07,HiddenWorlds,I'm surprised I can actually watch the streams today.
+15-10-2020T21:15:17,BADBackgroundProductions,Of course I can read!
+15-10-2020T21:15:21,microbuss,always check your coins There may be a future date on them!
+15-10-2020T21:15:23,HiddenWorlds,The internet god is happy today
+15-10-2020T21:15:38,BADBackgroundProductions,Wait
+15-10-2020T21:15:43,CrRAR,:book::ctwokinds-nataniAAAAshake:
+15-10-2020T21:15:48,CrRAR,^reading
+15-10-2020T21:15:51,KeefMcDerpface,lol
+15-10-2020T21:15:55,HiddenWorlds,anyway gtg
+15-10-2020T21:15:59,CrRAR,byeeee
+15-10-2020T21:16:02,HiddenWorlds,bye
+15-10-2020T21:16:04,KeefMcDerpface,bye Hidden
+15-10-2020T21:16:05,BADBackgroundProductions,Bye bye!
+15-10-2020T21:16:12,CrRAR,:v::ccrrar-rocky:
+15-10-2020T21:16:15,Dragusthor,bye  Hidden
+15-10-2020T21:16:16,NezumiYuki,Take a look... It's in a book... The Reading Rainbooooooooooooow!
+15-10-2020T21:16:36,CrRAR,:rainbow::book::ctwokinds-nataniAAAAshake::rainbow:
+15-10-2020T21:16:39,BADBackgroundProductions,Is that a song?
+15-10-2020T21:16:43,BadFoMo,I still remember getting busted in a similar was at school. Teacher /though/ my 0 was a 6.
+15-10-2020T21:16:45,CrRAR,best host evur
+15-10-2020T21:16:52,ThePurpleKitty,OMG! reading rainbow! :D
+15-10-2020T21:17:05,MarvTheHugPharaoh,"Take a look, it's in a book"
+15-10-2020T21:17:06,Dragusthor,is to sell a book? tom
+15-10-2020T21:17:36,BADBackgroundProductions,"So, when is this book coming out?"
+15-10-2020T21:17:41,BadFoMo,I remember that show. It was on the /one/ channle I had when growing up.
+15-10-2020T21:17:44,CrRAR,"""soon"""
+15-10-2020T21:17:55,KeefMcDerpface,:tm:
+15-10-2020T21:18:00,BADBackgroundProductions,Soon?
+15-10-2020T21:18:14,CrRAR,Just in time for the holiday season:tm:!
+15-10-2020T21:18:19,KeefMcDerpface,hehe
+15-10-2020T21:18:20,ThePurpleKitty,good old pbs netwrok <3
+15-10-2020T21:18:35,BADBackgroundProductions,You can’t trade mark the holiday season!
+15-10-2020T21:18:47,ThePurpleKitty,also loved between the lions and zaboomafoo and arthur
+15-10-2020T21:18:56,CrRAR,:ctwokinds-clovischuckle:
+15-10-2020T21:19:00,BADBackgroundProductions,That’s blasphemous!
+15-10-2020T21:19:06,KeefMcDerpface,Clovis can and did.
+15-10-2020T21:19:25,CrRAR,he did a MONOPOLY:tm:
+15-10-2020T21:19:28,NezumiYuki,Dang it... I forgot the names of the pigeons in Between the Lions....
+15-10-2020T21:19:39,microbuss,Googfle it!
+15-10-2020T21:19:42,CrRAR,that is a detail we ight not need xD
+15-10-2020T21:19:45,ThePurpleKitty,yay someone else remembers the show x3
+15-10-2020T21:19:49,Dragusthor,?
+15-10-2020T21:19:49,BADBackgroundProductions,In between the lines you mean?
+15-10-2020T21:19:55,CrRAR,no LIONSS
+15-10-2020T21:20:00,CrRAR,it was a show
+15-10-2020T21:20:03,KeefMcDerpface,An old show.
+15-10-2020T21:20:07,BADBackgroundProductions,Oh
+15-10-2020T21:20:12,Dragusthor,ah
+15-10-2020T21:20:14,ThePurpleKitty,between the lions gosh darnet :v
+15-10-2020T21:20:21,SpazztasticKiwi,my brain forgoed “the holiday season” part & read “you can’t trade Mark”
+15-10-2020T21:20:29,CrRAR,xD
+15-10-2020T21:20:30,KeefMcDerpface,lol
+15-10-2020T21:20:34,BADBackgroundProductions,I’m not old so I am too stupid to know about anything
+15-10-2020T21:20:38,CrRAR,"also fair rule, spazz"
+15-10-2020T21:20:42,CrRAR,ya can't
+15-10-2020T21:20:46,ThePurpleKitty,it was a pbs show about helping young kids learn to read
+15-10-2020T21:20:46,SpazztasticKiwi,"like, that depends what we’re trading him for"
+15-10-2020T21:20:47,NezumiYuki,Busterfield was such a GRUMP!  LOL
+15-10-2020T21:20:55,NezumiYuki,also yay... Clay and Walter
+15-10-2020T21:21:05,Ordithus,woah it's gonna snow in the morning
+15-10-2020T21:21:12,KeefMcDerpface,\o/
+15-10-2020T21:21:13,RunawayRiot88,Hello There Peps
+15-10-2020T21:21:16,SpazztasticKiwi,& yes that was a joke
+15-10-2020T21:21:21,BADBackgroundProductions,A Mark for a Jack maybe?
+15-10-2020T21:21:26,CrRAR,35 degrees here tomorrow night D:
+15-10-2020T21:21:27,ThePurpleKitty,heh
+15-10-2020T21:21:30,Grip,Good night all
+15-10-2020T21:21:35,KeefMcDerpface,night Grip
+15-10-2020T21:21:36,ThePurpleKitty,a mark for a jack x3
+15-10-2020T21:21:40,CrRAR,:v: grip
+15-10-2020T21:21:43,BADBackgroundProductions,Bye grip!
+15-10-2020T21:21:51,Dragusthor,bye Grip
+15-10-2020T21:21:58,Dragusthor,night Grip
+15-10-2020T21:22:04,SpazztasticKiwi,another Irish man fan
+15-10-2020T21:22:08,RunawayRiot88,Hello There
+15-10-2020T21:22:10,ThePurpleKitty,night grip and hello runaway
+15-10-2020T21:22:12,CrRAR,wew
+15-10-2020T21:22:14,SpazztasticKiwi,excellent
+15-10-2020T21:22:17,CrRAR,hello runway
+15-10-2020T21:22:20,qwe304,is book 5 gonna be a preorder too?
+15-10-2020T21:22:24,RunawayRiot88,Call Me Riot
+15-10-2020T21:22:28,KeefMcDerpface,hi Roit
+15-10-2020T21:22:30,CrRAR,yo riot
+15-10-2020T21:22:32,Dragusthor,hello Runaway
+15-10-2020T21:22:33,KeefMcDerpface,*Riot
+15-10-2020T21:22:35,BADBackgroundProductions,Rot
+15-10-2020T21:22:42,BADBackgroundProductions,*riot
+15-10-2020T21:22:49,Dragusthor,hi Roit
+15-10-2020T21:22:54,RunawayRiot88,Roit
+15-10-2020T21:23:08,CrRAR,:ctwokinds-reniderp:
+15-10-2020T21:23:10,BADBackgroundProductions,Why are we all getting his name wrong?
+15-10-2020T21:23:21,KeefMcDerpface,Because names are hard okay.
+15-10-2020T21:23:25,KeefMcDerpface,For us anyways.
+15-10-2020T21:23:38,RunawayRiot88,You know what call me B.T
+15-10-2020T21:23:39,K3IDRAN,Don't mind me just grenade jumping on H2
+15-10-2020T21:23:43,SpazztasticKiwi,spelling is hard for y’all
+15-10-2020T21:24:01,BADBackgroundProductions,"“Welcome, rOeitIE”"
+15-10-2020T21:24:15,CrRAR,should all go watch more of those classic learning shows we been talkin bout
+15-10-2020T21:24:21,microbuss,R-I-O-T
+15-10-2020T21:24:25,RunawayRiot88,Just called B.T for today
+15-10-2020T21:24:39,RunawayRiot88,call me B.T
+15-10-2020T21:24:40,SageSaga,but that's not your name-
+15-10-2020T21:24:51,RunawayRiot88,For Today
+15-10-2020T21:24:53,SageSaga,its not even your initials! you should be RR!
+15-10-2020T21:25:00,microbuss,oh darn brb *vacuums*
+15-10-2020T21:25:06,BADBackgroundProductions,Is BT like a channel name or something?
+15-10-2020T21:25:17,Snowmanwizard,i shall call you 88
+15-10-2020T21:25:23,Ordithus,Emi! Don't get a hole lot of her
+15-10-2020T21:25:26,Snowmanwizard,hello 88
+15-10-2020T21:25:33,RunawayRiot88,O call me Agent 88
+15-10-2020T21:25:39,Dragusthor,ahahah
+15-10-2020T21:25:45,Dragusthor,good
+15-10-2020T21:25:47,CrRAR,is '88' a Back to the Future reference?
+15-10-2020T21:25:51,CrRAR,:fire:
+15-10-2020T21:25:51,RunawayRiot88,Agent 88'
+15-10-2020T21:25:57,RunawayRiot88,1988
+15-10-2020T21:26:04,BADBackgroundProductions,Agent roiteie bite of 8887
+15-10-2020T21:26:06,CrRAR,"ah, noted"
+15-10-2020T21:26:18,Snowmanwizard,"88, good year"
+15-10-2020T21:26:35,Mihari,"I shall call you, FOOL!"
+15-10-2020T21:26:38,RunawayRiot88,Yes
+15-10-2020T21:26:39,CrRAR,:ctwokinds-rose::wine_glass:
+15-10-2020T21:26:49,RunawayRiot88,NONONONONo
+15-10-2020T21:27:02,RunawayRiot88,Mihari No
+15-10-2020T21:27:13,NezumiYuki,xD  Mihari YES
+15-10-2020T21:27:20,RunawayRiot88,No
+15-10-2020T21:27:27,BADBackgroundProductions,Name verification complete... Welcome: FOOL
+15-10-2020T21:27:39,RunawayRiot88,Dang it
+15-10-2020T21:27:45,NezumiYuki,xDDDD
+15-10-2020T21:28:00,RunawayRiot88,Whhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyy ?
+15-10-2020T21:28:32,CrRAR,"How about ""Briot""."
+15-10-2020T21:28:37,RunawayRiot88,Meh
+15-10-2020T21:28:41,CrRAR,hehe
+15-10-2020T21:28:43,BADBackgroundProductions,Briot the riot
+15-10-2020T21:29:07,RunawayRiot88,The Rioter
+15-10-2020T21:29:24,CrRAR,:ctwokinds-sleepoverB:
+15-10-2020T21:29:37,Tufi,👍👍❤❤❤😍
+15-10-2020T21:30:01,BADBackgroundProductions,Wait... are we technically engaged in cyber harassment right now? 🤔
+15-10-2020T21:30:14,CrRAR,:ptv-uneasy:
+15-10-2020T21:30:20,RunawayRiot88,:thinking::thinking::thinking:
+15-10-2020T21:30:32,Dragusthor,:ptv-shock:
+15-10-2020T21:30:33,CrRAR,:ptv-hearts: chat welcome wagon
+15-10-2020T21:30:54,BADBackgroundProductions,Chat welcome wagon
+15-10-2020T21:31:13,BADBackgroundProductions,“Ha ha funny name we laugh”
+15-10-2020T21:31:25,CrRAR,at least we'll remember now
+15-10-2020T21:31:27,RunawayRiot88,Oh Boy this is gonna be a long decade
+15-10-2020T21:31:51,CrRAR,:clock::spider_web:
+15-10-2020T21:31:53,BADBackgroundProductions,IF we live to see the end of it that is
+15-10-2020T21:32:06,RunawayRiot88,:rolling_eyes::rolling_eyes:
+15-10-2020T21:33:04,RunawayRiot88,"So let's talk games, it's to quiet"
+15-10-2020T21:33:45,Dragusthor,ok go
+15-10-2020T21:33:45,BADBackgroundProductions,Ever played Bendy and the Ink Machine?
+15-10-2020T21:33:52,NezumiYuki,"Chapter cover, hm Tom?  Looking good so far!"
+15-10-2020T21:33:52,RunawayRiot88,No
+15-10-2020T21:34:14,RunawayRiot88,Play Streets of Rage 4 ?
+15-10-2020T21:34:22,BADBackgroundProductions,... no?
+15-10-2020T21:34:44,Dragusthor,no
+15-10-2020T21:35:23,microbuss,vacuums everyone! :P
+15-10-2020T21:35:24,Ordithus,"Nice, Sage! Neat idea"
+15-10-2020T21:35:27,ThePurpleKitty,"oh btw, this is the reading rainbow theme. https://www.youtube.com/watch?v=uPqpmSWwuGk"
+15-10-2020T21:35:48,Dragusthor,"I like to play strategy video games, shooter, zombie, adventure, terror, action and wars."
+15-10-2020T21:35:51,ThePurpleKitty,"not a long song or video, hope its ok to link"
+15-10-2020T21:35:54,Twokinds,"The current chapter only has about 20 or so pages left, so I'll have to start thinking about the next one."
+15-10-2020T21:36:18,BADBackgroundProductions,"Wow, already?"
+15-10-2020T21:36:22,CrRAR,epic conclusion~
+15-10-2020T21:36:25,Ordithus,"""only"""
+15-10-2020T21:36:33,CrRAR,beeeg pages
+15-10-2020T21:36:36,Ordithus,though there is a lot going on
+15-10-2020T21:36:43,Xwz,hi everyone
+15-10-2020T21:36:47,CrRAR,ello xwz
+15-10-2020T21:36:49,KeefMcDerpface,hello XWZ
+15-10-2020T21:36:49,BADBackgroundProductions,Xwz
+15-10-2020T21:36:55,BADBackgroundProductions,Welcome
+15-10-2020T21:36:57,Dragusthor,hello Xwz
+15-10-2020T21:37:10,BADBackgroundProductions,... to TwokindsPark
+15-10-2020T21:37:20,microbuss,@ThePurpleKitty I always thought she sang Reading Rainbow hard!
+15-10-2020T21:37:32,CrRAR,p a s s i o n
+15-10-2020T21:37:34,ThePurpleKitty,hard?
+15-10-2020T21:37:55,microbuss,"like ""its in a BOOK!"" hehe"
+15-10-2020T21:37:58,CrRAR,"go hard, then go to sleep"
+15-10-2020T21:38:01,CrRAR,life motto
+15-10-2020T21:38:09,ThePurpleKitty,oh i don't think so XD
+15-10-2020T21:38:25,Dragusthor,I've seen many animations but not this one
+15-10-2020T21:38:26,ThePurpleKitty,probably remembering it differently?
+15-10-2020T21:38:42,CrRAR,:butterfly::notes:
+15-10-2020T21:38:45,ThePurpleKitty,or its an older version
+15-10-2020T21:38:54,microbuss,take a LOOK its in a BOOK
+15-10-2020T21:39:00,Ordithus,:csagesaga-kaylinheart:
+15-10-2020T21:39:30,BADBackgroundProductions,"🎶Boo do booo doo boo, Boo do booo doo boo, boo do booo, boo do booooooo (Jurassic Park Theme)🎶"
+15-10-2020T21:39:30,CrRAR,:book::mag::chipmunk:
+15-10-2020T21:39:42,Xwz,I haven't seen the flow in a while
+15-10-2020T21:39:48,Dragusthor,:headphones::laughing:
+15-10-2020T21:39:57,CrRAR,:ctwokinds-karenOOO:
+15-10-2020T21:40:10,CrRAR,:lizard:
+15-10-2020T21:40:30,Dragusthor,"Jurassic Park!... Boo do booo doo boo, boo do booo, boo do booooooo"
+15-10-2020T21:41:09,Dragusthor,amazing the movie
+15-10-2020T21:41:19,BadFoMo,"Back, Is that a Ref Sheet for Kaylin I see?"
+15-10-2020T21:41:34,ThePurpleKitty,jurassic park will always be one of the greatest movies
+15-10-2020T21:41:46,CrRAR,jeff. goldblum.
+15-10-2020T21:41:47,ThePurpleKitty,"soon to be joined by twokinds, the movie"
+15-10-2020T21:42:01,Ordithus,"it is, fomo!"
+15-10-2020T21:42:07,MarvTheHugPharaoh,Some one say Daddy Jeff Goldblum?
+15-10-2020T21:42:19,CrRAR,:ptv-ohmy:
+15-10-2020T21:42:24,KeefMcDerpface,:ptv-ohmy:
+15-10-2020T21:42:32,RunawayRiot88,Sorry Guys I had to do something
+15-10-2020T21:42:37,BADBackgroundProductions,"Do do, do doo, dada do da dodo doooooo, da dooo da do do doooo"
+15-10-2020T21:42:44,CrRAR,s'happins
+15-10-2020T21:42:50,Dragusthor,mmmmm ...... that would be spectacular
+15-10-2020T21:43:13,RunawayRiot88,So heard about The PS5
+15-10-2020T21:43:21,microbuss,well next week Tremors 7 happens!
+15-10-2020T21:43:28,RunawayRiot88,and Xbox Series X
+15-10-2020T21:43:37,CrRAR,"shrieker islan, burt still at it xD"
+15-10-2020T21:43:42,microbuss,yup
+15-10-2020T21:43:49,microbuss,totally buying it
+15-10-2020T21:43:54,Dragusthor,Tremors 7 ?
+15-10-2020T21:43:57,microbuss,yes
+15-10-2020T21:43:59,RunawayRiot88,Which one
+15-10-2020T21:44:00,CrRAR,yep
+15-10-2020T21:44:13,Xwz,I have the ps4 pro
+15-10-2020T21:44:14,microbuss,Shreiker Island
+15-10-2020T21:44:22,BADBackgroundProductions,"Jeff Goldblum, first a fly now a furry in an all new movie that will have people grabbing their ankle wraps!"
+15-10-2020T21:44:23,Dragusthor,:ptv-excited:
+15-10-2020T21:44:36,CrRAR,haha BAD
+15-10-2020T21:44:50,Sclimshady,Who made Raine sad!  :ptv-angry:
+15-10-2020T21:44:55,microbuss,oops Wrong X
+15-10-2020T21:45:00,Ordithus,Her parents
+15-10-2020T21:45:05,Sclimshady,Fair
+15-10-2020T21:45:05,Ordithus,"And Red, can't forget Red"
+15-10-2020T21:45:05,CrRAR,Raine has many feels
+15-10-2020T21:45:11,Sclimshady,Also fair
+15-10-2020T21:45:11,CrRAR,yeah red too
+15-10-2020T21:45:27,CrRAR,swinging swords willy nilly
+15-10-2020T21:45:42,CrRAR,:ctwokinds-eyeroll:
+15-10-2020T21:45:49,BADBackgroundProductions,"She is a sad, confused 18 year old, god knows we are all sad and confused!"
+15-10-2020T21:46:06,CrRAR,> also surprisingly now stuck as wolf
+15-10-2020T21:46:10,microbuss,fat too hehe
+15-10-2020T21:46:21,BADBackgroundProductions,😒
+15-10-2020T21:46:26,CrRAR,"it's like all the normal problem of life, plus FLOOF"
+15-10-2020T21:46:30,CrRAR,:ctwokinds-rainehappy::ctwokinds-RaineEep:
+15-10-2020T21:46:41,RunawayRiot88,yesh
+15-10-2020T21:46:55,BADBackgroundProductions,No weight shaming
+15-10-2020T21:47:35,CrRAR,:ctwokinds-daydreamingkat: < guilty
+15-10-2020T21:47:41,KeefMcDerpface,haha
+15-10-2020T21:47:45,Ordithus,:ctwokinds-flomad:
+15-10-2020T21:47:50,FenceEqualizer,"I know I am super late but, Tom, That 3d picture you made was freaking awesome."
+15-10-2020T21:48:05,unsteddyphoenix,Girl with literal perfect genes roasts pregnant lady
+15-10-2020T21:48:09,unsteddyphoenix,Kat=cancelled
+15-10-2020T21:48:10,TheMaskedMisfit,And Done
+15-10-2020T21:48:13,CrRAR,"Flora: ""how dare"""
+15-10-2020T21:48:21,BADBackgroundProductions,"Wait, 3D picture?"
+15-10-2020T21:48:26,CrRAR,yis
+15-10-2020T21:48:31,CrRAR,best 3d picture
+15-10-2020T21:48:35,TheMaskedMisfit,Now you can call me MisFit
+15-10-2020T21:48:47,Twokinds,Thanks Fence ^^
+15-10-2020T21:48:56,BADBackgroundProductions,WhErE! I MUST fInD!
+15-10-2020T21:49:09,CrRAR,in your heart in sould for now~
+15-10-2020T21:49:16,CrRAR,soul
+15-10-2020T21:49:16,Ordithus,It'll be in the recording
+15-10-2020T21:49:35,BADBackgroundProductions,It was sould?!
+15-10-2020T21:49:41,CrRAR,:ctwokinds-nibsbounce:
+15-10-2020T21:49:48,Twokinds,"I can show it again, if you guys don't mind"
+15-10-2020T21:49:49,CrRAR,:ctwokinds-adiracoin:
+15-10-2020T21:50:00,CrRAR,yus
+15-10-2020T21:50:02,KeefMcDerpface,I don't mind.
+15-10-2020T21:50:02,TheMaskedMisfit,No we dont
+15-10-2020T21:50:04,CrRAR,:ccrrar-yis:
+15-10-2020T21:50:06,FenceEqualizer,Yes please.
+15-10-2020T21:50:12,TheMaskedMisfit,you can do it
+15-10-2020T21:50:19,BADBackgroundProductions,👀
+15-10-2020T21:50:21,NezumiYuki,LAWL oh go on Tom... We all know you wanna show off your VR image again!  xDDD
+15-10-2020T21:50:26,Snowmanwizard,:ctwokinds-evalswink_sparkl:
+15-10-2020T21:50:30,Twokinds,:ctwokinds-smug:
+15-10-2020T21:50:34,Ordithus,:ctwokinds-maddiessparkles:
+15-10-2020T21:50:38,KeefMcDerpface,:ptv-excited:
+15-10-2020T21:50:46,CrRAR,a sky box to rule the ALL
+15-10-2020T21:50:49,TheMaskedMisfit,Thats some good concept art
+15-10-2020T21:50:55,microbuss,well it rained the other day :ptv-excited:
+15-10-2020T21:51:03,KeefMcDerpface,:crab:
+15-10-2020T21:51:05,CrRAR,wow much lush
+15-10-2020T21:51:10,CrRAR,very cozy hut
+15-10-2020T21:51:11,KeefMcDerpface,OH MY GOSH!!!
+15-10-2020T21:51:11,TheMaskedMisfit,Wow
+15-10-2020T21:51:12,CrRAR,wow
+15-10-2020T21:51:20,NezumiYuki,Honda Crab:  I PINCH!
+15-10-2020T21:51:26,microbuss,sorry but when yer area in in a drought Rain is exciting lol
+15-10-2020T21:51:35,microbuss,is in*
+15-10-2020T21:51:38,TheMaskedMisfit,Well I be Damn
+15-10-2020T21:51:42,BADBackgroundProductions,Ahhhhhhhhhhhhhh 🦅⬅️Angel singing
+15-10-2020T21:51:59,CrRAR,:sailboat::ocean:
+15-10-2020T21:52:07,CrRAR,:feet::feet::feet:
+15-10-2020T21:52:20,BADBackgroundProductions,This... is....so.... COOL!
+15-10-2020T21:52:21,FenceEqualizer,That is so awesome. How long did it take you to draw this?
+15-10-2020T21:52:23,Twokinds,That's it
+15-10-2020T21:52:23,NezumiYuki,:feet:
+15-10-2020T21:52:30,microbuss,o.o HS! 3D pic Tom?
+15-10-2020T21:52:34,TheMaskedMisfit,(Faints on the floor)
+15-10-2020T21:52:35,KeefMcDerpface,BIURD!!
+15-10-2020T21:52:36,RheagarsArtEmporium,out standing Tom i never seen anything like it
+15-10-2020T21:52:39,KeefMcDerpface,*Bird
+15-10-2020T21:52:39,Twokinds,"Uh, getting this to work was pretty much my project for the last week"
+15-10-2020T21:52:40,steelabjur,Birb stealing sandwich.
+15-10-2020T21:52:54,BADBackgroundProductions,How did you do this?!
+15-10-2020T21:52:59,BadFoMo,Dang.
+15-10-2020T21:53:01,RheagarsArtEmporium,that was a hell of a project
+15-10-2020T21:53:02,CrRAR,:stuffed_flatbread::ccrrar-rocky:
+15-10-2020T21:53:13,CrRAR,"""squarrrb"""
+15-10-2020T21:53:18,steelabjur,The detail on this is crazy!
+15-10-2020T21:53:21,NezumiYuki,Sandwich Island Birb~  All your Sandwich R belong to us!
+15-10-2020T21:53:23,Twokinds,"Really big image, 3d panorama"
+15-10-2020T21:53:24,KeefMcDerpface,[First my pants?! Now my sandwich?!]* :ptv-angry:
+15-10-2020T21:53:28,Kameloh,:eyes:
+15-10-2020T21:53:29,CrRAR,the bread is even TOASTED
+15-10-2020T21:53:36,CrRAR,:ptv-excited:
+15-10-2020T21:53:38,TheMaskedMisfit,"@TwoKinds, How come you never became a concept artist"
+15-10-2020T21:53:39,Ordithus,hola kame
+15-10-2020T21:53:45,BADBackgroundProductions,Kameloh!!!! Hi
+15-10-2020T21:53:48,Kameloh,hi! unsteddy told me to take a look at some triple D :snail:
+15-10-2020T21:53:49,KeefMcDerpface,hello Kame
+15-10-2020T21:53:49,Kameloh,hello!
+15-10-2020T21:54:01,w0lfmare,Tom show kame :cw0lfmare-HeadEmber:
+15-10-2020T21:54:05,CrRAR,:ctwokinds-nibrun::ctwokinds-nibrun::ctwokinds-nibrun:
+15-10-2020T21:54:09,Twokinds,I dunno how to show kame
+15-10-2020T21:54:09,KeefMcDerpface,Hello w0lf
+15-10-2020T21:54:09,qwe304,ill bet that getting this to work in PS was harder than the art itself
+15-10-2020T21:54:11,Kameloh,Tommmmm :ckameloh-naokicattaps:
+15-10-2020T21:54:15,Kameloh,showmeeee
+15-10-2020T21:54:18,Twokinds,"Oh, hi Kameloh!"
+15-10-2020T21:54:19,KeefMcDerpface,:eyes:
+15-10-2020T21:54:20,CrRAR,kame LOOOKKKKK
+15-10-2020T21:54:21,Kameloh,HIIIIIIIIIIIIII
+15-10-2020T21:54:25,CrRAR,:eyes:
+15-10-2020T21:54:27,TheMaskedMisfit,Wow
+15-10-2020T21:54:27,Dragusthor,hello Kameloh
+15-10-2020T21:54:29,NezumiYuki,"Crouching Squirrel, Hidden Easter Egg Nibbly!"
+15-10-2020T21:54:32,unsteddyphoenix,look!
+15-10-2020T21:54:35,Kameloh,:ckameloh-owo:
+15-10-2020T21:54:35,CrRAR,:eyes::sparkles:
+15-10-2020T21:54:36,microbuss,https://www.youtube.com/watch?v=MjdftYLe-8s hehe
+15-10-2020T21:54:37,TheMaskedMisfit,Sup Kame
+15-10-2020T21:54:41,Kameloh,whoa this is friggin cool!
+15-10-2020T21:54:44,Kameloh,WOW
+15-10-2020T21:54:48,unsteddyphoenix,the music works so well lol
+15-10-2020T21:54:50,RedDragonSyndicate,heya
+15-10-2020T21:54:53,Kameloh,:weary:
+15-10-2020T21:54:54,Sclimshady,This is awesome
+15-10-2020T21:54:56,SageSaga,yo Red
+15-10-2020T21:54:56,BADBackgroundProductions,Red!
+15-10-2020T21:54:58,KeefMcDerpface,hello Red
+15-10-2020T21:55:00,NezumiYuki,Tom did a 3D panorama
+15-10-2020T21:55:05,CrRAR,"WOW, HOW, WHEEE, WHA!?"
+15-10-2020T21:55:08,Dragusthor,wow
+15-10-2020T21:55:11,Kameloh,you gotta teach us how to make this later :eyes: :eyes: :eyes: :eyes:
+15-10-2020T21:55:12,Kameloh,AAAAAAAAA
+15-10-2020T21:55:15,TheMaskedMisfit,This would go great on the PS5
+15-10-2020T21:55:16,RheagarsArtEmporium,Tom you details. are crazy in that Panorama
+15-10-2020T21:55:19,CrRAR,"""teach"""
+15-10-2020T21:55:20,w0lfmare,It's photoshop only!
+15-10-2020T21:55:21,Dragusthor,full 360
+15-10-2020T21:55:24,CrRAR,:ctwokinds-NataniHAHA:
+15-10-2020T21:55:24,NezumiYuki,PhotoShop 3D Panorama
+15-10-2020T21:55:28,Kameloh,:ckameloh-naokidont:
+15-10-2020T21:55:29,w0lfmare,Tom keeping the good stuff
+15-10-2020T21:55:38,KeefMcDerpface,lol
+15-10-2020T21:55:45,Tufi,😱😱
+15-10-2020T21:55:46,Dragusthor,it's awesome how he did it
+15-10-2020T21:55:53,Twokinds,"This is that really big image I was talking about, Kameloh XD"
+15-10-2020T21:55:55,unsteddyphoenix,I still cant work out if the images are curved at all
+15-10-2020T21:55:58,FoxxTrotter,"E'lo, Red."
+15-10-2020T21:55:59,BADBackgroundProductions,"Wait, this is only in Photoshop!?"
+15-10-2020T21:55:59,steelabjur,"Tom just casually pushing PS to it's very limit here, LOL!"
+15-10-2020T21:56:03,Ordithus,zooming way out hurts my brain
+15-10-2020T21:56:03,Kameloh,dayuummm man that's awesome XD
+15-10-2020T21:56:06,Twokinds,20000 x 10000
+15-10-2020T21:56:13,BADBackgroundProductions,Pfttttttttttttt
+15-10-2020T21:56:16,NezumiYuki,"Tom could output this as html5 and we could see it in 3D too, but, how does html5?  I dunt even...."
+15-10-2020T21:56:17,Kameloh,:ckameloh-PleasedNaoki50:
+15-10-2020T21:56:21,Kameloh,XD
+15-10-2020T21:56:31,KeefMcDerpface,AHAHA
+15-10-2020T21:56:33,Ordithus,long basitin
+15-10-2020T21:56:39,Dragusthor,:ptv-excited:
+15-10-2020T21:56:43,TheMaskedMisfit,This is Great
+15-10-2020T21:56:48,CrRAR,"It's like those street artists unstedd that warp their grafffiti to alter perspective, unstead"
+15-10-2020T21:56:54,Kameloh,I love it!
+15-10-2020T21:57:02,Twokinds,I know of some javascript that could display it. Or I could just put it on artstation
+15-10-2020T21:57:05,BADBackgroundProductions,"If, I think I’m getting tunnel vision"
+15-10-2020T21:57:12,Kameloh,js could be fun :eyes:
+15-10-2020T21:57:14,BADBackgroundProductions,*ug
+15-10-2020T21:57:28,Dragusthor,yeah in artstation
+15-10-2020T21:57:28,TheMaskedMisfit,Put it on Artstation
+15-10-2020T21:57:31,Mihari,"HTML5 wouldn't be hard, probably a 2 minute job, could just hand it off to your dev."
+15-10-2020T21:58:10,microbuss,Speed Me Up! *zooooms!* :P
+15-10-2020T21:58:20,unsteddyphoenix,Anyway back to work now Kame
+15-10-2020T21:58:20,Dragusthor,I have to learn how
+15-10-2020T21:58:24,unsteddyphoenix,Chop chop!
+15-10-2020T21:58:36,CrRAR,:clap::clap:
+15-10-2020T21:58:39,BADBackgroundProductions,Everyone is getting so cool!
+15-10-2020T21:58:48,Kameloh,thanks for that :ckameloh-naokibongoeyebro:
+15-10-2020T21:59:21,unsteddyphoenix,Hey no problem :ptv-dealwithit:
+15-10-2020T21:59:32,Twokinds,:ctwokinds-sytheeyebrows:
+15-10-2020T21:59:34,Mihari,?
+15-10-2020T21:59:40,microbuss,:red_car: zooom :police_car:
+15-10-2020T21:59:47,Kameloh,:ckameloh-Teedus:
+15-10-2020T22:00:02,CrRAR,:cw0lfmare-Paperembercool:
+15-10-2020T22:00:14,w0lfmare,:cw0lfmare-Paperembercool:
+15-10-2020T22:00:38,Ordithus,:ctwokinds-keith8D:
+15-10-2020T22:00:43,microbuss,heh I wouldn't speed on roads nopes Do not want :rotating_light: behind me
+15-10-2020T22:00:45,Sclimshady,Hi w00f
+15-10-2020T22:00:56,Xwz,what will Trace and Flora's baby look like?
+15-10-2020T22:01:00,Xwz,:pensando:
+15-10-2020T22:01:05,Dragusthor,hi wOlf
+15-10-2020T22:01:16,Dragusthor,hablas españos?
+15-10-2020T22:01:17,BADBackgroundProductions,"Whenever I get really happy I get all giddy and say the dumbest stuff, *not about you guys being cool though, I just don’t think I would usually say my flat out"
+15-10-2020T22:01:21,microbuss,a stripey human with orange hair?
+15-10-2020T22:01:33,BadFoMo,@Xwz I naked Mole Rat.
+15-10-2020T22:01:38,NezumiYuki,"I imagine a cute tiggy with blue hair like the dada... and with a cow-lick too, no less.  xD"
+15-10-2020T22:01:40,BadFoMo,*Naked
+15-10-2020T22:01:53,CrRAR,:ccrrar-renibop::notes:
+15-10-2020T22:02:20,Dragusthor,an anime reminds me of this topic
+15-10-2020T22:02:35,NezumiYuki,Ya know... if the kid turns out a White Tiger with Blue Hair... hmmmm
+15-10-2020T22:02:57,BADBackgroundProductions,Hmmmmmmmmmmmmmmmmmmmmmmmmm
+15-10-2020T22:03:33,NezumiYuki,C&C Music Factory~   Things that make you go Hmmmm
+15-10-2020T22:03:54,BADBackgroundProductions,🎶Hmmm hmmmmm hmmmm🎶
+15-10-2020T22:04:33,Twokinds,:ctwokinds-nibsdance:
+15-10-2020T22:04:34,CrRAR,:ctwokinds-nibsbounce:
+15-10-2020T22:04:38,CrRAR,"wow, very technicolor dreamcoat~"
+15-10-2020T22:04:47,InTheLionsDen,:ctwokinds-nibsdance:
+15-10-2020T22:04:48,BADBackgroundProductions,"Ohhhhh, this reminds me of the 1960s now"
+15-10-2020T22:04:49,CrRAR,:art::paintbrush:
+15-10-2020T22:04:50,Ordithus,:ctwokinds-nibsdance:
+15-10-2020T22:04:55,NezumiYuki,:chipmunk:
+15-10-2020T22:04:59,KeefMcDerpface,:chipmunk:
+15-10-2020T22:05:09,CrRAR,:ctwokinds-nibsdance:
+15-10-2020T22:05:26,NezumiYuki,Tom is in a good mood when?~
+15-10-2020T22:05:35,NezumiYuki,The art stream starts bouncing!
+15-10-2020T22:05:35,BADBackgroundProductions,🐿🐿🐿🐿🐿
+15-10-2020T22:05:52,ThePurpleKitty,"when hes arting mostly, but always"
+15-10-2020T22:06:31,Rainelover,You’ve been hit by! You’ve been struck by! TRUCK! 🚛💨
+15-10-2020T22:06:49,CrRAR,was it a paint truck?
+15-10-2020T22:06:53,ThePurpleKitty,"wooo, my life long dream XD"
+15-10-2020T22:07:12,NezumiYuki,We got a mighty convoy... Rockin' through the night! :notes:
+15-10-2020T22:07:12,BADBackgroundProductions,"Awww, I just realized, We mad Tom happy when we all said we really liked his 3D picture 😊 I got the warm fuzzies"
+15-10-2020T22:07:20,K3IDRAN,Twokinds: Chapter 16 Remastered Edition
+15-10-2020T22:07:25,Rainelover,That looks different than it did when I typed it
+15-10-2020T22:08:11,CrRAR,tronk
+15-10-2020T22:08:22,CrRAR,:articulated_lorry:
+15-10-2020T22:08:26,BADBackgroundProductions,"Yeah, the emojis are like that"
+15-10-2020T22:08:36,Dragusthor,Twokinds: Chapter 16 Remastered Edition:ptv-excited:
+15-10-2020T22:08:59,CrRAR,maybe
+15-10-2020T22:09:00,CrRAR,:articulated_lorry::boom::fish:
+15-10-2020T22:09:03,BADBackgroundProductions,"Wow, THAT would take a looong time"
+15-10-2020T22:09:05,K3IDRAN,With  better Art style
+15-10-2020T22:09:26,CrRAR,:ccrrar-chipr:
+15-10-2020T22:09:57,K3IDRAN,Yeah but remastering video games with mods on the other hand
+15-10-2020T22:10:13,K3IDRAN,Like under a minute
+15-10-2020T22:10:30,BADBackgroundProductions,"Hey, Bioshock remastered was pretty good"
+15-10-2020T22:10:59,KeefMcDerpface,"""Would you kindly..."""
+15-10-2020T22:11:14,BADBackgroundProductions,“OBEY!!”
+15-10-2020T22:11:16,NezumiYuki,Off tangent~  Wonder what a remastered Pizza Guy Tom might look like?
+15-10-2020T22:11:46,BADBackgroundProductions,Do you think he would look older?
+15-10-2020T22:11:51,K3IDRAN,Probably a little ceasers employee
+15-10-2020T22:11:59,Dragusthor,I have to go. Tom was super spectacular to show you.
+15-10-2020T22:12:10,Ordithus,bye drag
+15-10-2020T22:12:10,CrRAR,:v: dragust
+15-10-2020T22:12:11,BADBackgroundProductions,Bye Drag!
+15-10-2020T22:12:17,NezumiYuki,Cya Dragu
+15-10-2020T22:12:19,K3IDRAN,bye drag
+15-10-2020T22:12:22,Dragusthor,goodbye everyone good night
+15-10-2020T22:12:24,KeefMcDerpface,bye Drag
+15-10-2020T22:12:29,Dragusthor,bye :dragon:
+15-10-2020T22:12:35,CrRAR,Now with HD anchovies!
+15-10-2020T22:12:36,CrRAR,:fish::fish::fish:
+15-10-2020T22:12:39,KeefMcDerpface,lol
+15-10-2020T22:12:47,KeefMcDerpface,"""Now with more pizza!!"""
+15-10-2020T22:12:58,NezumiYuki,Meh... I'd rather have double HD pepperoni thank you!
+15-10-2020T22:13:02,CrRAR,yeah probably need a bigger order for everyone now
+15-10-2020T22:13:11,CrRAR,:ctwokinds-karenOOO::ctwokinds-sytheeyebrows::ctwokinds-eyeroll::ctwokinds-daydreamingkat:
+15-10-2020T22:13:12,BADBackgroundProductions,Oh no!! I... I just realized... Natani’s been cut in half!!!
+15-10-2020T22:13:35,K3IDRAN,Laura been 2020fyed
+15-10-2020T22:13:37,Ordithus,he got better
+15-10-2020T22:13:48,CrRAR,:sparkles:
+15-10-2020T22:13:54,CrRAR,ohhh noooo
+15-10-2020T22:13:57,unsteddyphoenix,AAAAAAAAA
+15-10-2020T22:13:58,CrRAR,Tom lol
+15-10-2020T22:14:02,NezumiYuki,Sythe~  Wait what?!  Double the pizza?!~
+15-10-2020T22:14:35,BADBackgroundProductions,Oh gosh!! THERE’s the pizza sauce!
+15-10-2020T22:14:54,K3IDRAN,Please add Chaptter 16 Redrawn as the subtitle xd
+15-10-2020T22:14:58,CrRAR,:fries::tomato:
+15-10-2020T22:15:29,BlackjackSec99,:ctwokinds-awoo:
+15-10-2020T22:15:39,NezumiYuki,:pizza::tomato:
+15-10-2020T22:16:02,Ordithus,:eyes:
+15-10-2020T22:16:08,K3IDRAN,Huurah
+15-10-2020T22:16:09,KeefMcDerpface,:eyes:
+15-10-2020T22:16:15,BlackjackSec99,I made my family recipie pasta...
+15-10-2020T22:16:21,KeefMcDerpface,\o/
+15-10-2020T22:16:35,CrRAR,:spaghetti::ok_hand:
+15-10-2020T22:16:42,SpazztasticKiwi,....is it impasta
+15-10-2020T22:16:48,BlackjackSec99,kinda sus
+15-10-2020T22:17:12,NezumiYuki,Emergency Meeting!   I think I saw the Impasta!   discuss~
+15-10-2020T22:17:14,BADBackgroundProductions,"Wow, old Flora looks REALLY weird compared to new Flora"
+15-10-2020T22:17:27,CrRAR,srs concern
+15-10-2020T22:17:37,K3IDRAN,Ikr
+15-10-2020T22:17:37,CrRAR,now milder... concern
+15-10-2020T22:17:41,CrRAR,"Flora needs the foods, baby food cranky"
+15-10-2020T22:17:45,CrRAR,:ccrrar-stek:
+15-10-2020T22:18:16,BlackjackSec99,needs all the steaks
+15-10-2020T22:18:16,CrRAR,"Flora: ""I can't believe she called me TUBBY"" ;_;"
+15-10-2020T22:18:20,KeefMcDerpface,"Kat: ""But still a tubby tiger."""
+15-10-2020T22:18:22,KeefMcDerpface,haha
+15-10-2020T22:18:24,CrRAR,xD
+15-10-2020T22:18:30,Ordithus,Heck Tom's style evolved a lot since even ch 16
+15-10-2020T22:18:34,BlackjackSec99,:ctwokinds-flomad:
+15-10-2020T22:18:36,CrRAR,"""Such jerk!"""
+15-10-2020T22:18:59,NezumiYuki,Flora~  Damn Hussy... I'm NOT FAT!
+15-10-2020T22:19:12,qwe304,"i mean, this was from 2013"
+15-10-2020T22:19:31,InTheLionsDen,Pleasantly plump.
+15-10-2020T22:19:48,BADBackgroundProductions,"I mean, we literally just saw that he made a VR 3D PICTURE, yes I’d say his skillet have improved a fair amount!"
+15-10-2020T22:19:53,NezumiYuki,Pleasantly Expectant~  <3
+15-10-2020T22:19:56,Ordithus,shh qwe 2013 was last year right
+15-10-2020T22:20:07,CrRAR,*pats ord*
+15-10-2020T22:20:12,BlackjackSec99,I do like the characters being spread out a smidge more...
+15-10-2020T22:20:17,Ordithus,:ctwokinds-LauraCry:
+15-10-2020T22:20:24,CrRAR,haha
+15-10-2020T22:20:29,CrRAR,it's k
+15-10-2020T22:20:34,BlackjackSec99,i mean... I just graduate HS a couple years ago in 06....
+15-10-2020T22:20:38,NezumiYuki,TBH... anything after 2013 up till now is like... Did this even happen?!
+15-10-2020T22:20:40,BadFoMo,"I'm sorry, but I need to ask. On avrage, do Keidran get as big as Humans during pregnancy?"
+15-10-2020T22:21:10,BADBackgroundProductions,"Ya know, I actually DO wish it were 2014 to be honest ORD!"
+15-10-2020T22:21:54,BlackjackSec99,nearly ANY year is better than this year soooooo
+15-10-2020T22:22:27,Rainelover,"Is it true that a woman’s breasts double in size during the first pregnancy, or am I just dumb?"
+15-10-2020T22:22:44,Twokinds,Flora went through a fairly significant redesign around 2015 or so
+15-10-2020T22:23:11,BlackjackSec99,"ehhhh they CAN.... my kids mom went from a C to a DD, then, The Great Deflation happened"
+15-10-2020T22:23:16,unsteddyphoenix,What specifically?
+15-10-2020T22:23:21,CrRAR,she got very animated/expressive at one pont
+15-10-2020T22:23:25,CrRAR,t'was cute
+15-10-2020T22:23:40,CrRAR,"she was always, but more so"
+15-10-2020T22:23:42,Ordithus,Kaylin looks great for 279!
+15-10-2020T22:24:07,Twokinds,"Not intensionally, but just in hindsight, it was quite the shift from before."
+15-10-2020T22:24:07,SageSaga,and she'll look like that till she dies of old age
+15-10-2020T22:24:31,Ordithus,:ctwokinds-zenshocked:
+15-10-2020T22:24:43,CrRAR,c:
+15-10-2020T22:24:46,CrRAR,:c
+15-10-2020T22:24:49,CrRAR,c:
+15-10-2020T22:25:04,BlackjackSec99,.O.
+15-10-2020T22:25:22,CrimsonHelsing,Poor Flora looked so heartbroken and scared in the original cover... ;n;
+15-10-2020T22:25:35,BlackjackSec99,still does with those EYES
+15-10-2020T22:26:07,CrimsonHelsing,She doesn't deserve to be so scared when she's supposed to be happy about certain things ;;
+15-10-2020T22:26:12,K3IDRAN,Flora needs teadpats
+15-10-2020T22:26:26,BlackjackSec99,teadpats
+15-10-2020T22:26:30,NezumiYuki,I cant help but still find it unfair that Flora could pass on while Trace has hardly aged much... unless... Templar Magics from Trace intervenes somehow.
+15-10-2020T22:26:38,K3IDRAN,Hadpats
+15-10-2020T22:26:43,BlackjackSec99,hadpats
+15-10-2020T22:26:43,KeefMcDerpface,Teadpats? I don't think we should pat Flora with tea.
+15-10-2020T22:27:00,Xwz,I got some ginger tea to drink
+15-10-2020T22:27:10,Rainelover,"God, if that’s the case then pray for natani if she ever gets pregnant, she hates the fact that her breasts are so big NOW?! I can only imagine how exasperated when they get BIGGER"
+15-10-2020T22:27:12,Twokinds,I could really go for some tea
+15-10-2020T22:27:14,BlackjackSec99,dont they have tea wraps at fancy spas?
+15-10-2020T22:27:14,CrRAR,:tea::ctwokinds-evalswink_sparkl:
+15-10-2020T22:27:20,qwe304,@NezumiYuki we'll all die of old age long before flora does at this rate
+15-10-2020T22:27:23,KeefMcDerpface,Nor hardhats.
+15-10-2020T22:27:25,BlackjackSec99,I have T
+15-10-2020T22:27:27,NezumiYuki,"Go get sum then, Tom. No worries!"
+15-10-2020T22:27:28,BlackjackSec99,equilla
+15-10-2020T22:27:40,w0lfmare,I can't drink tea :cw0lfmare-Embercat:
+15-10-2020T22:27:46,BlackjackSec99,?!?!?!?!?!?!
+15-10-2020T22:27:46,BADBackgroundProductions,You know what I think it is? I think eeveryone thinks the older flora is more expensive because she has bigger EYES  👀
+15-10-2020T22:27:49,CrRAR,you... can't?
+15-10-2020T22:27:49,Ordithus,wat
+15-10-2020T22:27:57,CrRAR,ANY kind?
+15-10-2020T22:28:01,BlackjackSec99,for why w0lf?
+15-10-2020T22:28:01,KeefMcDerpface,w0lf...?
+15-10-2020T22:28:15,w0lfmare,For some reason it's always made me feel sick
+15-10-2020T22:28:15,CrRAR,"""I do not believe in hot water"""
+15-10-2020T22:28:20,CrRAR,ahh
+15-10-2020T22:28:21,K3IDRAN,My blue spartan looks like an action figure on H3 mcc
+15-10-2020T22:28:24,CrRAR,I can see that
+15-10-2020T22:28:25,unsteddyphoenix,Just...all tea?
+15-10-2020T22:28:25,w0lfmare,Even if it's tastey
+15-10-2020T22:28:25,CrimsonHelsing,"She deserves to have her happy times, really"
+15-10-2020T22:28:26,KeefMcDerpface,"lol, CrRAR"
+15-10-2020T22:28:29,Ordithus,:cw0lfmare-Saltyember: that is sad
+15-10-2020T22:28:35,BADBackgroundProductions,Himmmmmm
+15-10-2020T22:28:36,K3IDRAN,I love tea nut i feel you wOlf
+15-10-2020T22:28:38,CrRAR,What about hot chocolate?
+15-10-2020T22:28:40,BlackjackSec99,thats confusing and sad....
+15-10-2020T22:28:51,w0lfmare,It's fine XD
+15-10-2020T22:28:58,Ordithus,Honestly it took me years to like tea
+15-10-2020T22:29:01,Tufi,Sjsjsj
+15-10-2020T22:29:09,CrRAR,":ctwokinds-keith8D: perfectly ""fiiine"""
+15-10-2020T22:29:10,K3IDRAN,Question wolf can humans also became demons?
+15-10-2020T22:29:12,BlackjackSec99,"wait, what about coffee?"
+15-10-2020T22:29:16,K3IDRAN,Ik off topic
+15-10-2020T22:29:27,CrimsonHelsing,Hot cocoa for everyone after this nightmare is over
+15-10-2020T22:29:35,BlackjackSec99,yes!
+15-10-2020T22:29:36,Xwz,I like coffee
+15-10-2020T22:29:42,BADBackgroundProductions,"I think it’s about time for me to head off to bed. Thanks for the stream Tom, splendid job on the 3D picture! Goodnight everyone!"
+15-10-2020T22:29:43,CrRAR,I have half a tub of eeet!
+15-10-2020T22:29:48,Ordithus,night BAD
+15-10-2020T22:29:49,w0lfmare,I can drink coffee
+15-10-2020T22:29:53,KeefMcDerpface,night BAD
+15-10-2020T22:29:56,BlackjackSec99,"I dont LIKE coffee, its necessary to my survival"
+15-10-2020T22:29:56,NezumiYuki,I need to get back onto devArt some time and catch up... Missed so much there...
+15-10-2020T22:29:58,w0lfmare,Though I don't
+15-10-2020T22:29:58,unsteddyphoenix,What why. That makes no sense
+15-10-2020T22:30:00,w0lfmare,:cw0lfmare-Embersafe:
+15-10-2020T22:30:03,K3IDRAN,Coffeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+15-10-2020T22:30:06,Ordithus,coffee is life though
+15-10-2020T22:30:07,CrRAR,hot water is weird on its own
+15-10-2020T22:30:11,CrRAR,tbh
+15-10-2020T22:30:13,unsteddyphoenix,If I ever meet you IRL im gonna feed you so much tea
+15-10-2020T22:30:16,unsteddyphoenix,I need to test this
+15-10-2020T22:30:21,CrRAR,maybe you need stronk teas!
+15-10-2020T22:30:24,CrRAR,:ctwokinds-kingtea:
+15-10-2020T22:30:25,microbuss,fun is listening to you favorite songs in the TEN minute version! :P
+15-10-2020T22:30:30,microbuss,your*
+15-10-2020T22:30:31,K3IDRAN,Oml do it unsteddy
+15-10-2020T22:30:32,CrRAR,"like a Chai, w0lf?"
+15-10-2020T22:30:51,BlackjackSec99,"hot water is round, cold water is triangles, and sparkeling water is TV static"
+15-10-2020T22:30:54,CrRAR,I wonder where the line is for palpability?
+15-10-2020T22:30:54,w0lfmare,?
+15-10-2020T22:30:57,K3IDRAN,Torture wOlf with tea
+15-10-2020T22:30:57,CrRAR,:thinking:
+15-10-2020T22:31:03,CrimsonHelsing,"I personally think Trace and Flora deserve some time to celebrate their engagement more after dealing with... y'know, what's happening"
+15-10-2020T22:31:05,CrRAR,like chai tea?
+15-10-2020T22:31:13,CrRAR,it's got spices
+15-10-2020T22:31:16,w0lfmare,Mostly had licorice I think
+15-10-2020T22:31:18,Ordithus,"some of the keidrans' ears have changed quite a lot. Flora, Laura, Mike"
+15-10-2020T22:31:27,Ordithus,The all had the little tufts
+15-10-2020T22:31:27,CrRAR,"cinnamon, cloves, pepper, cardamon"
+15-10-2020T22:31:29,NezumiYuki,Agreed Crimson
+15-10-2020T22:31:56,CrRAR,"W0lf: ""no, no TEA"" :cw0lfmare-EmberEyebrows:"
+15-10-2020T22:32:03,CrRAR,"""evur"""
+15-10-2020T22:32:04,Xwz,and mint tea
+15-10-2020T22:32:13,K3IDRAN,Why is wOlfmare even called that?
+15-10-2020T22:32:28,CrRAR,here we go wit names again xD
+15-10-2020T22:32:34,BlackjackSec99,because w0lf is w0lf?
+15-10-2020T22:32:37,unsteddyphoenix,Why did the tufts go?
+15-10-2020T22:32:38,CrRAR,"""how bout, 0lf?"""
+15-10-2020T22:32:49,NezumiYuki,F0lf?
+15-10-2020T22:32:50,CrRAR,what tufts?
+15-10-2020T22:32:55,BlackjackSec99,ear tufts
+15-10-2020T22:33:01,CrRAR,oh no
+15-10-2020T22:33:04,NezumiYuki,W0x?
+15-10-2020T22:33:07,CrRAR,oh on flora
+15-10-2020T22:33:14,K3IDRAN,Eric Spartan 115 does not approve
+15-10-2020T22:33:18,CrRAR,"that's for Basitins, sillies"
+15-10-2020T22:33:25,CrRAR,:ctwokinds-KeithNeat:
+15-10-2020T22:33:33,KeefMcDerpface,hah
+15-10-2020T22:33:39,microbuss,aha! found my other fave song 7 min 10 seconds hehe
+15-10-2020T22:34:11,CrRAR,:ctwokinds-nibsbounce:
+15-10-2020T22:34:20,InTheLionsDen,:ctwokinds-nibsbounce:
+15-10-2020T22:34:29,K3IDRAN,^_^
+15-10-2020T22:34:53,CrRAR,"""where did they come from, where did they go, sure don't know, cotton ear joe"""
+15-10-2020T22:34:59,CrRAR,:notes:
+15-10-2020T22:35:04,KeefMcDerpface,:ptv-laugh:
+15-10-2020T22:35:11,K3IDRAN,W🐺LFMARE their i remade your name 4 you
+15-10-2020T22:35:22,CrRAR,:wolf::ptv-excited:
+15-10-2020T22:35:34,CrRAR,nice k31drian
+15-10-2020T22:35:39,CrRAR,...as nature intended
+15-10-2020T22:35:50,K3IDRAN,Thanks mate
+15-10-2020T22:35:59,CrimsonHelsing,"Hebanabee habanaboh heddafuq baq in right nao, ah don't have the patience for yu~! - oh God my systems are failing :("
+15-10-2020T22:36:04,KeefMcDerpface,"Oh gosh, w0lfmare in the wolf exhibit with Sythe."
+15-10-2020T22:36:11,NezumiYuki,As Nature Intended?  Then what about femmeClovis?  xD
+15-10-2020T22:36:14,CrRAR,:cw0lfmare-Paperember:
+15-10-2020T22:36:15,CrRAR,:cw0lfmare-PaperemberClose:
+15-10-2020T22:36:20,BlackjackSec99,keef hahahahaha
+15-10-2020T22:36:28,w0lfmare,:cw0lfmare-Paperember:
+15-10-2020T22:36:36,CrRAR,:wolf:
+15-10-2020T22:36:40,BlackjackSec99,lol!
+15-10-2020T22:37:02,CrRAR,:wolf::wolf::cw0lfmare-Paperember::wolf::wolf::wolf::ctwokinds-sytheeyebrows::wolf:
+15-10-2020T22:37:08,Xwz,name CrRAR for CAR
+15-10-2020T22:37:15,CrRAR,beep beep
+15-10-2020T22:37:22,K3IDRAN,Kar8K
+15-10-2020T22:37:24,KeefMcDerpface,"w0lf: ""Why am I here...?"" Sythe: ""Been asking that myself recently."""
+15-10-2020T22:37:29,NezumiYuki,Curb your pizza enthusiasm Sythe!
+15-10-2020T22:37:55,BlackjackSec99,:ctwokinds-eyeroll:
+15-10-2020T22:38:33,FoxxTrotter,"I have an early morning outing, so I'm off to bed. G'night, everyone. :0)"
+15-10-2020T22:38:35,K3IDRAN,Me: I'm just here  to stu Woles wpah s b'lue eoof i'm definitely gonna put this in my journal
+15-10-2020T22:38:39,Ordithus,night foxx
+15-10-2020T22:38:41,KeefMcDerpface,night Foxx
+15-10-2020T22:38:41,CrRAR,if sythe is successful he can alter the pack dynamics to favor pizza and rule ALL of wolfdom
+15-10-2020T22:38:44,K3IDRAN,Study*
+15-10-2020T22:38:47,BlackjackSec99,Tom... Those wings look genuinely ethereal....
+15-10-2020T22:39:01,Xwz,good night FoxxTrotter
+15-10-2020T22:39:08,K3IDRAN,Night fox
+15-10-2020T22:39:12,CrRAR,quality wings indeed
+15-10-2020T22:39:30,K3IDRAN,HD 4k 1080p
+15-10-2020T22:40:58,K3IDRAN,I tried enhancing wOkf's 2nd foic page with some free image enhancer program but i felt it didn't fit well so I scrapped it
+15-10-2020T22:41:18,K3IDRAN,Comic
+15-10-2020T22:41:31,CrRAR,:cw0lfmare-SylvDJ:
+15-10-2020T22:41:49,CrRAR,:ccrrar-chipr:
+15-10-2020T22:42:16,BlackjackSec99,mmmmmm Tequila + Cranberry-blood orange juice
+15-10-2020T22:42:25,K3IDRAN,I dnhanced Mike's transformation part
+15-10-2020T22:42:33,K3IDRAN,Enhanced
+15-10-2020T22:42:43,CrRAR,:ctwokinds-daydreamingkat:*[blood oranges eh?]
+15-10-2020T22:42:49,BlackjackSec99,yes!
+15-10-2020T22:42:51,CrRAR,:bat:
+15-10-2020T22:42:55,K3IDRAN,Blood orange
+15-10-2020T22:42:58,K3IDRAN,Yum
+15-10-2020T22:43:02,CrRAR,that sounds great
+15-10-2020T22:43:22,CrRAR,does it come mixed w/ cranberry or did you add?
+15-10-2020T22:43:47,BlackjackSec99,"its actually this cheap juice brand called Langer's and its overly sweetened, but the cran-blood orange is PERFECT for mixing, like its got grenedine mixed in already"
+15-10-2020T22:44:33,CrRAR,ahhh truee
+15-10-2020T22:45:10,NezumiYuki,LOL this music~   Who gave the Infinity Gauntlet to kurzgesagt?
+15-10-2020T22:45:28,KeefMcDerpface,pffft
+15-10-2020T22:45:29,KeefMcDerpface,haha
+15-10-2020T22:45:32,BlackjackSec99,:ctwokinds-laura:
+15-10-2020T22:45:41,NezumiYuki,Laura Noooooooooo!
+15-10-2020T22:45:44,CrRAR,:gem::sparkles:
+15-10-2020T22:47:09,Tufi,Xd
+15-10-2020T22:47:46,K3IDRAN,Switching my pfp again
+15-10-2020T22:48:24,CrRAR,o'tay
+15-10-2020T22:49:14,CrRAR,d'awww Kaylin
+15-10-2020T22:49:32,Xwz,"good guys, tomorrow i have to wake up very early, so good night for everyone and have a nice stream"
+15-10-2020T22:49:35,AspiringNoodle,[middle finger to]*
+15-10-2020T22:49:42,CrRAR,:v: xwz
+15-10-2020T22:49:43,AspiringNoodle,"RIP, forgot the /w"
+15-10-2020T22:49:49,thestooge2222,"oooh Nice redrawing of sixteen's cover! Man, this doesn't feel that long ago!"
+15-10-2020T22:49:54,KeefMcDerpface,bye Xwz
+15-10-2020T22:50:01,Ordithus,kaylin is cutest dark elf
+15-10-2020T22:50:36,NezumiYuki,But important question here~   Is Kaylin an EILF?  >:3
+15-10-2020T22:50:43,AspiringNoodle,*bap*
+15-10-2020T22:50:56,CrRAR,lolooooonoooo
+15-10-2020T22:50:56,AspiringNoodle,Too thirsty
+15-10-2020T22:51:12,CrRAR,to nyna she be
+15-10-2020T22:51:16,K3IDRAN,Tbh the Remastered cover looks better
+15-10-2020T22:51:36,CrRAR,that is the hope lol
+15-10-2020T22:51:37,BlackjackSec99,o7
+15-10-2020T22:51:41,BlackjackSec99,night folks
+15-10-2020T22:51:47,BlackjackSec99,early morning tomorrow
+15-10-2020T22:51:47,Ordithus,night blackjack
+15-10-2020T22:51:47,CrRAR,:v: blackjack
+15-10-2020T22:51:49,KeefMcDerpface,night Blackjack
+15-10-2020T22:51:50,NezumiYuki,"Skill growth will do that, K3idran.  :D"
+15-10-2020T22:51:55,NezumiYuki,G'night Black
+15-10-2020T22:51:56,ZRO4825,Herro folks.
+15-10-2020T22:52:02,Ordithus,hi ZRO
+15-10-2020T22:52:02,BlackjackSec99,"Tom, simply amazing work! Thank you!"
+15-10-2020T22:52:04,ZRO4825,Kaylin ref sheet? :o
+15-10-2020T22:52:04,CrRAR,elllo zro
+15-10-2020T22:52:05,KeefMcDerpface,hello ZRP
+15-10-2020T22:52:08,KeefMcDerpface,*ZRO
+15-10-2020T22:52:25,Twokinds,o/
+15-10-2020T22:53:12,K3IDRAN,R/TortureTombyFloodingHisInbox
+15-10-2020T22:56:18,Ordithus,:eye:
+15-10-2020T22:56:52,AspiringNoodle,"Haha, you fool, you assume he actually checks it :ptv-laugh:"
+15-10-2020T22:58:18,SageSaga,who checks what?
+15-10-2020T23:00:05,BadFoMo,Tom check's his inbox. I know he's abandonded the DA inbox.
+15-10-2020T23:01:46,CrRAR,:fire:
+15-10-2020T23:01:48,CrRAR,:mailbox_closed:
+15-10-2020T23:02:30,CrRAR,"ooo, Toms doing reverse shading... illuminating!"
+15-10-2020T23:02:48,Ordithus,heh
+15-10-2020T23:04:13,NezumiYuki,Tom the Illuminati?  O.O
+15-10-2020T23:04:22,NezumiYuki,kidding kidding!
+15-10-2020T23:04:27,CrRAR,haha
+15-10-2020T23:04:34,CrRAR,I like how in the old version Kat was slightly further away.
+15-10-2020T23:04:46,CrRAR,"""Hey Kat, can you move in a bit?"""
+15-10-2020T23:04:57,CrRAR,:ctwokinds-daydreamingkat:*[Okay!]
+15-10-2020T23:05:08,microbuss,I had Runza tonite hehe
+15-10-2020T23:05:47,CrRAR,"ooo sandwich shop, what'd ya get?"
+15-10-2020T23:06:06,microbuss,doubler cheese bburger with everything extra onions
+15-10-2020T23:06:30,microbuss,2 large onion rings with onion dip 2
+15-10-2020T23:06:47,CrRAR,dang yes onion riingsss
+15-10-2020T23:07:01,CrRAR,I have to say I really like their motto.
+15-10-2020T23:07:01,microbuss,Woulda got a Runza but wasn't in the mood for it
+15-10-2020T23:07:09,NezumiYuki,"Okay that's it for me.  Rock on Tom, and see you guys Sunday!  :wave:"
+15-10-2020T23:07:09,CrRAR,"""Get your bunzas to a runza"""
+15-10-2020T23:07:13,CrRAR,:ctwokinds-KatDance:
+15-10-2020T23:07:13,AspiringNoodle,I had buffalo wings.
+15-10-2020T23:07:14,microbuss,LOL
+15-10-2020T23:07:15,CrRAR,:ctwokinds-FloDance:
+15-10-2020T23:07:20,AspiringNoodle,I've been on a wing spree lately :snake:
+15-10-2020T23:07:21,KeefMcDerpface,night Yuki
+15-10-2020T23:07:27,AspiringNoodle,Night yuki
+15-10-2020T23:07:31,MotoNeko,"Amazing how far your art has come, TwoKinds."
+15-10-2020T23:07:39,MotoNeko,Such great effect >D
+15-10-2020T23:07:49,MotoNeko,_D
+15-10-2020T23:07:52,MotoNeko,:D
+15-10-2020T23:07:53,CrRAR,:v: Nezumi
+15-10-2020T23:07:54,microbuss,darn shame none of you in here are near a Runza hehe
+15-10-2020T23:07:59,Dedboi100,There are Twokinds of artists..
+15-10-2020T23:08:05,MotoNeko,"I'm sorry, my keyboard was messing up -.-"
+15-10-2020T23:08:10,Dedboi100,TraditonalArt and DigitalArt
+15-10-2020T23:08:12,MotoNeko,Dude XD
+15-10-2020T23:08:20,CrRAR,oooo organ musiccc
+15-10-2020T23:08:24,CrRAR,:ctwokinds-clovischuckle:
+15-10-2020T23:08:29,CrRAR,:ccrrar-beakr:
+15-10-2020T23:08:38,KeefMcDerpface,:jack_o_lantern:
+15-10-2020T23:08:43,KeefMcDerpface,brb
+15-10-2020T23:08:46,CrRAR,kk
+15-10-2020T23:08:53,CrRAR,:jack_o_lantern:
+15-10-2020T23:11:02,CrRAR,:ctwokinds-nibsbounce:
+15-10-2020T23:11:06,SpazztasticKiwi,🍗
+15-10-2020T23:11:11,SpazztasticKiwi,I haz meats
+15-10-2020T23:11:19,SpazztasticKiwi,Flora would be pleased
+15-10-2020T23:11:21,CrRAR,:ccrrar-stek::ccrrar-chickcr:
+15-10-2020T23:11:22,Ordithus,:ctwokinds-natsducky:
+15-10-2020T23:11:26,KeefMcDerpface,back
+15-10-2020T23:11:30,CrRAR,wb
+15-10-2020T23:11:31,SpazztasticKiwi,front
+15-10-2020T23:11:37,CrRAR,side?
+15-10-2020T23:11:39,microbuss,"you ARE the meats, Spazz! *pounces & noms on* rrrr :P"
+15-10-2020T23:11:47,SpazztasticKiwi,tf
+15-10-2020T23:11:54,AspiringNoodle,"what kind of meats, kiwi? c:"
+15-10-2020T23:11:54,microbuss,tf?
+15-10-2020T23:11:54,CrRAR,:< xD
+15-10-2020T23:12:05,SpazztasticKiwi,orange chicken
+15-10-2020T23:12:06,CrRAR,bab be bumpin
+15-10-2020T23:12:13,AspiringNoodle,"Mmm, zesty :snail:"
+15-10-2020T23:12:15,CrRAR,bumpin bab
+15-10-2020T23:12:15,KeefMcDerpface,awww
+15-10-2020T23:12:17,microbuss,yummy Bone or boneless?
+15-10-2020T23:12:18,BadFoMo,TF = The ****
+15-10-2020T23:12:32,SpazztasticKiwi,no bones here
+15-10-2020T23:12:38,microbuss,oh just say Fook :P
+15-10-2020T23:12:39,SpazztasticKiwi,they’re out for spoops
+15-10-2020T23:13:02,CrRAR,get rice dish too spazz?
+15-10-2020T23:13:25,SpazztasticKiwi,this is from walmart
+15-10-2020T23:13:40,CrRAR,They have orange chik'n? That's aazing
+15-10-2020T23:13:45,CrRAR,amazing
+15-10-2020T23:13:55,SpazztasticKiwi,"which reminds me, somebody called last week & asked if we sell steak"
+15-10-2020T23:14:10,SpazztasticKiwi,walmart deli-cooked steak
+15-10-2020T23:14:25,SpazztasticKiwi,how many languages can we say food poisoning in
+15-10-2020T23:14:28,CrRAR,Well you do chickens
+15-10-2020T23:14:31,AspiringNoodle,69
+15-10-2020T23:14:40,KeefMcDerpface,:ptv-laugh:
+15-10-2020T23:14:45,CrRAR,Put steak in the rotisserarie
+15-10-2020T23:14:51,CrRAR,logical
+15-10-2020T23:14:56,Ordithus,that's not how you steak
+15-10-2020T23:14:59,CrRAR,beeeg roast
+15-10-2020T23:15:02,SpazztasticKiwi,rotisserie.....steak
+15-10-2020T23:15:15,SpazztasticKiwi,do you WANT people to beat you with a stick
+15-10-2020T23:15:23,CrRAR,fun way to cook
+15-10-2020T23:15:30,SpazztasticKiwi,cause that sounds like fighting words
+15-10-2020T23:15:31,AspiringNoodle,"Here's how to cook a steak, the F U N way"
+15-10-2020T23:15:34,CrRAR,haha
+15-10-2020T23:15:38,AspiringNoodle,First: buy a flamethrower from The Boring Company
+15-10-2020T23:15:49,AspiringNoodle,Two: Nail the steak to a non-flammable wall
+15-10-2020T23:15:59,AspiringNoodle,Three: Pretend it's a spider
+15-10-2020T23:16:06,CrRAR,Four: ???
+15-10-2020T23:16:07,Ordithus,:ctwokinds-rainehappy:*[Tastes like butane!]
+15-10-2020T23:16:07,AspiringNoodle,Four: Flip and repeat.  Voila~
+15-10-2020T23:16:31,SageSaga,i think you mean Not-A-Flamethrower
+15-10-2020T23:16:37,KeefMcDerpface,"""Ah! It's a spider! Kill it!"" :fire: :fire: :fire:"
+15-10-2020T23:16:39,AspiringNoodle,"Ah yes, thank you Sage"
+15-10-2020T23:16:45,K3IDRAN,Laura looks beautiful ahhh
+15-10-2020T23:16:47,CrRAR,Just hire a Reni
+15-10-2020T23:16:49,AspiringNoodle,Buy a perfectly legal Not-A-Flamethrower*
+15-10-2020T23:16:49,CrRAR,:cow2::ctwokinds-renirawr:
+15-10-2020T23:16:50,SpazztasticKiwi,spiders don’t bother me
+15-10-2020T23:17:03,SpazztasticKiwi,renta Reni
+15-10-2020T23:17:05,K3IDRAN,Foxxo vixen
+15-10-2020T23:17:11,CrRAR,haha
+15-10-2020T23:17:22,SpazztasticKiwi,rentaReni
+15-10-2020T23:17:27,Ordithus,dragon-fire grilled steak
+15-10-2020T23:17:28,Ordithus,yum
+15-10-2020T23:17:34,SpazztasticKiwi,also does housecleaning
+15-10-2020T23:17:35,AspiringNoodle,Does she accept payment in head pats and snoot boops?
+15-10-2020T23:17:47,SpazztasticKiwi,*distant* “I do not!”
+15-10-2020T23:17:50,CrRAR,:cw0lfmare-ReniRawr::point_left:
+15-10-2020T23:17:57,CrRAR,:moneybag:
+15-10-2020T23:18:11,AspiringNoodle,"okay, I pay with moneys"
+15-10-2020T23:18:17,CrRAR,"first money, then boops"
+15-10-2020T23:18:17,AspiringNoodle,But I will want to give head pats and snoot boops
+15-10-2020T23:18:24,AspiringNoodle,:ptv-excited:
+15-10-2020T23:18:37,CrRAR,:moneybag::ctwokinds-karenOOO::moneybag:
+15-10-2020T23:18:39,KeefMcDerpface,"""Honey, why are the neighbors calling a steak a spider after nailing it to a wall? And then using a Not-A-Flamethrower on it?"""
+15-10-2020T23:18:54,CrRAR,:ctwokinds-eyeroll:*[KAREN! That's our LIFE SAVINGS!]
+15-10-2020T23:19:03,CrRAR,"Karen: ""Worth IT!"""
+15-10-2020T23:19:11,AspiringNoodle,"""They're cooking steaks the FUN way!"" *prepares to copy the neighbors*"
+15-10-2020T23:19:12,CrRAR,"Maren: ""AURGGGGGG"""
+15-10-2020T23:19:18,CrRAR,:cw0lfmare-ReniRawr::point_left::point_left::point_left:
+15-10-2020T23:19:21,KeefMcDerpface,"lol, Noodle"
+15-10-2020T23:19:52,AspiringNoodle,I am a zealous believer of Mythbuster's philosophy
+15-10-2020T23:19:58,AspiringNoodle,When in doubt... C4.
+15-10-2020T23:20:00,microbuss,I has no headfur irl!
+15-10-2020T23:21:10,MotoNeko,"I got to leave now folks, it's legit past 6 am for me XD"
+15-10-2020T23:21:18,AspiringNoodle,SLEEP
+15-10-2020T23:21:20,Ordithus,night moto
+15-10-2020T23:21:23,KeefMcDerpface,bye Moto
+15-10-2020T23:21:32,CrRAR,:v: moto
+15-10-2020T23:21:33,Twokinds,o/
+15-10-2020T23:21:34,MotoNeko,"I was drawing too, Man! XD"
+15-10-2020T23:21:35,microbuss,10:22pm here thinking of bed soon
+15-10-2020T23:21:44,Creativegalaxy,`
+15-10-2020T23:21:51,MotoNeko,"You got a better sleep schedule than me, then XD"
+15-10-2020T23:22:09,MotoNeko,"Anyway, i finished my drawing. Now i can hit the hay."
+15-10-2020T23:22:19,CrRAR,:wave::ccrrar-rocky:
+15-10-2020T23:22:20,Ordithus,sleep well
+15-10-2020T23:22:29,Creativegalaxy,hello
+15-10-2020T23:22:35,MotoNeko,"Goodnight again and hope the stream goes great for you all. Fantastic work, Twokinds!"
+15-10-2020T23:22:35,CrRAR,elllo galaxy
+15-10-2020T23:22:47,KeefMcDerpface,hello galaxy
+15-10-2020T23:23:01,Dadrobit,Howdy y'all!
+15-10-2020T23:23:06,KeefMcDerpface,hello Dad
+15-10-2020T23:23:06,BadFoMo,Yo.
+15-10-2020T23:23:08,Ordithus,o/ dad
+15-10-2020T23:23:12,CrRAR,heyo daddio
+15-10-2020T23:23:42,Dadrobit,Remastering pages for the next book?
+15-10-2020T23:24:02,CrRAR,yup chapter cover
+15-10-2020T23:24:03,microbuss,I do Moto?
+15-10-2020T23:24:09,Twokinds,Yeah!
+15-10-2020T23:24:24,Dadrobit,Coolio!
+15-10-2020T23:24:26,RimaDraws,looking good
+15-10-2020T23:24:26,CrRAR,and he preview the ost amazing VR twokinds experience evur
+15-10-2020T23:24:34,CrRAR,previewed
+15-10-2020T23:24:43,RimaDraws,also god my paranoia is starting to set in from staying at home too long this week
+15-10-2020T23:24:44,AspiringNoodle,^^^
+15-10-2020T23:24:59,AspiringNoodle,"...I agree with both RAR and Rima, haha"
+15-10-2020T23:25:09,microbuss,anyway next project is doing my train layout in basement hehe
+15-10-2020T23:25:09,CrRAR,yeah such weird guilt Rima
+15-10-2020T23:25:26,Dadrobit,"Twokinds vr? Like, he modeled a level in Blender or UE?"
+15-10-2020T23:25:41,Ordithus,360 degree panorama sketch
+15-10-2020T23:25:43,CrRAR,Like a panorama wrap
+15-10-2020T23:25:45,KeefMcDerpface,^
+15-10-2020T23:25:47,Ordithus,pretty amazing
+15-10-2020T23:25:47,RimaDraws,like one night this week i had benadryl to settle the itching from that laundry detergent rash well i had some lucid nightmare that someone broke in. scared me like bad
+15-10-2020T23:25:59,CrRAR,oh jeez
+15-10-2020T23:26:01,RimaDraws,and i dozed off a bit ago and i heard something baniging outside
+15-10-2020T23:26:03,microbuss,well I do gotta get get up at 6am for garag/yard sales hehe
+15-10-2020T23:26:04,Dadrobit,"Ohhhh, like putting a camera in a sphere?"
+15-10-2020T23:26:04,KeefMcDerpface,Not good
+15-10-2020T23:26:07,Ordithus,sure that wasn't sudafed
+15-10-2020T23:26:24,CrRAR,yup pretty much dad
+15-10-2020T23:26:27,RimaDraws,turns out it was my neighbor had a box she needed to get rid of so i checked on that
+15-10-2020T23:26:27,Ordithus,and the sphere was pretty sketch
+15-10-2020T23:26:31,RimaDraws,and yes it was benadryl
+15-10-2020T23:26:33,CrRAR,it's awe inspiring
+15-10-2020T23:26:45,RimaDraws,i've taken sudafed and sudafed dont do that
+15-10-2020T23:27:02,Dadrobit,"I'm lightly familiar with the idea, sounds super cool!"
+15-10-2020T23:27:07,unsteddyphoenix,Yeah dad watch the vod if he doesnt show it again
+15-10-2020T23:27:09,unsteddyphoenix,Was insane
+15-10-2020T23:27:10,RimaDraws,but ive stayed at home for four days and was under stress cause i wasnt working
+15-10-2020T23:27:21,microbuss,my dream this morning that I was a passenger in a car & as soon as we hit a sharp curve & flew off the road I said cya later & instantly woke up XD
+15-10-2020T23:27:37,Dadrobit,Will do!
+15-10-2020T23:27:42,RimaDraws,hi dadro
+15-10-2020T23:27:44,CrRAR,I feel like anything that puts you to sleep unnaturally can cause weird dreams
+15-10-2020T23:27:56,RimaDraws,benadryl knocks me the hell out
+15-10-2020T23:27:58,RimaDraws,like bad
+15-10-2020T23:28:02,Dadrobit,o/ Rima!
+15-10-2020T23:28:12,CrRAR,"micro: ""O'doyle RULES! O'doyle RULES! O'doyle RULES!"""
+15-10-2020T23:28:15,microbuss,always but the Ghostbuster song scared away my nightmares hehe
+15-10-2020T23:28:21,SageSaga,my driving related dreams suck- its like in dreams i drive fine at crazy speeds pulling off crazy stunts- but as soon as i try to park- hundreds are dead and buildings are on fire...
+15-10-2020T23:28:22,CrRAR,:red_car::fog:
+15-10-2020T23:28:39,Ordithus,"I've been having more dreams lately, it's strange"
+15-10-2020T23:28:43,CrRAR,that sounds like a quality no nightmare tactic
+15-10-2020T23:28:55,CrRAR,ghostbuster music
+15-10-2020T23:29:00,KeefMcDerpface,That's an interesting take on the film 'Speed'.
+15-10-2020T23:29:08,Ordithus,lol sage
+15-10-2020T23:29:15,Dadrobit,Lol keef
+15-10-2020T23:29:39,microbuss,I liked Speed 2 tho
+15-10-2020T23:29:44,CrRAR,"yeah you have to think your body is like ""no, why I sleep, am I in trouble, halp!"""
+15-10-2020T23:29:51,Ordithus,it's just the old fear of the parrallel parking part of the test coming back to haunt you
+15-10-2020T23:29:59,KeefMcDerpface,Oh gosh no!
+15-10-2020T23:30:02,RimaDraws,dang
+15-10-2020T23:30:17,Ordithus,highway driving :cw0lfmare-Paperembercool:
+15-10-2020T23:30:25,CrRAR,laughs in Ms. Puff voice
+15-10-2020T23:30:27,Ordithus,parking :ctwokinds-keith8D:
+15-10-2020T23:30:30,SpazztasticKiwi,consider: Flora learning to drive
+15-10-2020T23:30:35,SpazztasticKiwi,but with a carriage
+15-10-2020T23:30:37,CrRAR,parkouring :thinking:
+15-10-2020T23:30:42,KeefMcDerpface,lol
+15-10-2020T23:30:48,CrRAR,that should be what the test
+15-10-2020T23:30:49,Dadrobit,has never parallel parked
+15-10-2020T23:30:56,Ordithus,waaaat
+15-10-2020T23:31:07,microbuss,Interstate drinving at 80MPH!
+15-10-2020T23:31:12,CrRAR,If it's not urban they don't care all the time
+15-10-2020T23:31:21,KeefMcDerpface,If only we can parallel park like that guy in the Mini many years ago...
+15-10-2020T23:31:27,CrRAR,about parallel parking
+15-10-2020T23:31:34,microbuss,in West Texas its 85 hehe
+15-10-2020T23:31:52,AspiringNoodle,"Aw man, you guys lucky"
+15-10-2020T23:31:59,AspiringNoodle,"In my state, highway at most is 65 :snake:"
+15-10-2020T23:32:03,Ordithus,I got pretty darn good at parallel parking thanks to my first apartment in this town.
+15-10-2020T23:32:25,CrRAR,"Park or drive forever, your choice"
+15-10-2020T23:32:30,microbuss,75 here on Interstates 4 lanes 70 2 lane 65
+15-10-2020T23:32:30,CrRAR,:ctwokinds-clovischuckle:
+15-10-2020T23:32:30,Dadrobit,"Legit. I mean, I've had to park parallel to the curb, but I've never had to do it where I had to squeeze into a spot. Just drive in."
+15-10-2020T23:32:55,CrRAR,ah
+15-10-2020T23:32:57,microbuss,other roads is 55 or 50
+15-10-2020T23:33:04,Ordithus,"your car would be super easy to do it in, though"
+15-10-2020T23:33:20,microbuss,Wyoming is 80 & 70
+15-10-2020T23:33:21,Dadrobit,Everything is 65 here. But if you're doing under 70 you're trolling.
+15-10-2020T23:33:37,CrRAR,:ctwokinds-smug:
+15-10-2020T23:33:55,CrRAR,"""hope you like THIS rear end"""
+15-10-2020T23:33:59,CrRAR,:ctwokinds-KeithNeat:
+15-10-2020T23:34:08,Dadrobit,Until the snowbirds come and ruin everything. Suddenly the left lane is now 50...
+15-10-2020T23:34:16,CrRAR,":ctwokinds-keifacepalm:*[siiigh, tourists]"
+15-10-2020T23:34:20,Ordithus,sorry dadro
+15-10-2020T23:34:32,Ordithus,we might keep them this year
+15-10-2020T23:34:41,Dadrobit,True!
+15-10-2020T23:34:46,KeefMcDerpface,"""Tourists... Why did it had to be tourists?"""
+15-10-2020T23:34:50,Dadrobit,But doubtful
+15-10-2020T23:34:55,microbuss,I swear I am gonna get a speeding ticket with my $20 GPS HUD hehe
+15-10-2020T23:35:38,CrRAR,:ctwokinds-keith8D::ctwokinds-keith8D::camera_with_flash::ctwokinds-keith8D:
+15-10-2020T23:35:43,KeefMcDerpface,lol
+15-10-2020T23:35:54,Ordithus,Sage that little Kaylin on the bottom of the sheet is so adorable
+15-10-2020T23:35:56,Ordithus,<3
+15-10-2020T23:36:03,CrRAR,^^^
+15-10-2020T23:36:13,CrRAR,that's what i d'awww earlier
+15-10-2020T23:36:18,microbuss,well it is 70 to my moms town hehe
+15-10-2020T23:36:48,CrRAR,yeah up in new hampshire it's 70 past concord or manchester
+15-10-2020T23:36:57,microbuss,4 lane road
+15-10-2020T23:36:57,SageSaga,alright done with this sheet :P time to move on to the comic
+15-10-2020T23:36:57,horoisawolf,"uh, Tom, you said this image is in preparation for the book, right? if so, how are you going to print that gorgeous glow effect?"
+15-10-2020T23:37:04,SageSaga,after a break
+15-10-2020T23:37:16,CrRAR,he has his ways
+15-10-2020T23:37:18,Ordithus,have a good break
+15-10-2020T23:37:23,CrRAR,yis
+15-10-2020T23:37:27,SageSaga,be back in a little bit
+15-10-2020T23:37:27,Dadrobit,"Man, this music is so bouncy and fancy-free!"
+15-10-2020T23:37:32,microbuss,well sheet I better get to bed after the song I listening to hehe
+15-10-2020T23:37:34,SageSaga,10 minutes or so
+15-10-2020T23:37:37,CrRAR,:ccrrar-renibop::notes:
+15-10-2020T23:37:42,CrRAR,:ctwokinds-nibsbounce:
+15-10-2020T23:37:59,microbuss,10 min 14 sec song hehe
+15-10-2020T23:38:04,CrRAR,:v: micro
+15-10-2020T23:38:12,Dadrobit,Reni is goddamned perfect
+15-10-2020T23:38:24,Ordithus,:ctwokinds-reniembarrassed:
+15-10-2020T23:38:29,microbuss,Ghostbusters (extended version) hehe
+15-10-2020T23:38:32,CrRAR,:two_hearts::ctwokinds-reniembarrassed::two_hearts:
+15-10-2020T23:39:13,CrRAR,poor Raine
+15-10-2020T23:39:21,microbuss,yes do want a Ectomobile :P
+15-10-2020T23:39:34,CrRAR,"her face is just, ""I... don't know what to think... about anything"""
+15-10-2020T23:39:46,Pwatcher67,gn all
+15-10-2020T23:39:46,Ordithus,yeah
+15-10-2020T23:39:47,CrRAR,:ctwokinds-LauraCry:
+15-10-2020T23:39:48,Twokinds,Done
+15-10-2020T23:39:51,Ordithus,night pwatcher
+15-10-2020T23:39:54,Dadrobit,Nice!
+15-10-2020T23:39:54,KeefMcDerpface,lovely
+15-10-2020T23:39:57,CrRAR,magnifique~
+15-10-2020T23:40:01,Ordithus,"Really good, Tom!"
+15-10-2020T23:40:03,Dadrobit,o/ pw
+15-10-2020T23:40:14,KeefMcDerpface,night pwatcher
+15-10-2020T23:40:21,microbuss,but I'd put in real ghost hunting equipment instead
+15-10-2020T23:40:26,CrRAR,:v::ccrrar-rocky:
+15-10-2020T23:40:28,CrRAR,pwatch
+15-10-2020T23:40:29,unsteddyphoenix,nice work!
+15-10-2020T23:41:28,Ordithus,"Flora looks more nervous than sad, and Raine looks more like she's worried she's about to lose all her friends. Uh, nice?...!"
+15-10-2020T23:42:09,CrRAR,"Raine: ""ow my arm... but I'm a WOLF! ow, my tummy.... why do I have to be a dang WOLF!?"""
+15-10-2020T23:42:10,Dadrobit,Such a glow-up
+15-10-2020T23:42:32,Twokinds,I get it
+15-10-2020T23:42:38,Dadrobit,o7
+15-10-2020T23:42:40,RimaDraws,big glow up
+15-10-2020T23:42:41,RimaDraws,<3
+15-10-2020T23:42:57,steelabjur,That's very nice!
+15-10-2020T23:42:58,AspiringNoodle,super glowy~
+15-10-2020T23:43:04,AspiringNoodle,The printers better do it justice
+15-10-2020T23:43:10,KeefMcDerpface,:ptv-excited:
+15-10-2020T23:43:20,CrRAR,:robot::sweat_drops:
+15-10-2020T23:43:32,CrRAR,:ctwokinds-nibsbounce:
+15-10-2020T23:45:33,microbuss,oh I gotta get this! https://www.amazon.com/Ghostbusters-Ectomobile-Troy-Benjamin/dp/1608875121
+15-10-2020T23:46:33,microbuss,um if I took a pic of a room in my basement with flash What do it mean when I got orbs in the pic?
+15-10-2020T23:46:47,Ordithus,dust in the air
+15-10-2020T23:47:02,microbuss,or ghosts hehe
+15-10-2020T23:47:09,Ordithus,maybe
+15-10-2020T23:47:12,Ordithus,but probably dust
+15-10-2020T23:47:20,microbuss,more than likely
+15-10-2020T23:47:22,steelabjur,Check your lens for dust?
+15-10-2020T23:47:28,microbuss,its clean
+15-10-2020T23:47:53,Dadrobit,Not to jinx it...
+15-10-2020T23:48:05,AspiringNoodle,"Hmmm...micro, have you had any cold spots in the house?  Stuff moving around?  Any random writing in journals?"
+15-10-2020T23:48:10,AspiringNoodle,We need more information :snake:
+15-10-2020T23:48:26,Dadrobit,But did Picarto update something for mobile? I've actually had a pretty steady connection?
+15-10-2020T23:48:27,InTheLionsDen,Items being turned 5 degrees
+15-10-2020T23:48:57,CrRAR,they're up to... stuff
+15-10-2020T23:48:59,microbuss,nopers
+15-10-2020T23:49:13,Twokinds,I think I'm gunna go for tonight
+15-10-2020T23:49:21,microbuss,me too nini
+15-10-2020T23:49:22,CrRAR,this has been great
+15-10-2020T23:49:27,RimaDraws,oki tom thank you for the stream
+15-10-2020T23:49:28,CrRAR,long enough
+15-10-2020T23:49:31,Dadrobit,"Right on then, Tom. Thanks kindly for the stream!"
+15-10-2020T23:49:34,Ordithus,"Thanks for the stream, Tom! Have a good night"
+15-10-2020T23:49:40,AspiringNoodle,You did amazing work Tom
+15-10-2020T23:49:44,AspiringNoodle,You deserve all the sleep~
+15-10-2020T23:49:50,InTheLionsDen,"It has been fun. Thanks for the stream, Tom."
+15-10-2020T23:49:55,Zakuru,Thanks for the super cool stream Tom! Sleep well everyone xoxo
+15-10-2020T23:49:56,CrRAR,:ctwokinds-KatDance:
+15-10-2020T23:50:09,CrRAR,:ccrrar-chipr:
+15-10-2020T23:50:16,KeefMcDerpface,:chipmunk:
+15-10-2020T23:50:19,unsteddyphoenix,thanks for streammin!
+15-10-2020T23:50:20,CrRAR,daddio
+15-10-2020T23:50:23,CrRAR,:eyes:
+15-10-2020T23:50:25,AspiringNoodle,"DADRO, LOOK"
+15-10-2020T23:50:26,CrRAR,looookkkk
+15-10-2020T23:50:27,KeefMcDerpface,:eyes:
+15-10-2020T23:50:28,KeefMcDerpface,:ptv-excited:
+15-10-2020T23:50:30,Dadrobit,Ohhhhhhhj!
+15-10-2020T23:50:30,AspiringNoodle,Roberto! :ptv-excited:
+15-10-2020T23:50:47,KeefMcDerpface,:ptv-left: Look at this!!
+15-10-2020T23:50:48,Dadrobit,Quake! But it's Twokinds!
+15-10-2020T23:50:53,KeefMcDerpface,haha
+15-10-2020T23:50:58,CrimsonHelsing,"Okie Tom! Thanks for this stream man! A good blast for the night, and looking forward to more! Everyone looks so beautiful here~! ❤️ Anyway, thanks again Tom, sleep tight, looking forward to the next page, and we'll see you next time!"
+15-10-2020T23:51:04,AspiringNoodle,Tom might sneak another character in there
+15-10-2020T23:51:17,Dadrobit,"I actually love it, that's awesome."
+15-10-2020T23:51:26,Twokinds,^_^
+15-10-2020T23:51:29,Twokinds,Night everyone!
+15-10-2020T23:51:32,Tufi,😱😱❤❤
+15-10-2020T23:51:34,Ordithus,night!
+15-10-2020T23:51:34,KeefMcDerpface,night Tom
+15-10-2020T23:51:40,AspiringNoodle,"Twokinds VR, coming to a console near you in 2050 :D"
+15-10-2020T23:51:43,CrRAR,:cw0lfmare-Echolove::island:
+15-10-2020T23:51:48,steelabjur,G'night Tom!
+15-10-2020T23:51:59,Edmon,THanks for the stream Tom
+15-10-2020T23:52:24,Dadrobit,So many ankles to gawk at.
+15-10-2020T23:52:36,CrRAR,lol
+15-10-2020T23:52:47,KeefMcDerpface,haha
+15-10-2020T23:52:52,KeefMcDerpface,:ptv-ohmy:
+15-10-2020T23:52:54,CrRAR,*beautiful VR 360 experience*
+15-10-2020T23:53:03,CrRAR,*focuses specifically on ankles*
+15-10-2020T23:53:04,Twokinds,XD
+15-10-2020T23:53:20,CrRAR,:ctwokinds-KeithNeat:
+15-10-2020T23:53:21,Ordithus,:ctwokinds-maddiessparkles:
+15-10-2020T23:53:21,Dadrobit,Are you gonna do something like render an X minute long video of it as a 360 video for Youtube or something?
+15-10-2020T23:54:37,Twokinds,I was thinking I'm just gunna get one of those javascript 360 viewers and put it on the website. Or perhaps get an artstation account.
+15-10-2020T23:55:11,AspiringNoodle,"RAR, I saw beans earlier :eyes:"
+15-10-2020T23:55:17,CrRAR,:feet:
+15-10-2020T23:55:43,BadFoMo,The thing on the site sounds cool.
+15-10-2020T23:56:18,BadFoMo,"Also, The ref sheet looks good!"
+15-10-2020T23:56:23,BadFoMo,*the
+15-10-2020T23:56:32,CrRAR,it do
+15-10-2020T23:56:33,Dadrobit,"Hmmm, an account would be more immediately set up, but installing it on your own website would probably be more future-proof against any changes AS might do in the future."
+15-10-2020T23:56:41,Ordithus,:csagesaga-kaylinheart:
+15-10-2020T23:57:14,Dadrobit,And it keeps everything more localized instead of having ANOTHER website fans have to check for stuff.
+15-10-2020T23:57:51,Twokinds,Yeah...
+15-10-2020T23:58:04,Twokinds,"If I got an artstation I'd have to actually use it, I guess."
+15-10-2020T23:58:23,BadFoMo,Future-proofing makes hosting it yourself sound even better.
+15-10-2020T23:58:30,CrRAR,"*people wander into the 3D VR part of the website, never leave*"
+15-10-2020T23:58:49,KeefMcDerpface,hah
+15-10-2020T23:58:50,BadFoMo,Or it cound just be another FA account.
+15-10-2020T23:58:54,SageSaga,im back
+15-10-2020T23:58:58,CrRAR,wb!
+15-10-2020T23:58:59,BadFoMo,Yo.
+15-10-2020T23:59:00,Ordithus,weba
+15-10-2020T23:59:01,SageSaga,ah- thanks for joining Tom
+15-10-2020T23:59:03,Dadrobit,"Wb, Sage"
+15-10-2020T23:59:07,KeefMcDerpface,wb
+15-10-2020T23:59:07,AspiringNoodle,"""Huh... there's a lot more basitins in this scene then there used to be..."
+15-10-2020T23:59:14,Twokinds,Yep!
+15-10-2020T23:59:18,CrRAR,lol
+15-10-2020T23:59:20,BadFoMo,The Ref-Sheet looks good!
+15-10-2020T23:59:31,Twokinds,Sorry to cut and run but I'm sleepy
+15-10-2020T23:59:37,CrRAR,"Stay too long, become a Basitin noodle?"
+15-10-2020T23:59:39,CrRAR,haha
+15-10-2020T23:59:46,CrRAR,deserved!~
+15-10-2020T23:59:47,SageSaga,np- gotta rest up for D&D!
+15-10-2020T23:59:51,InTheLionsDen,:ctwokinds-RainezZz:
+15-10-2020T23:59:58,CrRAR,:ccrrar-natzz:
+15-10-2020T23:59:59,AspiringNoodle,"Hey, with the West Basitin ladies and their traditional dances, who would want to leave? :ptv-excited:"

@@ -1,0 +1,525 @@
+date,user,comment
+06-03-2018T00:27:15,NightMeaty22,Hello
+06-03-2018T00:30:43,NightMeaty22,leaves
+06-03-2018T11:26:33,GameForge,hello!
+06-03-2018T13:28:24,Barabashe4ka,Hello
+06-03-2018T15:57:20,kaldikaldi11,hello
+06-03-2018T16:01:27,hlynur33,hello :D
+06-03-2018T16:01:42,hlynur33,:ptv-condescending:
+06-03-2018T16:02:19,hlynur33,:stuck_out_tongue:
+06-03-2018T16:07:25,hlynur33,bradada dadada dadaadadadaaaa
+06-03-2018T18:05:06,TheArtApprentice,I have a question: can Steam games give you malware or is my virus protection being over protective by falsifying the updated game files?
+06-03-2018T18:06:00,Bgrmystr2,"ANYTHING can give you malware, but it's unlikely that you'll have anything from there"
+06-03-2018T18:06:04,Bgrmystr2,unless it's a questionable game
+06-03-2018T18:06:49,Bgrmystr2,"some games are not actually games, and are just ripoffs, etc"
+06-03-2018T18:07:01,Bgrmystr2,but they have to go through steam guard and such
+06-03-2018T18:07:06,TheArtApprentice,Kerbal space program
+06-03-2018T18:07:15,Bgrmystr2,yeah KSP isn't gonna have anything
+06-03-2018T18:07:34,Bgrmystr2,that sounds like your protection software to me
+06-03-2018T18:07:37,Bgrmystr2,what are you using
+06-03-2018T18:07:38,TheArtApprentice,ok because its new update doesnt like my VP system
+06-03-2018T18:07:47,TheArtApprentice,WebRoot
+06-03-2018T18:07:52,Bgrmystr2,that may be why
+06-03-2018T18:08:17,TheArtApprentice,it did this with subnautica once then gave up after I kept reinstalling it
+06-03-2018T18:08:28,TheArtApprentice,subnautica that is
+06-03-2018T18:08:58,Bgrmystr2,"I don't use Webroot, I use Avast"
+06-03-2018T18:09:08,TheArtApprentice,it seems fine now but im going to have to wait to see
+06-03-2018T18:09:22,TheArtApprentice,ya webroot likes to do stuff like this iv herd
+06-03-2018T18:09:25,Bgrmystr2,I never get false positives from stuff like steam games
+06-03-2018T18:09:44,TheArtApprentice,do you how to make it stop?
+06-03-2018T18:10:12,Bgrmystr2,webroot is probably programmed to have a more outreaching arm in finding stuff that manipulates things for your os and such
+06-03-2018T18:10:17,Bgrmystr2,I've never used it so I dunno
+06-03-2018T18:10:30,Bgrmystr2,there may be an option to turn down the severity of the active shield
+06-03-2018T18:10:36,Bgrmystr2,Avast has one
+06-03-2018T18:11:16,TheArtApprentice,well I dont want to mess with it so im just going to have to wait till it figures out its safe
+06-03-2018T18:11:21,Bgrmystr2,"I can turn Avast into Hardened mode, which looks at everything and has the highest level of security, but also gets in the way of commonly known safe things that do not-safe stuff with the system"
+06-03-2018T18:11:46,Bgrmystr2,running without a process is one such thing
+06-03-2018T18:12:05,Bgrmystr2,"being able to read the memory of programs and the system, etc"
+06-03-2018T18:12:08,Bgrmystr2,stuff like that
+06-03-2018T18:12:24,qwe304,marshmellon dumped all the psd's tom gave him from the nora cards...
+06-03-2018T18:12:35,Bgrmystr2,oh did he
+06-03-2018T18:12:55,qwe304,yup
+06-03-2018T18:13:23,TheArtApprentice,1 minute and I can see what happins
+06-03-2018T18:13:30,TheArtApprentice,*happens
+06-03-2018T18:15:24,TheArtApprentice,W32.Adware.Gen thats what its saying it is
+06-03-2018T18:16:12,Bgrmystr2,Yeah it seems like the virus defintions are too vague to actually recognise real ones vs false positives
+06-03-2018T18:16:25,qwe304,its not
+06-03-2018T18:16:28,qwe304,its real
+06-03-2018T18:16:44,TheArtApprentice,ugh
+06-03-2018T18:16:49,TheArtApprentice,how do you know?
+06-03-2018T18:16:52,Bgrmystr2,that's a standard name Qwe
+06-03-2018T18:16:56,qwe304,opened them
+06-03-2018T18:17:16,qwe304,cant open the .psds' tho
+06-03-2018T18:17:19,qwe304,https://imgur.com/a/Smljc
+06-03-2018T18:17:25,TheArtApprentice,kerbal space program has real malware qwe?
+06-03-2018T18:18:17,TheArtApprentice,whats that?
+06-03-2018T18:18:35,qwe304,the files
+06-03-2018T18:18:40,qwe304,from one of the dumps
+06-03-2018T18:26:08,TheArtApprentice,OOOHHHH i see its happening because the file shares the same name as a real malware file its a false positive
+06-03-2018T18:26:36,TheArtApprentice,the real virus is known to webroot i dont have it though
+06-03-2018T18:32:42,ZephyrTWolffox,Hello
+06-03-2018T18:33:49,TheArtApprentice,hi
+06-03-2018T18:34:13,Dadrobit,"I mean, does Tom stipulate to ~not~ share them once he's given them to the Nora holder?"
+06-03-2018T18:34:27,Dadrobit,"Honest question, haven't gotten a card yet"
+06-03-2018T18:43:01,qwe304,"not sure, he hasnt specified to my knolege, but may be  a breach of patreon TOS"
+06-03-2018T18:47:48,qwe304,yeah it is https://imgur.com/a/xCoD0
+06-03-2018T18:50:39,Dadrobit,Was trawling through the general guidelines and just saw that through the TOS link there.
+06-03-2018T19:11:37,Dadrobit,"I'm not familiar with PS at all. With only the session data, I assume you really only get access to the end result at full resolution and the workflow."
+06-03-2018T19:12:27,Dadrobit,Would it also include things like custom brushsets like Tom uses for things like foliage?
+06-03-2018T19:12:32,Dadrobit,foilage*
+06-03-2018T19:13:00,Dadrobit,"NVM, had it right first time**"
+06-03-2018T19:20:20,qwe304,"no, but all the individual layers, blending and lighting, af full res"
+06-03-2018T19:25:50,Dadrobit,Just makes it easier for people to make more perfect edits with.
+06-03-2018T19:42:14,DarkLinnk,good evening .
+06-03-2018T19:55:19,Combak,Hi.
+06-03-2018T19:55:50,Lolidesubearswag,yo
+06-03-2018T19:56:31,qwe304,lol i tried to open more than one .psd at once: 9gb ram usage
+06-03-2018T19:56:59,Combak,Nice
+06-03-2018T20:01:30,Lolidesubearswag,How is everyone tonight?
+06-03-2018T20:01:57,ItsActuallyKopyKat,lurks in chat
+06-03-2018T20:02:00,ItsActuallyKopyKat,Good thanks
+06-03-2018T20:02:35,ItsActuallyKopyKat,and yourself?
+06-03-2018T20:02:52,ZephyrTWolffox,hi
+06-03-2018T20:03:03,ItsActuallyKopyKat,Hey Zephyr
+06-03-2018T20:03:12,Lolidesubearswag,"Pretty good, just got off of work and excited to watch."
+06-03-2018T20:03:22,ItsActuallyKopyKat,same
+06-03-2018T20:03:45,Lolidesubearswag,hello
+06-03-2018T20:17:02,Dadrobit,"Being sick usually sucks, but there is an upside this time."
+06-03-2018T20:17:29,Dadrobit,I've played so much Morrowind over the past week that I've finally beaten the Tribunal DLC.
+06-03-2018T20:17:53,Dadrobit,Only took me 16 years...
+06-03-2018T20:18:26,Dadrobit,On to Solstheim!
+06-03-2018T20:23:44,wolfspartan1,what is your character robit?
+06-03-2018T20:34:49,Combak,"Oh, doing the Dragonborn DLC? :^p"
+06-03-2018T20:35:22,wolfspartan1,solstheim is in morrowind too
+06-03-2018T20:36:06,Combak,:^p was for sarcasm.
+06-03-2018T20:36:16,Combak,Or just being trolly.
+06-03-2018T20:36:18,wolfspartan1,oh lol
+06-03-2018T20:38:30,Dadrobit,"Light armor, spear"
+06-03-2018T20:38:56,Dadrobit,Restoration enough to get cure disease
+06-03-2018T20:38:57,MarvTheHugPharaoh,Ello o/
+06-03-2018T20:39:01,Dadrobit,o/ Marv
+06-03-2018T20:39:03,Combak,Hey Marv.
+06-03-2018T20:39:11,ZephyrTWolffox,ohai Marv
+06-03-2018T20:39:24,MarvTheHugPharaoh,How are ya'll?
+06-03-2018T20:39:48,Dadrobit,"Cruddy, but Morrowind is sustaining my will to go on."
+06-03-2018T20:40:10,ItsActuallyKopyKat,Morrowind is pretty nice
+06-03-2018T20:40:17,TheBeckoner,Hopefully you power doesnt go out then.
+06-03-2018T20:40:20,Dadrobit,Need to work on my alteration enough to get a good levitate going.
+06-03-2018T20:40:21,TheBeckoner,your*
+06-03-2018T20:40:22,MarvTheHugPharaoh,heard the weather is nice there
+06-03-2018T20:40:26,ZephyrTWolffox,My will is sustained by Pineapple Pizza
+06-03-2018T20:40:30,wolfspartan1,what race did you pick?
+06-03-2018T20:40:47,Dadrobit,"Wooo, ash and blight storms! Better than AZ heat."
+06-03-2018T20:40:57,Dadrobit,Khajiit
+06-03-2018T20:40:59,MarvTheHugPharaoh,lol
+06-03-2018T20:41:25,wolfspartan1,i went with a wood elf
+06-03-2018T20:41:47,Dadrobit,Dirty cannibal!
+06-03-2018T20:41:53,wolfspartan1,"light armour, bow, sword"
+06-03-2018T20:41:56,wolfspartan1,yep
+06-03-2018T20:43:18,wolfspartan1,not all wood elfs are some don't do the green pact
+06-03-2018T20:43:36,Dadrobit,fair 'nuff
+06-03-2018T20:44:09,wolfspartan1,why did you pick khajiit though?
+06-03-2018T20:45:04,ItsActuallyKopyKat,"Khajit with night eye as an assassin is pretty good. Bow, light armor, illusion, and one handed"
+06-03-2018T20:45:27,Dadrobit,"So I can go around freeing the other khajiit at some point and be all like, ""Be free brothers!"""
+06-03-2018T20:45:29,wolfspartan1,yea but you lose out on some armour
+06-03-2018T20:45:46,Dadrobit,Entirely RP choice
+06-03-2018T20:46:11,wolfspartan1,i almost always play as a bosmer
+06-03-2018T20:46:18,Dadrobit,And you still get skills into unarmored that do help mitigate that through evasion a teensy tiny bit.
+06-03-2018T20:47:28,wolfspartan1,do you play with mods or no?
+06-03-2018T20:48:17,Combak,So...
+06-03-2018T20:48:23,MarvTheHugPharaoh,yep
+06-03-2018T20:48:35,Dadrobit,"Naw, totally vanilla"
+06-03-2018T20:48:51,wolfspartan1,ah cool
+06-03-2018T20:49:01,wolfspartan1,i play with a few mods
+06-03-2018T20:49:34,wolfspartan1,mostly graphics mods but i do have one to delay to dark brotherhood assassin
+06-03-2018T20:54:26,Char89TheCharizard,yo
+06-03-2018T20:54:37,Combak,Hi Char!
+06-03-2018T20:55:03,MarvTheHugPharaoh,HI Char
+06-03-2018T20:55:27,Char89TheCharizard,hey
+06-03-2018T20:56:20,ZephyrTWolffox,Hi Char
+06-03-2018T20:57:59,Char89TheCharizard,what's up everyone?
+06-03-2018T20:58:28,Char89TheCharizard,I see Tom's not here yet
+06-03-2018T20:58:46,ItsActuallyKopyKat,I heard that he's sick
+06-03-2018T20:58:57,Char89TheCharizard,from whom?
+06-03-2018T20:59:04,SpazztasticKiwi,Hopefully not the flu or stomach virus
+06-03-2018T20:59:09,ZephyrTWolffox,everyone's sick and dropping like flies!
+06-03-2018T20:59:11,ItsActuallyKopyKat,"He said it apparently, on his IRC"
+06-03-2018T20:59:21,Char89TheCharizard,does this mean no stream tonight?
+06-03-2018T20:59:27,ItsActuallyKopyKat,Not sure
+06-03-2018T20:59:34,ItsActuallyKopyKat,I hope not
+06-03-2018T20:59:40,ItsActuallyKopyKat,I enjoy these streams
+06-03-2018T20:59:46,MarvTheHugPharaoh,if's he's sick then he should take it easy
+06-03-2018T21:00:01,ZephyrTWolffox,yeah prolly
+06-03-2018T21:00:27,SpazztasticKiwi,How have we heard he’s sick?
+06-03-2018T21:01:03,ItsActuallyKopyKat,On his IRC
+06-03-2018T21:01:06,ItsActuallyKopyKat,He said it
+06-03-2018T21:01:12,MarvTheHugPharaoh,whats irc?
+06-03-2018T21:01:41,SpazztasticKiwi,His what now
+06-03-2018T21:01:41,MarvTheHugPharaoh,"I'm a mean old man, internet lingo is werid"
+06-03-2018T21:01:52,ItsActuallyKopyKat,https://en.wikipedia.org/wiki/Internet_Relay_Chat
+06-03-2018T21:02:48,ItsActuallyKopyKat,old form of communication
+06-03-2018T21:03:05,SpazztasticKiwi,I know what it essentially is. I mean a link to his page
+06-03-2018T21:03:42,BadFoMo,http://twokinds.keenspot.com/chat/
+06-03-2018T21:03:53,SpazztasticKiwi,Unless it’s for closer users
+06-03-2018T21:03:54,ItsActuallyKopyKat,^^
+06-03-2018T21:05:28,SpazztasticKiwi,I’d seen that before and had no idea what it was so I passed it up
+06-03-2018T21:05:48,ItsActuallyKopyKat,He's on there from time to time to stop in and say hello
+06-03-2018T21:05:51,Char89TheCharizard,well if he can't stream tonight then I see no reason for being here.
+06-03-2018T21:05:51,SpazztasticKiwi,But I’ll look into it - thxs 😊
+06-03-2018T21:06:02,Char89TheCharizard,laters
+06-03-2018T21:06:04,MarvTheHugPharaoh,bye char
+06-03-2018T21:06:11,BadFoMo,Bye.
+06-03-2018T21:06:57,ItsActuallyKopyKat,adios!
+06-03-2018T21:08:45,TheFDdriver,hello gus
+06-03-2018T21:08:52,MarvTheHugPharaoh,HI FD3S
+06-03-2018T21:08:52,TheFDdriver,*guys*
+06-03-2018T21:08:58,ItsActuallyKopyKat,Hi FD
+06-03-2018T21:09:16,TheFDdriver,stream hype?
+06-03-2018T21:09:33,Lolidesubearswag,possibly no stream
+06-03-2018T21:09:38,MarvTheHugPharaoh,"Tom might be sick so, maybe not"
+06-03-2018T21:09:57,Lolidesubearswag,Only time will tell
+06-03-2018T21:10:00,TheFDdriver,oh... hope he gets better
+06-03-2018T21:10:09,Lolidesubearswag,same
+06-03-2018T21:10:11,TheFDdriver,if thats the case
+06-03-2018T21:11:51,ZizzoGaming,Hey all!
+06-03-2018T21:11:57,MarvTheHugPharaoh,Hi Zizzo
+06-03-2018T21:12:03,TheFDdriver,hey Zizzo
+06-03-2018T21:12:15,TheFDdriver,how's it going
+06-03-2018T21:12:20,ZizzoGaming,Pretty well
+06-03-2018T21:12:25,ItsActuallyKopyKat,hiya zizzo
+06-03-2018T21:12:54,TheFDdriver,good to hear :thumbsup:
+06-03-2018T21:13:19,ZizzoGaming,"Hey @ItsActuallyKopyKat, are you new?"
+06-03-2018T21:13:27,ItsActuallyKopyKat,"yeah, pretty new"
+06-03-2018T21:13:41,ZizzoGaming,"Noice, welcome to the group"
+06-03-2018T21:13:56,TheFDdriver,am i still new?
+06-03-2018T21:14:23,Lolidesubearswag,I know I am
+06-03-2018T21:14:27,ItsActuallyKopyKat,Thanks lol
+06-03-2018T21:17:18,ZizzoGaming,"Oops, *new but not as new"
+06-03-2018T21:17:40,ItsActuallyKopyKat,lol
+06-03-2018T21:17:52,ItsActuallyKopyKat,Is that Laura?
+06-03-2018T21:17:58,ZizzoGaming,Yee
+06-03-2018T21:18:04,TheFDdriver,yes
+06-03-2018T21:19:39,ItsActuallyKopyKat,Nice
+06-03-2018T21:19:47,ItsActuallyKopyKat,"Mine's Kat, obviously"
+06-03-2018T21:20:03,TheFDdriver,yes grumpy Kat
+06-03-2018T21:20:13,ItsActuallyKopyKat,Do you guys think Tom'll do a make up stream?
+06-03-2018T21:20:25,TheFDdriver,I got no idea
+06-03-2018T21:20:30,ItsActuallyKopyKat,"And yeah, she hasn't had her coffee yet"
+06-03-2018T21:20:55,TheFDdriver,"nahh is called ""heat"""
+06-03-2018T21:21:17,TheFDdriver,ohh wait
+06-03-2018T21:21:17,ZizzoGaming,"If Tom doesn't stream tonight, he'll likely stream tomorrow"
+06-03-2018T21:21:21,ItsActuallyKopyKat,BUt it's said in the comic that she can't go into heat... because she's a dogcat hybrid
+06-03-2018T21:21:35,TheFDdriver,yes i forgot
+06-03-2018T21:21:45,TheFDdriver,:sweat_smile:
+06-03-2018T21:21:45,ZizzoGaming,Did it? I thought she was just infertile
+06-03-2018T21:21:53,ZizzoGaming,Wait. Nevermind
+06-03-2018T21:21:55,ItsActuallyKopyKat,"Yeah, infertile and heatless"
+06-03-2018T21:21:57,ZizzoGaming,I'm retarted
+06-03-2018T21:22:04,ItsActuallyKopyKat,lol its ok
+06-03-2018T21:22:18,TheFDdriver,you know that just means slow?
+06-03-2018T21:23:28,ZizzoGaming,Maybe?
+06-03-2018T21:25:01,TheFDdriver,"don't worry, I realized what it meant when I saw Baby Driver"
+06-03-2018T21:25:09,ZizzoGaming,"Brb, gotta go to formation"
+06-03-2018T21:25:22,TheFDdriver,k
+06-03-2018T21:25:56,ItsActuallyKopyKat,baby driver was an awesome movie
+06-03-2018T21:26:24,TheFDdriver,it is a awsome movie
+06-03-2018T21:26:56,TheFDdriver,"specially the first scene,"
+06-03-2018T21:26:59,ItsActuallyKopyKat,yeah that too
+06-03-2018T21:27:41,TheFDdriver,"just hitting by my Subaru, don't worry"
+06-03-2018T21:27:57,MarvTheHugPharaoh,b22?
+06-03-2018T21:28:09,TheFDdriver,dunno
+06-03-2018T21:28:30,TheFDdriver,it was 2011 i think
+06-03-2018T21:28:43,MarvTheHugPharaoh,not a b22 then
+06-03-2018T21:28:49,TheFDdriver,the one with triangle on the front
+06-03-2018T21:28:56,Chippotatothefirst,Is there a stream tonight?
+06-03-2018T21:29:00,MarvTheHugPharaoh,older impreza
+06-03-2018T21:29:09,TheFDdriver,yes
+06-03-2018T21:29:17,TheFDdriver,let me search it
+06-03-2018T21:29:31,qwe304,@Chippotatothefirst probably
+06-03-2018T21:29:35,TheFDdriver,@Chippotatothefirst we dont know
+06-03-2018T21:29:39,Chippotatothefirst,Oh
+06-03-2018T21:29:46,Chippotatothefirst,Thx
+06-03-2018T21:31:02,TheFDdriver,"https://www.google.com/search?client=ms-android-hms-tmobile-us&tbm=isch&q=2006+impreza&chips=q:2006+impreza,g_1:red&sa=X&ved=0ahUKEwi8xvGi19vZAhVCS60KHRvAB6IQ4lYIOygD&biw=360&bih=278&dpr=4#imgrc=XdvopiCI72V7kM:"
+06-03-2018T21:31:08,TheFDdriver,that one
+06-03-2018T21:31:10,TheBeckoner,Big ol link'
+06-03-2018T21:31:21,TheBeckoner,I like it. It's red.
+06-03-2018T21:31:29,TheFDdriver,its called google
+06-03-2018T21:31:34,MarvTheHugPharaoh,nice
+06-03-2018T21:31:57,TheFDdriver,"he was banging the side of the door,XD"
+06-03-2018T21:33:47,TheFDdriver,and.. i prefer the b22
+06-03-2018T21:34:02,TheFDdriver,looks more boxy style
+06-03-2018T21:34:26,Combak,"Tom isn't here, so a stream is looking very unlikely."
+06-03-2018T21:34:37,MarvTheHugPharaoh,its my fav from Subaru
+06-03-2018T21:34:43,ItsActuallyKopyKat,but this conversation is gold
+06-03-2018T21:34:58,TheFDdriver,same marv
+06-03-2018T21:35:32,TheFDdriver,this delay tho
+06-03-2018T21:40:34,TheBeckoner,Im betting no stream.
+06-03-2018T21:40:36,NightMeaty22,Hello
+06-03-2018T21:40:39,TheBeckoner,Hi
+06-03-2018T21:40:46,TheFDdriver,hello night
+06-03-2018T21:40:50,NightMeaty22,How are you
+06-03-2018T21:40:51,TheFDdriver,and beck
+06-03-2018T21:41:13,TheFDdriver,"i am bored, and you?"
+06-03-2018T21:41:21,NightMeaty22,Same
+06-03-2018T21:41:43,funnyman42,No stream?
+06-03-2018T21:41:54,TheFDdriver,i guess?
+06-03-2018T21:42:05,funnyman42,;_;
+06-03-2018T21:42:24,GameForge,rippp
+06-03-2018T21:42:38,funnyman42,:ctwokinds-LauraCry:
+06-03-2018T21:43:47,ItsActuallyKopyKat,check again tomorrow lol
+06-03-2018T21:44:54,TorqueEmUp,"No stream, bummer"
+06-03-2018T21:45:02,TorqueEmUp,guess I will just play some Forza Horizon 1
+06-03-2018T21:45:20,TheFDdriver,for xbox 360?
+06-03-2018T21:45:46,TorqueEmUp,"Well yeah, but playing it on the X."
+06-03-2018T21:46:03,TorqueEmUp,So running at 4k
+06-03-2018T21:46:11,TheFDdriver,"i can still play, right?"
+06-03-2018T21:46:34,TheFDdriver,oh nvm
+06-03-2018T21:47:07,TorqueEmUp,"Of course you still can play between Xbox 360, Xbox One, and Xbox One X"
+06-03-2018T21:47:34,TheFDdriver,i thought you cant
+06-03-2018T21:47:56,ItsActuallyKopyKat,yeah there's backwards compat
+06-03-2018T21:48:23,TheFDdriver,oh i dont have new gen soo you know
+06-03-2018T21:49:39,TorqueEmUp,"Yeah, it all works. All 360 back-compat games run just like the 360 counterparts."
+06-03-2018T21:50:00,TheFDdriver,thats cool
+06-03-2018T21:50:09,TorqueEmUp,So an Xbox 360 doesn't know it's playing with somone on a Xbox One.
+06-03-2018T21:50:13,TheFDdriver,that means no lag
+06-03-2018T21:50:18,TorqueEmUp,It just thinks it's another 360
+06-03-2018T21:50:28,TheFDdriver,and by that i mean console lag
+06-03-2018T21:51:15,TorqueEmUp,You talking framerate? If I am not mistaken the Xbox One S I believe plays the game better than the original 360.
+06-03-2018T21:51:52,TorqueEmUp,On the X it plays 4k 30FPS
+06-03-2018T21:52:03,TheFDdriver,"yes it does, was in round 30 on bo2 with no l"
+06-03-2018T21:52:10,TorqueEmUp,"While Xbox One, and Xbox One S only run the game at it's native 720p."
+06-03-2018T21:53:10,TorqueEmUp,https://www.youtube.com/watch?v=ZWGoXmvilCQ
+06-03-2018T21:53:18,TheFDdriver,thats cool to know
+06-03-2018T21:53:34,TheFDdriver,but i must head to sleep
+06-03-2018T21:57:49,ZizzoGaming,I'm back
+06-03-2018T21:58:02,ZizzoGaming,Still no stream...:ctwokinds-LauraCry:
+06-03-2018T21:58:06,UnknownEnd,????
+06-03-2018T21:58:31,UnknownEnd,:ptv-shock:
+06-03-2018T21:59:21,Lolidesubearswag,Get well soon Tom 07
+06-03-2018T21:59:37,TorqueEmUp,Who said he was sick?
+06-03-2018T21:59:40,UnknownEnd,Wha
+06-03-2018T21:59:45,BluePhantom90,looks like Toms a no show huh
+06-03-2018T21:59:52,MarvTheHugPharaoh,might be sick
+06-03-2018T21:59:57,MarvTheHugPharaoh,according to irc
+06-03-2018T21:59:59,TheBeckoner,Someone said he was sick in his IRC chat thingy
+06-03-2018T22:00:05,TheBeckoner,I think
+06-03-2018T22:01:02,BluePhantom90,didn't open his windows to get fresh air in I take. Need to cycle that air
+06-03-2018T22:01:07,TorqueEmUp,"Ahh hell, I haven't been to the IRC in months"
+06-03-2018T22:01:09,TorqueEmUp,lol
+06-03-2018T22:01:29,TheFDdriver,what IRC
+06-03-2018T22:01:31,BluePhantom90,sorry whats IRC...
+06-03-2018T22:01:36,BluePhantom90,lol
+06-03-2018T22:01:40,UnknownEnd,What that?
+06-03-2018T22:01:42,TorqueEmUp,Ancient way of chatting online
+06-03-2018T22:01:56,TheFDdriver,can i learn the ways
+06-03-2018T22:01:57,Lolidesubearswag,http://twokinds.keenspot.com/chat/
+06-03-2018T22:01:58,BluePhantom90,oh Message boards?
+06-03-2018T22:02:00,Bgrmystr2,"""ancient"""
+06-03-2018T22:02:04,Bgrmystr2,it's not a message board
+06-03-2018T22:02:12,Bgrmystr2,it's an IM client
+06-03-2018T22:02:19,Bgrmystr2,message boards are forums
+06-03-2018T22:02:26,TorqueEmUp,"Basically any computer capable of getitng online in some way, can run IRC"
+06-03-2018T22:02:27,Bgrmystr2,IRC is instant messaging
+06-03-2018T22:02:37,UnknownEnd,Where's do I find this?
+06-03-2018T22:02:48,TheBeckoner,Someone just linked it lol
+06-03-2018T22:02:51,Bgrmystr2,Loli already put the link
+06-03-2018T22:02:56,TheFDdriver,lol
+06-03-2018T22:03:07,TorqueEmUp,They are a bit weird over there in the IRC :P
+06-03-2018T22:03:30,TheFDdriver,XD
+06-03-2018T22:03:36,Lolidesubearswag,lel
+06-03-2018T22:03:44,TorqueEmUp,But that is the only place you might see Tom say something once in a blue moon.
+06-03-2018T22:03:46,TheFDdriver,I will try to survive
+06-03-2018T22:03:47,Bgrmystr2,you say that as if we aren't a bit weird in the stream chat
+06-03-2018T22:04:04,TorqueEmUp,This is true bgr lol
+06-03-2018T22:04:18,TorqueEmUp,only place besides here I mean
+06-03-2018T22:04:19,TheFDdriver,only on the stream?
+06-03-2018T22:04:20,Bgrmystr2,"Also, your prev statement isn't true either Torque, cuz sometimes he's here"
+06-03-2018T22:04:25,Bgrmystr2,and.. then you mention it
+06-03-2018T22:04:26,Bgrmystr2,&gt;:C
+06-03-2018T22:04:31,Bgrmystr2,damn I'm slow today
+06-03-2018T22:04:35,TorqueEmUp,lol
+06-03-2018T22:04:41,TorqueEmUp,yeah meant to clarify that sooner
+06-03-2018T22:04:41,TheFDdriver,i am slower
+06-03-2018T22:04:50,Bgrmystr2,drive sideways
+06-03-2018T22:04:51,TorqueEmUp,But you drive an FD :P
+06-03-2018T22:04:53,Bgrmystr2,play eurobeat
+06-03-2018T22:04:55,Bgrmystr2,fixed that for ya
+06-03-2018T22:05:07,TorqueEmUp,Eurobeat is bad for ya. Gives you speeding tickets.
+06-03-2018T22:05:11,TorqueEmUp,lol
+06-03-2018T22:05:15,Bgrmystr2,why you do it on the road?
+06-03-2018T22:05:27,TheFDdriver,me?
+06-03-2018T22:05:35,TheFDdriver,my FD died remember
+06-03-2018T22:05:46,TorqueEmUp,"I actually got a speedticket yesterday, but not for Eurobeat, I was blasting Van Halen's ""Panama"""
+06-03-2018T22:06:00,TheFDdriver,and ohh i forgot to mention but my trans. is totalled
+06-03-2018T22:06:01,TheBeckoner,lol
+06-03-2018T22:06:11,NezumiYuki,is surprisingly catching one of Tom's streams early for once... What the heck?!  Who divided by Zero?!?!?!
+06-03-2018T22:06:17,TheBeckoner,That's pretty funny Torque.
+06-03-2018T22:06:25,Bgrmystr2,"First off, You'd be an hour late Nezumi"
+06-03-2018T22:06:27,TheBeckoner,non strem
+06-03-2018T22:06:32,Bgrmystr2,He would have started an hour ago
+06-03-2018T22:06:39,TorqueEmUp,Nez about to be disappointed
+06-03-2018T22:06:46,Bgrmystr2,and yeah stream looks unlikely today
+06-03-2018T22:06:54,NezumiYuki,LOL I can never win!  =(
+06-03-2018T22:06:54,Bgrmystr2,since apparently tom wasn't feeling well :i
+06-03-2018T22:06:58,Bgrmystr2,:o*
+06-03-2018T22:07:07,TorqueEmUp,Lots of people sick lately
+06-03-2018T22:07:10,TheFDdriver,"i'm going to sleep, good night everyone"
+06-03-2018T22:07:12,NezumiYuki,awww dang... hope he feels better soon!
+06-03-2018T22:07:14,Lolidesubearswag,may his body have mercy
+06-03-2018T22:07:24,Lolidesubearswag,night
+06-03-2018T22:07:36,ZizzoGaming,I'm heading out. I got hw to do. Night all!
+06-03-2018T22:07:39,ZizzoGaming,:ctwokinds-RainezZz:
+06-03-2018T22:07:45,Lolidesubearswag,later zizz
+06-03-2018T22:07:54,NezumiYuki,"Okay folks, wish you all well too.  Take care out there.  ^w^"
+06-03-2018T22:07:55,Bgrmystr2,Gnight Zizzo
+06-03-2018T22:08:38,TheBeckoner,Night Zizz
+06-03-2018T22:11:16,UnknownEnd,I'm out. Bye and goodnight!
+06-03-2018T22:11:52,TheBeckoner,Night
+06-03-2018T22:12:34,BluePhantom90,heh Tom should have worked ahead on those pages so if this were to happen he could post the next comic page.
+06-03-2018T22:13:07,MarvTheHugPharaoh,"that was the plan some time ago, problem is he does not have the time form that"
+06-03-2018T22:17:43,Bgrmystr2,"You think he doesn't know that, Blue lol"
+06-03-2018T22:23:44,ItsActuallyKopyKat,Blue...if he knew he was going to get sick he probably would have
+06-03-2018T22:25:36,Bgrmystr2,"He doesn't exactly have all the time in the world to do multiple things at once, so there's that."
+06-03-2018T22:28:22,BluePhantom90,"He has time, he said he doesn't work besides draw. He relaxes and doesn't go out much from the sound of it."
+06-03-2018T22:29:27,Bgrmystr2,:thinking: I don't think you have a full concept of how much work beyond the physical drawing aspect goes into Twokinds
+06-03-2018T22:30:20,Chippotatothefirst,Isn’t he also in college?
+06-03-2018T22:30:27,GameForge,wait what?
+06-03-2018T22:30:31,MarvTheHugPharaoh,no
+06-03-2018T22:30:31,Bgrmystr2,no Chip lol
+06-03-2018T22:30:36,BluePhantom90,"hes out of it, that was a long time ago"
+06-03-2018T22:30:40,GameForge,"i just joind back,what did imiss?"
+06-03-2018T22:30:47,Bgrmystr2,nothin much
+06-03-2018T22:30:49,Bgrmystr2,as well as everything
+06-03-2018T22:30:50,MarvTheHugPharaoh,^
+06-03-2018T22:30:59,GameForge,mind=blown
+06-03-2018T22:31:15,GameForge,i stillwant a tail as a body pillow
+06-03-2018T22:31:25,GameForge,&lt;------ that looks comfy ashell
+06-03-2018T22:31:51,Bgrmystr2,"buy small pillow, attach fuzziness"
+06-03-2018T22:31:56,Chippotatothefirst,"Oh, I was thinking of the about me section of his website"
+06-03-2018T22:31:58,Bgrmystr2,hug pillow.
+06-03-2018T22:32:02,GameForge,XD
+06-03-2018T22:32:08,GameForge,sounds like fun
+06-03-2018T22:32:22,Bgrmystr2,"that's outdated as hell, Chip"
+06-03-2018T22:32:33,Bgrmystr2,it hasn't been relevant for years
+06-03-2018T22:33:03,Chippotatothefirst,Lol well thanks for the update
+06-03-2018T22:33:14,GameForge,"little did we know, chirp is a time traveler"
+06-03-2018T22:33:19,Bgrmystr2,yeh he's full-time artist
+06-03-2018T22:33:23,GameForge,odam
+06-03-2018T22:33:33,Bgrmystr2,lool game
+06-03-2018T22:33:43,Bgrmystr2,Chip came in from the past
+06-03-2018T22:33:43,GameForge,well... he is pulling 5k a month from patrean
+06-03-2018T22:33:44,BluePhantom90,well I might part from here and move to Seff's and Heresy's Stream
+06-03-2018T22:33:54,GameForge,link?
+06-03-2018T22:34:05,Bgrmystr2,"It's actually less than that, Game"
+06-03-2018T22:34:08,Bgrmystr2,cuz taxes and such
+06-03-2018T22:34:11,GameForge,ehh
+06-03-2018T22:34:12,GameForge,true
+06-03-2018T22:34:18,Bgrmystr2,it's probably less than 2500
+06-03-2018T22:34:56,GameForge,well shit
+06-03-2018T22:34:59,GameForge,:(
+06-03-2018T22:35:06,Bgrmystr2,yeah
+06-03-2018T22:35:08,Bgrmystr2,xD
+06-03-2018T22:35:16,GameForge,"well, i guess he can survive off ramen"
+06-03-2018T22:35:21,Bgrmystr2,haha
+06-03-2018T22:35:30,Bgrmystr2,he's paid by keenspot though
+06-03-2018T22:35:34,Bgrmystr2,to have his comic hosted there
+06-03-2018T22:35:35,GameForge,wai wa
+06-03-2018T22:35:36,Bgrmystr2,far as I recall
+06-03-2018T22:35:52,Bgrmystr2,Keenspot pays artists
+06-03-2018T22:36:03,GameForge,ok...
+06-03-2018T22:36:08,MarvTheHugPharaoh,they do
+06-03-2018T22:36:08,Bgrmystr2,I don't know any of the details though
+06-03-2018T22:36:12,Bgrmystr2,so it could be little to nothing
+06-03-2018T22:36:17,Bgrmystr2,or it could be outdated info
+06-03-2018T22:36:18,ItsActuallyKopyKat,plus hes got a rockin patreon
+06-03-2018T22:36:19,Bgrmystr2,I have no idea
+06-03-2018T22:36:34,Bgrmystr2,That was already established KopyKat
+06-03-2018T22:36:36,Bgrmystr2,xD
+06-03-2018T22:36:37,GameForge,"kopy, we just discissed this"
+06-03-2018T22:36:42,Bgrmystr2,right?
+06-03-2018T22:36:42,Bgrmystr2,xD
+06-03-2018T22:36:44,GameForge,XD
+06-03-2018T22:36:52,ItsActuallyKopyKat,whoops lol
+06-03-2018T22:37:06,ItsActuallyKopyKat,I'm only half paying attention; the other half is skyrim
+06-03-2018T22:37:06,GameForge,"well, hope its enough for him to do well"
+06-03-2018T22:37:14,Bgrmystr2,"seems like it is, honestly"
+06-03-2018T22:37:25,Bgrmystr2,making comic just seems like it's really time-consuming
+06-03-2018T22:37:29,Bgrmystr2,the creation process
+06-03-2018T22:37:31,TorqueEmUp,"Taxes yes, but still making far more than the National Average"
+06-03-2018T22:37:32,GameForge,mhmm
+06-03-2018T22:37:48,GameForge,must be hell to draw evry day
+06-03-2018T22:38:07,Bgrmystr2,"I dunno, if he likes drawing, why would it be hell?"
+06-03-2018T22:38:14,GameForge,idk?
+06-03-2018T22:38:18,GameForge,reppitition?
+06-03-2018T22:38:32,TorqueEmUp,"Better to keep your hobbies as hobbies, or else they just become work if it's your job."
+06-03-2018T22:38:37,Bgrmystr2,there'd be mental stress and physical fatigue
+06-03-2018T22:38:41,GameForge,you try doing something you love for 14 years straight
+06-03-2018T22:38:46,Bgrmystr2,I already have
+06-03-2018T22:38:49,Bgrmystr2,and still do XD
+06-03-2018T22:38:50,ItsActuallyKopyKat,"people say that if you love something, get paid for it, but that just makes you hate it i think. My dad loves cars and so he custom builds them for rich people, but now he hates the idea of working on cars"
+06-03-2018T22:38:50,GameForge,AND NOTHING ELSE
+06-03-2018T22:38:59,Bgrmystr2,literally story of my life Game XD
+06-03-2018T22:39:05,GameForge,XD
+06-03-2018T22:39:20,GameForge,"ye, kopy, thats what i was sayen"
+06-03-2018T22:39:32,TorqueEmUp,Pretty much what I was saying too
+06-03-2018T22:39:39,GameForge,yup
+06-03-2018T22:39:49,GameForge,but ohwell
+06-03-2018T22:39:50,Bgrmystr2,"Building computers since I was 6, now I build em, fix em, and clean out the trash that they always have on em"
+06-03-2018T22:39:59,Bgrmystr2,"they're stressful, but it's still fun"
+06-03-2018T22:40:13,GameForge,i must has flora with kids!
+06-03-2018T22:40:38,GameForge,actualy someone did the math on how long it would take...
+06-03-2018T22:40:44,GameForge,at the current pace
+06-03-2018T22:40:46,Bgrmystr2,"KopyKat, you need to do what you love for the right reasons"
+06-03-2018T22:40:48,GameForge,any guesses?
+06-03-2018T22:40:51,Bgrmystr2,"otherwise, it's not going to work"
+06-03-2018T22:41:16,Bgrmystr2,"if you take what you love as a carreer, it highly depends on WHAT you love about it that depends on whether you'll like it as a job"
+06-03-2018T22:41:47,GameForge,"at the current pace, its gonna take 6.5 years for flora to hace kids"
+06-03-2018T22:41:49,GameForge,cubs?
+06-03-2018T22:41:52,GameForge,kittens?
+06-03-2018T22:41:54,GameForge,idfk
+06-03-2018T22:42:28,Bgrmystr2,Kibs
+06-03-2018T22:42:31,Bgrmystr2,:v
+06-03-2018T22:42:33,GameForge,XD
+06-03-2018T22:42:40,Bgrmystr2,better than cuttins.
+06-03-2018T22:42:45,Bgrmystr2,that sounds terrible
+06-03-2018T22:42:46,GameForge,&gt;.&gt;
+06-03-2018T22:42:50,GameForge,ye
+06-03-2018T22:42:56,GameForge,but damn
+06-03-2018T22:43:01,GameForge,6.5 y
+06-03-2018T22:43:24,Bgrmystr2,"nah, it'll happen soonᵀᴹ"
+06-03-2018T22:43:31,TheBeckoner,nubs
+06-03-2018T22:43:51,GameForge,we can hope
+06-03-2018T22:45:08,GameForge,wait...
+06-03-2018T22:45:34,GameForge,"so, does thomas accept that hesa furry, or does he deny it?"
+06-03-2018T22:46:42,Bgrmystr2,:thinking: Tom doesn't consider himself a furry
+06-03-2018T22:47:11,Bgrmystr2,Everyone has definitions of what being a furry is though
+06-03-2018T22:47:34,Bgrmystr2,"there is no standard, unfortunately"
+06-03-2018T22:48:56,GameForge,eh
+06-03-2018T22:48:59,GameForge,ok
+06-03-2018T22:49:49,TheBeckoner,ur a furry if ur a furry
+06-03-2018T22:50:49,Bgrmystr2,"He draws a comic with anthropomorphic characters, sure. He can appreciate anthro art as art. So.. does that alone make him a furry? I dunno. He doesn't go to the cons, or have a suit, etc, etc.."
+06-03-2018T22:51:09,Bgrmystr2,He's just a guy drawin a comic.
+06-03-2018T22:51:09,GameForge,tru tru
+06-03-2018T22:51:25,Bgrmystr2,"a good comic, imo, but still"
+06-03-2018T22:51:36,Bgrmystr2,nothin particularly special
+06-03-2018T22:52:07,Bgrmystr2,He is what he is. Nothin wrong with that. :)
+06-03-2018T22:52:46,ItsActuallyKopyKat,amen bro
+06-03-2018T22:53:44,ItsActuallyKopyKat,"Alrighty all, I'm off"
+06-03-2018T22:53:50,ItsActuallyKopyKat,Goodnight everyone
+06-03-2018T22:54:57,Bgrmystr2,Gnight
+06-03-2018T22:55:41,TheBeckoner,Night
+06-03-2018T22:55:46,Combak,There's a whole discussion to be had about the application of identity labels and the self-identification of label there...
+06-03-2018T22:56:12,Bgrmystr2,haha yeah
+06-03-2018T22:56:29,Bgrmystr2,but that's only cuz there's no standar
+06-03-2018T22:56:30,Bgrmystr2,d
+06-03-2018T22:58:39,TorqueEmUp,"I guess I am not white, because I say I am not white. :P"
+06-03-2018T22:59:06,TorqueEmUp,Even though I am white
+06-03-2018T23:04:01,Combak,"Nah, even then it's an issue."
+06-03-2018T23:05:36,Bgrmystr2,"you are whatcha are. Physically, there's nothing you can do about it. :P"
+06-03-2018T23:05:46,Bgrmystr2,"well, I mean, you could try :thinking:"
+06-03-2018T23:05:57,Bgrmystr2,but that's never gone 100% flawlessly for anyone
+06-03-2018T23:06:15,Combak,"gets out the bleach, tanning machine, and the plastic surgeon."
+06-03-2018T23:06:32,Combak,"But seriously, I was meaning from a more definition angle."
+06-03-2018T23:06:46,Combak,Different areas have different definitions of things.
+06-03-2018T23:10:19,qwe304,opens one .psd file: 80% ram useage
+06-03-2018T23:11:54,Bgrmystr2,"Rip, Qwe"

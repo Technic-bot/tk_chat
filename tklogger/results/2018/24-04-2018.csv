@@ -1,0 +1,158 @@
+date,user,comment
+24-04-2018T00:00:33,Bgrmystr2,so there's going to be some type of virtual surround even in the headsets that have multiple speakers in them
+24-04-2018T00:03:04,Bgrmystr2,"you can't replicate a speaker directly behind you 5 foot away in a headset, cuz there's no way to replicate the sound coming from that direction without it playing from speakers that are already playing audio"
+24-04-2018T00:05:04,Bgrmystr2,ones with multiple drivers will still use virtual surround to try and fool your brain into thinking it sounds like surround with as little interference from other audio sources as possible
+24-04-2018T00:05:13,Bgrmystr2,but it isn't going to be anywhere close to perfect
+24-04-2018T00:06:30,Bgrmystr2,"they are probably the closest to a good virtual surround though, better than others. and only best case scenario, assuming the company actually made each speaker driver in each ear play a different channel."
+24-04-2018T00:06:54,Bgrmystr2,"and with 10 drivers, that's only 5 speakers worth. Not 7."
+24-04-2018T00:07:13,Bgrmystr2,so it wouldn't be 100% 7.1surround
+24-04-2018T00:07:37,Dadrobit,"Nah, I'm gonna hedge my best and say that they probably do have true 7.1 and they do isolate the channels. It's not going to represent as well as a home theatre setup because they physically not set up in the same way. Programming virtual surround to"
+24-04-2018T00:07:47,Dadrobit,interact with 10 drivers seems like more work.
+24-04-2018T00:08:32,Bgrmystr2,"you have two ears and 10 speakers, that's only 5 speakers per ear. how do you get 7.1 surround when that adds up to 7 sounds per ear?"
+24-04-2018T00:08:39,Dadrobit,"10 drivers works for stereo 7.1. Two for sub, two for center, then 3 on each side for front-side, side, and back-side."
+24-04-2018T00:10:07,Bgrmystr2,would the left side speakers reverb for the right side speakers if the sound was close enough?
+24-04-2018T00:10:10,Dadrobit,"Then for stereo mode it just sums everything down to the ""center"" drivers. If it gets fancy it might have an LFE crossover for subs and create a 2.1"
+24-04-2018T00:10:56,Dadrobit,I'm not sure I understand the question?
+24-04-2018T00:11:15,Bgrmystr2,hm lemmy think of a way to explain my question :thinking:
+24-04-2018T00:11:37,Bgrmystr2,like.. if you had a sound from the right side.. far enough away it would only play from the right earphone.
+24-04-2018T00:12:07,Bgrmystr2,"but if it was close to you on your right side, the left side would reverb the sound cuz it's close, in order to give this illusion of surround"
+24-04-2018T00:12:17,Dadrobit,Would it hit the left ear? Probably not in any noticeable manner.
+24-04-2018T00:12:44,Bgrmystr2,so they wouldn't even use virtual surround in that instance?
+24-04-2018T00:13:09,Bgrmystr2,"granted if they did, it would make the left speaker play sounds from the left side as well as reverb sounds from the right side"
+24-04-2018T00:13:12,Dadrobit,"That's where ""divergence"" comes into mixing. Rarely does a sound only travel through a single isolated channel. Often they'll pipe it at least partially through other channels to better simulate a space."
+24-04-2018T00:13:14,Bgrmystr2,so it would be a little muffled
+24-04-2018T00:14:14,Dadrobit,But that's done in mixing by the actual engineers working on the source media.
+24-04-2018T00:14:24,Bgrmystr2,yeah
+24-04-2018T00:18:19,Dadrobit,https://www.youtube.com/watch?v=k9F0yXqWibA
+24-04-2018T00:18:30,Dadrobit,Here's a pretty good showing of what it looks like.
+24-04-2018T00:18:34,Dadrobit,And how it works.
+24-04-2018T00:21:26,Vatruvius,Ohh boy...I was gone for just 20 minutes!
+24-04-2018T00:24:17,Bgrmystr2,biggest problem with that video is that there's no easy way to tell which speaker it'd be coming out of
+24-04-2018T00:24:27,Bgrmystr2,"visually, anyway"
+24-04-2018T00:24:57,Vatruvius,"Okay, read all that. They show the configuration of the 5 speakers in each ear, they are positioned optimally for a true 7.1 experience in a headset."
+24-04-2018T00:25:16,Bgrmystr2,"""optimally"""
+24-04-2018T00:26:27,Vatruvius,"Yeah...all we can do is try to mimic nature...can't copy it exactly. However, their placement is better than virtual surround if tge audio media supports positional sound."
+24-04-2018T00:26:39,Vatruvius,tge*
+24-04-2018T00:26:46,Vatruvius,the*
+24-04-2018T00:27:31,Vatruvius,"Really phone, it does not even correct that spelling because so many people make that mistake on the phone. Agh!"
+24-04-2018T00:29:55,Dadrobit,"What do you mean you can't tell visually? The puck box shows where the audio is going to represent itself in the space, and the meters show exactly how much is actually coming out of each speaker individually."
+24-04-2018T00:30:30,Dadrobit,"That may have come out condescending, it's an honest question."
+24-04-2018T00:32:42,Bgrmystr2,"Cuz it's just a box with a few bars. That really doesn't tell me anything. There's a front left and left, front right and right, center, rear left and right, and a sub. I can't just make out which ""right"" or which ""left"" the sound comes from"
+24-04-2018T00:33:34,Bgrmystr2,fuck's sake I butchered that
+24-04-2018T00:33:48,Bgrmystr2,Front left and center left* / front right and center right*
+24-04-2018T00:34:34,Dadrobit,"I got that, I'm just trying to parse the misunderstanding of the bars."
+24-04-2018T00:35:20,Dadrobit,They're called PPMs or Peak Programming Meters. They tell how much signal is coming through that channel at a given time.
+24-04-2018T00:35:37,Bgrmystr2,"The bars are not labeled, meaning a left audio could be coming out of any one of three left speakers"
+24-04-2018T00:35:48,Bgrmystr2,but it doesn't say
+24-04-2018T00:36:18,Dadrobit,"They don't change position, so you just have to learn which meter represents which channel."
+24-04-2018T00:37:42,Bgrmystr2,"so when you play back one sound on the left speaker, does it play again on the right? to make the 3d effect? Why is that not shown?"
+24-04-2018T00:38:30,Dadrobit,Only if you have panned it to have a stereo image or applied divergence to send a certain amount to another channel.
+24-04-2018T00:38:59,Dadrobit,"If you're just sending the sound solely to the left speaker, it's going to come out mono-left."
+24-04-2018T00:40:33,Dadrobit,"You can add an effect to it that will potentially give it a stereo image like a reverb, but otherwise it will just be mono-left."
+24-04-2018T00:41:29,Vatruvius,What is your opinion of the SteelSeries headsets?
+24-04-2018T00:41:33,Bgrmystr2,"if you didn't reverb it, it wouldn't be virtual surround in a headset, would it? Cuz it's only from one side. It would lose the immersion"
+24-04-2018T00:42:11,Bgrmystr2,It's something I really hate about headphones. Sometimes a sound only comes out of the left side alone.. and the right side makes no sound at all
+24-04-2018T00:42:24,Bgrmystr2,and that completely breaks the immersion
+24-04-2018T00:42:32,Bgrmystr2,cuz I know that's not how sound works
+24-04-2018T00:42:37,Vatruvius,"I believe the virtual surround is about positional sound, at least that is what that all advertise."
+24-04-2018T00:42:53,Dadrobit,"Correct, either you have to send the signal at least partially to one side, or add a reverb to it to create a stereo effect."
+24-04-2018T00:42:58,Vatruvius,they*
+24-04-2018T00:43:13,Bgrmystr2,hm okay
+24-04-2018T00:43:50,Dadrobit,"Pro Tools isn't gonna stop you from just sending mono audio willy nilly, it takes more than a bunch of sounds in different areas to create a believable space."
+24-04-2018T00:44:04,Dadrobit,But it gives plenty of options to do so.
+24-04-2018T00:45:01,Dadrobit,Virtual surround is the opposite of positional sound. Half of it is just compressing the living daylights out of the dynamics so that stuff like footsteps naturally sound louder.
+24-04-2018T00:45:27,Dadrobit,But positions outside of left - right is not taken into consideration.
+24-04-2018T00:45:47,Dadrobit,It's just a mask they put over the original sound.
+24-04-2018T00:46:07,Dadrobit,You're paying for an audio Instagram filter.
+24-04-2018T00:46:37,Bgrmystr2,:/
+24-04-2018T00:54:21,Dadrobit,"I mean, I get it. I used to be into gaming headsets myself before I got into audio, I have my  Turtle Beach PX22's right next to me as I type with their multi-mode ""Superhuman Hearing"" converter to boot. https://i.imgur.com/aJ2FoIv.jpg"
+24-04-2018T00:55:09,Bgrmystr2,"""Superhuman Hearing"" Hahaha, fuckin.. Turtle Beach plss"
+24-04-2018T00:55:35,Dadrobit,"But knowing what I know now? It's all gimmicks dude. The moment I don't need a mic to talk with my buddies, I pop in my proper old fashioned (but quality) stereo headset and it's just better."
+24-04-2018T00:56:25,Bgrmystr2,why not just use the mic from the turtle beach and listen to the audio from that other headset
+24-04-2018T00:56:31,Bgrmystr2,:thinking:
+24-04-2018T00:56:39,Dadrobit,(That thing is literally just a compressor. The sound floor (hiss) when that is on is atrocious)
+24-04-2018T00:56:50,Bgrmystr2,I usually wear the headset I have around my neck for the mic
+24-04-2018T00:56:54,Bgrmystr2,I don't have it over my ears
+24-04-2018T00:57:02,Dadrobit,It's a built in boom mic.
+24-04-2018T00:57:19,Dadrobit,And it flatters my voice.
+24-04-2018T00:57:28,Vatruvius,Well...looks like I am going for a quality stereo cause the true surround needs 4 3.5mm outputs for true surround. I do not know any laptop with 4 3.5mm outputs.
+24-04-2018T00:57:55,Bgrmystr2,but I mean like.. I don't know why you can't just use the mic and the good headphones at the same time. Mic in and audio out do not have to go to the same thing
+24-04-2018T00:57:59,Bgrmystr2,mine don't.
+24-04-2018T00:58:14,Dadrobit,Playstation
+24-04-2018T00:58:34,Dadrobit,Kinda limited there.
+24-04-2018T00:58:40,Bgrmystr2,ahhh hmm
+24-04-2018T00:58:45,Bgrmystr2,:thinking:
+24-04-2018T00:59:01,Dadrobit,"For my computer chatting, I bust out the big boys, but I rarely game on PC."
+24-04-2018T01:01:14,Bgrmystr2,yeah I figured you'd use the good ones on pc
+24-04-2018T01:01:16,Vatruvius,Just a PC gamer here. :D
+24-04-2018T01:01:25,Bgrmystr2,I don't play online on console
+24-04-2018T01:01:32,Bgrmystr2,so I don't gotta worry about it
+24-04-2018T01:02:17,Bgrmystr2,"all the games I'd want to play online.. the ones I'd really enjoy.. can't. they don't have multiplayer on that scale, or if they did, that multiplayer doesn't exist anymore."
+24-04-2018T01:02:21,Bgrmystr2,:(
+24-04-2018T01:02:54,Vatruvius,Do you guys know any other quality headphone brands? I need tgem to have a mic.
+24-04-2018T01:03:11,Dadrobit,Most of my buddies are from a PS3 game called MAG. 256 player battles and a really good communication command system.
+24-04-2018T01:03:30,Vatruvius,them*
+24-04-2018T01:03:39,Dadrobit,"Build in mic? Not really, sorry."
+24-04-2018T01:03:42,Dadrobit,built*
+24-04-2018T01:04:35,Bgrmystr2,Is MAG the game where a fuckton of people play FPS w/ vehicles while some ppl play it in a strategic view vs a team of other ppl doing the same?
+24-04-2018T01:04:45,Bgrmystr2,cuz I remember a game that combined FPS with strategy
+24-04-2018T01:05:01,Dadrobit,"And yeah, my chat system is a wee bit overboard. Costs about as much as the PC itself."
+24-04-2018T01:05:06,Bgrmystr2,"and it looked cool as hell, but I couldn't ever buy it"
+24-04-2018T01:05:11,Vatruvius,"Okay, just a quality headphone brand?"
+24-04-2018T01:05:25,Bgrmystr2,"and then my HD died, and I lost everything, so I dunno the game name anymore"
+24-04-2018T01:07:39,Dadrobit,"Audio Technica, Sony, Bose, Senheiser, AKG, Shure... I'm sure I'm missing a ton off the top of my head."
+24-04-2018T01:08:00,Dadrobit,Beyerdynamic
+24-04-2018T01:08:57,Bgrmystr2,"hey, do they use condenser mics on stages?"
+24-04-2018T01:09:05,Bgrmystr2,or do they use another type of mic?
+24-04-2018T01:09:19,Dadrobit,"Behringer used to be crap back in the day, but their stuff has seen some improvements since they acquired some other companies."
+24-04-2018T01:10:23,Dadrobit,"That's a whole lotta ""It depends"". But for the most parts it's dynamic mics."
+24-04-2018T01:10:59,Bgrmystr2,:thinking: Hm okay :thumbsup:
+24-04-2018T01:11:12,Bgrmystr2,"Dynamic better for more noisy backgrounds, I'm guessing?"
+24-04-2018T01:11:14,Dadrobit,Condensors are super super sensitive and are best suited for studio recording where you can capture the full accurate sound of the source with no background noise.
+24-04-2018T01:11:21,Bgrmystr2,right
+24-04-2018T01:12:04,Dadrobit,The Shure SM57 and SM58 are the two dynamic microphones you're used to seeing at liver performances literally everywhere.
+24-04-2018T01:12:13,Dadrobit,live*
+24-04-2018T01:12:26,Bgrmystr2,ahh
+24-04-2018T01:13:41,Dadrobit,"And if you've ever watched a ""behind the scenes voice over"" segment, you've probably seen a Neumann U87"
+24-04-2018T01:14:03,Dadrobit,Very very nice condenser microphone.
+24-04-2018T01:14:08,Dadrobit,$$$$$$$$$$$
+24-04-2018T01:14:53,Dadrobit,"Shure SM7B is the workhorse for rap artists, Michael Jackson, and radio DJs."
+24-04-2018T01:15:54,Dadrobit,EV RE-20 is generally the other option for radio.
+24-04-2018T01:17:43,Dadrobit,"Oh, and Vat. You can look at any of those brands and anything they offer over $100 is almost certainly going to be #Quality."
+24-04-2018T01:18:01,Vatruvius,Well...I know who to ask for a quality mic if I decide to make videos. :D
+24-04-2018T01:18:38,Dadrobit,"Of course, you're still gonna want to shop around for exactly what suits you, but there are tons of great reviews for a ton of their stuff."
+24-04-2018T01:20:15,Dadrobit,Focusrite Scarlett Solo Studio
+24-04-2018T01:20:18,Dadrobit,There you go.
+24-04-2018T01:20:33,Dadrobit,Literally all you need except maybe a mic stand/boom arm.
+24-04-2018T01:20:51,Dadrobit,https://www.amazon.com/Focusrite-Scarlett-Studio-Interface-Recording/dp/B01E6T54E2/ref=sr_1_3?ie=UTF8&qid=1524637163&sr=8-3&keywords=scarlett+studio
+24-04-2018T01:21:22,Vatruvius,"I am looking at the SteelSeries stuff. Tgey got a headset, mouse, and nice mousepad so that covers everything. The headset would be the Arctis Pro which is affordable but their dedicated enhanced ""gaming"" one adds another $70 because it adds a special"
+24-04-2018T01:21:24,Dadrobit,I got the 2i2 when I first started out and I use that interface to this day.
+24-04-2018T01:21:43,Vatruvius,processor for better positional virtual surround.
+24-04-2018T01:22:36,Dadrobit,I'm against Steel Series simply on morals.
+24-04-2018T01:22:58,Vatruvius,Morals?
+24-04-2018T01:23:12,Vatruvius,What did they do?
+24-04-2018T01:23:31,Dadrobit,They recently took part in a SJW scheme that backfired spectacularly.
+24-04-2018T01:23:55,Vatruvius,SJW sceme?
+24-04-2018T01:25:26,Dadrobit,"They were trying to sell ""#BullyHunter"" branded gear at a premium. #BullyHunter was a bullshit conceptualization of an anti-bullying program that worked by being a bully."
+24-04-2018T01:26:01,Vatruvius,Okay...still looks like quality products though.
+24-04-2018T01:26:12,Bgrmystr2,"I only heard about that once or twice, but didn't really look into it."
+24-04-2018T01:26:15,Dadrobit,"Set up by corporate goons, using SJW mouthpieces to spread lies."
+24-04-2018T01:26:33,Bgrmystr2,I feel like I lose brain cells going into that kinda stuff
+24-04-2018T01:26:42,Bgrmystr2,I just watch my anime and play games
+24-04-2018T01:26:49,Bgrmystr2,and keep my sanity
+24-04-2018T01:26:58,Bgrmystr2,"ignorance is bliss, I guess"
+24-04-2018T01:27:13,Dadrobit,I refuse to knowingly support companies that pull that kind of bullshit. There are plenty of other options to choose from.
+24-04-2018T01:27:30,Vatruvius,Yeah...as much as that would upset me if I looked into it I just finished settling on a headset and mouse. I don't want to start over again.
+24-04-2018T01:27:40,Dadrobit,You do you mate.
+24-04-2018T07:08:29,Barabashe4ka,Hello everybody
+24-04-2018T11:31:58,Vatruvius,Hello people! :ptv-greetings:
+24-04-2018T11:33:02,FlightoFancy6058,has mrs nibbly come to your house yet?
+24-04-2018T11:39:56,Vatruvius,Now that I think about I think she has! :ptv-tease:
+24-04-2018T13:32:06,Zakuru,"just gonna toss this fanart in here, https://the-zakuru.deviantart.com/art/TwoKinds-Before-and-After-742000508"
+24-04-2018T14:08:49,TheBeckoner,"Hey, that's pretty good."
+24-04-2018T14:52:49,Bgrmystr2,You've improved tremendously
+24-04-2018T15:23:10,Vatruvius,Not bad Zak.
+24-04-2018T16:05:55,Zakuru,thanks guys :3
+24-04-2018T23:19:19,NightMeaty22,Hello... is this the right house?
+24-04-2018T23:23:49,NightMeaty22,No
+24-04-2018T23:23:54,NightMeaty22,?

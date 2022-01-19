@@ -1,0 +1,2041 @@
+date,user,comment
+24-05-2020T00:00:08,WINDOWS98SE,"Been trying to get my mother to use it.  She currently uses a massive and messy .txt file for her shopping, bills and such."
+24-05-2020T00:01:24,WINDOWS98SE,"Personally still use Excel for my light bulb collection, although I need to do a recount now since my dad has been taking bulbs without my permission."
+24-05-2020T00:02:32,SpazztasticKiwi,yeah right the polls
+24-05-2020T00:02:56,SpazztasticKiwi,I remember you saying you used it for something for the streams but wasn’t fully clear on what exactly
+24-05-2020T00:03:18,Dadrobit,"Took a similar class a few years back, something along the lines of Basics of the Microsoft Suite. Just spent a month in Powerpoint/Word/Excel/Access each. Super basic, essentially a free credit."
+24-05-2020T00:03:21,SpazztasticKiwi,I remember when they taught us excel in school
+24-05-2020T00:03:35,Dadrobit,Was back when I was considering getting into IT.
+24-05-2020T00:03:49,SpazztasticKiwi,the teacher made sure everyone was clear on how to print an excel sheet
+24-05-2020T00:04:18,SpazztasticKiwi,someone had made an unfortunate legend of himself by effectively breaking the printer
+24-05-2020T00:05:26,SpazztasticKiwi,"told the computer to print and it started to print the entire chart of excel.....aaaalll of it, which as you know, is endless"
+24-05-2020T00:06:05,SpazztasticKiwi,even turning off the computer and printer didn’t work - it printed day and night
+24-05-2020T00:07:03,AspiringNoodle,Good thing the printer couldn't materialize paper
+24-05-2020T00:07:14,AspiringNoodle,That would be an XK-class end of the world scenario right there :ptv-laugh:
+24-05-2020T00:07:18,AspiringNoodle,Just endless paper!
+24-05-2020T00:07:29,SpazztasticKiwi,"when it ran out of paper, it stopped & waited for more"
+24-05-2020T00:07:56,SpazztasticKiwi,I don’t know how they said they stopped it if excel is endless & it was set to print it all
+24-05-2020T00:08:36,SpazztasticKiwi,I have 2011 office on my computer - one person ownership
+24-05-2020T00:10:07,SpazztasticKiwi,used it to write all my papers and work my stuff in college
+24-05-2020T00:11:03,SpazztasticKiwi,still annoyed that the teacher showed little evidence of actually reading through the paragraph per question answer work
+24-05-2020T00:12:15,SpazztasticKiwi,I put good work into all of them but once or twice I pulled some fierce non-answer fillers because I didn’t for the life of me get what it wanted me to answer
+24-05-2020T00:12:48,SpazztasticKiwi,& I yet got charming grades
+24-05-2020T00:16:22,AspiringNoodle,"Honestly, I identify with the printer person"
+24-05-2020T00:16:35,AspiringNoodle,I once borked a program in one of my earliest programming classes.
+24-05-2020T00:17:06,AspiringNoodle,"Not even joking, I poured over this thing and the code was flawless.  It was optimal as I could make it, there were no flaws anywhere."
+24-05-2020T00:17:16,SpazztasticKiwi,it’s a case of not listening to directions or following them
+24-05-2020T00:17:20,AspiringNoodle,"Yet I somehow had everything arranged in such a way that I broke a loop, lol"
+24-05-2020T00:17:54,AspiringNoodle,I broke a for loop.  Like... you can pre-determine how those things run
+24-05-2020T00:17:58,AspiringNoodle,And I broke it
+24-05-2020T00:18:02,SpazztasticKiwi,& for some reason the fact the school was wound tight for paper yet had the gym laminated for thousands every year
+24-05-2020T00:18:51,Ordithus,"fyi it is pretty easy to cancel a print job - open devices and printers, see what's printing, cancel the job"
+24-05-2020T00:18:57,AspiringNoodle,"So, here's how broken the program was"
+24-05-2020T00:19:19,SpazztasticKiwi,I don’t know if they tried that though I wouldn’t doubt they didn’t think of it
+24-05-2020T00:19:32,AspiringNoodle,for(i = 0; i < 10; i++)
+24-05-2020T00:19:57,AspiringNoodle,"I somehow broke this effing line of code earlier in the program through no fault of my own, lol"
+24-05-2020T00:20:19,SpazztasticKiwi,if you say you broke it how’s it not your fault
+24-05-2020T00:20:27,AspiringNoodle,At some point I added a print in the for loop to see what was going on
+24-05-2020T00:20:45,SpazztasticKiwi,last time I saw 0s & is I was in pre cal
+24-05-2020T00:21:02,AspiringNoodle,"Btw, this was for a simple game with text characters"
+24-05-2020T00:21:19,AspiringNoodle,i = 0
+24-05-2020T00:21:22,AspiringNoodle,i = 1
+24-05-2020T00:21:22,SpazztasticKiwi,you’re talking to the wrong person on coding
+24-05-2020T00:21:24,AspiringNoodle,i = 2
+24-05-2020T00:21:25,AspiringNoodle,i = 2
+24-05-2020T00:21:42,AspiringNoodle,and so on
+24-05-2020T00:22:09,AspiringNoodle,Here's how I fixed up
+24-05-2020T00:22:27,AspiringNoodle,Up near the start of the program in the section blocked off for variable declaration / initialization
+24-05-2020T00:22:34,AspiringNoodle,int i;
+24-05-2020T00:22:39,AspiringNoodle,"int i, dummy;"
+24-05-2020T00:22:50,AspiringNoodle,"I added "", dummy"" and it fixed the program"
+24-05-2020T00:23:01,AspiringNoodle,Like... it still boggles my mind to this day xD
+24-05-2020T00:23:05,Ordithus,:ctwokinds-keithdotdotdot:*[K]
+24-05-2020T00:23:12,SpazztasticKiwi,^mood
+24-05-2020T00:23:15,DarthRexKing,bye all.
+24-05-2020T00:23:16,johnnytho,"Coding is hard, cannot for the life of me understand that black, unholy magic."
+24-05-2020T00:23:17,AspiringNoodle,Now you know how I feel
+24-05-2020T00:23:35,AspiringNoodle,I ADDED AN UNUSED DUMMY VARIABLE TO THE PROGRAM
+24-05-2020T00:23:43,AspiringNoodle,AND IT FIXED A LOOP
+24-05-2020T00:23:53,AspiringNoodle,WT-LITERAL-F
+24-05-2020T00:24:33,Ordithus,a good sign of not knowing what you're doing!
+24-05-2020T00:24:43,SpazztasticKiwi,idunno man sometimes you need a dummy to fill the hole
+24-05-2020T00:24:45,AspiringNoodle,"Or that I discovered a flaw in the compiler, lol"
+24-05-2020T00:25:01,AspiringNoodle,"Because even my professors, multiple of them, 2 separate colleges, couldn't figure it out."
+24-05-2020T00:25:04,SpazztasticKiwi,this is barely English to half of us
+24-05-2020T00:25:13,johnnytho,yup
+24-05-2020T00:25:25,AspiringNoodle,I should just become a flippin' bug tester at this rate
+24-05-2020T00:25:29,AspiringNoodle,I seem to be good at breaking things
+24-05-2020T00:25:44,SpazztasticKiwi,that’s a demolition expert
+24-05-2020T00:25:52,AspiringNoodle,Doom 2016?  Fell through the map within the first 2 minutes of playing
+24-05-2020T00:25:59,SpazztasticKiwi,don’t coders have the rubber ducky solution
+24-05-2020T00:26:15,Ordithus,:ctwokinds-natsducky:
+24-05-2020T00:26:22,johnnytho,"Back in high school I though I was smart and joined the software development club. I thought they would teach me some stuff, but they just got frustrated with me. They were good too they would do hackathons and stuff"
+24-05-2020T00:26:35,SpazztasticKiwi,they keep a rubber duck at their desk & when there’s a problem they explain it to the duck until they find the problem
+24-05-2020T00:26:50,SpazztasticKiwi,it’s like putting your essay in translate to find bugs
+24-05-2020T00:26:52,AspiringNoodle,"That's just the thing, lol"
+24-05-2020T00:26:58,AspiringNoodle,My program was ironclad
+24-05-2020T00:27:06,AspiringNoodle,By all accounts it *should* have been perfectly functional
+24-05-2020T00:27:14,AspiringNoodle,And I ended up fixing it with a nonsensical solution.
+24-05-2020T00:27:46,SpazztasticKiwi,AN IDEA 💡
+24-05-2020T00:28:00,SpazztasticKiwi,"Sythe, using Nibbly as a toupee"
+24-05-2020T00:28:19,AspiringNoodle,Because Karen accidentally gave him a bald spot? :ptv-snicker:
+24-05-2020T00:28:43,Ordithus,I've got news for you
+24-05-2020T00:29:06,SpazztasticKiwi,....spit it out then
+24-05-2020T00:29:09,Ordithus,you should watch the very end of the vod
+24-05-2020T00:29:26,SpazztasticKiwi,yeah I saw bits and that spot
+24-05-2020T00:29:38,WINDOWS98SE,"@SpazztasticKiwi Huh, so that's the function of a rubber duck. :thinking:"
+24-05-2020T00:29:53,SpazztasticKiwi,"some would load, but I wasn’t participating"
+24-05-2020T00:29:59,SpazztasticKiwi,or really watching
+24-05-2020T00:30:07,SpazztasticKiwi,that’s what it was called actually
+24-05-2020T00:30:28,AspiringNoodle,"Yeah, I looked it up, lol"
+24-05-2020T00:30:33,SpazztasticKiwi,you know there’s someone that graphed a rubber duck & made it a formula
+24-05-2020T00:30:45,AspiringNoodle,It's actually a common problem solving method
+24-05-2020T00:31:07,AspiringNoodle,"Sometimes when you have trouble finding a solution, explaining it to someone else can help you see something you missed :D"
+24-05-2020T00:31:24,SpazztasticKiwi,but sythe balding & Nibbly tryin to help out by filling that empty patch in his life
+24-05-2020T00:31:34,SpazztasticKiwi,friendship
+24-05-2020T00:32:23,SpazztasticKiwi,sleeping hours are so scrambled
+24-05-2020T00:32:25,WINDOWS98SE,The rubber duck question: https://www.youtube.com/watch?v=XHi3aohNPTw
+24-05-2020T00:34:04,AspiringNoodle,HA
+24-05-2020T00:34:06,AspiringNoodle,I REMEMBER THAT!
+24-05-2020T00:34:23,SpazztasticKiwi,🦆
+24-05-2020T00:35:40,SpazztasticKiwi,"looking at the bath emojis, anyone notice that the medical ones have a pill the size of a syringe"
+24-05-2020T00:36:18,SpazztasticKiwi,I was looking for a bath toy but all I gots soap
+24-05-2020T00:40:20,SpazztasticKiwi,anybody wanna see a blep
+24-05-2020T00:40:54,AspiringNoodle,"I will boop the blep, so go ahead and make me happy snek"
+24-05-2020T00:41:28,SpazztasticKiwi,https://media.discordapp.net/attachments/524825976597643265/714351978217472000/image0.jpg
+24-05-2020T00:41:54,Ordithus,:cat:
+24-05-2020T00:42:08,AspiringNoodle,*boop*
+24-05-2020T00:42:15,AspiringNoodle,SUCH A CUTE KITTY :ptv-excited:
+24-05-2020T00:42:42,AspiringNoodle,"Also, you guys got any advice for the permanently undetermined? lol"
+24-05-2020T00:43:17,AspiringNoodle,undecided*
+24-05-2020T00:44:42,SpazztasticKiwi,think harder
+24-05-2020T00:44:48,SpazztasticKiwi,that’s all I got
+24-05-2020T00:45:25,SpazztasticKiwi,dadro are not on cougar/delinquent busting duty
+24-05-2020T00:55:20,SpazztasticKiwi,social distancing christening https://media.discordapp.net/attachments/524825976597643265/714355632186327061/image0.jpg
+24-05-2020T00:55:57,Ordithus,"""Stay back! I'll squirt you!"" :ctwokinds-floAAA:"
+24-05-2020T00:57:10,SpazztasticKiwi,that’s what Catholics do right
+24-05-2020T00:57:15,SpazztasticKiwi,christening
+24-05-2020T00:57:24,SpazztasticKiwi,and then we got baptism
+24-05-2020T00:58:10,JojoGD,:ptv-laugh:
+24-05-2020T00:58:32,SpazztasticKiwi,“the Lord be with you” 🔫
+24-05-2020T00:58:56,SpazztasticKiwi,oh God that emoji shows as a squirt gun for me but not here
+24-05-2020T00:59:10,SpazztasticKiwi,I do not mean shoot the babby
+24-05-2020T00:59:34,Ordithus,you shoot the babby with holy water
+24-05-2020T00:59:54,SpazztasticKiwi,power wash the Spirit into him
+24-05-2020T01:01:47,JojoGD,Pressure washer
+24-05-2020T01:02:03,SpazztasticKiwi,feel the presence of the Lord with a nerf super soaker
+24-05-2020T01:02:23,SpazztasticKiwi,I’ll stop there before 🌩
+24-05-2020T01:02:35,Ordithus,:ctwokinds-RainezZz: night night
+24-05-2020T01:02:48,SpazztasticKiwi,"hey, what about a static electricity Nibbly"
+24-05-2020T01:03:07,SpazztasticKiwi,she’d look like a dust bunny
+24-05-2020T01:08:20,SpazztasticKiwi,you think she’d float?
+24-05-2020T01:29:12,SpazztasticKiwi,"oh yeah, someone got towed at walmart today"
+24-05-2020T01:30:10,Dadrobit,I'm off tonight. Was busy for a sec doing stuffs.
+24-05-2020T01:31:10,Dadrobit,"I get the water gun thing is kinda funny, but also fuck all the folks still going to public gatherings."
+24-05-2020T01:39:38,AspiringNoodle,I'm looking forward to a meeting on tuesday at work
+24-05-2020T01:40:01,AspiringNoodle,Should be fun
+24-05-2020T01:40:36,SpazztasticKiwi,"yeah, it’s even in the Bible that church is only needs a Bible and a gathering"
+24-05-2020T01:41:01,SpazztasticKiwi,besides the point that you should never have to be seen going
+24-05-2020T01:41:19,AspiringNoodle,"Thank the lord I'm not religious, lol"
+24-05-2020T01:41:42,SpazztasticKiwi,reading at home is supposed to be just as powerful and effective
+24-05-2020T01:42:48,SpazztasticKiwi,exactly what I stick to - a new church means everyone wants to shake hands and know your life story and old church means everyone wants the data backlog
+24-05-2020T01:43:27,WINDOWS98SE,"For where two or three are gathered together in my name, there am I in the midst of them.  Matthew 18:20"
+24-05-2020T01:43:54,SpazztasticKiwi,yeah that
+24-05-2020T01:44:45,WINDOWS98SE,The bible talk reminds me of a couple of fanart Twokinds pieces.  I'll see if I can find them.
+24-05-2020T01:45:14,WINDOWS98SE,They were really well done.  Almost like Tom's style.
+24-05-2020T01:45:26,SpazztasticKiwi,"but yeah, someone parked in the emergency services plot"
+24-05-2020T01:46:03,SpazztasticKiwi,pulled in when the tow truck was loadin er up & the cops were pulling out
+24-05-2020T01:47:18,SpazztasticKiwi,can’t think of any other thing they’d tow it for - they don’t show care for handicap or crooked or that’s not a parking spot violators
+24-05-2020T01:47:24,WINDOWS98SE,https://www.deviantart.com/kman-studio/art/The-TwoKinds-10-Commandments-262573513
+24-05-2020T01:48:14,SpazztasticKiwi,I mean blasphemy but 🤷🏻‍♀️
+24-05-2020T01:48:59,WINDOWS98SE,https://www.sofurry.com/view/1535719
+24-05-2020T01:49:19,SpazztasticKiwi,sort of like a rendition if Moses was an animal man
+24-05-2020T01:49:43,SpazztasticKiwi,or if animals had a Moses version
+24-05-2020T01:56:17,SpazztasticKiwi,say have you tried the bacon potato skin chips
+24-05-2020T01:56:50,WINDOWS98SE,Never heard of them.
+24-05-2020T01:57:08,SpazztasticKiwi,"they’re chips...that are meant to taste like potato skins, which is what chips are, with bacon & cheese"
+24-05-2020T01:57:30,SpazztasticKiwi,they essentially made cheesy bacon flavored chips
+24-05-2020T01:57:45,SpazztasticKiwi,like cookies n cream flavored oreos
+24-05-2020T01:58:16,SpazztasticKiwi,"I mean, they’re good but...someone got paid for this idea"
+24-05-2020T01:58:37,WINDOWS98SE,"Sounds nice!  I like cheese and I like bacon, so I imagine I'd like them."
+24-05-2020T01:59:23,SpazztasticKiwi,they are good - I bought one the other day to try & liked em
+24-05-2020T01:59:53,SpazztasticKiwi,"but walmart doesn’t sell them, only dollar tree does so I had to go there for more but I know the cashier"
+24-05-2020T02:26:43,AspiringNoodle,"Dadro, not a fan of league :/"
+24-05-2020T02:26:55,AspiringNoodle,"Matches take forever, there's so much shiz to pick mid-match"
+24-05-2020T02:27:06,AspiringNoodle,And that last match was nothing but root / stun / burst instant-death combos
+24-05-2020T02:53:07,SpazztasticKiwi,🦉 whooooos seen an owl run
+24-05-2020T02:53:15,SpazztasticKiwi,because it’s great
+24-05-2020T02:53:42,Twokinds,:owl:
+24-05-2020T02:56:17,BadFoMo,I've finished my nap.
+24-05-2020T02:57:31,SpazztasticKiwi,dude
+24-05-2020T02:57:38,SpazztasticKiwi,it’s 3 am
+24-05-2020T02:57:39,AspiringNoodle,"Lol, I'm about to go to sleep xD"
+24-05-2020T02:57:51,SpazztasticKiwi,bad time to wake up from a nap
+24-05-2020T02:58:40,SpazztasticKiwi,"folks, I just ate some Vienna sausages from a brand that I’ve never had...."
+24-05-2020T02:58:59,SpazztasticKiwi,it’s starting not to feel so good
+24-05-2020T03:00:04,SpazztasticKiwi,"nausea pending, I’m glad I have my own bathroom right outside my door"
+24-05-2020T03:00:34,SpazztasticKiwi,"anyhow, Tom, you’ve seen an owl run?"
+24-05-2020T03:00:48,SpazztasticKiwi,🦵 the leggies
+24-05-2020T03:19:11,Twokinds,yeah
+24-05-2020T03:27:46,SpazztasticKiwi,they’re feather marshmallows with 90% leg yet they fly to travel
+24-05-2020T03:27:56,SpazztasticKiwi,& catch food
+24-05-2020T03:28:49,SpazztasticKiwi,"cats are passed out on the bed, shoving me to the top corner"
+24-05-2020T03:36:08,SpazztasticKiwi,🛌
+24-05-2020T03:48:50,Dadrobit,Left to go do some reading and the computer went and borked itself. RIP chat for me.
+24-05-2020T04:01:18,SpazztasticKiwi,not too much happened
+24-05-2020T04:02:59,Dadrobit,First thing I see in my chat is Windows posting weird shit with Keith and the Ten Commandments.
+24-05-2020T04:05:41,Dadrobit,And the second one leads to an art of Laura with a link to buy.... Chibi Sailor Moon porn....
+24-05-2020T04:06:08,Dadrobit,Talk about needing
+24-05-2020T04:06:11,Dadrobit,Jesus
+24-05-2020T04:07:47,Dadrobit,At least the first one has some reasoning behind it. Evidently it was made for the IRC back in yonder days in homage of the rules set for the chat.
+24-05-2020T04:10:51,SpazztasticKiwi,I didn’t see any link
+24-05-2020T04:11:01,SpazztasticKiwi,why on earth would you look that deep
+24-05-2020T04:11:23,Dadrobit,It's in the description. Kinda just right there.
+24-05-2020T04:11:32,SpazztasticKiwi,I wasn’t looking
+24-05-2020T04:11:59,Dadrobit,I wish I hadn't.
+24-05-2020T04:12:18,Dadrobit,Chibi Sailor Moon just looks... Like a child. Really uncomfortable.
+24-05-2020T04:12:57,SpazztasticKiwi,yeaaaaaa the trend of making them look younger and younger & like dolls is
+24-05-2020T04:13:10,SpazztasticKiwi,bad juju
+24-05-2020T04:13:15,Dadrobit,I really wasn't expecting an artist who drew Laura with a cross reading a bible would link to something like that....
+24-05-2020T04:13:54,SpazztasticKiwi,well you also got people that’ll dress as a sexy nun for halloween so
+24-05-2020T04:14:17,SpazztasticKiwi,reason I don’t like kpop too much
+24-05-2020T04:14:23,Dadrobit,For real tho. All this dude's porn is illegal as fuck.
+24-05-2020T04:14:47,Dadrobit,Copyright and Trademark infringements aboud.
+24-05-2020T04:14:47,SpazztasticKiwi,they’re young enough at something like 17? 16?
+24-05-2020T04:15:26,SpazztasticKiwi,and then their style is colored contacts for blue eyes and coloring their hair with the same cut
+24-05-2020T04:15:41,Dadrobit,"Like, it's one thing to just draw it and post it. But to make it paid? This motherfucker would owe so much fukkin money if a lawyer got wind of what he was doing."
+24-05-2020T04:16:16,SpazztasticKiwi,there was a patreon mark on the picture right
+24-05-2020T04:16:33,SpazztasticKiwi,I’m sure patreon wouldn’t be happy with some backstory
+24-05-2020T04:16:36,Dadrobit,He sells his art in $15 packs.
+24-05-2020T04:16:58,Dadrobit,"Not through Patreon, through a distro site called  Gumroad."
+24-05-2020T04:17:19,Dadrobit,"But yeah, looks like he uses Picarto as well."
+24-05-2020T04:17:57,SpazztasticKiwi,"maybe they’re more shady but confronted or contacted, they wouldn’t be able to let it slide legally"
+24-05-2020T04:18:28,SpazztasticKiwi,half the reason I don’t like most anime
+24-05-2020T04:18:56,SpazztasticKiwi,"if she’s 12, make her look 12 - if he’s 30, make him look 40"
+24-05-2020T04:18:58,Dadrobit,"Not just Tom's stuff and Sailor Moon. Pokemon, Roger Rabbit, My Little Pony, and a bunch of other stuff I don't recognize."
+24-05-2020T04:19:12,SpazztasticKiwi,for Christ’s sake don’t make them look the same age
+24-05-2020T04:19:17,Dadrobit,I'd be shocked if he had a single original Character.
+24-05-2020T04:19:31,SpazztasticKiwi,there’s plenty out there like that
+24-05-2020T04:19:45,SpazztasticKiwi,I’ve met one or two - like em young
+24-05-2020T04:19:58,Dadrobit,I am aware. I'm just amazed at the brazenness of them SELLING it in packs.
+24-05-2020T04:20:07,SpazztasticKiwi,or at least young looking which I have the unfortunate fate of
+24-05-2020T04:21:33,Dadrobit,Also makes my skin crawl when I go to  Comic Cons and see artist hall just full of glossy prints of stuff like Overwatch for sale.
+24-05-2020T04:21:54,SpazztasticKiwi,I have a bit of reserve visiting a furvention
+24-05-2020T04:22:03,SpazztasticKiwi,or comicon
+24-05-2020T04:22:45,SpazztasticKiwi,"cause of that - there’s few and there’s security, & people watch out for each other but all it takes is one"
+24-05-2020T04:22:48,Dadrobit,At least at an Anthrocon there'd be mostly original art.
+24-05-2020T04:23:12,Dadrobit,"Wait, you lost me, one what?"
+24-05-2020T04:23:20,SpazztasticKiwi,one person
+24-05-2020T04:23:33,Dadrobit,"what, like a mass shooter?"
+24-05-2020T04:24:10,SpazztasticKiwi,nah I’m more on the mindset there’s some disturbing people that go to those cons to be nasty
+24-05-2020T04:24:30,SpazztasticKiwi,plus there’s undesirables in general roaming around
+24-05-2020T04:24:45,SpazztasticKiwi,going to a con means leaving before dark for the hotel for me
+24-05-2020T04:25:11,SpazztasticKiwi,or getting one smack dab next door like at PAX
+24-05-2020T04:25:54,SpazztasticKiwi,I can be dense but I’m not single woman walking home alone in an unknown city during a convention dense
+24-05-2020T04:25:57,Dadrobit,The first PHX CC I went to had an attempted mass shooting. Kinda nutty. Made a lot of people very unhappy but luckily Phoenix PD were able to stop the dude before anyone got hurt.
+24-05-2020T04:27:33,TerraTheWizard,:ctwokinds-natsducky:
+24-05-2020T04:27:55,SpazztasticKiwi,yoooooooooo terra
+24-05-2020T04:28:00,Dadrobit,https://i.imgur.com/mP1fUPl.jpg
+24-05-2020T04:28:13,Dadrobit,The meme we got were pretty good tho
+24-05-2020T04:28:16,Dadrobit,memes*
+24-05-2020T04:28:33,SpazztasticKiwi,"oh boy if you’re here, it’s well past dream time"
+24-05-2020T04:28:38,Dadrobit,Lots of bananas in gun holsters and the like.
+24-05-2020T04:29:00,SpazztasticKiwi,Phoenix is a gun carrying area tho right
+24-05-2020T04:29:34,TerraTheWizard,"yeh, it 10:30am"
+24-05-2020T04:29:45,SpazztasticKiwi,the pew pew add on makes it better
+24-05-2020T04:29:45,TerraTheWizard,i've been in work since 3
+24-05-2020T04:29:56,SpazztasticKiwi,it’s like 5 here
+24-05-2020T04:29:58,TerraTheWizard,whee
+24-05-2020T04:30:11,SpazztasticKiwi,in the frigity frackin morning
+24-05-2020T04:30:25,SpazztasticKiwi,or at least close to it
+24-05-2020T04:30:27,TerraTheWizard,time to watch the recap at the end of the vod
+24-05-2020T04:30:33,TerraTheWizard,:ctwokinds-nibrun:
+24-05-2020T04:30:40,SpazztasticKiwi,Tom did doodles
+24-05-2020T04:30:43,SpazztasticKiwi,much wow
+24-05-2020T04:30:47,Dadrobit,"Yeah, AZ is super loose with gun laws. But the Convention banned any and all weapons."
+24-05-2020T04:30:59,Dadrobit,Including lightsabers.
+24-05-2020T04:31:05,SpazztasticKiwi,even plastic knives
+24-05-2020T04:31:24,SpazztasticKiwi,I remember that was something my school had
+24-05-2020T04:31:33,SpazztasticKiwi,like somebody was gonna get shanked
+24-05-2020T04:32:10,Dadrobit,One vendor had a huuuuuuuge meltdown because their unreasonably expensive lightsabers had to be put in shopping bags after they were sold.
+24-05-2020T04:32:34,SpazztasticKiwi,why is that a problem
+24-05-2020T04:32:45,SpazztasticKiwi,they’re still getting to sell them
+24-05-2020T04:32:45,Dadrobit,They ended up having to be escorted out by the sheriff because they refused to comply.
+24-05-2020T04:32:57,SpazztasticKiwi,a Karen?
+24-05-2020T04:33:49,Dadrobit,Then they came back the next day with thousands of flyers that they plastered half the cars in the central PHX area with saying that PHC CC is shit and that they were mistreated and that everyone should get a refund.
+24-05-2020T04:34:10,SpazztasticKiwi,a Karen
+24-05-2020T04:34:31,Dadrobit,"Because, you know, the only reason you go to CC is to buy a $600 lightsaber."
+24-05-2020T04:34:33,SpazztasticKiwi,or someone that never got hugged as a child
+24-05-2020T04:34:54,SpazztasticKiwi,who on this planet is taking $600 for merch
+24-05-2020T04:35:00,Dadrobit,o/
+24-05-2020T04:35:09,Dadrobit,But I get a bunch of different shit.
+24-05-2020T04:35:24,SpazztasticKiwi,BUT $600????
+24-05-2020T04:35:44,Dadrobit,"Nah, most I think I ever spent once was like $350 or so."
+24-05-2020T04:36:10,SpazztasticKiwi,I mean I was tempted to buy maybe two things at PAX & they were metal sculptures you put together yourself and yet I still decided against them
+24-05-2020T04:36:25,Dadrobit,Some really nice models and a dank as all hell DOOM themed whisky box set.
+24-05-2020T04:36:25,SpazztasticKiwi,I wasn’t sure if I’d actually put them together
+24-05-2020T04:36:48,SpazztasticKiwi,& honestly there’s no telling if tsa would let me have them fly home
+24-05-2020T04:37:02,Dadrobit,https://imgur.com/gallery/Uc6ul
+24-05-2020T04:37:23,SpazztasticKiwi,you’ve shown that before
+24-05-2020T04:37:36,Dadrobit,"I wanna put some felt in the box and light it up with some slowly pulsing red LEDs, but I've never found the time."
+24-05-2020T04:37:54,Dadrobit,"Yeah, was pretty sure I had."
+24-05-2020T04:37:58,SpazztasticKiwi,"I was focused on panels and meet n greets at PAX, not goodies"
+24-05-2020T04:38:27,Dadrobit,"For sure, panels are the reason to go, but inbetween when you've got nothing else to do..."
+24-05-2020T04:39:05,SpazztasticKiwi,I wonder if that’ll be my only if not best bet this year cause anthros dead & nothing else is too fetching for me
+24-05-2020T04:39:18,SpazztasticKiwi,comicon is just......California man
+24-05-2020T04:39:36,SpazztasticKiwi,my grandpa lives there but....it’s California
+24-05-2020T04:41:09,Dadrobit,"PHX CC, (They call it Phoenix Fan Fusion now because Comic Con got litigated to hell) is still on so far, just postponed to September. Dunno if that's still gonna hold tho."
+24-05-2020T04:41:57,SpazztasticKiwi,Phoenix is 1300+ miles from me
+24-05-2020T04:42:21,SpazztasticKiwi,"nope, 1500+"
+24-05-2020T04:43:04,Dadrobit,"Yeah, just saying, dunno if my option is gonna hold up."
+24-05-2020T04:43:15,Dadrobit,Missed last year unfortunately because money is a thing.
+24-05-2020T04:44:11,SpazztasticKiwi,the website is saying hotels have canceled
+24-05-2020T04:44:34,SpazztasticKiwi,did they change dates
+24-05-2020T04:45:33,Dadrobit,For SDCC?
+24-05-2020T04:47:08,SpazztasticKiwi,Phoenix
+24-05-2020T04:47:37,Dadrobit,"Oh, yeah, that's what I was saying, it got postponed."
+24-05-2020T04:48:26,Dadrobit,Normally it would have just happened this past weekend.
+24-05-2020T04:48:52,SpazztasticKiwi,honestly I can’t see anything being safe until next year
+24-05-2020T04:49:53,Dadrobit,"Yeah, this shit is gonna be screwing everyone for at least a year."
+24-05-2020T04:50:42,SpazztasticKiwi,I want a vacation
+24-05-2020T04:50:48,SpazztasticKiwi,I want a convention
+24-05-2020T04:50:54,SpazztasticKiwi,but I’m over people
+24-05-2020T04:52:42,Dadrobit,"Lol, just looked up last years convention. The weapon ban has been lifted, but some people are still just bringing bananas."
+24-05-2020T04:53:15,SpazztasticKiwi,"do banana guns say pew pew, or kkkkkkkkkkkkkkkk"
+24-05-2020T04:53:47,Dadrobit,Potasium. I get it
+24-05-2020T04:53:57,Dadrobit,Potassium*
+24-05-2020T05:00:03,SpazztasticKiwi,🛌
+24-05-2020T05:01:46,Dadrobit,Goodnight.
+24-05-2020T06:29:13,TerraTheWizard,:ctwokinds-nibrun:
+24-05-2020T14:09:21,AspiringNoodle,"Yaaaaay, the cable I was using to charge my phone died"
+24-05-2020T14:09:40,AspiringNoodle,I shoulda bought one of those nice braided cables at work when we had them...
+24-05-2020T14:12:02,JojoGD,oof
+24-05-2020T14:12:47,AspiringNoodle,"It's not all bad, it was a super tacky stretchy cable my mother gave to me xD"
+24-05-2020T14:13:00,AspiringNoodle,Thing had the most annoying LED light
+24-05-2020T14:13:45,AspiringNoodle,At least now I can get a nice long black one for use with my computer and put the white cable back for phone charging
+24-05-2020T15:32:18,TerraTheWizard,:ctwokinds-RainezZz:
+24-05-2020T15:41:19,SpazztasticKiwi,I got unus annus pins
+24-05-2020T15:41:48,SpazztasticKiwi,they dropped 6 hours ago
+24-05-2020T15:48:46,JojoGD,is animal crossing a good game
+24-05-2020T15:55:50,NibblyBot,New Patreon Post: Clovis Lounges https://www.patreon.com/posts/clovis-lounges-37522639
+24-05-2020T15:56:34,JojoGD,nice
+24-05-2020T15:58:22,Twokinds,:ctwokinds-clovischuckle:
+24-05-2020T15:59:22,AspiringNoodle,Stupid sexy Clovis :ptv-whiny:
+24-05-2020T15:59:40,Ordithus,:ctwokinds-zenshocked: oh no
+24-05-2020T15:59:49,AspiringNoodle,"""She's HOT..."""
+24-05-2020T16:04:42,johnnytho,Animal Crossing is good but not as good as Twitter would have you believe
+24-05-2020T16:10:03,AspiringNoodle,"Funny, I feel the same way about League of Legends"
+24-05-2020T16:10:11,AspiringNoodle,Highly popular but holy heck does that game SUCK
+24-05-2020T16:10:26,AspiringNoodle,It should be a crime that HotS isn't as popular...
+24-05-2020T16:19:03,JojoGD,53% done with live pokedex in Pokemon Sword
+24-05-2020T16:21:09,JojoGD,Its pretty easy with the wild area and overworld encounters
+24-05-2020T16:21:26,JojoGD,Pokemon Sun was tougher
+24-05-2020T16:22:08,JojoGD,Although in pokemon sun I just filled it up with no PC live dex
+24-05-2020T17:03:35,Twokinds,:ctwokinds-nibsbounce:
+24-05-2020T17:09:41,Ordithus,:ctwokinds-nibsbounce:
+24-05-2020T17:30:35,AspiringNoodle,:chipmunk:
+24-05-2020T17:46:02,Kameloh,:ckameloh-naokicat50:
+24-05-2020T17:47:36,swedishkitsune,nyooms in before sleep
+24-05-2020T17:47:43,swedishkitsune,:eyes:
+24-05-2020T17:47:51,Kameloh,ello :snail:
+24-05-2020T17:49:13,FoxxTrotter,:cfoxxtrotter-FoxEye:
+24-05-2020T17:49:28,Kameloh,hey foxx what's up o/
+24-05-2020T17:49:32,FoxxTrotter,Ey'dere.
+24-05-2020T17:49:44,Ordithus,yoooo
+24-05-2020T17:49:50,Kameloh,hey ord how goes :cat:
+24-05-2020T17:50:01,Ordithus,"lazy day, playing ff12"
+24-05-2020T17:50:07,Ordithus,how you doin
+24-05-2020T17:50:17,Kameloh,"good, just had luunch a bit ago"
+24-05-2020T17:50:18,swedishkitsune,föxx
+24-05-2020T17:50:21,swedishkitsune,o7
+24-05-2020T17:50:28,Kameloh,thinking of doodles
+24-05-2020T17:50:36,Maku,:eyes:
+24-05-2020T17:50:40,swedishkitsune,may I offer an idea before I head off to sleep?
+24-05-2020T17:50:42,Kameloh,hey maku how goes :snail:
+24-05-2020T17:50:44,Kameloh,what's the idea
+24-05-2020T17:50:53,swedishkitsune,"dakimakura design pinup, but with clothes"
+24-05-2020T17:51:04,Kameloh,:ckameloh-skepticalfrog:
+24-05-2020T17:51:40,swedishkitsune,Im unsure of that emote actually.
+24-05-2020T17:52:03,swedishkitsune,"is it disbelief or ""wat"" or something similar?"
+24-05-2020T17:52:13,Kameloh,skepticalfrog haha
+24-05-2020T17:52:32,swedishkitsune,:( sorry
+24-05-2020T17:52:40,Kameloh,it's fine XD
+24-05-2020T17:54:00,Twokinds,Strem soon
+24-05-2020T17:54:06,FoxxTrotter,"Hi, Tom."
+24-05-2020T17:54:07,Kameloh,yee :ckameloh-bongocat_50:
+24-05-2020T17:54:11,swedishkitsune,o/
+24-05-2020T17:54:33,FoxxTrotter,:cfoxxtrotter-Headroom::cfoxxtrotter-Headroom::cfoxxtrotter-Headroom:
+24-05-2020T17:54:37,Twokinds,Hi! :ctwokinds-natsducky:
+24-05-2020T17:54:52,swedishkitsune,poor rubberducky
+24-05-2020T17:55:22,swedishkitsune,anyways
+24-05-2020T17:55:23,Maku,hi tom :eyes:
+24-05-2020T17:55:27,swedishkitsune,nyooms off to sleep
+24-05-2020T17:55:32,Kameloh,have a good one!
+24-05-2020T17:55:32,Maku,nini swed
+24-05-2020T17:55:33,FoxxTrotter,"G'night, SK."
+24-05-2020T17:55:40,Maku,now I can awoo in peace :relieved:
+24-05-2020T17:55:42,Maku,awoooo
+24-05-2020T17:56:15,swedishkitsune,I'll fine you laters
+24-05-2020T17:56:34,Maku,D:
+24-05-2020T17:57:17,Kameloh,XD
+24-05-2020T18:00:27,PurpleLemons,:eyes:
+24-05-2020T18:00:36,Kameloh,hey purp :snail:
+24-05-2020T18:00:37,Ordithus,:eyes:
+24-05-2020T18:00:42,PurpleLemons,hoi
+24-05-2020T18:00:48,FoxxTrotter,"Hi, Lemons."
+24-05-2020T18:01:10,qwe304,its monday my dudes
+24-05-2020T18:01:55,AspiringNoodle,:O
+24-05-2020T18:02:00,AspiringNoodle,Surprise strem?!?
+24-05-2020T18:02:01,FoxxTrotter,F5 for Tom.
+24-05-2020T18:02:07,TheFriendlyDeathclaw,Hi Tom
+24-05-2020T18:02:12,Kameloh,:ckameloh-naokieyebrowshak:
+24-05-2020T18:02:19,Zakuru,harro
+24-05-2020T18:02:25,AspiringNoodle,Hi everybody!
+24-05-2020T18:02:26,FoxxTrotter,"Hi, Zakuru."
+24-05-2020T18:02:29,Kameloh,welcome!
+24-05-2020T18:02:35,AspiringNoodle,*excitement intensifies* :ptv-excited:
+24-05-2020T18:02:37,HoverdudeXL,Hallooo
+24-05-2020T18:02:48,QuinnMalachite,Seems like an odd time to have a Sunday
+24-05-2020T18:03:14,Tharkis,f5 for tom
+24-05-2020T18:03:15,johnnytho,Sunday in spirit
+24-05-2020T18:03:23,IronHorseComics,well hi there lads and lasses
+24-05-2020T18:03:42,TeapotOfDoom,oh hi there
+24-05-2020T18:03:54,TeapotOfDoom,didn't know you were live as well kame
+24-05-2020T18:03:58,Kameloh,welcome! it's sunday :ptv-kippi2:
+24-05-2020T18:04:06,IronHorseComics,"no it's not, it's Monday"
+24-05-2020T18:04:17,johnnytho,Kameloh? you ok?
+24-05-2020T18:04:18,Ordithus,much action
+24-05-2020T18:04:19,thestooge2222,a SHOVEL!!!
+24-05-2020T18:04:20,PurpleLemons,it's very sunny :cpurplelemons-thinky:
+24-05-2020T18:04:22,TeapotOfDoom,ima press a big ol (x) there kame
+24-05-2020T18:04:29,Kameloh,:ckameloh-Teedus:
+24-05-2020T18:04:51,IronHorseComics,:cironhorsecomics-Facepalm:
+24-05-2020T18:04:57,CrimsonHelsing,"Whoa, looks like back to the action"
+24-05-2020T18:05:37,Sclimshady,Dragon librarian :eyes:
+24-05-2020T18:05:40,RisqueRaptor,Hi hi
+24-05-2020T18:05:46,Kameloh,hello! could be Kuva :eyes:
+24-05-2020T18:06:45,IronHorseComics,"I saw the greatest version of the ""Draw Sailor Moon in your style"" ever today"
+24-05-2020T18:06:56,TeapotOfDoom,which one
+24-05-2020T18:07:05,Ponyvillegrimdarktales,TEAPOT OFDEADLY DOOMS!!
+24-05-2020T18:07:08,IronHorseComics,Sailor Binks
+24-05-2020T18:07:15,TeapotOfDoom,:cteapotofdoom-hyperkeith:
+24-05-2020T18:07:22,TeapotOfDoom,oh that one xD
+24-05-2020T18:07:37,TeapotOfDoom,yeah that one is really good
+24-05-2020T18:07:40,IronHorseComics,the one where the guy drew Jar Jar Binks in that position and outfit
+24-05-2020T18:07:49,FoxxTrotter,F5 for w0lf.
+24-05-2020T18:07:51,IronHorseComics,it is beautiful. The highest of all the art
+24-05-2020T18:07:57,IronHorseComics,oh hey W0lf
+24-05-2020T18:08:07,FoxxTrotter,:cfoxxtrotter-Headroom::cfoxxtrotter-Headroom::cfoxxtrotter-Headroom:
+24-05-2020T18:08:07,Kameloh,F5 for w0lf!
+24-05-2020T18:08:11,w0lfmare,Hello! :cw0lfmare-Tomsil:
+24-05-2020T18:08:16,FoxxTrotter,"You slow, Kameloh. ;0P"
+24-05-2020T18:08:18,CrimsonHelsing,"So Tom, I've wanted to know from you personally, did Trace and Saria know their child was a girl? Or was that just what they were hoping for?"
+24-05-2020T18:08:24,TeapotOfDoom,lotta people in here
+24-05-2020T18:08:33,Sclimshady,w0lf! :csclimshady-catholley:
+24-05-2020T18:08:34,PurpleLemons,a tripple :eyes:
+24-05-2020T18:08:34,CrimsonHelsing,Ikr teapot?
+24-05-2020T18:08:38,Kameloh,sorry foxx XD
+24-05-2020T18:08:43,w0lfmare,Sclim :cw0lfmare-Embercat:
+24-05-2020T18:08:48,IronHorseComics,I spy a new emote. Excellent choice using the recent Tom drawing
+24-05-2020T18:09:09,IronHorseComics,"hmmm, should I stream though? I'm like... 60% done with a comic page"
+24-05-2020T18:09:12,TheFriendlyDeathclaw,"Hi Plems, w0lfie, and Kame"
+24-05-2020T18:09:23,Kameloh,ello o/
+24-05-2020T18:09:25,AspiringNoodle,Stream-a-palooza!!!
+24-05-2020T18:09:28,TeapotOfDoom,welcome to the other side deathclaw
+24-05-2020T18:09:37,FluffKevlar,what is all this
+24-05-2020T18:09:43,TheFriendlyDeathclaw,Hi Fluff
+24-05-2020T18:09:44,Kameloh,flufff what's up :cat:
+24-05-2020T18:09:47,FoxxTrotter,F L U F F.
+24-05-2020T18:09:48,AspiringNoodle,Surprise tom strem :D
+24-05-2020T18:09:49,IronHorseComics,"art, Fluff, art"
+24-05-2020T18:09:54,Kameloh,it was Tom's idea I swear :snail:
+24-05-2020T18:09:56,AspiringNoodle,*cue emote*
+24-05-2020T18:09:58,TeapotOfDoom,oh hi there fluff
+24-05-2020T18:10:00,AspiringNoodle,ART!!!
+24-05-2020T18:10:03,w0lfmare,Fluff!
+24-05-2020T18:10:04,TheFriendlyDeathclaw,is that Stone lizard wearing a bra?
+24-05-2020T18:10:09,IronHorseComics,:cironhorsecomics-Incognito: <- Kame
+24-05-2020T18:10:13,TeapotOfDoom,lol
+24-05-2020T18:10:18,PurpleLemons,hey fluff
+24-05-2020T18:10:19,AspiringNoodle,"Maybe it just rolls that way, Claw ;P"
+24-05-2020T18:10:25,FluffKevlar,heyyy
+24-05-2020T18:10:42,IronHorseComics,"oh shoot, I need to get that Iron Giant art meme for an emote, I didn't even think about it"
+24-05-2020T18:10:48,Sclimshady,Hiya Fluff
+24-05-2020T18:10:49,TeapotOfDoom,kame is this opera you're listening to?
+24-05-2020T18:10:50,Pwatcher67,hi all
+24-05-2020T18:10:54,Kameloh,it's somethin!
+24-05-2020T18:11:01,FoxxTrotter,"Hi, Pwatcher."
+24-05-2020T18:11:06,TeapotOfDoom,sure sounds like opera
+24-05-2020T18:11:13,johnnytho,I dig it
+24-05-2020T18:11:47,Ordithus,:cw0lfmare-Tomsil: w0lf!
+24-05-2020T18:12:33,w0lfmare,Ord :cw0lfmare-MinecraftEmber:
+24-05-2020T18:12:40,TheFriendlyDeathclaw,Hi Ord
+24-05-2020T18:12:47,Ordithus,hi deathclaw!
+24-05-2020T18:12:51,TeapotOfDoom,hi ord
+24-05-2020T18:12:55,Sclimshady,HI ord!
+24-05-2020T18:13:05,Ordithus,HI :ctwokinds-keith8D:
+24-05-2020T18:13:11,TeapotOfDoom,i look at that stone guardian and my brain is like *round 2. FIGHT!*
+24-05-2020T18:13:15,Wyntersun,:wave:
+24-05-2020T18:13:23,TeapotOfDoom,hi wynter
+24-05-2020T18:13:24,Kameloh,hey wyn what's up :cat:
+24-05-2020T18:13:32,Twokinds,:ctwokinds-natsducky:HIII
+24-05-2020T18:13:34,Wyntersun,not much
+24-05-2020T18:13:37,Wyntersun,playing broken picturephone
+24-05-2020T18:13:42,IronHorseComics,:cironhorsecomics-ART:
+24-05-2020T18:13:46,Kameloh,ooh what's that
+24-05-2020T18:13:54,Wyntersun,some weird drawing game
+24-05-2020T18:14:04,TeapotOfDoom,did that work on your side iron?
+24-05-2020T18:14:12,IronHorseComics,nope
+24-05-2020T18:14:19,Kameloh,is that on your phone? :thinking:
+24-05-2020T18:14:30,IronHorseComics,"""invalid JWT"" is that I got"
+24-05-2020T18:14:37,Wyntersun,naw its a  website
+24-05-2020T18:14:38,TeapotOfDoom,oh you need to reload
+24-05-2020T18:14:44,FluffKevlar,wynnn
+24-05-2020T18:14:49,Wyntersun,you give eachother prompts and then draw them
+24-05-2020T18:14:52,TeapotOfDoom,then it should either be gone or work. prolly the latter
+24-05-2020T18:14:53,IronHorseComics,:cironhorsecomics-ART:
+24-05-2020T18:14:55,Wyntersun,kinda like a jackbox game
+24-05-2020T18:14:57,IronHorseComics,there we go
+24-05-2020T18:14:58,TheFriendlyDeathclaw,Hi Wynter
+24-05-2020T18:14:59,Kameloh,that sounds interesting :cat:
+24-05-2020T18:15:01,Wyntersun,Floff!
+24-05-2020T18:15:02,TeapotOfDoom,now it's empty xD
+24-05-2020T18:15:12,FluffKevlar,how is? :V
+24-05-2020T18:15:15,IronHorseComics,"try refreshing, it's working for me"
+24-05-2020T18:15:16,Kameloh,wyn did you draw more of your dragon :snail:
+24-05-2020T18:15:21,TeapotOfDoom,nope
+24-05-2020T18:15:35,johnnytho,Am I the only non-member here?
+24-05-2020T18:15:39,Wyntersun,"not yet, the campaign hasn't started xD"
+24-05-2020T18:15:46,Kameloh,:ckameloh-bongocat_50:
+24-05-2020T18:15:48,Wyntersun,Doing good Fluff
+24-05-2020T18:16:14,TeapotOfDoom,html inspector gives me a link but says *could not load the image*
+24-05-2020T18:16:26,Kameloh,when are you gonna start your campaign? I'm hoping soon :telescope::crocodile:
+24-05-2020T18:16:33,IronHorseComics,"don't know what to tell ya Tea, it's working for me."
+24-05-2020T18:16:44,TeapotOfDoom,really strange
+24-05-2020T18:16:54,UltraBondageFairy,:cultrabondagefairy-bongoubf2-0:
+24-05-2020T18:17:01,IronHorseComics,is it working for anyone else?
+24-05-2020T18:17:02,AspiringNoodle,"Hey, UBF"
+24-05-2020T18:17:08,TeapotOfDoom,hi ubf
+24-05-2020T18:17:08,Kameloh,hey UBF how's it goin :ckameloh-naokibongoeyebro:
+24-05-2020T18:17:10,UltraBondageFairy,Hello!
+24-05-2020T18:17:11,Maku,hi ubf :eyes:
+24-05-2020T18:17:15,FluffKevlar,hey ubf
+24-05-2020T18:17:20,Wyntersun,no idea Kame xD
+24-05-2020T18:17:23,Maku,eyo fluf
+24-05-2020T18:17:26,Kameloh,maan wyn XD
+24-05-2020T18:17:42,Wyntersun,no nerd dragon yet
+24-05-2020T18:17:42,Kameloh,I wanna hear more of your D&D stories :cat:
+24-05-2020T18:17:53,TeapotOfDoom,is that dnd i see?
+24-05-2020T18:17:58,TeapotOfDoom,do tell
+24-05-2020T18:17:59,IronHorseComics,did you hear the one I told Sage?
+24-05-2020T18:17:59,UltraBondageFairy,Pretty good here! I'm having a work meeting while streaming :U
+24-05-2020T18:18:10,Kameloh,ruh roh :eyes:
+24-05-2020T18:18:55,TeapotOfDoom,you asking kame or me iron?
+24-05-2020T18:19:03,IronHorseComics,both
+24-05-2020T18:19:12,TeapotOfDoom,then no i don't think so
+24-05-2020T18:19:13,Kameloh,hmm?
+24-05-2020T18:19:18,Maku,it's a work meeting for the thing she's working on in stream
+24-05-2020T18:19:27,Kameloh,ahh I see :cat:
+24-05-2020T18:19:35,Maku,mice tea meeting :eyes:
+24-05-2020T18:19:39,IronHorseComics,I was asking if you heard the DnD story I told Sage is all
+24-05-2020T18:19:53,Ordithus,"2/3 are working on comics, Kame why not joint the party"
+24-05-2020T18:19:56,TeapotOfDoom,glad i can help maku
+24-05-2020T18:20:00,IronHorseComics,don't remember if it was you or W0lf there
+24-05-2020T18:20:01,Kameloh,naw I didn't haha
+24-05-2020T18:20:04,Kameloh,Ord :weary:
+24-05-2020T18:20:18,Sclimshady,Kamics :csclimshady-bangocat:
+24-05-2020T18:20:20,Kameloh,w0lf and Tom have been asking me to make a comic for a year now
+24-05-2020T18:20:28,TeapotOfDoom,dew it
+24-05-2020T18:20:34,Kameloh,but I'm bad at writing haha
+24-05-2020T18:20:35,TeapotOfDoom,:cteapotofdoom-lamb_sauce:
+24-05-2020T18:20:40,Ordithus,:ctwokinds-rainehappy: peer pressure!
+24-05-2020T18:20:49,TeapotOfDoom,:cteapotofdoom-florasmug:
+24-05-2020T18:20:52,Kameloh,:ckameloh-naokidont:
+24-05-2020T18:20:52,Maku,when
+24-05-2020T18:20:55,Maku,kamics when
+24-05-2020T18:20:58,w0lfmare,If you make a comic kame I'll let you draw pants
+24-05-2020T18:21:00,TeapotOfDoom,kame comic when
+24-05-2020T18:21:12,Kameloh,so you're saying I'm allowed to _not_ draw pants right now? :snail:
+24-05-2020T18:21:12,IronHorseComics,"okay, so to give a little context.. and by that I mean a lot. I was replacing another player due to scheduling issues. We weren't actually playing DnD but a homebrew with microlight rules"
+24-05-2020T18:21:19,BadFoMo,Yo.
+24-05-2020T18:21:20,Maku,why does naoki need so many dragons? Is it for a harem? We'll never know unless you tell us kame :eyes:
+24-05-2020T18:21:24,Ordithus,hi fomo
+24-05-2020T18:21:27,Kameloh,:ckameloh-naokieyes:
+24-05-2020T18:21:29,w0lfmare,I didn't say that
+24-05-2020T18:21:34,TeapotOfDoom,hi fomo
+24-05-2020T18:21:37,Ordithus,that's what I read too
+24-05-2020T18:21:38,Kameloh,then how could you allow pants :thinking:
+24-05-2020T18:21:48,PurpleLemons,:cpurplelemons-Stare:
+24-05-2020T18:21:57,Maku,hi purp
+24-05-2020T18:22:00,Sclimshady,w0lf walked into a corner
+24-05-2020T18:22:01,w0lfmare,"If you don't make a comic, then I'll MAKE you draw pants :cw0lfmare-PaperemberClose:"
+24-05-2020T18:22:07,w0lfmare,Purp o/
+24-05-2020T18:22:16,Kameloh,so you're saying I can draw them without pants first.. then you'll try to make me draw pants? :snail:
+24-05-2020T18:22:25,TeapotOfDoom,hi purp
+24-05-2020T18:22:41,IronHorseComics,"oh then you'll like Fluffy 500 W0lf, EVERYONE wears pants... or shorts"
+24-05-2020T18:22:46,w0lfmare,:cw0lfmare-GoogleyEmber:
+24-05-2020T18:23:01,PurpleLemons,w0lf is gonna pants him :cpurplelemons-jenny-teehee:
+24-05-2020T18:23:26,TeapotOfDoom,:jeans::cteapotofdoom-maddievibrate:
+24-05-2020T18:23:30,FluffKevlar,ill start making pants edits to my art for you w0lf
+24-05-2020T18:23:43,Kameloh,now that's an incentive :cat:
+24-05-2020T18:23:43,Maku,don't do it fluff
+24-05-2020T18:23:47,Maku,don't give in
+24-05-2020T18:23:47,TeapotOfDoom,FluffKevlar: Now safe for w0lf.
+24-05-2020T18:24:11,IronHorseComics,anyway I was a catman paladin and this was a few weeks into my tenure with the campaign. We became aware of a large darkling force converging on a big city that was a gateway to the east and to the west. We tried to convince the king of this force...
+24-05-2020T18:24:13,w0lfmare,:cw0lfmare-AriahHappy::heart:
+24-05-2020T18:24:22,w0lfmare,See kame you should be more like fluff
+24-05-2020T18:24:30,Kameloh,before or after the pants :snail:
+24-05-2020T18:24:33,PurpleLemons,:cpurplelemons-lewd:
+24-05-2020T18:24:34,Ordithus,:ctwokinds-floraquestion:
+24-05-2020T18:24:46,TeapotOfDoom,not sure there kame
+24-05-2020T18:24:48,FoxxTrotter,:jeans::jeans::jeans:
+24-05-2020T18:25:43,TeapotOfDoom,"speakting of, at least on my side the viewer count is spot one"
+24-05-2020T18:26:13,IronHorseComics,"but a darkling spy whispered deceit, not that the darklings weren't invading, rather that we should allow ourselves to be subjugated by them.  So to show off our true intentions we decided to find a way to lure them out and show their true colors..."
+24-05-2020T18:26:14,Ordithus,[I got this!]*:ctwokinds-nataniAAAAshake:
+24-05-2020T18:26:36,TeapotOfDoom,oh hecc natani's gonna fuck em up
+24-05-2020T18:27:12,TeapotOfDoom,"""You have no power here"" intensifies"
+24-05-2020T18:27:26,Ordithus,hype for Nat being badass
+24-05-2020T18:27:27,Maku,"yeah kame, be more like fluff :snail:"
+24-05-2020T18:27:46,TeapotOfDoom,:cteapotofdoom-lann_sceptic:
+24-05-2020T18:28:46,IronHorseComics,"we ended up signing up for this big gladiatorial tournament. Since I was the newcomer I ended up being in the crowd looking for any darklings. My team's opponents were mercenaries, including a big guy that was basically Heavy from TF2, a serial killer..."
+24-05-2020T18:29:10,johnnytho,Reni flamethrower reni flamethrower
+24-05-2020T18:30:07,TeapotOfDoom,dragon breath go
+24-05-2020T18:30:13,TeapotOfDoom,:ctwokinds-renirawr:
+24-05-2020T18:30:18,Kameloh,:ckameloh-sierraeyebrows_5:
+24-05-2020T18:30:24,TeapotOfDoom,no not like that
+24-05-2020T18:30:40,TeapotOfDoom,:cteapotofdoom-hyperkeith:
+24-05-2020T18:30:42,IronHorseComics,"and a couple of other creeps. Well, a few rounds into the fight, I spot two orcs preparing to rush the arena and get themselves involved. I mosey on over there and when they jump in I stab and kill one. As the other just left his buddy..."
+24-05-2020T18:30:44,Ordithus,:ctwokinds-reniderp::fire::fire::fire:
+24-05-2020T18:31:02,Kameloh,:fire::fire::fire::ckameloh-taavilick:
+24-05-2020T18:31:36,TeapotOfDoom,:fire::cteapotofdoom-reni_rotate::fire:
+24-05-2020T18:31:40,Wyntersun,:cloud_tornado::cloud_tornado::cloud_tornado::cwyntersun-ezgif-2-e7e8b981:
+24-05-2020T18:31:45,Kameloh,XD
+24-05-2020T18:31:50,johnnytho,This is getting outta hand
+24-05-2020T18:32:06,IronHorseComics,"one of the creep opponents pulls out a demon amulet and makes himself grow huge. Our fighter and I guess team leader has this prismatic flail that was demon possessed. This demon was actually pretty chill, he was a party demon named Partius Maximus"
+24-05-2020T18:32:46,TeapotOfDoom,He's the party monster
+24-05-2020T18:32:52,TeapotOfDoom,:cteapotofdoom-cat_rotate:
+24-05-2020T18:33:00,IronHorseComics,anyway our fighter lets himself be possessed and he too grows huge himself with his big meaty bird thighs.
+24-05-2020T18:33:19,Ordithus,:poultry_leg:
+24-05-2020T18:33:41,johnnytho,mmm
+24-05-2020T18:33:54,Wyntersun,meaty bird thighs :cwyntersun-c2:
+24-05-2020T18:34:01,Kameloh,:ckameloh-naokieyes:
+24-05-2020T18:34:09,FluffKevlar,:cfluffkevlar-c6:
+24-05-2020T18:34:22,Twokinds,:ctwokinds-nataniAAAAshake:
+24-05-2020T18:34:31,TheFriendlyDeathclaw,:ctwokinds-floAAA:
+24-05-2020T18:34:37,TeapotOfDoom,:cteapotofdoom-hyperkeith:
+24-05-2020T18:34:39,IronHorseComics,:cironhorsecomics-DaleAAA:
+24-05-2020T18:35:00,w0lfmare,:cw0lfmare-EmberShock:
+24-05-2020T18:35:07,IronHorseComics,"and while big, this giant dude was on low health and so I stab him with my holy trident (my god was a sea one) and come inches within killing him. I then use a move that activates after an attack called ""Wrath of the Divine"" , and this big old iceberg..."
+24-05-2020T18:35:39,Ordithus,never dump con
+24-05-2020T18:36:22,IronHorseComics,"comes out of this guy's body and kills him. So basically our fighter got himself possessed for no reason and he joked with Partius Maximus that he wasted everyone time. Well the demon, being as chill as he was unpossessed him and let him return to normal"
+24-05-2020T18:36:27,TeapotOfDoom,+1 to ord
+24-05-2020T18:37:11,IronHorseComics,"this however left him in a body cast for a while, but he got his tournament crown, and I was forever known as ""Nascitur the Kill Stealer"""
+24-05-2020T18:37:42,dragonfire421,Lol
+24-05-2020T18:37:44,IronHorseComics,our plan worked at least
+24-05-2020T18:38:22,IronHorseComics,wen ended up convincing the king of the darklings and spent the next session building an army to protect the city
+24-05-2020T18:38:32,Sclimshady,So you're painting this Kame
+24-05-2020T18:38:37,Kameloh,maybe :eyes:
+24-05-2020T18:38:42,Sclimshady,:eyes:
+24-05-2020T18:38:44,TeapotOfDoom,you're stuck with it now
+24-05-2020T18:38:46,Kameloh,D:
+24-05-2020T18:38:49,TeapotOfDoom,no escape
+24-05-2020T18:38:54,TeapotOfDoom,you added bg color
+24-05-2020T18:39:03,IronHorseComics,you have sealed your fate
+24-05-2020T18:39:04,Kameloh,well the canvas ain't as big so it shouldn't take forever like my last big painting XD
+24-05-2020T18:39:19,Ordithus,could always make it bigger~
+24-05-2020T18:39:27,Ordithus,It's just a few clicks away :eyes:
+24-05-2020T18:39:28,TeapotOfDoom,:cteapotofdoom-florasmug: ord
+24-05-2020T18:39:28,Sclimshady,:cpurplelemons-jenny-teehee:
+24-05-2020T18:39:29,Kameloh,:ckameloh-skepticalfrog:*[that's what they all want]
+24-05-2020T18:39:38,TeapotOfDoom,yup
+24-05-2020T18:39:42,TeapotOfDoom,you right
+24-05-2020T18:39:43,Twokinds,16k
+24-05-2020T18:39:51,Kameloh,noo :weary:
+24-05-2020T18:39:59,Ordithus,:fire::desktop::fire:
+24-05-2020T18:40:02,TeapotOfDoom,:cteapotofdoom-florawolfbrows:
+24-05-2020T18:40:02,Kameloh,that would take a year at least XD
+24-05-2020T18:40:11,TheFriendlyDeathclaw,not enough its gotta be 69K
+24-05-2020T18:40:23,Twokinds,nice
+24-05-2020T18:40:28,Kameloh,XD
+24-05-2020T18:40:31,TeapotOfDoom,nice
+24-05-2020T18:40:32,IronHorseComics,:cironhorsecomics-Facepalm:
+24-05-2020T18:40:37,Ordithus,nice
+24-05-2020T18:42:51,IronHorseComics,you ever get the feeling you're making a page and then realize you're going to get three emotes from it?
+24-05-2020T18:43:12,TeapotOfDoom,The emotes are strong in this one
+24-05-2020T18:43:17,ZRO4825,"Can't say that I have, Iron. :V"
+24-05-2020T18:43:53,IronHorseComics,"well Zro, you know what I mean though don't you?"
+24-05-2020T18:44:26,ZRO4825,"I know of what you refer to, but since I don't draw much, and especially not comics, I can't relate. :P"
+24-05-2020T18:45:06,RimaDraws,hey...
+24-05-2020T18:45:11,TeapotOfDoom,hi rima
+24-05-2020T18:45:15,TheFriendlyDeathclaw,Hi Rima
+24-05-2020T18:45:22,Kameloh,hello o/
+24-05-2020T18:45:32,w0lfmare,Rima o/
+24-05-2020T18:45:36,TheFriendlyDeathclaw,soo cuute Kame
+24-05-2020T18:45:43,Ordithus,Hi Rima
+24-05-2020T18:45:48,RimaDraws,ey
+24-05-2020T18:45:55,Maku,heya rima
+24-05-2020T18:48:28,IronHorseComics,hey Rima
+24-05-2020T18:49:01,FoxxTrotter,"Hi, Rima."
+24-05-2020T18:49:26,RimaDraws,hi
+24-05-2020T18:52:00,TeapotOfDoom,alright i have a new emote i wanna test
+24-05-2020T18:52:20,Kameloh,hmm?
+24-05-2020T18:52:58,TeapotOfDoom,let's see
+24-05-2020T18:53:01,TeapotOfDoom,:cteapotofdoom-tophat:
+24-05-2020T18:53:11,Kameloh,wait a sec
+24-05-2020T18:53:15,Kameloh,did I draw that XD
+24-05-2020T18:53:17,TheFriendlyDeathclaw,hello darkness my oldest friend
+24-05-2020T18:53:23,Osean,Howdy folks
+24-05-2020T18:53:26,TeapotOfDoom,yep
+24-05-2020T18:53:27,Kameloh,hey osean o/
+24-05-2020T18:53:33,Kameloh,man I don't even remember when I doodled that haha
+24-05-2020T18:53:33,w0lfmare,Os o/
+24-05-2020T18:53:37,TeapotOfDoom,that was my tophat suggestion xD
+24-05-2020T18:53:44,TeapotOfDoom,hi osean o/
+24-05-2020T18:53:52,Kameloh,haha nice!
+24-05-2020T18:54:21,TeapotOfDoom,found the screenshot on in my potential emotes folder
+24-05-2020T18:54:40,TeapotOfDoom,but the smug smile is too small sadly
+24-05-2020T18:54:47,Kameloh,haha
+24-05-2020T18:58:20,MoonDance,smug smile are always better
+24-05-2020T18:58:26,Kameloh,hey moon :snail:
+24-05-2020T18:58:30,TeapotOfDoom,:cteapotofdoom-florasmug:moon
+24-05-2020T18:58:35,MoonDance,howdy
+24-05-2020T18:58:46,TeapotOfDoom,o/
+24-05-2020T19:00:06,Boxthefox,http://topwebcomics.com/vote/15334  make W0lf happy#Vote4W0lf
+24-05-2020T19:00:36,PurpleLemons,o/
+24-05-2020T19:00:37,Kameloh,:cat:
+24-05-2020T19:00:38,Maku,:eyes:
+24-05-2020T19:00:38,w0lfmare,:cw0lfmare-EmberShock2:
+24-05-2020T19:00:46,Kameloh,F5 for purple!
+24-05-2020T19:00:51,TeapotOfDoom,it's a buttbag
+24-05-2020T19:01:12,TeapotOfDoom,hi purp o/
+24-05-2020T19:01:14,MarvTheHugPharaoh,Hello o/
+24-05-2020T19:01:18,Ordithus,:ctwokinds-maddiessparkles: so many streams
+24-05-2020T19:01:19,TeapotOfDoom,hi marv
+24-05-2020T19:01:20,Kameloh,hi marv :snail:
+24-05-2020T19:01:28,Ordithus,MARV :ctwokinds-sleepoverB:
+24-05-2020T19:01:31,TeapotOfDoom,oh oh noes it's 2am
+24-05-2020T19:01:38,MarvTheHugPharaoh,:cmarvthehugpharaoh-ezgifcom-gif-mak: Hey hey
+24-05-2020T19:01:46,TeapotOfDoom,test shoot tomorrow i should get to bed
+24-05-2020T19:01:48,TheFriendlyDeathclaw,Hi Marv
+24-05-2020T19:01:55,Kameloh,marv w0lf said if I drew comics he would allow me to draw pants :cat:
+24-05-2020T19:02:07,Kameloh,so right now I'm not allowed to draw pants :snail:
+24-05-2020T19:02:15,TeapotOfDoom,alrighty i'm off. thx for the casual strem! nighty everyone!
+24-05-2020T19:02:19,Kameloh,night!
+24-05-2020T19:02:22,TeapotOfDoom,:ctwokinds-RainezZz:
+24-05-2020T19:02:28,MarvTheHugPharaoh,Better get on that comic then :eyes:
+24-05-2020T19:02:33,TeapotOfDoom,^
+24-05-2020T19:02:41,TheFriendlyDeathclaw,NighTea
+24-05-2020T19:02:42,Kameloh,but... pants freedom :eyes:
+24-05-2020T19:02:45,w0lfmare,Night tea
+24-05-2020T19:02:58,MarvTheHugPharaoh,Pants are needed
+24-05-2020T19:03:03,w0lfmare,"Kame, you don't want to disappoint purple, do you?"
+24-05-2020T19:03:08,Ordithus,night teapot
+24-05-2020T19:03:16,Kameloh,that's the trick w0lf: I've already disappointed purple :snail:
+24-05-2020T19:03:22,Sclimshady,Hi Marv
+24-05-2020T19:03:34,MarvTheHugPharaoh,Hi Shady
+24-05-2020T19:03:36,MarvTheHugPharaoh,:cmarvthehugpharaoh-ezgifcom-gif-m-0:
+24-05-2020T19:03:43,EffKay9,@RimaDraws hi! o/
+24-05-2020T19:03:45,Sclimshady,:csclimshady-paperholley:
+24-05-2020T19:04:34,Sclimshady,Whats this Purp :eyes:
+24-05-2020T19:04:39,Sclimshady,Dancing
+24-05-2020T19:04:41,CrimsonHelsing,Rima! ❤️
+24-05-2020T19:04:41,Sclimshady,?
+24-05-2020T19:05:46,PurpleLemons,"yeah, commission sketching"
+24-05-2020T19:05:47,IronHorseComics,"oooh, a dance"
+24-05-2020T19:05:52,Twokinds,:ctwokinds-nibsdance:
+24-05-2020T19:06:00,MarvTheHugPharaoh,:ctwokinds-nibsdance:
+24-05-2020T19:06:06,Ordithus,:ctwokinds-nibsdance:
+24-05-2020T19:06:06,TheFriendlyDeathclaw,:cthefriendlydeathclaw-UltraNibs:
+24-05-2020T19:06:16,Sclimshady,I like it already
+24-05-2020T19:06:22,InTheLionsDen,:ctwokinds-nibsdance:
+24-05-2020T19:07:24,Bralios,Oh hi.
+24-05-2020T19:08:52,Dredjir,o/
+24-05-2020T19:09:17,Kameloh,hey dred how goes o/
+24-05-2020T19:09:43,FoxxTrotter,"Hi, Dredjir."
+24-05-2020T19:09:50,Dredjir,"Just chillin, waiting for the coffee to kick in so I can have my jinkies zoink'd"
+24-05-2020T19:09:50,AhlinaTheLioness,Hello!
+24-05-2020T19:09:51,Dredjir,haha
+24-05-2020T19:09:53,Dredjir,Heya :>
+24-05-2020T19:09:57,Dredjir,How's you?
+24-05-2020T19:10:29,Kameloh,good just pain-ting :snail:
+24-05-2020T19:10:40,Dredjir,"I feel that, hue"
+24-05-2020T19:11:10,Dredjir,"I wan to tdraw french maid Cherry, but I am just not having luck with the art juices atm"
+24-05-2020T19:11:23,Dredjir,"Want, even"
+24-05-2020T19:13:11,GHVST,hi
+24-05-2020T19:13:11,Kameloh,might need a break haha
+24-05-2020T19:13:22,Kameloh,sometimes I have to play a game to refresh my head
+24-05-2020T19:13:45,Dredjir,"I did nothing but play games yesterday, haha"
+24-05-2020T19:13:46,Twokinds,Understandable
+24-05-2020T19:14:04,Dredjir,"I know I should be resting and recovering, but I feel worse not doing anything"
+24-05-2020T19:14:13,RimaDraws,i cant even draw digitally
+24-05-2020T19:14:15,Kameloh,sometimes you gotta give yourself a break I think
+24-05-2020T19:14:21,Twokinds,Nah
+24-05-2020T19:14:24,Kameloh,Tom XD
+24-05-2020T19:14:29,Twokinds,Just work all the time continuously. It's good for you
+24-05-2020T19:14:29,Dredjir,"Still though, the nun, nurse and office Cherry turned out well, I think"
+24-05-2020T19:14:39,Dredjir,"Work constantly, dont sleep"
+24-05-2020T19:14:42,RimaDraws,then you end up like me burned out
+24-05-2020T19:14:43,Kameloh,discipline is an amazing skill to have though :snail:
+24-05-2020T19:14:49,Bralios,Reminder to snack!
+24-05-2020T19:14:57,Dredjir,"That's true, Kame, ye"
+24-05-2020T19:15:20,Dredjir,I did manage a couple of 10 hour streams though. Pretty good considering how hard it's been lately
+24-05-2020T19:15:20,Kameloh,for me I have like a bit of coffee before an art stream which helps
+24-05-2020T19:15:38,Dredjir,"Barely had any flare up during those strims. And yeah, coffee is a must for me"
+24-05-2020T19:15:50,MoonDance,Have large production days do get easier if you work a lot. But needing a break for a day or two in between is important
+24-05-2020T19:16:00,Dredjir,I do hope the GI doctor calls soon though
+24-05-2020T19:16:09,MoonDance,Something I need to teach myself is to stop but ya know- w o r k
+24-05-2020T19:16:17,Kameloh,there's always Terraria :snail:
+24-05-2020T19:16:37,IronHorseComics,or Tf2
+24-05-2020T19:16:47,Dredjir,Been playing Age of Empires 2 a good bit
+24-05-2020T19:16:55,Dredjir,And Golf with your Friends
+24-05-2020T19:17:21,MoonDance,yes kame :snail:
+24-05-2020T19:17:26,Twokinds,Once I finish this comic page I'll be playing some Terraria
+24-05-2020T19:17:29,MarvTheHugPharaoh,MOON
+24-05-2020T19:17:33,MoonDance,MARV
+24-05-2020T19:17:45,PurpleLemons,Terraria :eyes:
+24-05-2020T19:17:48,Sclimshady,Hi Moon!
+24-05-2020T19:17:48,w0lfmare,:cw0lfmare-PaperemberClose:
+24-05-2020T19:17:48,Kameloh,"yee, let's play tonight"
+24-05-2020T19:17:53,Dredjir,"Speaking of games, I'd still like to hang with ya sometime, Kame"
+24-05-2020T19:17:54,Kameloh,we can invite teddy and fluff if they're available
+24-05-2020T19:17:58,Dredjir,"And you too, Purp <3"
+24-05-2020T19:17:58,starcat13,"@twokinds ""Currently playing"" doesn't work"
+24-05-2020T19:18:11,MoonDance,Hi sclim!
+24-05-2020T19:18:19,w0lfmare,brb
+24-05-2020T19:18:21,Dredjir,"Do the emote, Purp, I need my fix"
+24-05-2020T19:18:36,Kameloh,fluff has been helping us out with Terraria
+24-05-2020T19:18:42,Kameloh,all of us got wings :cat:
+24-05-2020T19:19:06,Kameloh,it's so good to not have any fall damage :ckameloh-bongocat_50:
+24-05-2020T19:19:22,IronHorseComics,:cironhorsecomics-SurpriseNuzzle: here you go Dred
+24-05-2020T19:19:35,Dredjir,":,>"
+24-05-2020T19:19:37,Maku,did you all not get horseshoes? DX
+24-05-2020T19:19:41,MoonDance,That's like the best buff to have
+24-05-2020T19:19:45,Kameloh,no idea maku XD
+24-05-2020T19:20:34,Maku,"you get horseshoes from floating islands, they negate fall damage :snail:"
+24-05-2020T19:20:42,Kameloh,huh I didn't know that D:
+24-05-2020T19:20:52,Maku,although there might not have been enough for everyone even on a large world
+24-05-2020T19:21:20,MoonDance,a nice little bonus with the swords in the islands
+24-05-2020T19:21:35,Kameloh,I tried Terraria with a secret world seed (5162020) and it spawned both corruption and crimson
+24-05-2020T19:21:42,Kameloh,and the music was different :cat:
+24-05-2020T19:21:54,Maku,XD
+24-05-2020T19:22:01,Maku,ahah I heard about those
+24-05-2020T19:22:15,Kameloh,"pich-un on discord was suggesting the ""not the bees"" seed for bubblewolf"
+24-05-2020T19:22:22,AspiringNoodle,Terraria is on my backlog
+24-05-2020T19:22:25,Kameloh,I'm guessing a lot of honey is involved
+24-05-2020T19:22:28,SwiftKitten,stream stuttering for anyone else?
+24-05-2020T19:22:34,AspiringNoodle,"lol, my thought's exactly Kame"
+24-05-2020T19:22:38,SwiftKitten,or is it my end?
+24-05-2020T19:22:45,Dredjir,Btw
+24-05-2020T19:22:56,Dredjir,You guys excited for new Animanics this fall?
+24-05-2020T19:23:03,Dredjir,Animaniacs*
+24-05-2020T19:23:15,AspiringNoodle,I am excited for Buttons episodes :D
+24-05-2020T19:23:22,Kameloh,will have to wait and see haha
+24-05-2020T19:23:30,Dredjir,Yee
+24-05-2020T19:23:33,LittleNapoleon,o/
+24-05-2020T19:23:37,Dredjir,Lots they could mess up in it
+24-05-2020T19:23:38,AspiringNoodle,"Silly, Buttons~"
+24-05-2020T19:23:40,RisqueRaptor,"Save often, guys!"
+24-05-2020T19:23:40,Dredjir,"Heya, LN!"
+24-05-2020T19:23:43,Kameloh,hi LN :cat:
+24-05-2020T19:23:45,RisqueRaptor,And stay hydrated
+24-05-2020T19:23:51,RisqueRaptor,Also ello Dredjir and LN
+24-05-2020T19:23:55,Dredjir,"Heya, Rap :>"
+24-05-2020T19:23:59,LittleNapoleon,hi guys!
+24-05-2020T19:24:00,RisqueRaptor,Also heya W0lf and Tom
+24-05-2020T19:24:02,Maku,oh kame
+24-05-2020T19:24:08,Maku,that replaces the whole world with jungle
+24-05-2020T19:24:11,Maku,and lots of hives
+24-05-2020T19:24:15,Twokinds,hui :ctwokinds-natsducky:
+24-05-2020T19:24:17,Maku,and bees can spawn everywhere
+24-05-2020T19:24:18,Kameloh,:ckameloh-kuvaeyes:
+24-05-2020T19:24:20,AspiringNoodle,I knew it
+24-05-2020T19:24:22,SwiftKitten,no one eld having strema issues?
+24-05-2020T19:24:22,AspiringNoodle,Nothing but bees
+24-05-2020T19:24:30,RisqueRaptor,Also ello Lemons!
+24-05-2020T19:25:07,Dredjir,"I have a need for new Tiny Toons too though. I hope that if Animaniacs does well, we might get more Fifi"
+24-05-2020T19:25:09,IronHorseComics,Hoi :cironhorsecomics-CuteShawa:
+24-05-2020T19:25:15,Dredjir,"More Fifi, plz"
+24-05-2020T19:25:30,SwiftKitten,i guess the fact that everyone is ignoring me and not talking about it means no
+24-05-2020T19:25:31,HoverdudeXL,ohh. nice kame
+24-05-2020T19:25:32,AspiringNoodle,"When life gives you Lemons, make furry art"
+24-05-2020T19:25:37,Ordithus,"no issues here, swift"
+24-05-2020T19:26:02,SwiftKitten,hmm i guess i'll do a restart
+24-05-2020T19:27:37,Kameloh,I like this music :eyes:
+24-05-2020T19:28:31,LittleNapoleon,oontz oontz
+24-05-2020T19:28:40,Kameloh,there's no oontz oontz XD
+24-05-2020T19:28:48,Dredjir,Speaking of music..
+24-05-2020T19:28:48,IronHorseComics,only Zuul
+24-05-2020T19:29:03,Dredjir,"I discorvered this band that's really weird as hell, but oddly compelling"
+24-05-2020T19:29:13,Dredjir,Ever heard of Igorr?
+24-05-2020T19:29:19,johnnytho,hmm
+24-05-2020T19:29:52,Dredjir,"Oh, ir's Igorrr"
+24-05-2020T19:30:01,Dredjir,"Hhh, keyboard, plz"
+24-05-2020T19:30:10,Dredjir,"Ye, three r's"
+24-05-2020T19:30:39,KeesTheWolf,Gamers
+24-05-2020T19:30:56,Sclimshady,Why does Nat look like shes doing street magic
+24-05-2020T19:31:00,LunarSpy,Hello Hello!
+24-05-2020T19:31:05,Kameloh,ello o/
+24-05-2020T19:31:07,TheFriendlyDeathclaw,Natani's got something up her sleeve
+24-05-2020T19:31:11,FoxxTrotter,"Hi, Lunar."
+24-05-2020T19:31:11,Sclimshady,Hi Lunar
+24-05-2020T19:31:15,SwiftKitten,ok restart seemed to fix my end... phew
+24-05-2020T19:31:16,Ordithus,more like in his bosom
+24-05-2020T19:31:20,LunarSpy,Hows it goin folks? :>
+24-05-2020T19:31:28,Ordithus,"nice, swift"
+24-05-2020T19:33:26,LittleNapoleon,"(i was remixing it, kam :D )"
+24-05-2020T19:34:05,Kameloh,XD
+24-05-2020T19:34:12,Kameloh,:ckameloh-BlobDance::ckameloh-BlobDance::ckameloh-BlobDance:
+24-05-2020T19:34:32,AspiringNoodle,I imagine those little fellas are dancing to rave music
+24-05-2020T19:34:36,AspiringNoodle,They *are* the light show!
+24-05-2020T19:34:46,RimaDraws,i think i will try to draw some traditional while i watch stream
+24-05-2020T19:34:59,AspiringNoodle,I could never lol
+24-05-2020T19:35:04,AspiringNoodle,I'd get too distracted by chat
+24-05-2020T19:35:04,Kameloh,imagine a Mrs. Nibbly with colors changing like that :snail:
+24-05-2020T19:35:22,AspiringNoodle,There's a sketch suggestion
+24-05-2020T19:35:24,RimaDraws,i have to do something to distract my bad thoughts from my mind
+24-05-2020T19:35:39,AspiringNoodle,"""Mrs. Nibbly accidentally drinks a glow stick.  She is now RGB squirrel."""
+24-05-2020T19:35:53,RimaDraws,dont snap her or she will glow
+24-05-2020T19:35:54,TheAngelicDevil,heyyoooo
+24-05-2020T19:35:55,AspiringNoodle,"How you'd show that, I have no idea xD"
+24-05-2020T19:35:57,Ordithus,wouldn't be much without color... or animation
+24-05-2020T19:36:08,Kameloh,welcome o/
+24-05-2020T19:36:14,TheAngelicDevil,why thank ya
+24-05-2020T19:36:18,AspiringNoodle,"Well, for a still, she'd probably just be a rainbow gradient"
+24-05-2020T19:36:34,Ordithus,"cute Kuva, Kame"
+24-05-2020T19:36:38,IronHorseComics,I thought if you snapped her she only grew bigger and angrier
+24-05-2020T19:36:46,Kameloh,thanks! gotta make her prettier :ckameloh-kuvaeyes:
+24-05-2020T19:36:58,AspiringNoodle,Hmmm
+24-05-2020T19:37:11,AspiringNoodle,Give her flow3r in hair~
+24-05-2020T19:37:33,LittleNapoleon,ultracute already ^^
+24-05-2020T19:37:43,Kameloh,:ckameloh-naokidont:*[cuter!]
+24-05-2020T19:38:12,TheAngelicDevil,hmm...wonder would i should use for streaming here lol
+24-05-2020T19:38:27,IronHorseComics,put a pretty pink bow on her head
+24-05-2020T19:38:30,TheAngelicDevil,what i should*
+24-05-2020T19:38:33,w0lfmare,Back!
+24-05-2020T19:38:36,Kameloh,wb!
+24-05-2020T19:38:38,IronHorseComics,hey W0lf
+24-05-2020T19:38:40,TheAngelicDevil,weba
+24-05-2020T19:38:41,Sclimshady,Kuva is pretty just like she is <3
+24-05-2020T19:38:45,Ordithus,welcome bach
+24-05-2020T19:38:47,Sclimshady,Wb w0lf
+24-05-2020T19:39:00,Kameloh,sclim :ckameloh-naokithinky:
+24-05-2020T19:39:16,TheAngelicDevil,just curious what do yall recommend as a streaming program for picarto?
+24-05-2020T19:39:19,Sclimshady,What :cpurplelemons-nervous:
+24-05-2020T19:39:25,w0lfmare,OBS!
+24-05-2020T19:39:38,IronHorseComics,OBS for everything
+24-05-2020T19:39:49,TheAngelicDevil,thatas what i keep hearing
+24-05-2020T19:39:50,TheAngelicDevil,x3
+24-05-2020T19:39:54,Sclimshady,ABS
+24-05-2020T19:39:59,RheyareZeta,neat stuff
+24-05-2020T19:40:04,Sclimshady,Hi Rhey
+24-05-2020T19:40:10,RheyareZeta,heyo
+24-05-2020T19:40:11,IronHorseComics,"not Anti-lock braking system, Sclim"
+24-05-2020T19:40:14,Kameloh,hi rhey!
+24-05-2020T19:40:23,AspiringNoodle,Dang
+24-05-2020T19:40:26,RheyareZeta,:cat:
+24-05-2020T19:40:30,Ordithus,:ctwokinds-nibsbounce:
+24-05-2020T19:40:33,AspiringNoodle,And here I thought ABS was a stutter / drop free streaming technology
+24-05-2020T19:40:35,InTheLionsDen,:ctwokinds-florajiggle:
+24-05-2020T19:40:37,TheFriendlyDeathclaw,:cthefriendlydeathclaw-UltraNibs:
+24-05-2020T19:40:43,LunarSpy,Pff
+24-05-2020T19:40:46,RheyareZeta,whatcha guys working on
+24-05-2020T19:41:11,Kameloh,comics :snail:
+24-05-2020T19:41:18,Kameloh,well not me
+24-05-2020T19:41:25,RheyareZeta,mane
+24-05-2020T19:41:27,Ordithus,oooh so this is the first page of your new comic Kame aw darn
+24-05-2020T19:41:34,RheyareZeta,i was about to make a joke
+24-05-2020T19:41:35,Kameloh,XD
+24-05-2020T19:41:37,Ordithus,got my hopes up
+24-05-2020T19:41:41,Kameloh,I lied :crocodile:
+24-05-2020T19:41:44,RheyareZeta,but i didnt type fast enough :weary:
+24-05-2020T19:41:49,Ordithus,and then... crushed :ctwokinds-LauraCry:
+24-05-2020T19:42:03,Kameloh,:ckameloh-michael:
+24-05-2020T19:42:50,Maku,hi rhey
+24-05-2020T19:42:57,RheyareZeta,hi maki
+24-05-2020T19:43:08,RheyareZeta,hows that
+24-05-2020T19:43:10,RheyareZeta,bread
+24-05-2020T19:43:14,IronHorseComics,"I'm working on a comic, so I guess I'm filling in for Kame"
+24-05-2020T19:43:19,Maku,it's tasty
+24-05-2020T19:43:35,Maku,:bread::relieved::french_bread:
+24-05-2020T19:43:39,AspiringNoodle,Kame is a bigger tease than Tom: Official
+24-05-2020T19:43:49,AspiringNoodle,Sorry Ord :c
+24-05-2020T19:43:50,Kameloh,:ckameloh-blink:
+24-05-2020T19:44:13,IronHorseComics,"you know, Kame, why not go make comic art for someone else, there's dozens of writers who are looking to work with artists on webcomic forums"
+24-05-2020T19:44:20,AspiringNoodle,Kame has an emote for *EVERYTHING*: Official
+24-05-2020T19:44:29,Kameloh,:ckameloh-wtfman:
+24-05-2020T19:44:35,AspiringNoodle,LMAO
+24-05-2020T19:44:40,AspiringNoodle,Was that for me or Iron?
+24-05-2020T19:44:53,Kameloh,:ckameloh-naokicat50:*[yes]
+24-05-2020T19:45:06,AspiringNoodle,[CUT THE COMPUTER SCIENCE BS]*:ptv-angry:
+24-05-2020T19:45:08,johnnytho,kame is fluent in emote
+24-05-2020T19:45:18,IronHorseComics,I'm telling Kame
+24-05-2020T19:45:20,Dredjir,"It's because he misspelled forums. It's furoms in this community, apparently"
+24-05-2020T19:45:21,AspiringNoodle,He's also fluent in programming dad jokes >_>
+24-05-2020T19:45:23,Dredjir,Huehuehue
+24-05-2020T19:45:43,Kameloh,there's only 10 types of people in the world :ckameloh-skepticalfrog:
+24-05-2020T19:45:48,EffKay9,@IronHorseComics I am one of those writers
+24-05-2020T19:46:02,RheyareZeta,10 types
+24-05-2020T19:46:05,RheyareZeta,:thinking:
+24-05-2020T19:46:10,Ordithus,10kinds
+24-05-2020T19:46:17,IronHorseComics,Fluffy 500 fans and 9 types of non-Fluffy 500 fans
+24-05-2020T19:46:19,Kameloh,XD
+24-05-2020T19:46:56,Dredjir,"Well I should get going, guys. TC and thanks for streaming"
+24-05-2020T19:47:01,AspiringNoodle,"Kame is the type of people where if you send him to the store to get bread, and then tell him if they have eggs to get a dozen, he'll come home with a dozen loaves of bread"
+24-05-2020T19:47:02,Kameloh,have a good one!
+24-05-2020T19:47:21,Kameloh,I'd probably end up with snacks :snail:
+24-05-2020T19:47:30,Maku,that's the right choice kame
+24-05-2020T19:47:43,Maku,but what kind of snacks :snail:
+24-05-2020T19:47:54,AspiringNoodle,ALL the snacks
+24-05-2020T19:47:56,CrRAR,:ctwokinds-smug:*[Time to put on my scary face]
+24-05-2020T19:47:58,CrRAR,:ctwokinds-nataniAAAAshake:
+24-05-2020T19:48:04,Ordithus,:ctwokinds-sleepoverB:
+24-05-2020T19:48:06,IronHorseComics,:cironhorsecomics-DaleAAA:
+24-05-2020T19:48:09,AspiringNoodle,But mostly black licorice :snail:
+24-05-2020T19:48:13,Kameloh,:ckameloh-naokipaper:*[breadly snacks]
+24-05-2020T19:48:14,CrRAR,:ccrrar-coffee:
+24-05-2020T19:48:21,AspiringNoodle,D:
+24-05-2020T19:48:28,IronHorseComics,NO! NOT BLACK LICORICE!
+24-05-2020T19:48:41,AspiringNoodle,D:*[AAAAAAAAAAAAAAAAAAH!!!]
+24-05-2020T19:48:47,CrRAR,black licorice: for dat old world feels
+24-05-2020T19:48:51,johnnytho,"I love licorice, esp black licorice"
+24-05-2020T19:48:52,AspiringNoodle,"Aw durn, didn't work"
+24-05-2020T19:49:08,RimaDraws,ew licorice
+24-05-2020T19:49:13,AspiringNoodle,I curse Kame's snacks
+24-05-2020T19:49:21,johnnytho,I got a box of that stuff fr my 10th birthday and was hooked
+24-05-2020T19:49:22,IronHorseComics,to taste like cotton candy
+24-05-2020T19:49:32,AspiringNoodle,They all turn to vegemite
+24-05-2020T19:50:07,AspiringNoodle,Truly I am worse than the one person everyone likes to tell people they're worse than
+24-05-2020T19:50:22,johnnytho,Too bad they're bad for you
+24-05-2020T19:50:32,johnnytho,Just redvines now
+24-05-2020T19:50:44,AspiringNoodle,*curses johnny's snacks to taste like vegemite*
+24-05-2020T19:50:51,AspiringNoodle,:upside_down:
+24-05-2020T19:51:15,johnnytho,never tried it so i dont mind
+24-05-2020T19:51:25,AspiringNoodle,"Oh trust me, you'll hate it :ptv-laugh:"
+24-05-2020T19:51:44,johnnytho,You talking to a guy that eats raw oats as a snack
+24-05-2020T19:51:58,AspiringNoodle,It's one of the most polarizing foods to come out of the English (UK) culture
+24-05-2020T19:52:11,AspiringNoodle,"Like, it's literally love it or hate it, there is no inbetween"
+24-05-2020T19:52:23,johnnytho,I hate nutella
+24-05-2020T19:52:33,johnnytho,:nauseated_face:
+24-05-2020T19:52:37,AspiringNoodle,"""Vegemite is a thick, dark brown Australian food spread made from leftover brewers' yeast extract with various vegetable and spice additives. It was developed by Cyril Callister in Melbourne, Victoria in 1922."" -Via Wikipedia"
+24-05-2020T19:53:12,johnnytho,"hmm, thats a weird source"
+24-05-2020T19:53:20,johnnytho,the yeast i mean
+24-05-2020T19:53:47,AspiringNoodle,Japan has a squid ink ramen :D
+24-05-2020T19:54:19,CrRAR,hmmm
+24-05-2020T19:54:22,AspiringNoodle,The *true* version of the dish is supposedly so salty it burns.  And over time they've toned it down to half strength or less
+24-05-2020T19:54:27,CrRAR,Probably tastes like fear
+24-05-2020T19:54:31,CrRAR,squid fear
+24-05-2020T19:54:32,johnnytho,"I dont like sea food, its like eating aliens"
+24-05-2020T19:54:43,johnnytho,Sea has weird things
+24-05-2020T19:54:44,AspiringNoodle,"This is because the dish originates from post-WW2, where construction was hard at work"
+24-05-2020T19:54:50,Ordithus,"squids are aliens, I tell ya"
+24-05-2020T19:54:54,johnnytho,YES
+24-05-2020T19:55:15,Ordithus,delicious aliens
+24-05-2020T19:55:46,Sclimshady,Calamari:cpurplelemons-tired:
+24-05-2020T19:57:36,AspiringNoodle,^^^^^^
+24-05-2020T19:58:05,Bralios,Mm... Food is good.
+24-05-2020T19:58:10,CrRAR,:ctwokinds-chicken:
+24-05-2020T19:58:20,AspiringNoodle,"...Now I want crab, clams, calamari, fish, and muscles *drools*"
+24-05-2020T19:58:38,Ordithus,mussels?
+24-05-2020T19:58:42,AspiringNoodle,^
+24-05-2020T19:58:43,CrRAR,scallops!
+24-05-2020T19:58:46,MarvTheHugPharaoh,CrRARARARA :ctwokinds-reniderp_flip:
+24-05-2020T19:58:50,CrRAR,:ccrrar-reni:
+24-05-2020T19:58:52,Ordithus,"Natani is drool worthy, though"
+24-05-2020T19:58:53,AspiringNoodle,"I'm a wee bit tired, lol"
+24-05-2020T19:58:53,CrRAR,:ctwokinds-FloDance:
+24-05-2020T19:58:58,AspiringNoodle,"Oooooooooo, I forgot about scallops!"
+24-05-2020T19:59:09,AspiringNoodle,...there's a diner near my house that makes them... me want
+24-05-2020T19:59:23,Sclimshady,Never had a scallop actually
+24-05-2020T19:59:40,AspiringNoodle,They're the marshmallow of the sea :D
+24-05-2020T19:59:50,AspiringNoodle,"A bit off white, fluffy, and can be sweet"
+24-05-2020T20:00:02,CrRAR,"yes, they yum"
+24-05-2020T20:00:10,Sclimshady,Sounds too sweet
+24-05-2020T20:00:15,Sclimshady,I like savory
+24-05-2020T20:00:30,AspiringNoodle,"They are *very* tender. And the smaller the scallop, the sweeter they are"
+24-05-2020T20:00:44,AspiringNoodle,But it's not like eating candy
+24-05-2020T20:01:03,AspiringNoodle,"Tastes like seafood, but you can taste the sweetness c:"
+24-05-2020T20:01:05,Zizkil,"just and, jesus christ this drawing is cute"
+24-05-2020T20:01:10,CrRAR,"Scallops literally can swim around like in spongebob, so the thing you're eating is the shell flapping muscle they have."
+24-05-2020T20:01:32,CrRAR,Bigger scallop needs bigger flaps
+24-05-2020T20:01:44,Sclimshady,So im killing an ocean butterfly?
+24-05-2020T20:01:52,Ordithus,is eating a scallop like eating pac man? :ctwokinds-floraquestion:
+24-05-2020T20:01:54,CrRAR,:ctwokinds-maddiessparkles:
+24-05-2020T20:01:58,CrRAR,pretty much I guess
+24-05-2020T20:02:23,AspiringNoodle,"Uhhhhhhhhhh, now I have a weird craving for teriyaki chicken..."
+24-05-2020T20:02:45,AspiringNoodle,Chicken / Seafood > beef
+24-05-2020T20:02:46,AspiringNoodle,Fite me
+24-05-2020T20:03:15,CrRAR,Roan will represent chicken-kind
+24-05-2020T20:03:25,CrRAR,he can sympathize now
+24-05-2020T20:03:45,Twokinds,:ctwokinds-chicken:
+24-05-2020T20:03:56,CrRAR,hehheh
+24-05-2020T20:04:15,InTheLionsDen,He will do that right after he and Brutus get back from KFC
+24-05-2020T20:04:29,AspiringNoodle,Popeyes > KFC
+24-05-2020T20:04:32,Kameloh,brb :cat:
+24-05-2020T20:04:36,CrRAR,kk
+24-05-2020T20:04:37,AspiringNoodle,Though I do love me some KFC sometimes
+24-05-2020T20:04:52,AspiringNoodle,"...Guess I'm getting Popeyes next week, ahahahaha"
+24-05-2020T20:06:14,FoxxTrotter,Bojangles' > Popeye's and KFC
+24-05-2020T20:06:30,CrRAR,:eyes:
+24-05-2020T20:06:32,CrRAR,teef
+24-05-2020T20:06:43,IronHorseComics,Popeyes<everything
+24-05-2020T20:06:47,Corinthian,@FoxxTrotter Bojangles' is the shit!
+24-05-2020T20:06:50,MoonDance,flamin' Reni :eyes:
+24-05-2020T20:07:12,CrRAR,"Reni: ""I can be scary TOO!!!"""
+24-05-2020T20:07:29,CrRAR,:fire::ctwokinds-reniderp_flip:*[BWORFFF]
+24-05-2020T20:07:41,IronHorseComics,:cironhorsecomics-RichardWAT:
+24-05-2020T20:13:00,Bralios,All food is special in its own way.
+24-05-2020T20:13:12,Bralios,Every meal can be great. >:V
+24-05-2020T20:13:50,CrRAR,Keith equipped: shovel
+24-05-2020T20:14:17,Kameloh,back!
+24-05-2020T20:14:23,PurpleLemons,wb
+24-05-2020T20:14:24,CrRAR,Clearly it wasn't a basitin-grade shovel
+24-05-2020T20:14:26,CrRAR,wb!
+24-05-2020T20:14:28,Twokinds,brb
+24-05-2020T20:14:29,BadFoMo,Yo.
+24-05-2020T20:14:32,Kameloh,thanks!
+24-05-2020T20:14:34,Ordithus,wb
+24-05-2020T20:14:35,BadFoMo,Bye.
+24-05-2020T20:15:57,Twokinds,back
+24-05-2020T20:16:00,CrRAR,wb
+24-05-2020T20:16:01,Kameloh,wb!
+24-05-2020T20:16:03,Ordithus,wb
+24-05-2020T20:16:11,PurpleLemons,wb
+24-05-2020T20:16:17,BadFoMo,"Anyway, Panel 2; Keith: I've seen enough anime to know where this is going!"
+24-05-2020T20:16:21,BadFoMo,Yo.
+24-05-2020T20:16:25,CrRAR,*Natani uses only mana stone to repair Keith's shovel*
+24-05-2020T20:16:28,IronHorseComics,"shoot, he got back before I could use my giganta-beam on Flora"
+24-05-2020T20:16:34,w0lfmare,wb
+24-05-2020T20:16:36,IronHorseComics,my evil scheme has been foiled
+24-05-2020T20:16:57,CrRAR,gotta lean to chorge dat lazor faster
+24-05-2020T20:18:59,IronHorseComics,"no I just gotta pay better attention, I was typing down the dialogue for my page"
+24-05-2020T20:19:08,CrRAR,coolcool
+24-05-2020T20:20:14,AspiringNoodle,Back getting cheekin
+24-05-2020T20:20:34,CrRAR,nice
+24-05-2020T20:20:42,AspiringNoodle,"Why is it that every single fast food chain I love is the butt of every joke everywhere else?  Like, how bad are the locations where you guys live..."
+24-05-2020T20:21:19,CrRAR,"cuz, ding fries are done :notes:"
+24-05-2020T20:21:25,johnnytho,"agree, people hate subway but I love subway"
+24-05-2020T20:21:37,AspiringNoodle,We have a great few Arby's where I live
+24-05-2020T20:21:43,AspiringNoodle,Haven't had a single problem with any of them
+24-05-2020T20:22:04,CrRAR,I think sometimes it depends on if the franchisee cares or not
+24-05-2020T20:22:15,CrRAR,"some have pride, others not always."
+24-05-2020T20:22:57,CrRAR,Like a restaurant when the manager is always around is usually a good sign of their commitment.
+24-05-2020T20:23:32,AspiringNoodle,One of the restaurants closest to my house got bought out :c
+24-05-2020T20:23:39,ShyAsp,:eyes:
+24-05-2020T20:23:41,AspiringNoodle,The co-owner was there like every day
+24-05-2020T20:23:41,ShyAsp,hello everyone
+24-05-2020T20:23:54,AspiringNoodle,Are you fellow snek? :ptv-excited:
+24-05-2020T20:24:01,CrRAR,haha
+24-05-2020T20:24:06,AspiringNoodle,Or some kind of noodle?  That's good too
+24-05-2020T20:24:22,CrRAR,star-crossed sneks
+24-05-2020T20:24:31,ShyAsp,how ya'll doin?
+24-05-2020T20:24:38,CrRAR,:ctwokinds-evalswink_sparkl:
+24-05-2020T20:24:41,AspiringNoodle,I has cheekin\
+24-05-2020T20:24:46,johnnytho,good
+24-05-2020T20:24:52,AspiringNoodle,And screwdriver :ptv-hearts:
+24-05-2020T20:25:09,CrRAR,whoop
+24-05-2020T20:25:13,CrRAR,:ctwokinds-nibsdance:
+24-05-2020T20:25:26,InTheLionsDen,:ctwokinds-nibsdance:
+24-05-2020T20:26:26,TheSexyBeast,"Hello everyone, this is the best way to spend a Monday night."
+24-05-2020T20:26:36,CrRAR,pretty much
+24-05-2020T20:26:46,AspiringNoodle,"Also kid: ""Why do I hear boss music?"""
+24-05-2020T20:26:49,AspiringNoodle,Oh no
+24-05-2020T20:26:53,AspiringNoodle,I didn't whisper
+24-05-2020T20:26:54,ShyAsp,yeah pretty much
+24-05-2020T20:28:01,SwiftKitten,i love how natani reaches into her bra to grag some sort of power stone XD
+24-05-2020T20:28:24,johnnytho,pocket dimension
+24-05-2020T20:28:33,AspiringNoodle,Little did we know that she somehow smuggled an entire mana crystal mine into her pocket dimension chest bindings
+24-05-2020T20:28:37,Ordithus,he's got nifty bindings of holding
+24-05-2020T20:28:44,AspiringNoodle,Endless mana crystals: She has found the loophole
+24-05-2020T20:28:54,CrRAR,turns out the cosmic cleavage is useful for something once
+24-05-2020T20:29:20,Ordithus,"""what else can you hold in there?"""
+24-05-2020T20:29:26,AspiringNoodle,"Well, if we find the original 2nd pair, you could grope her *accidentally* from anywhere :P"
+24-05-2020T20:29:33,Ordithus,*pulls out a spear* :ctwokinds-smug:
+24-05-2020T20:29:42,Ordithus,:ctwokinds-keithdotdotdot:
+24-05-2020T20:29:46,AspiringNoodle,*pulls out a cucumber*
+24-05-2020T20:29:49,SwiftKitten,"""where did nis nibbly go??""  pop out if nantani chest"
+24-05-2020T20:29:52,AspiringNoodle,*freaks out at said cucumber*
+24-05-2020T20:29:58,Ordithus,Natani isn't a cat
+24-05-2020T20:30:07,SwiftKitten,omg they coudl totsally do that alein scene
+24-05-2020T20:30:16,AspiringNoodle,"Yeah, but she didn't put that cucumber in there, lmao"
+24-05-2020T20:30:17,SwiftKitten,ms nibble coming out of his poket dimension
+24-05-2020T20:30:26,SwiftKitten,from the bottom  side
+24-05-2020T20:30:27,CrRAR,:ctwokinds-power:
+24-05-2020T20:30:49,SwiftKitten,or just ripping a hole trhough the bandages
+24-05-2020T20:30:51,SwiftKitten,XD
+24-05-2020T20:30:53,SwiftKitten,omg
+24-05-2020T20:30:57,SwiftKitten,that would be perfect
+24-05-2020T20:31:00,AspiringNoodle,Wouldn't you freak out a smidge if you pulled a cucumber out of something you distinctly remember *not* putting one in?
+24-05-2020T20:31:02,johnnytho,sketch suggestion [erhaps
+24-05-2020T20:31:12,CrRAR,"get your halloween suggestions ready, kids"
+24-05-2020T20:31:14,AspiringNoodle,Save it for Halloween
+24-05-2020T20:31:20,CrRAR,lul
+24-05-2020T20:31:32,AspiringNoodle,"""Mrs Nibbly and Raine re-enact the chest burster scene from Alien"""
+24-05-2020T20:31:35,AspiringNoodle,Natani*
+24-05-2020T20:31:48,AspiringNoodle,"Bleh, somebody slap my brain plz"
+24-05-2020T20:32:03,CrRAR,it's too late 4 brain
+24-05-2020T20:33:23,CrRAR,Nibbly should figure out how to commandeer a stone dragon
+24-05-2020T20:33:55,AspiringNoodle,"Nah, she should Ratatouille, horror version"
+24-05-2020T20:34:33,AspiringNoodle,"""Mrs. Nibbly controls Sythe via the hair on his head and 'takes care' of Maren"" :ptv-snicker:"
+24-05-2020T20:34:48,CrRAR,Nibbly noooo
+24-05-2020T20:34:56,AspiringNoodle,Nibbly yaaaaaaaaas
+24-05-2020T20:35:55,IronHorseComics,"Nibbly, stop murdering people"
+24-05-2020T20:35:57,IronHorseComics,you're not a spy
+24-05-2020T20:36:02,RimaDraws,i finally got my drawing started
+24-05-2020T20:36:05,IronHorseComics,noice
+24-05-2020T20:36:09,CrRAR,yay
+24-05-2020T20:36:15,SwiftKitten,i still think it would hilarous.. like have a panel of natiani in her room and have nis nibble pounce on in.. and then nitani star screaming .. everyone one over... nibble pops out of his chest XD
+24-05-2020T20:36:24,SwiftKitten,runes over*
+24-05-2020T20:36:40,TheSexyBeast,She is the legendary Super Squirrel...
+24-05-2020T20:37:04,CrRAR,The hilarious part would be where it flees the room leaving everyone speechless
+24-05-2020T20:37:09,AspiringNoodle,"""Mrs. Nibbly makes breakfast"""
+24-05-2020T20:37:22,AspiringNoodle,"Imagine everyone waking up to a gourmet breakfast spread, and Rose be like, ""Wasn't me."""
+24-05-2020T20:37:29,CrRAR,*plate-o'-acorns*
+24-05-2020T20:37:54,TheSexyBeast,She comes from a land down under.
+24-05-2020T20:38:02,CrRAR,:seedling: acorn sprout garnish
+24-05-2020T20:38:32,CrRAR,Every breakfast comes with one complimentary oak tree
+24-05-2020T20:38:37,AspiringNoodle,*Ramsey cameos in*
+24-05-2020T20:38:51,AspiringNoodle,"""GET RID OF THIS *BLEEP*ING PARSLEY"""
+24-05-2020T20:38:54,AspiringNoodle,*Ramsey out*
+24-05-2020T20:39:41,TheSexyBeast,He's a tool...
+24-05-2020T20:40:17,CrRAR,Geoff Laser Ramsey?
+24-05-2020T20:40:40,TheFriendlyDeathclaw,out of all the Twokinds characters who is most likely to get replaced by a space alien?
+24-05-2020T20:40:51,AspiringNoodle,Red
+24-05-2020T20:40:58,AspiringNoodle,I mean... [database error]
+24-05-2020T20:41:01,TheSexyBeast,"Wait, Laser? Really?"
+24-05-2020T20:41:42,CrRAR,"yeah, he actually changed his name at one point and changing his middle name was ""free"", so he did it. xD"
+24-05-2020T20:41:43,TheSexyBeast,Nibbly
+24-05-2020T20:42:26,johnnytho,Eric
+24-05-2020T20:42:43,johnnytho,We have progressed past the need for Eric
+24-05-2020T20:42:51,johnnytho,We have the technology
+24-05-2020T20:43:56,CrRAR,"Eric probably was absorbed into the estate hivemind already, it's was probably a ""thing"" he was curious about."
+24-05-2020T20:44:39,IronHorseComics,Eric
+24-05-2020T20:44:47,TheSexyBeast,1. Nibbly
+24-05-2020T20:44:52,IronHorseComics,"he's got the ""dead"" thing over his head"
+24-05-2020T20:45:34,TheSexyBeast,2. Eric's brother
+24-05-2020T20:46:26,johnnytho,The thing in the red room absorbed Eric and created an eldritch horror thing. Like the trapper keeper south park episode.
+24-05-2020T20:46:56,TheSexyBeast,3. Nora
+24-05-2020T20:47:44,TheSexyBeast,Eric is still needed to give his life heroically saving Kat and Zen.
+24-05-2020T20:48:03,Kameloh,now I want food :eyes:
+24-05-2020T20:48:15,Twokinds,Eric's sleeping through this whole thing on a beach chair somewhere.
+24-05-2020T20:48:28,CrRAR,haha
+24-05-2020T20:48:37,TheSexyBeast,HA!
+24-05-2020T20:48:50,w0lfmare,I hope the chair is flipped so we don't have to see you draw him
+24-05-2020T20:48:55,CrRAR,Fell asleep listening to Lynn on a rant about societal order
+24-05-2020T20:49:17,TheSexyBeast,"..and he wakes up, sees the room is destroyed, and asks what happened."
+24-05-2020T20:50:02,CrRAR,(n)ice blast!
+24-05-2020T20:50:20,TheSexyBeast,4. Landen
+24-05-2020T20:50:50,IronHorseComics,"5. Flora's boobs... wait no, they'll always be flat"
+24-05-2020T20:51:36,TheSexyBeast,...but are they an alien in disguise?
+24-05-2020T20:51:50,IronHorseComics,...who knws?
+24-05-2020T20:52:18,TheFriendlyDeathclaw,Plot Twist: Trace has been a space alien in disguise the whole time!!
+24-05-2020T20:52:45,johnnytho,Explains the hair
+24-05-2020T20:52:49,InTheLionsDen,The triangle is a space parasite.
+24-05-2020T20:52:59,IronHorseComics,Plot Twist: Karen was the alien this whole time
+24-05-2020T20:53:04,CrRAR,:ctwokinds-karenOOO:
+24-05-2020T20:53:06,IronHorseComics,nobody suspects the idiot!
+24-05-2020T20:53:14,TheSexyBeast,"Oh no, Flora's gonna have a tentacle baby!"
+24-05-2020T20:53:23,TheFriendlyDeathclaw,not even the idiot
+24-05-2020T20:53:32,johnnytho,No but seriously is that triangle thing like a Templar tattoo?
+24-05-2020T20:53:44,InTheLionsDen,What triangle?
+24-05-2020T20:53:48,CrRAR,more arms = more hugs
+24-05-2020T20:54:06,IronHorseComics,...until it becomes... an anime
+24-05-2020T20:54:12,TheSexyBeast,Ask Sealeen
+24-05-2020T20:54:12,TheFriendlyDeathclaw,This Triangle? :pizza:
+24-05-2020T20:54:14,Ordithus,so the weird tentacly thing on the 3rd floor just wants hugs
+24-05-2020T20:54:14,IronHorseComics,then the hugs turn into something else
+24-05-2020T20:54:18,johnnytho,...the triangle...
+24-05-2020T20:54:35,johnnytho,Its the tickle monster
+24-05-2020T20:54:40,InTheLionsDen,First rule in the Templar. There are no triangles.
+24-05-2020T20:54:47,TheSexyBeast,Sealeen has a triangle
+24-05-2020T20:54:54,Ordithus,"2, even"
+24-05-2020T20:54:56,IronHorseComics,which goes to show how much of a fraud Sealeen is
+24-05-2020T20:54:59,johnnytho,phony
+24-05-2020T20:55:07,IronHorseComics,she pointed the triangles on her face out
+24-05-2020T20:55:13,TheFriendlyDeathclaw,THIS GUYS A PHONY
+24-05-2020T20:55:48,TheSexyBeast,"Ooh, what about the adrikist?"
+24-05-2020T20:56:17,IronHorseComics,"THIS GUY'S A PONY! ""What? You mean phony right?"" ""NO, I MEAN THAT GUY IS A LITERALLY, PONY!!"""
+24-05-2020T20:56:24,IronHorseComics,Pony: ...neigh
+24-05-2020T20:56:55,CrRAR,":ctwokinds-maddiessparkles:*[yayyy, a pony!]"
+24-05-2020T20:57:06,CrRAR,:ctwokinds-kingtea:
+24-05-2020T20:57:06,TheFriendlyDeathclaw,:ctwokinds-sadtrace2:*[ALL HAIL CTHULU!!]
+24-05-2020T20:57:11,TheSexyBeast,Pony Nora?
+24-05-2020T20:57:20,IronHorseComics,and then Maddie gets bucked so hard she's launched into out space
+24-05-2020T20:57:38,w0lfmare,Food break!
+24-05-2020T20:57:53,FoxxTrotter,"Okies, w0lf."
+24-05-2020T20:57:59,TheFriendlyDeathclaw,why are you breaking your food w0lfie??
+24-05-2020T20:58:18,Ordithus,eat something tasty w0lf!
+24-05-2020T20:58:25,FoxxTrotter,Because he can. XP
+24-05-2020T20:58:39,TheSexyBeast,Deathclaw is a Dad?
+24-05-2020T20:58:53,TheFriendlyDeathclaw,mope
+24-05-2020T20:58:58,TheFriendlyDeathclaw,nope
+24-05-2020T20:59:00,FoxxTrotter,Dadrobit is the only Dad around here.
+24-05-2020T20:59:26,IronHorseComics,"give him five minutes, Deathclaw will end up a dad by then"
+24-05-2020T20:59:41,TheSexyBeast,"DAD JOKES, GET YER DAD JOKES HERE!.."
+24-05-2020T20:59:57,LanceWusky,Some great art all around here!
+24-05-2020T21:00:17,TheFriendlyDeathclaw,Iron are you implying something there?
+24-05-2020T21:00:29,Ordithus,:ctwokinds-sytheeyebrows:
+24-05-2020T21:00:30,IronHorseComics,maybe
+24-05-2020T21:00:45,IronHorseComics,Nora's been stalking you for about a month
+24-05-2020T21:01:41,RandomTonio,Hello
+24-05-2020T21:01:48,Kameloh,might have a small food break :cat:
+24-05-2020T21:01:48,CrRAR,hello tonio
+24-05-2020T21:02:03,TheSexyBeast,Hey Tonio
+24-05-2020T21:02:04,CrimsonHelsing,"Eric Vaughn! I... Ugh, how the hell can he sleep through this!?"
+24-05-2020T21:02:18,Bralios,"Those look good, Purp :3"
+24-05-2020T21:02:24,IronHorseComics,"he's probably like me, I can sleep through quite a lot"
+24-05-2020T21:02:34,Ordithus,:ctwokinds-KatDance: nice dancing sketches purp
+24-05-2020T21:02:46,Maku,Ohhh I recognize these lions
+24-05-2020T21:02:56,AhlinaTheLioness,:)
+24-05-2020T21:03:18,RimaDraws,i slept through a tornado warning on my phone going off one night
+24-05-2020T21:03:31,TheFriendlyDeathclaw,:ctwokinds-floAAA:
+24-05-2020T21:03:53,PurpleLemons,thanks!
+24-05-2020T21:04:36,IronHorseComics,"one time, I was riding in an old RV and an alarm in it was blaring all night long. I was the only one that got sleep"
+24-05-2020T21:05:12,IronHorseComics,forgot what it was for but they couldn't fix it until morning when all the autozones opened
+24-05-2020T21:05:19,AhlinaTheLioness,Lookin great :)  We'll see which picture the lion likes :)
+24-05-2020T21:06:07,Bralios,>:3
+24-05-2020T21:06:13,AhlinaTheLioness,oh hai
+24-05-2020T21:06:20,PurpleLemons,thanks! i've sent it out for review which to go forward with
+24-05-2020T21:06:21,AhlinaTheLioness,Was gonna message you on discord hehe
+24-05-2020T21:06:35,Bralios,Still can. A little distracted.
+24-05-2020T21:06:36,PurpleLemons,gonna switch to something else for now
+24-05-2020T21:06:37,RandomTonio,I feel like everyone is going to be screwed
+24-05-2020T21:06:50,MarvTheHugPharaoh,Looking awesome so far purp
+24-05-2020T21:07:00,Sclimshady,They look great Purp
+24-05-2020T21:07:14,Sclimshady,I saw Sight :eyes:
+24-05-2020T21:07:37,TheSexyBeast,Plot twist: Trace gets arrested for attempted murder of Princess Reni...
+24-05-2020T21:07:40,PurpleLemons,debating what to work on next haha
+24-05-2020T21:07:41,Maku,sight work? :eyes:
+24-05-2020T21:07:51,Sclimshady,Sighttttt :eyes:
+24-05-2020T21:08:02,w0lfmare,Keith was never cut out to be a shovel knight
+24-05-2020T21:08:05,Ordithus,:ctwokinds-sadtrace2:*[I am the law]
+24-05-2020T21:08:13,Ordithus,haha w0lf
+24-05-2020T21:08:46,TheSexyBeast,I know what drawing needs to be suggested now..
+24-05-2020T21:09:16,TheSexyBeast,Shovel Knight Keith wearing Buckety.
+24-05-2020T21:10:07,ShyAsp,lol
+24-05-2020T21:10:53,TheFriendlyDeathclaw,:ctwokinds-nibsdance:
+24-05-2020T21:11:04,CrRAR,:ctwokinds-nibsdance:
+24-05-2020T21:11:10,MarvTheHugPharaoh,:ctwokinds-nibsdance:
+24-05-2020T21:11:11,InTheLionsDen,:ctwokinds-nibsdance:
+24-05-2020T21:11:23,AhlinaTheLioness,We chose #1 for those that were curious hehe
+24-05-2020T21:12:20,Twokinds,I need to hurry
+24-05-2020T21:12:32,IronHorseComics,or Nora's gonna prank you?
+24-05-2020T21:13:11,InTheLionsDen,The guardians are going to get him.
+24-05-2020T21:13:21,Twokinds,Starting to get dizzy from lack of food
+24-05-2020T21:13:29,Ordithus,then take food break
+24-05-2020T21:13:33,TheSexyBeast,Go eat!
+24-05-2020T21:13:46,InTheLionsDen,You're not yourself when you're hungry.
+24-05-2020T21:13:46,w0lfmare,Take a food break!
+24-05-2020T21:13:48,Zakuru,take a break!
+24-05-2020T21:13:51,TheFriendlyDeathclaw,:cw0lfmare-GoogleyEmber:
+24-05-2020T21:13:56,IronHorseComics,eat the food
+24-05-2020T21:13:57,Twokinds,Gotta finish
+24-05-2020T21:13:57,w0lfmare,Purple can handle being the last one left
+24-05-2020T21:14:02,Zakuru,nuuuu!
+24-05-2020T21:14:05,ShyAsp,go eat food
+24-05-2020T21:14:05,w0lfmare,He's fine
+24-05-2020T21:14:09,ShyAsp,food's good
+24-05-2020T21:14:10,ShyAsp,and tasty
+24-05-2020T21:14:16,MuonNeutrino,"there's still a good amount left, go get food before oyu pass out"
+24-05-2020T21:14:33,johnnytho,thats not good
+24-05-2020T21:14:41,IronHorseComics,he'll live
+24-05-2020T21:14:42,TheSexyBeast,😱
+24-05-2020T21:14:48,Bralios,>:V
+24-05-2020T21:14:53,Bralios,Acquire the snacks.
+24-05-2020T21:14:58,johnnytho,well yea but...
+24-05-2020T21:15:02,IronHorseComics,ain't nothing here but a bunch of thirsty cretins
+24-05-2020T21:16:30,CrRAR,:saxophone::ctwokinds-nibsbounce:
+24-05-2020T21:16:35,InTheLionsDen,:saxophone::ctwokinds-nibsbounce:
+24-05-2020T21:17:01,w0lfmare,Nobody here is thirsty!
+24-05-2020T21:17:15,w0lfmare,:cw0lfmare-Embersafe:
+24-05-2020T21:17:21,IronHorseComics,"what are you ta- I mean yeeeessss, of course"
+24-05-2020T21:17:28,IronHorseComics,NOBODY's thirsty here
+24-05-2020T21:17:36,PurpleLemons,:cpurplelemons-thirst:
+24-05-2020T21:17:40,Ordithus,"I dunno, I could use a tall glass of water"
+24-05-2020T21:17:42,w0lfmare,Safe place
+24-05-2020T21:17:45,IronHorseComics,"just a bunch of sweet, wholesome, pants loving furries"
+24-05-2020T21:17:59,TheFriendlyDeathclaw,:saxophone::cw0lfmare-Embercat:
+24-05-2020T21:18:07,johnnytho,furries? where?
+24-05-2020T21:18:07,w0lfmare,Go hydrate ord
+24-05-2020T21:18:15,Ordithus,:saxophone::cw0lfmare-Paperember:
+24-05-2020T21:18:23,Maku,oh no not furries
+24-05-2020T21:18:25,Maku,they smell
+24-05-2020T21:18:28,IronHorseComics,:cironhorsecomics-DaleAAA:
+24-05-2020T21:18:35,Sclimshady,Is this skunk girl Purp
+24-05-2020T21:18:45,johnnytho,Stinky furries get off this sstream
+24-05-2020T21:19:24,IronHorseComics,"take showers, at least be NICE SMELLING furries"
+24-05-2020T21:20:05,w0lfmare,"Okay, food break over!"
+24-05-2020T21:20:13,Ordithus,what was food :eyes:
+24-05-2020T21:20:16,IronHorseComics,"back to work, slave!"
+24-05-2020T21:20:59,Ordithus,rude
+24-05-2020T21:21:15,w0lfmare,Yay! Work!
+24-05-2020T21:21:24,johnnytho,Thats a MEAN looking dragon :flushed:
+24-05-2020T21:21:38,IronHorseComics,nah it's just Reni
+24-05-2020T21:21:44,IronHorseComics,she a great big nerd
+24-05-2020T21:23:44,Ordithus,:ctwokinds-reniderp_flip:
+24-05-2020T21:29:06,Zakuru,magic!
+24-05-2020T21:30:49,RandomTonio,How is everyone?
+24-05-2020T21:30:51,IronHorseComics,ooohhhh now I haz an idea for an emote
+24-05-2020T21:31:00,IronHorseComics,just not sure how to do it
+24-05-2020T21:31:31,ShyAsp,test
+24-05-2020T21:31:34,ShyAsp,doing fantastic
+24-05-2020T21:35:22,ShyAsp,bit tired and a bit sick though :sweat:
+24-05-2020T21:39:09,Zakuru,your almost done tom! A little more then you can feast to your hearts desire!
+24-05-2020T21:40:23,IronHorseComics,and then you can come back and draw to OUR heart's desires...
+24-05-2020T21:43:02,PurpleLemons,Sclim - yes
+24-05-2020T21:43:23,PurpleLemons,"gettin really hyperfocused today, feeling off"
+24-05-2020T21:44:05,Sclimshady,"Its ok,  shes lookin great"
+24-05-2020T21:44:21,Sclimshady,Real icy personality
+24-05-2020T21:44:31,Sclimshady,Or crystals?
+24-05-2020T21:44:38,AspiringNoodle,Tom deserves a nice well-done steak and some canned soup (cold) for dinner tonight :D
+24-05-2020T21:44:48,PurpleLemons,it's ice :wink:
+24-05-2020T21:44:53,Zakuru,mmmff dont make me crave soup
+24-05-2020T21:44:59,Sclimshady,Pretty cool
+24-05-2020T21:45:01,Ordithus,:ptv-grossedout:
+24-05-2020T21:45:21,PurpleLemons,want to really get this ice platform and elemental down
+24-05-2020T21:46:03,AspiringNoodle,"Tomato, french onion, clam chowder, chicken noodle"
+24-05-2020T21:46:26,IronHorseComics,"or just eat croutons, like me"
+24-05-2020T21:46:35,TheFriendlyDeathclaw,Purple Lemon Soup!!!!!
+24-05-2020T21:47:53,CrimsonHelsing,"Whoo Reni, Natani! RIP - AND - TEAR! :D"
+24-05-2020T21:49:38,RisqueRaptor,:floppy_disk:
+24-05-2020T21:50:12,RisqueRaptor,"Alright, gonna play Pathfinder. Later all"
+24-05-2020T21:50:18,Ordithus,how many of those disks would be needed to save their projects
+24-05-2020T21:50:19,ShyAsp,Enjoy!
+24-05-2020T21:50:21,Ordithus,bye risque!
+24-05-2020T21:50:28,ShyAsp,Talk to ya later!
+24-05-2020T21:50:59,IronHorseComics,one meelion disks
+24-05-2020T21:51:08,Sclimshady,See ya Risque
+24-05-2020T21:52:36,Kameloh,:eyes:
+24-05-2020T21:52:43,Kameloh,sorry that took a bit XD
+24-05-2020T21:52:53,ShyAsp,welcome back Kame!
+24-05-2020T21:52:58,ShyAsp,what'd you have to snack on?
+24-05-2020T21:52:59,w0lfmare,:eyes:
+24-05-2020T21:53:01,Ordithus,wb!
+24-05-2020T21:53:11,Kameloh,"I had uh, leftover steak :eyes:"
+24-05-2020T21:53:23,MarvTheHugPharaoh,was it well done?
+24-05-2020T21:53:31,ShyAsp,:thinking:
+24-05-2020T21:53:38,Bralios,>:V
+24-05-2020T21:53:46,Sclimshady,I will hurt you Marv
+24-05-2020T21:53:51,ShyAsp,better not have been well done.
+24-05-2020T21:53:54,MarvTheHugPharaoh,:)
+24-05-2020T21:54:04,ShyAsp,well done steak is one of the two food sins
+24-05-2020T21:54:05,Ordithus,what about poorly done
+24-05-2020T21:54:07,Sclimshady,Have it blue
+24-05-2020T21:54:09,ShyAsp,the other is pineapple on pizza
+24-05-2020T21:54:11,ShyAsp,"""poorly done"""
+24-05-2020T21:54:14,ShyAsp,it's the same as well done.
+24-05-2020T21:55:02,Ordithus,Natani being badass <3
+24-05-2020T21:55:23,ThoseButterflys,ord its not supposed to moo while youre eating it
+24-05-2020T21:55:54,ShyAsp,:thinking:
+24-05-2020T21:55:55,Kameloh,it was somethin XD
+24-05-2020T21:56:06,TheFriendlyDeathclaw,we need more Badass Natani
+24-05-2020T21:56:10,Kameloh,how is everyone :cat:
+24-05-2020T21:56:16,ThoseButterflys,good
+24-05-2020T21:56:17,TheFriendlyDeathclaw,floofy
+24-05-2020T21:56:18,CrRAR,"Natani: ""Prepare for assassin-ing"""
+24-05-2020T21:56:29,RisqueRaptor,:wave:
+24-05-2020T21:56:34,CrRAR,ello raptor
+24-05-2020T21:56:42,Kameloh,:wave::snail:
+24-05-2020T21:56:43,TheFriendlyDeathclaw,Hi Raptor
+24-05-2020T21:56:45,Ordithus,tired
+24-05-2020T21:56:48,Kameloh,I'm ready for Terraria :cat:
+24-05-2020T21:56:58,ShyAsp,what have you gotten done since last time?
+24-05-2020T21:57:09,Kameloh,:snail:
+24-05-2020T21:57:19,ShyAsp,ah yes
+24-05-2020T21:57:20,ShyAsp,snail
+24-05-2020T21:57:22,ShyAsp,fantastic progress
+24-05-2020T21:57:46,johnnytho,Im hungry. Gonna get sum
+24-05-2020T21:57:49,ShyAsp,enjoy!
+24-05-2020T21:57:51,CrRAR,"Natani: ""I know this one other totally awesome spell."""
+24-05-2020T21:58:02,CrRAR,Statue: *argleblargle!*
+24-05-2020T21:59:07,UltraBondageFairy,TERRARIA
+24-05-2020T21:59:13,UltraBondageFairy,:cultrabondagefairy-bongoubf2-0:
+24-05-2020T21:59:13,Kameloh,XD
+24-05-2020T21:59:26,eric190,heyo
+24-05-2020T21:59:27,MoonDance,TERRARIA?
+24-05-2020T21:59:28,Kameloh,whenever everyone is ready of course
+24-05-2020T21:59:37,Maku,terrererererererrrrreia
+24-05-2020T21:59:37,Kameloh,yee moon it's great :D
+24-05-2020T22:00:26,MoonDance,I struggle to skill skeletron for no reason
+24-05-2020T22:00:31,MoonDance,*kill
+24-05-2020T22:01:01,ThoseButterflys,wait what? Terraria?
+24-05-2020T22:01:13,Kameloh,yee that's a difficult boss
+24-05-2020T22:01:18,Kameloh,though what difficulty are you playin moon
+24-05-2020T22:01:56,Pwatcher67,"hey tom, when will this weeks page of twokinds will be done?"
+24-05-2020T22:02:13,ThoseButterflys,this week
+24-05-2020T22:02:14,MoonDance,Expert mode for me
+24-05-2020T22:02:18,Kameloh,D:
+24-05-2020T22:02:32,MoonDance,"I like the loot bags, I got a slime mount for it!"
+24-05-2020T22:02:34,Twokinds,...
+24-05-2020T22:02:42,Kameloh,oh nice!
+24-05-2020T22:02:43,CrRAR,:ctwokinds-keifacepalm:
+24-05-2020T22:02:54,Kameloh,:ckameloh-skepticalfrog:
+24-05-2020T22:03:07,MoonDance,:}
+24-05-2020T22:03:25,Zakuru,:ptv-confused:
+24-05-2020T22:03:37,Kameloh,it's fun having summons in the game
+24-05-2020T22:03:43,Kameloh,I just want like 10 flying imps
+24-05-2020T22:03:44,UltraBondageFairy,expert mode is fun
+24-05-2020T22:03:52,Kameloh,but mediumcore :weary:
+24-05-2020T22:04:18,UltraBondageFairy,"mediumcore is not fun, but fulfilling"
+24-05-2020T22:04:35,Kameloh,I was watching a streamer a few days ago playing on hardcore master
+24-05-2020T22:04:36,MoonDance,Mother didn't raise a punk. I want my slime mount boi
+24-05-2020T22:04:44,Kameloh,and they kept dying within 5 minutes and restarting over and over
+24-05-2020T22:05:03,PurpleLemons,that just sounds suicidal lol
+24-05-2020T22:05:07,Kameloh,yeah it's like why XD
+24-05-2020T22:05:16,Kameloh,the basic zombies were doing ~70 damage
+24-05-2020T22:05:24,MoonDance,Hardcore I can't do honestly. It was kinda hard to work to start with expertmode alone
+24-05-2020T22:05:43,Kameloh,"yee, never gonna play in hardcore mode XD"
+24-05-2020T22:05:50,UltraBondageFairy,I regret playing mediumcore when I don't know how to play
+24-05-2020T22:05:59,Kameloh,ubf XD
+24-05-2020T22:06:06,Kameloh,softcore is great 'cause you can progress :cat:
+24-05-2020T22:06:19,Maku,UBF XD
+24-05-2020T22:06:32,Maku,I know terraria really well and I don't play expert
+24-05-2020T22:06:39,Kameloh,for those who don't know: in mediumcore you drop all your items on death
+24-05-2020T22:06:45,MoonDance,That is true. But I never realized there are so many bosses until I got the game
+24-05-2020T22:06:46,UltraBondageFairy,"honestly, mediumcore is easy"
+24-05-2020T22:06:49,UltraBondageFairy,hh
+24-05-2020T22:06:50,UltraBondageFairy,expert*
+24-05-2020T22:06:58,UltraBondageFairy,"mediumcore is hard, expert is easy"
+24-05-2020T22:07:03,UltraBondageFairy,you get a lot of buffs in expert
+24-05-2020T22:07:10,Kameloh,mediumcore master :snail:
+24-05-2020T22:07:32,UltraBondageFairy,"Like, you don't get bad weapons and every boss gives you really fucking strong weapons"
+24-05-2020T22:07:47,CrRAR,Keith should have seized the opportunity and yeeted the lizard mario-style.
+24-05-2020T22:07:57,UltraBondageFairy,Beating the brain gives you a item that confuses everything near you when you get hit
+24-05-2020T22:08:03,Kameloh,doesn't master mode give you like more accessory slots too?
+24-05-2020T22:08:08,UltraBondageFairy,yeah
+24-05-2020T22:08:22,UltraBondageFairy,"like it's all harder, but it's easier too. and you get more money"
+24-05-2020T22:08:26,Maku,Expert also gives you another slot
+24-05-2020T22:08:34,Kameloh,maan
+24-05-2020T22:08:53,MoonDance,The money trough is a life saver for your coins
+24-05-2020T22:09:01,UltraBondageFairy,a boss having more health isn't really hard
+24-05-2020T22:09:01,Kameloh,money trough?
+24-05-2020T22:09:04,MoonDance,or any important items
+24-05-2020T22:09:17,TheFriendlyDeathclaw,:cthefriendlydeathclaw-UltraNibs:
+24-05-2020T22:09:37,MoonDance,It's a portable flying piggy bank. They are dropped by the mobs on the red moon
+24-05-2020T22:09:39,Pwatcher67,gn all
+24-05-2020T22:09:42,UltraBondageFairy,"Like, I mean yeah it kinda is. they do more damage too"
+24-05-2020T22:09:52,jesonite,"Heya Lemons, Kame, Wolfmare and Tom  - Glad I could caught you guys on a multi,  grabbin some inspiration while working - - keep up the good work guys!   :cjesonite-tyla::fire:"
+24-05-2020T22:09:53,UltraBondageFairy,But you just learn to play better and ore careful
+24-05-2020T22:09:55,Ordithus,night pwatcher
+24-05-2020T22:09:56,Kameloh,I didn't know that D:
+24-05-2020T22:10:04,Kameloh,hey jeso how goes :cat:
+24-05-2020T22:10:13,Twokinds,Yo jesonite :ctwokinds-natsducky:
+24-05-2020T22:10:26,PurpleLemons,hheyas Jeso
+24-05-2020T22:10:35,w0lfmare,Hey Jeso!
+24-05-2020T22:11:42,Sclimshady,Hi Jeso
+24-05-2020T22:11:44,jesonite,"Heya Kame, Hey there Tom, Heya Lemons! -  Doing fine man, just prepping things for the upcoming batch, tried  to get a few break days but, kind of went back to the workbench haha - How about ya guys!"
+24-05-2020T22:11:55,jesonite,Heya tehre too Wolfmare o/  *waves*
+24-05-2020T22:12:11,Kameloh,"ooh, upcoming batch? :cat:"
+24-05-2020T22:12:21,IronHorseComics,oh I'm just bein' a bit late with my next comic page
+24-05-2020T22:12:24,Kameloh,doing good here -- just chill painting this
+24-05-2020T22:12:38,johnnytho,"I couldn't find much to eat, opened a can of bean"
+24-05-2020T22:12:39,IronHorseComics,got plenty of coloring to do and I'd been at it all day
+24-05-2020T22:12:47,jesonite,"Yeap, I´m working on some sketches and sending updates to some clients from this second batch,"
+24-05-2020T22:12:59,Kameloh,:ckameloh-naokieyebrows:
+24-05-2020T22:13:25,jesonite,Kame - Noice! - Your guys look lovely! / Something special for tonight?
+24-05-2020T22:13:40,Kameloh,naww I just doodled something random and decided to paint it XD
+24-05-2020T22:13:46,w0lfmare,"Trying to pull ahead on comic pages, but the action is making it difficult XD"
+24-05-2020T22:14:05,Kameloh,I have this other idea for a painting but I ain't feeling the lighting/colors
+24-05-2020T22:14:16,TheFriendlyDeathclaw,its soo adorable Kame
+24-05-2020T22:14:34,Sashimi,Good evening to all
+24-05-2020T22:14:49,Twokinds,"The funny thing is I am a little ahead on pages, but I'm still late"
+24-05-2020T22:14:52,Kameloh,thanks! and hello o/
+24-05-2020T22:14:57,Kameloh,:thinking:
+24-05-2020T22:15:00,Sashimi,hiys Kame
+24-05-2020T22:15:09,CrRAR,nice
+24-05-2020T22:15:11,Sclimshady,Hi Sashimi o/
+24-05-2020T22:15:12,IronHorseComics,oof
+24-05-2020T22:15:15,Twokinds,"I have three pages done, but decided to switch scenes to this early"
+24-05-2020T22:15:17,Twokinds,Which wasn't done
+24-05-2020T22:15:17,unsteddyphoenix,:thinking:
+24-05-2020T22:15:17,jesonite,Kame - Oh nice randome doodles are always a nice way to get the day going!
+24-05-2020T22:15:21,Sashimi,Hi Sclim
+24-05-2020T22:15:22,Kameloh,teddy!
+24-05-2020T22:15:29,Twokinds,Seemed like a good time
+24-05-2020T22:15:30,Ordithus,hi teddy
+24-05-2020T22:15:36,Sclimshady,Teddy o/
+24-05-2020T22:15:37,unsteddyphoenix,heyy cool cats n kittens~
+24-05-2020T22:15:40,Ordithus,:eyes: so this is spoilers
+24-05-2020T22:15:44,jesonite,"Wolfmare - Yeah! I can see you´re doin right it, so as Tom, comic-ing hard right there"
+24-05-2020T22:15:58,CrRAR,lil actin interlude never hurt
+24-05-2020T22:16:01,MuonNeutrino,"well, at least you still have some pages ready for later"
+24-05-2020T22:16:09,MuonNeutrino,so you still are ahead ^^
+24-05-2020T22:16:15,Kameloh,teddy do you wanna play terraria tonight :cat:
+24-05-2020T22:16:35,IronHorseComics,"I'm not exactly looking forward to coloring this page, there's a boatload of books on the shelf. Think I'm just gonna be lazy and color them all the same"
+24-05-2020T22:17:21,IronHorseComics,"by this, I mean *my* page, just to clear up any possible confusion"
+24-05-2020T22:17:56,unsteddyphoenix,I could play! :O
+24-05-2020T22:18:28,TheFriendlyDeathclaw,Hi Teddy
+24-05-2020T22:18:39,unsteddyphoenix,hi!!
+24-05-2020T22:19:17,ThingsAreMoving,:eyes: quad streao/ hi peoples!
+24-05-2020T22:19:24,Kameloh,:cat:
+24-05-2020T22:19:24,Ordithus,hi things
+24-05-2020T22:19:26,Kameloh,hello o/
+24-05-2020T22:19:26,unsteddyphoenix,hay thingy!
+24-05-2020T22:19:33,TheFriendlyDeathclaw,Hi Things
+24-05-2020T22:19:38,Sashimi,hi thing
+24-05-2020T22:19:44,MarvTheHugPharaoh,THINGS <3
+24-05-2020T22:20:06,ThingsAreMoving,:ctwokinds-kingtea: no better way to start the day
+24-05-2020T22:20:15,ThingsAreMoving,<3
+24-05-2020T22:20:26,Sashimi,My day is just about over
+24-05-2020T22:20:51,ThingsAreMoving,tuesday or monday?
+24-05-2020T22:20:54,Sclimshady,Hi Things!
+24-05-2020T22:20:57,Sashimi,But a good way to end it
+24-05-2020T22:20:57,ThingsAreMoving,o/
+24-05-2020T22:21:15,Sashimi,Monday
+24-05-2020T22:22:08,ThingsAreMoving,"It was a pretty good monday, tbh"
+24-05-2020T22:22:26,unsteddyphoenix,nice!
+24-05-2020T22:22:59,Sashimi,"Yeah, I spent most of it trying to get stuff ready to go back to work tomorrow"
+24-05-2020T22:23:36,unsteddyphoenix,nice leggies purp!
+24-05-2020T22:23:45,Sashimi,Indeedy
+24-05-2020T22:24:10,PurpleLemons,"thank, you too teddy"
+24-05-2020T22:24:25,Sashimi,Hiyos Purp
+24-05-2020T22:24:30,unsteddyphoenix,yeah!
+24-05-2020T22:24:35,unsteddyphoenix,wait what
+24-05-2020T22:25:06,Ordithus,:ptv-shipit:
+24-05-2020T22:25:13,Sclimshady,He said you got nice legs
+24-05-2020T22:25:22,Sclimshady,:cpurplelemons-eyebrow-wolf:
+24-05-2020T22:25:27,ThingsAreMoving,":eyes: what is that cute floaty familiar looking creature, Kame?"
+24-05-2020T22:25:40,Kameloh,a character of mine I've had for years but I've never named em XD
+24-05-2020T22:26:09,ThingsAreMoving,It has that Ori / Mew vibe to it
+24-05-2020T22:26:31,Kameloh,https://www.deviantart.com/kameloh/art/Dragon-Bard-789255129
+24-05-2020T22:27:01,Ordithus,that's such a good one
+24-05-2020T22:27:19,Kameloh,thanks! https://www.deviantart.com/kameloh/art/Witch-408346802 a 2013 picture XD
+24-05-2020T22:27:22,ThingsAreMoving,"Wait,, I remember that dragon bard picture, but I never remembered that there were two characters in it xD"
+24-05-2020T22:27:46,w0lfmare,Reni and her fire is looking cool Tom!
+24-05-2020T22:28:06,jesonite,Kame - super cuter!
+24-05-2020T22:28:10,ThingsAreMoving,:ctwokinds-reniderp: :fire:
+24-05-2020T22:28:16,Kameloh,thanks haha
+24-05-2020T22:28:29,jesonite,:ok_hand::fire:
+24-05-2020T22:28:31,Twokinds,Thanks w0lf!
+24-05-2020T22:28:34,Kameloh,last one from 2012: https://www.deviantart.com/kameloh/art/Chubby-335456912
+24-05-2020T22:28:37,Twokinds,I like doing special effects
+24-05-2020T22:28:50,Kameloh,it's lookin great Tom :cat:
+24-05-2020T22:28:58,unsteddyphoenix,faaat
+24-05-2020T22:29:03,Zakuru,"^w^ same, yours look wonderful as always"
+24-05-2020T22:29:03,jesonite,:metal::fire:
+24-05-2020T22:29:06,Ordithus,:fire::ctwokinds-nataniAAAAshake:
+24-05-2020T22:29:10,Kameloh,XD
+24-05-2020T22:29:13,jesonite,lol
+24-05-2020T22:29:13,ThingsAreMoving,d'awww
+24-05-2020T22:29:16,Zakuru,reni lighting natani's chest on fire
+24-05-2020T22:29:19,TheFriendlyDeathclaw,:ctwokinds-renirawr:*[I am a badass]
+24-05-2020T22:29:29,jesonite,I better keep this fire in control for now lol
+24-05-2020T22:29:32,jesonite,just one more
+24-05-2020T22:29:35,jesonite,:ok_hand::fire::heart:  Lemons  - Icey Stripe Gal for the winz
+24-05-2020T22:31:37,PurpleLemons,:snowflake:
+24-05-2020T22:33:53,w0lfmare,:fire::cw0lfmare-Naokifire::fire:
+24-05-2020T22:33:58,Zakuru,XD
+24-05-2020T22:33:59,Kameloh,:ckameloh-emberblush50:
+24-05-2020T22:34:31,unsteddyphoenix,:snowflake::metal::snowflake:
+24-05-2020T22:34:41,IronHorseComics,:cironhorsecomics-ART:
+24-05-2020T22:35:28,jesonite,Kame - That 2012 pic is quite nice and expressive!
+24-05-2020T22:35:42,Kameloh,thanks jeso! maan that's so long ago :weary:
+24-05-2020T22:35:45,ThingsAreMoving,"wow W0lf, at this rate Lupa will be fighting with the whole city, soon"
+24-05-2020T22:36:07,ThingsAreMoving,seems like
+24-05-2020T22:36:16,jesonite,Kame - Yee  I feel ya
+24-05-2020T22:36:30,Ordithus,hope w0lf doesn't kill too many characters here
+24-05-2020T22:36:41,TheFriendlyDeathclaw,coming to theatres this summer! the new hot movie! Lupa Vs. The World!!!!!
+24-05-2020T22:36:52,Sclimshady,w0lf R. R. Martin
+24-05-2020T22:36:57,w0lfmare,Yeah Lupa's got this
+24-05-2020T22:37:04,ThingsAreMoving,It's like killing a goddamn chicken in skyrim
+24-05-2020T22:37:13,Kameloh,jeso here's a random question: do you like looking at your old art?
+24-05-2020T22:37:17,IronHorseComics,Raine R. R. Martin
+24-05-2020T22:37:39,IronHorseComics,"what? With her shipfics, she might as well be"
+24-05-2020T22:39:40,TomatoBasket,honks
+24-05-2020T22:40:04,FoxxTrotter,:tomato::tomato::tomato:
+24-05-2020T22:40:14,Ordithus,Ariah: heals Callum.  Lupa: breaks him again
+24-05-2020T22:41:27,IronHorseComics,:fog::tomato::cironhorsecomics-DaleAAA:
+24-05-2020T22:41:29,Sclimshady,Think of it as job security
+24-05-2020T22:41:58,MuonNeutrino,raine is only GRRM if she also kills off half of the characters by the end of each fic
+24-05-2020T22:44:21,jesonite,"Kame -  About my old Art, Still have found memories of those and I still like most of those pics, althou I couldn´t say that much about the pre DA/Internet Era /not posted/, some of those pics are sometimes akward to look at lol"
+24-05-2020T22:44:38,Kameloh,aw man XD
+24-05-2020T22:44:48,Kameloh,did you ever save any of those :cat:
+24-05-2020T22:47:18,jesonite,"I think I did, if I recall that right I put many of those drawing into a few foot folder organizers , I think those are still inside a room somewhere in my old apartment in CUU"
+24-05-2020T22:47:28,Ordithus,Natani thinks he's so sly :ctwokinds-smug:
+24-05-2020T22:48:08,Kameloh,:ckameloh-naokieyebrowshak:
+24-05-2020T22:48:35,Kameloh,I always tell people to keep their old art as reference -- it's good to sometimes look back
+24-05-2020T22:48:56,Sashimi,^
+24-05-2020T22:49:05,jesonite,"Yeah! it a good reference point, you can totally track your progress with that"
+24-05-2020T22:49:27,PurpleLemons,at this point I don't remember my old work lol
+24-05-2020T22:49:40,Zakuru,i couldn't agree more
+24-05-2020T22:49:56,Zakuru,"i know some friends who throw away their old work and im like ""nooo!! ;o;"""
+24-05-2020T22:50:02,Sclimshady,"Find it,  and show us Purp"
+24-05-2020T22:50:11,ThingsAreMoving,^
+24-05-2020T22:50:16,PurpleLemons,unfortunately it's gone forever
+24-05-2020T22:50:17,Kameloh,purp is your old work online :cat:
+24-05-2020T22:50:24,Sashimi,NOOOOOO
+24-05-2020T22:50:25,unsteddyphoenix,Nooooo
+24-05-2020T22:50:28,PurpleLemons,"no, it is gone forever"
+24-05-2020T22:50:39,Zakuru,D:
+24-05-2020T22:50:41,Sashimi,Booooo
+24-05-2020T22:50:47,Kameloh,:ckameloh-michael:
+24-05-2020T22:50:48,Sclimshady,I will never be happy again ;-;
+24-05-2020T22:51:08,FoxxTrotter,:coffin:
+24-05-2020T22:51:17,unsteddyphoenix,maybe some superfans saved it...
+24-05-2020T22:51:47,Kameloh,XD
+24-05-2020T22:52:19,PurpleLemons,naw man it's like super gone
+24-05-2020T22:52:26,PurpleLemons,launched to space maybe :cat:
+24-05-2020T22:52:31,unsteddyphoenix,Nooooo
+24-05-2020T22:52:39,FoxxTrotter,...to Pluto.
+24-05-2020T22:52:40,Sashimi,Aliens will find it
+24-05-2020T22:52:41,Kameloh,then we're off to space :snail:
+24-05-2020T22:52:46,Sclimshady,The aliens stole it
+24-05-2020T22:52:48,unsteddyphoenix,Bring me that space horizon
+24-05-2020T22:52:53,ThingsAreMoving,Spreading art to the cosmos
+24-05-2020T22:52:56,Sclimshady,We gotta wage a war to get it back
+24-05-2020T22:53:01,ThingsAreMoving,that's a worthy cause
+24-05-2020T22:53:05,Kameloh,I'm too lazy to paint so I'm gonna start doodlin
+24-05-2020T22:53:13,ThingsAreMoving,:eyes:
+24-05-2020T22:53:18,Sclimshady,Doooodles
+24-05-2020T22:53:20,Ordithus,liking it so far kame
+24-05-2020T22:53:25,Kameloh,ty!
+24-05-2020T22:53:42,Kameloh,I've been sluggish since the stream began
+24-05-2020T22:53:49,Kameloh,so I'm like super slow at art right now XD
+24-05-2020T22:54:08,PurpleLemons,same :snail:
+24-05-2020T22:54:59,ThingsAreMoving,Sounds like you need some burnt bean brew :ctwokinds-kingtea:
+24-05-2020T22:55:14,Kameloh,it's too late for that lol
+24-05-2020T22:55:41,ThingsAreMoving,only if you plan on sleeping :cthingsaremoving-basitincoffee:
+24-05-2020T22:55:50,Ordithus,dang Natani looks awesome
+24-05-2020T22:56:08,TheFriendlyDeathclaw,Natani is awesome indeed
+24-05-2020T22:56:10,Ordithus,all glowey and stuff
+24-05-2020T22:56:23,Kameloh,really nice effects!
+24-05-2020T22:56:37,Sclimshady,Nat got his serious face on
+24-05-2020T22:56:49,ThingsAreMoving,"Nat seems to be well versed in magics, even if it's just dirty one"
+24-05-2020T22:57:11,ThingsAreMoving,I sometimes wonder how many different spells does Nat know
+24-05-2020T22:57:21,Sclimshady,2
+24-05-2020T22:57:21,TheFriendlyDeathclaw,Lewd magics???
+24-05-2020T22:57:27,Sclimshady,at least
+24-05-2020T22:57:34,ThingsAreMoving,you people are too thirsty sometimes
+24-05-2020T22:57:36,ThingsAreMoving,really
+24-05-2020T22:57:48,Ordithus,"Then there's Reni, who shouldn't have had the hot sauce"
+24-05-2020T22:57:48,Sclimshady,:csclimshady-hornyjail:
+24-05-2020T22:58:01,IronHorseComics,please do not lewd the Reni
+24-05-2020T22:58:16,Twokinds,"Most of Natani's spells are basic, raw elemental magic."
+24-05-2020T22:58:24,Twokinds,Which is the simpliest form of offensive magic.
+24-05-2020T22:58:26,TheFriendlyDeathclaw,only Raine can lewd the Reni
+24-05-2020T22:58:34,Twokinds,"So, wind, fire, lightning, ice, water, etc"
+24-05-2020T22:58:40,Zakuru,don't forget heart
+24-05-2020T22:58:59,jesonite,Tom - Neat! :fire:
+24-05-2020T22:59:02,ThingsAreMoving,"Also,, uber door lock spell from basitin island arc"
+24-05-2020T22:59:03,IronHorseComics,heart is just the magic she uses on Keith
+24-05-2020T22:59:06,Zakuru,How else will Captian Planet save Maren
+24-05-2020T22:59:15,Twokinds,"Natani has very few ""advance spells""."
+24-05-2020T22:59:23,Ordithus,Mike's butt - the secret to saving Maren?
+24-05-2020T22:59:33,Ordithus,:ctwokinds-floraquestion:
+24-05-2020T22:59:38,Twokinds,Pretty much just the heart's desire spell and the mark and recall spell.
+24-05-2020T22:59:55,ThingsAreMoving,Imagine what power Nat could have if she'd have proper learnings
+24-05-2020T23:00:01,Twokinds,"And scent covering, of course."
+24-05-2020T23:00:15,unsteddyphoenix,Dont forget boob hiding
+24-05-2020T23:00:20,InTheLionsDen,The dimensional wrappings isn't too shabby
+24-05-2020T23:00:44,Ordithus,and the Maren illusion
+24-05-2020T23:00:47,ThingsAreMoving,"so, destruction, enchanting and illusion"
+24-05-2020T23:01:03,MuonNeutrino,which spell is the 'mark and recall' one? the teleport he used during the basitin isles arc?
+24-05-2020T23:01:16,ThingsAreMoving,sounds like most of my mages from skyrim playthroughs
+24-05-2020T23:01:18,Twokinds,"Every two-bit assassin type knows the scent covering spell, as it's dead useful among wolves."
+24-05-2020T23:01:24,mingun,09:01
+24-05-2020T23:01:31,ThingsAreMoving,05:01
+24-05-2020T23:01:37,MarvTheHugPharaoh,SCARF!! <3
+24-05-2020T23:01:39,unsteddyphoenix,I just wonder where he got the bindings from
+24-05-2020T23:01:57,Twokinds,"And yeah, mark and recall is just... marking a place, and then teleporting back to it. It's the most basic teleport spell, as it requires you to have already been there and set it up ahead of time."
+24-05-2020T23:02:47,InTheLionsDen,Very handy for a quick and safe exit.
+24-05-2020T23:03:06,ThingsAreMoving,looooooore
+24-05-2020T23:03:16,MuonNeutrino,"and yet, even with that natani still seems quite competent at magic, imagine what he could do if he had real training"
+24-05-2020T23:03:38,Bellhead,I just wish I could see the stream...
+24-05-2020T23:03:46,MuonNeutrino,he seems to have a real knack for it even self-taught
+24-05-2020T23:03:49,Sashimi,"Welp, imma head out now. Getting close to snooze time. Have a good night, everyone"
+24-05-2020T23:03:52,MarvTheHugPharaoh,Kame that is a comfy looking scarf you got there
+24-05-2020T23:03:56,ThingsAreMoving,o/ sashimi
+24-05-2020T23:04:12,Sashimi,cyas Things
+24-05-2020T23:04:18,Kameloh,thanks marv!
+24-05-2020T23:04:23,Twokinds,"Natani's pretty good, though... I'm not sure how well Natani would do in a traditional academic setting."
+24-05-2020T23:04:39,Twokinds,Something tells me he'd be the type to slack off.
+24-05-2020T23:04:41,MuonNeutrino,.... poorly? >.>
+24-05-2020T23:05:08,Zakuru,What would Nat actually be interested in learning?
+24-05-2020T23:05:19,unsteddyphoenix,"Only be interested in the ""practical"" spells"
+24-05-2020T23:05:27,ThingsAreMoving,"Yeah, school can turn even the most passionate people into hollow husks"
+24-05-2020T23:05:32,Ordithus,how to sing :ctwokinds-awoo:
+24-05-2020T23:05:41,Zakuru,i can believe that <3
+24-05-2020T23:05:42,ThingsAreMoving,:ctwokinds-awoo:
+24-05-2020T23:05:44,Bellhead,"anatomy of q basitin, perhaps...?"
+24-05-2020T23:05:45,Zakuru,maybe some songs ^w^
+24-05-2020T23:05:56,MuonNeutrino,"well, i'd imagine he might like the sort of training that would let his spellcasting experimentation be more efficient, like he was talking about when experimenting with the boob disguise illusion"
+24-05-2020T23:06:18,TheFriendlyDeathclaw,:ctwokinds-awoo:\
+24-05-2020T23:06:21,Twokinds,Natani's a pretty practical wolf. Learn what's useful. But the fundimentals necessary to learn advanced magic might be too frustrating.
+24-05-2020T23:07:03,MuonNeutrino,natani *does* seem like the 'shortest distance between two points is a straight line' sort of person <.<
+24-05-2020T23:07:26,unsteddyphoenix,Anything complicated might be difficult for her too :^)
+24-05-2020T23:07:34,MuonNeutrino,v0v
+24-05-2020T23:07:41,MuonNeutrino,"he's direct, but doesn't mean he's dumb"
+24-05-2020T23:08:06,Bellhead,"No, just untrained."
+24-05-2020T23:08:17,Twokinds,"For the bandages, Natani doesn't know how it works, just that it does. It's a copy and paste job."
+24-05-2020T23:08:21,MuonNeutrino,"i could imagine him not having enough patience for some things, but not because he's not smart enough for it"
+24-05-2020T23:08:39,MuonNeutrino,huh. wonder where he got the originals from
+24-05-2020T23:09:04,Twokinds,Probably from some sort of enchanted bag or something that displaces it's content's mass.
+24-05-2020T23:09:16,Bellhead,Does that mean the one of about how his bandages work isn't canon?
+24-05-2020T23:09:21,Ordithus,:ctwokinds-maddiessparkles: bag of holding
+24-05-2020T23:09:23,ThingsAreMoving,bag of holding
+24-05-2020T23:09:35,unsteddyphoenix,bag of devouring D:
+24-05-2020T23:09:46,Kameloh,:ckameloh-kuvaeyes:
+24-05-2020T23:09:48,ThingsAreMoving,"remember, never hold your bag of holding in your bag of holding."
+24-05-2020T23:09:51,ThingsAreMoving,this crashes the game
+24-05-2020T23:09:58,MuonNeutrino,"well, iirc in that comic he explained *what* the bandages do, but he didn't explain *how* they do that"
+24-05-2020T23:09:59,BadFoMo,@Bellhead Which one is that?
+24-05-2020T23:10:10,Sclimshady,Dont eat the tiddies Teddy
+24-05-2020T23:10:12,ThingsAreMoving,and generates black holes
+24-05-2020T23:10:17,MuonNeutrino,he can know that the bandages send things to a pocket dimension without understanding the details of how the magic accomplishes that
+24-05-2020T23:10:29,BadFoMo,"...Also, back. My lore sences were tingling."
+24-05-2020T23:10:35,ThingsAreMoving,o/
+24-05-2020T23:10:37,Ordithus,wb
+24-05-2020T23:11:06,Bellhead,"""Uhh, probably shouldn't have them go to the SAME pocket space"" ""I KNOW THAT NOW!"" ... sound familiar, BadFoMo?"
+24-05-2020T23:11:40,BadFoMo,I think so.
+24-05-2020T23:12:30,Ordithus,Keith prefers this sketch https://www.patreon.com/posts/blind-but-now-i-16369847
+24-05-2020T23:13:02,Kameloh,wow XD
+24-05-2020T23:13:10,Kameloh,is that like portal through the eyes
+24-05-2020T23:13:37,Ordithus,This is the one bellhead was talking about https://www.deviantart.com/twokinds/art/Bound-Together-759266111
+24-05-2020T23:13:39,ThingsAreMoving,best kind of VR
+24-05-2020T23:13:43,TheFriendlyDeathclaw,her boobs are prob mashed against his eyes
+24-05-2020T23:13:48,w0lfmare,Bellhead!
+24-05-2020T23:13:53,Ordithus,And why not continue the antics https://www.patreon.com/posts/all-washed-up-16547646
+24-05-2020T23:13:53,w0lfmare,o/
+24-05-2020T23:13:59,Kameloh,oh no XD
+24-05-2020T23:14:05,Ordithus,I'll stop spamming Tom's art now :P
+24-05-2020T23:14:06,unsteddyphoenix,"""You wear those bandages over your eyes all the time, are you a blind monk or something?"""
+24-05-2020T23:14:10,unsteddyphoenix,"""...yes."""
+24-05-2020T23:14:13,Bellhead,Sup. Can't see anything.
+24-05-2020T23:14:43,TheFriendlyDeathclaw,Keith got his eyes poked out by Nats baps
+24-05-2020T23:14:48,orekh,"Stop, in comic natani bandages uses magic? I thought it was just a joke that is only in the sketches"
+24-05-2020T23:14:49,w0lfmare,Yeah picarto has been acting up lately
+24-05-2020T23:15:01,Zakuru,XD
+24-05-2020T23:15:12,johnnytho,"""I was blind, but I see. You made a believer out of me."""
+24-05-2020T23:15:25,johnnytho,ahh screwed up the lyric
+24-05-2020T23:15:51,Bellhead,"Orekh, pretty sure it's a retcon, but they're canonnically magic now"
+24-05-2020T23:16:20,Rainelover,"No, they’ve always been magic"
+24-05-2020T23:16:46,Ordithus,regular bindings can't hide THOSE
+24-05-2020T23:16:53,BadFoMo,"Anyone think that if she made one of those wide enough, she could trap someone in it?"
+24-05-2020T23:16:58,unsteddyphoenix,"Yeah what, Nats always used magic lol"
+24-05-2020T23:17:28,Twokinds,"No, it can't displace very much mass."
+24-05-2020T23:17:35,Bellhead,"Notso sure. Back during his heat, Keith grabbed ""strips of cloth"", not a bandage of any sort."
+24-05-2020T23:17:52,BadFoMo,Dang. there goes that weird idea.
+24-05-2020T23:17:58,BadFoMo,*There
+24-05-2020T23:18:01,unsteddyphoenix,Idk man Nat's got a lodda mass on those
+24-05-2020T23:18:03,ThingsAreMoving,Could it displace... Nibbly? :eyes:
+24-05-2020T23:18:27,Sclimshady,I fell nibs is smaller than one of nats boobs
+24-05-2020T23:18:57,ThingsAreMoving,:ctwokinds-power: I claim this pocket dimension as my domain!
+24-05-2020T23:19:04,Bellhead,"Nibbly's smaller than Nat's ""mass."""
+24-05-2020T23:19:17,Ordithus,[It tickles]*:ctwokinds-nataniAAAAshake:
+24-05-2020T23:19:26,Twokinds,Possibly
+24-05-2020T23:19:41,Bellhead,lolz
+24-05-2020T23:19:47,Dimensional,"Nibby: ""This pocket dimension is nice and warm, and squishy. These large acorns are in the way though."""
+24-05-2020T23:19:50,BadFoMo,...Could she use it to hide a pregnancy?
+24-05-2020T23:20:03,Kameloh,:ckameloh-skepticalfrog:
+24-05-2020T23:20:08,Rainelover,"Oh look, she hid a mana crystal in her boobs"
+24-05-2020T23:20:28,Bellhead,... still can't see squat.
+24-05-2020T23:20:32,BadFoMo,@Ordithus The day the squrriel went bizirk?
+24-05-2020T23:20:38,TheFriendlyDeathclaw,Nibbly in the pocket dimension sounds like a fun sketch suggestion
+24-05-2020T23:20:49,Dimensional,Nibbly in a pocket....
+24-05-2020T23:21:09,ThingsAreMoving,"bellhead, try a different browser maybe?"
+24-05-2020T23:21:09,Zakuru,a nibbly in my pocket... no that doesn't rhyme
+24-05-2020T23:21:21,Dimensional,Nibbly in a hole in a pocket dimension.
+24-05-2020T23:21:28,Rainelover,Why is the stream taking so long to buffer?
+24-05-2020T23:21:30,Dimensional,Or maybe in a hole in the bottom of the sea?
+24-05-2020T23:21:46,Bellhead,"I'm on my phone. Tried browser, using app."
+24-05-2020T23:22:19,Rainelover,"I am also on my phone, also there’s an app?"
+24-05-2020T23:22:29,Bellhead,yup.
+24-05-2020T23:23:16,Rainelover,Interesting
+24-05-2020T23:24:00,Rainelover,I have sabaton stuck in my head as usual
+24-05-2020T23:24:02,Bellhead,"Tom, could a pair of those bandages be used as portable teleporters for small objects?"
+24-05-2020T23:24:38,ThingsAreMoving,"Right-o. Time to go to work and earn some bling. Thanks for the entertainment Tom, Kame, W0lfy, Purp, and you Chat! See ya later :ctwokinds-nibsbounce:"
+24-05-2020T23:24:41,Twokinds,"In canon, no. XD"
+24-05-2020T23:24:46,Kameloh,have a good one o/
+24-05-2020T23:24:50,Sclimshady,Bye Things o/
+24-05-2020T23:24:51,IronHorseComics,teleporters? Heavy approves of dis
+24-05-2020T23:24:53,TheFriendlyDeathclaw,Night Things
+24-05-2020T23:24:55,Ordithus,bye things
+24-05-2020T23:25:02,unsteddyphoenix,byeee things
+24-05-2020T23:25:19,MarvTheHugPharaoh,See ya bro
+24-05-2020T23:25:56,BadFoMo,Bye.
+24-05-2020T23:27:06,Kameloh,:thinking:
+24-05-2020T23:27:37,Twokinds,"I guess I don't see why not, but it's too exploity to actually have something like in the main comic XD"
+24-05-2020T23:27:41,Sclimshady,Draw moar cat Kame
+24-05-2020T23:28:13,unsteddyphoenix,too op
+24-05-2020T23:28:15,Twokinds,I'm pretty much done
+24-05-2020T23:28:18,MuonNeutrino,it does seem like a logical consequence of how that side comic showed them working
+24-05-2020T23:28:27,unsteddyphoenix,Loks great tom! Very spicy
+24-05-2020T23:28:28,Kameloh,loving the effects :cat:
+24-05-2020T23:28:34,johnnytho,Is this being uploaded tonight or tmr morning?
+24-05-2020T23:28:53,Bellhead,"Fair point. They wouldn't have much use for it until Nat can walk around unbound, anyway."
+24-05-2020T23:28:53,Rainelover,"For the grace, for the might of our lord! For the home of the holy!"
+24-05-2020T23:28:55,TheFriendlyDeathclaw,Great work Tom!!
+24-05-2020T23:28:58,MuonNeutrino,"if keith can reach in with his hand and touch something that entered via the other cloth, it doesn't seem like there'd be any reason two people couldn't reach in from different cloths and hand something back and forth"
+24-05-2020T23:29:07,MarvTheHugPharaoh,Awesome work Tom
+24-05-2020T23:29:17,Kameloh,does this mean game time :eyes:
+24-05-2020T23:29:20,MuonNeutrino,"doesn't mean natani has necessarily considered the idea, though"
+24-05-2020T23:29:21,Sclimshady,Effects are top tier Tom
+24-05-2020T23:29:26,orekh,I remember assasins brothers used the anti-magic spell in the battle with the trace
+24-05-2020T23:29:29,BadFoMo,"So it /could/ exist. Cool! Now, how to make it fair in a game..."
+24-05-2020T23:29:34,unsteddyphoenix,other people are still streaming kame
+24-05-2020T23:29:41,Twokinds,Sure
+24-05-2020T23:29:45,Kameloh,XD
+24-05-2020T23:29:47,unsteddyphoenix,Hey!
+24-05-2020T23:29:50,Kameloh,hahaha
+24-05-2020T23:29:58,Twokinds,I like making things glowy ^^
+24-05-2020T23:30:04,Kameloh,it's also late here (9:30pm) so .... we don't want it to get too late :cat:
+24-05-2020T23:30:07,Kameloh,yeah glowy is the best!
+24-05-2020T23:30:07,MuonNeutrino,"well, you're good at it"
+24-05-2020T23:30:10,Ordithus,Nice work!
+24-05-2020T23:30:13,MuonNeutrino,"(glowy, that is)"
+24-05-2020T23:30:13,MarvTheHugPharaoh,Glowy is nice
+24-05-2020T23:30:18,Maku,why don't you stream teddy to fill the void
+24-05-2020T23:30:24,Kameloh,^
+24-05-2020T23:30:30,Kameloh,well he's gonna play with us
+24-05-2020T23:30:34,Sclimshady,Teddy x Marv Multi
+24-05-2020T23:30:40,Sclimshady,"No,  U cant have him"
+24-05-2020T23:30:47,Kameloh,:ckameloh-naokidont:
+24-05-2020T23:30:49,MarvTheHugPharaoh,Pick a day Teddy and lets do it
+24-05-2020T23:30:50,Zakuru,gonna pass out now ;w; thanks for the streams everyone! nighty
+24-05-2020T23:30:58,orekh,thx for stream
+24-05-2020T23:31:00,MarvTheHugPharaoh,nighty night zak
+24-05-2020T23:31:05,BadFoMo,Bye.
+24-05-2020T23:31:06,Kameloh,have a good one!
+24-05-2020T23:31:07,TheFriendlyDeathclaw,Night Zakuru
+24-05-2020T23:31:13,Kameloh,I'm gonna stop my stream here so I can prep for game stuff :eyes:
+24-05-2020T23:31:14,Rainelover,Am I the only one having buffering issues with the stream?
+24-05-2020T23:31:15,Sclimshady,Night Zak
+24-05-2020T23:31:18,Twokinds,"I gotta add text and post this, then I can play"
+24-05-2020T23:31:23,Twokinds,But I'm done streaming
+24-05-2020T23:31:27,Kameloh,yeah!
+24-05-2020T23:31:31,BadFoMo,Looks good.
+24-05-2020T23:31:31,unsteddyphoenix,ooh hype
+24-05-2020T23:31:33,MarvTheHugPharaoh,Thanks for the stream Tom
+24-05-2020T23:31:36,Kameloh,should I stream the game or naw :cat:
+24-05-2020T23:31:39,unsteddyphoenix,thanks for streaming!
+24-05-2020T23:31:49,Bellhead,what game?
+24-05-2020T23:31:50,TheFriendlyDeathclaw,Thanks for Strimming Tom!
+24-05-2020T23:31:52,TheFriendlyDeathclaw,<3
+24-05-2020T23:32:05,BadFoMo,Terraria?
+24-05-2020T23:32:10,Kameloh,yee
+24-05-2020T23:32:18,Bellhead,Jelly.
+24-05-2020T23:32:22,Kameloh,gonna stop my stream for now and prep
+24-05-2020T23:32:36,MarvTheHugPharaoh,Thanks for the stram Kame
+24-05-2020T23:32:43,Kameloh,:ckameloh-naokibongoeyebro:
+24-05-2020T23:32:46,TheSexyBeast,"Thanks for the stream, Tom!"
+24-05-2020T23:32:49,jesonite,Thanks for the stream Kame!
+24-05-2020T23:32:51,Rainelover,"Well, even though it was buffering the whole time, thanks for the stream anyway Tom!"
+24-05-2020T23:32:52,Sclimshady,Thanks for the stream Kame
+24-05-2020T23:32:57,Ordithus,"thanks for the streams, Tom, Kame"
+24-05-2020T23:32:58,BadFoMo,Let us know when to F5.
+24-05-2020T23:32:59,Kameloh,I may or may not stream Terraria depending on the peeps
+24-05-2020T23:33:21,Bellhead,"Thanks for the steam, Tom. Night, all."
+24-05-2020T23:33:24,jesonite,OKs! :ok_hand:
+24-05-2020T23:33:33,BadFoMo,Those little marshmellow things?
+24-05-2020T23:33:46,jesonite,"Also , Tom -Thanks for the stream"
+24-05-2020T23:33:57,Rainelover,"I think I’m gonna go as well, guten Nacht everyone"
+24-05-2020T23:35:06,BadFoMo,Bye.
+24-05-2020T23:35:17,Twokinds,:ctwokinds-rainehappy:
+24-05-2020T23:35:33,TheFriendlyDeathclaw,Night Tom :ctwokinds-RainezZz:
+24-05-2020T23:35:47,Twokinds,Oh man I'm so hungry
+24-05-2020T23:35:52,Kameloh,eaaaaaaaaaaaat
+24-05-2020T23:35:54,TheFriendlyDeathclaw,:cw0lfmare-Emberhangry:
+24-05-2020T23:35:58,TheSexyBeast,Go eat
+24-05-2020T23:36:01,Dimensional,Tom is hungry like the wolves.
+24-05-2020T23:36:02,Kameloh,something better than oatmeal :cat:
+24-05-2020T23:36:03,PurpleLemons,spaghettios :snail:
+24-05-2020T23:36:09,w0lfmare,Bye Tom! Hope to see you again soon!
+24-05-2020T23:36:11,BadFoMo,"Hi, So hungry!"
+24-05-2020T23:36:27,Kameloh,oh shoot I gotta update the server :snail:
+24-05-2020T23:36:51,unsteddyphoenix,Oh yeah lol
+24-05-2020T23:36:52,Twokinds,How is it after midnight already?!
+24-05-2020T23:36:54,Twokinds,I just got up
+24-05-2020T23:37:02,Kameloh,Tom you woke up.. like... late XD
+24-05-2020T23:37:06,unsteddyphoenix,I wish I didnt relate to that sentence
+24-05-2020T23:37:19,IronHorseComics,I should have been in bed an hour ago
+24-05-2020T23:37:26,Dimensional,"It's almost midnight here, and I'm about to start my new shift. Yay! I'm a Night Owl-Keidran"
+24-05-2020T23:37:46,IronHorseComics,"ah screw it, off to bed I go"
+24-05-2020T23:37:48,Sclimshady,Satomi <3
+24-05-2020T23:37:52,Ordithus,night iron
+24-05-2020T23:37:54,TheFriendlyDeathclaw,Night Iron
+24-05-2020T23:38:14,TheSexyBeast,Nite Iron
+24-05-2020T23:38:21,TheFriendlyDeathclaw,think I am gonna leave the strim for the night too
+24-05-2020T23:38:24,BadFoMo,Good night.
+24-05-2020T23:38:29,Ordithus,night deathclaw
+24-05-2020T23:38:35,TheFriendlyDeathclaw,Night Everyone
+24-05-2020T23:38:38,BadFoMo,Good night.
+24-05-2020T23:38:53,TheSexyBeast,Nite Deathclaw
+24-05-2020T23:38:56,Ordithus,"w0lf and purp still streaming, keep me awake :eyes:"
+24-05-2020T23:40:13,Sclimshady,"Yeah,  cant leave with cute guard girl and Satomi gettin drawn"
+24-05-2020T23:40:45,MarvTheHugPharaoh,Don't forget Kumi >3
+24-05-2020T23:40:47,MarvTheHugPharaoh,<3
+24-05-2020T23:41:08,Sclimshady,"Her layer was off,  but I still love her <3"
+24-05-2020T23:41:18,Sclimshady,:cpurplelemons-kumiho-test2:
+24-05-2020T23:41:52,PurpleLemons,both of these are going to take forever to do lol
+24-05-2020T23:42:44,Maku,It looks amazing purp
+24-05-2020T23:42:53,Ordithus,it does
+24-05-2020T23:42:54,unsteddyphoenix,They lookin CUTE and COOL
+24-05-2020T23:42:55,Bralios,^
+24-05-2020T23:43:02,Bralios,Excited for how the dance turns out.
+24-05-2020T23:43:03,Kameloh,lookin nice!
+24-05-2020T23:45:12,Twokinds,:fork_knife_plate:
+24-05-2020T23:45:34,Twokinds,"Finally, food"
+24-05-2020T23:45:39,unsteddyphoenix,Oh hey my phone just told me that kameloh is live
+24-05-2020T23:45:42,Kameloh,what'cha get :cat:
+24-05-2020T23:45:42,unsteddyphoenix,Neat!
+24-05-2020T23:45:49,Twokinds,Uh...
+24-05-2020T23:45:51,TheSexyBeast,Whatcha having?
+24-05-2020T23:45:57,Sclimshady,Thanks Teddy's phone!
+24-05-2020T23:46:30,Twokinds,"Rice, leftover bacon, cashews, a banana, kimchi, yogurt, jello, and a slice of blackberry pie."
+24-05-2020T23:46:36,Kameloh,:ckameloh-kuvaeyes:
+24-05-2020T23:46:38,Ordithus,quite the... mix
+24-05-2020T23:46:56,PurpleLemons,:cpurplelemons-tired:
+24-05-2020T23:46:57,Dimensional,Rice and bacon. Delicious.
+24-05-2020T23:47:04,Twokinds,"Oh yeah, rice and bacon is the best"
+24-05-2020T23:47:09,Sclimshady,Tom has Aurum
+24-05-2020T23:47:11,unsteddyphoenix,I love bacon and jello
+24-05-2020T23:47:11,PurpleLemons,all I had was a uncrustable
+24-05-2020T23:47:15,TheSexyBeast,Bacon gives it legitimacy
+24-05-2020T23:47:20,w0lfmare,Nice! I have that every monday
+24-05-2020T23:47:28,Twokinds,That's the main course
+24-05-2020T23:47:40,Twokinds,But it was really just everything I could find in the kitchen XD
+24-05-2020T23:47:52,Kameloh,is it all on a plate XD
+24-05-2020T23:47:54,RandomTonio,I'm going to bed soon
+24-05-2020T23:48:03,BadFoMo,Good night?
+24-05-2020T23:48:08,unsteddyphoenix,Have you stacked the food all up together
+24-05-2020T23:48:11,Twokinds,No two plates and a bowl
+24-05-2020T23:48:21,unsteddyphoenix,Aw.
+24-05-2020T23:48:22,Ordithus,stick it all on the rice
+24-05-2020T23:48:25,Sclimshady,Mix it up like Hu hot
+24-05-2020T23:48:32,TheSexyBeast,Any beverage?
+24-05-2020T23:48:34,Kameloh,nice :ckameloh-bongocat_50:
+24-05-2020T23:49:31,Twokinds,watah
+24-05-2020T23:49:36,Twokinds,pure watah
+24-05-2020T23:49:48,PurpleLemons,steel is heavier than feathers
+24-05-2020T23:49:49,unsteddyphoenix,day or noight free o' charge~
+24-05-2020T23:50:15,TheSexyBeast,👍
+24-05-2020T23:50:22,MuonNeutrino,only if you have more of it than the feathers
+24-05-2020T23:50:36,unsteddyphoenix,no thats cheating
+24-05-2020T23:51:01,Sclimshady,"Feathers are heavier,  imagine the weight of what you did to those birds"
+24-05-2020T23:51:30,MuonNeutrino,"you have to blow up a star to get the iron in the steel, though, much more terrifying"
+24-05-2020T23:51:33,unsteddyphoenix,steal the feathers
+24-05-2020T23:52:05,TheSexyBeast,What weighs more: a pound of steel or a pound of feathers?
+24-05-2020T23:52:23,MuonNeutrino,"ignoring any air trapped in the feathers, the same, of course"
+24-05-2020T23:52:43,Ordithus,the steel will hurt more if it hits you in the face
+24-05-2020T23:52:55,BadFoMo,Haxs!
+24-05-2020T23:54:31,Kameloh,where's purple and teddy :cat:
+24-05-2020T23:54:42,unsteddyphoenix,oh the things updated
+24-05-2020T23:54:56,Kameloh,yee we're in voice
+24-05-2020T23:55:02,Kameloh,I'm destroying this mushroom guy's home
+24-05-2020T23:55:11,PurpleLemons,oh :eyes:
+24-05-2020T23:55:34,TheSexyBeast,"Heading out, thanks for the streams everyone!"
+24-05-2020T23:55:44,BadFoMo,Bye.
+24-05-2020T23:56:10,BadFoMo,I think I may go and take a nap.
+24-05-2020T23:56:16,PurpleLemons,after this song i'll stop for the night and take a break to join you
+24-05-2020T23:56:23,Kameloh,:ckameloh-bongocat_50:
+24-05-2020T23:57:37,Ordithus,:ctwokinds-RainezZz: goodnight and thanks for all the streams
+24-05-2020T23:57:41,Kameloh,gnight!
+24-05-2020T23:57:47,jesonite,:ok_hand::fire:  Epic Duo splash pic is coming out pretty nice Lemons!
+24-05-2020T23:58:08,PurpleLemons,thanks Jeso!
+24-05-2020T23:58:23,PurpleLemons,Jeso you'd really like this song - Shadowbringers theme
+24-05-2020T23:58:26,PostApocalypticDrifter,night peeps
+24-05-2020T23:58:43,jesonite,OH nice! gotta tune in /
+24-05-2020T23:59:05,MarvTheHugPharaoh,"I'm gonna zook out, nighty night y'all o/"
+24-05-2020T23:59:11,Kameloh,night marv!
+24-05-2020T23:59:19,jesonite,Night!
+24-05-2020T23:59:21,PurpleLemons,happy zook
+24-05-2020T23:59:44,jesonite,Lemons - Diggin the tune man!

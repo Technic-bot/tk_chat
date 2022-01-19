@@ -1,0 +1,187 @@
+date,user,comment
+31-07-2018T00:20:26,TheGamePlayer,XD I just crashed threw the Luigi pizza billboard with my character. He flew right threw and took it down
+31-07-2018T00:44:58,SpazztasticKiwi,I just remembered we sell chicken biscuits at work and now I’m slightly more ready to go for work
+31-07-2018T00:55:58,SpazztasticKiwi,I’m gonna try going on bed now
+31-07-2018T00:56:35,SpazztasticKiwi,You have fun with that work Tom & nighty night everyone
+31-07-2018T01:14:15,Bgrmystr2,Ah.. the latest image tom posted on patreon is a jpg instead of a png
+31-07-2018T01:14:17,Bgrmystr2,rip
+31-07-2018T01:14:23,Bgrmystr2,:(
+31-07-2018T01:32:28,Twokinds,whoops
+31-07-2018T01:33:22,iliar,And what's the problem with JPG?
+31-07-2018T01:34:20,iliar,I noticed this. But I do not see any problems with JPG.
+31-07-2018T01:37:07,unsteddyphoenix,Short answer is PNGs are higher quality than JPGs and dont lose any quality when theyre saved then opened again.
+31-07-2018T01:49:47,Bgrmystr2,"Phoenix is right. Also, PNG uses a different format to save than JPGs"
+31-07-2018T01:49:54,iliar,"In theory, you are right."
+31-07-2018T01:50:20,Bgrmystr2,"it's not just theory, it's effective in practice too"
+31-07-2018T01:50:22,iliar,https://yadi.sk/i/bgjfweSb3ZnGbQ
+31-07-2018T01:50:39,Bgrmystr2,"JPGs use pixels for their data, while PNGs do not"
+31-07-2018T01:50:55,Bgrmystr2,"so if you increase the size of a jpg, you end up with jpeg artifacts as it were"
+31-07-2018T01:51:11,Bgrmystr2,making the image unclear and not very nice to look at
+31-07-2018T01:51:40,Bgrmystr2,but pngs can have their size increased far more while still retaining similar quality
+31-07-2018T01:53:00,iliar,I took PNG. He saved it as JPG. Then I connected the two versions together and saved them as PNG. Can you say that the right side of the frame is an original PNG or JPG?
+31-07-2018T01:54:50,Bgrmystr2,"for what you did, it'd be hard to tell, but that's because you're not actually giving it a fair comparison to begin with xD"
+31-07-2018T01:57:33,iliar,"Why difficult. In theory, half of the image that was saved in the JPG must have terrible artifacts."
+31-07-2018T01:59:23,Bgrmystr2,"Like I said, you didn't give it a fair comparison, so it's not going to be easy to tell with how you did it"
+31-07-2018T02:01:45,Bgrmystr2,This is zoomed in on the jpeg and png version. You can easily tell which one is which https://cdn.discordapp.com/attachments/250139544517607424/474109330640338945/dllhost_2018-08-01_02-00-53.png
+31-07-2018T02:03:10,Bgrmystr2,one has artifacts and jagged lines
+31-07-2018T02:03:16,Bgrmystr2,the other is not as bad
+31-07-2018T02:03:36,unsteddyphoenix,^
+31-07-2018T02:03:44,iliar,Okay. How about this test. I save PNG as JPG. And then I save both versions as BMP. You can tell which of these two files have JPG artifacts?
+31-07-2018T02:03:57,iliar,https://yadi.sk/i/RfXrJ_jR3ZnHtP
+31-07-2018T02:04:11,iliar,https://yadi.sk/i/0D_-SNhh3ZnHuk
+31-07-2018T02:04:12,unsteddyphoenix,I think bgrs already made the point lol
+31-07-2018T02:05:32,iliar,"Your example is stupid. Because the JPG quality depends on settings. If you choose the worst settings, the artifacts will be horrible."
+31-07-2018T02:07:03,Bgrmystr2,"It's not stupid, Iliar. That's how it works. Jpgs are coded different from PNGs in how they save the image data."
+31-07-2018T02:07:22,Bgrmystr2,100% jpg quality will still have artifacts
+31-07-2018T02:07:32,Bgrmystr2,if expanded enough
+31-07-2018T02:07:52,Bgrmystr2,and will degrade in quality if you change it
+31-07-2018T02:07:55,iliar,You did not answer. Which of the two BMP files have JPG artifacts?
+31-07-2018T02:08:05,Bgrmystr2,they both do iliar
+31-07-2018T02:08:26,iliar,Really?
+31-07-2018T02:09:16,Bgrmystr2,yeah. they do
+31-07-2018T02:09:23,Bgrmystr2,and it's really bad
+31-07-2018T02:09:31,unsteddyphoenix,LOL wow Iliar
+31-07-2018T02:09:57,unsteddyphoenix,That's so cheeky lmao
+31-07-2018T02:10:06,Bgrmystr2,xD
+31-07-2018T02:10:16,unsteddyphoenix,I honestly didnt bother checking
+31-07-2018T02:10:17,unsteddyphoenix,Hahaha
+31-07-2018T02:10:40,Bgrmystr2,I mean.. you save a png as a jpg.. of course it's going to gain artifacts
+31-07-2018T02:11:28,Bgrmystr2,and then from jpg to bmp just increases the file size really cuz they both save the image data the same way if I recall correctly
+31-07-2018T02:11:35,Bgrmystr2,or close to it
+31-07-2018T02:12:51,iliar,But in another version I saved png as a bmp. In this version should not contain artifacts.
+31-07-2018T02:13:12,Bgrmystr2,bmp is based on pixels just like jpegs are
+31-07-2018T02:13:34,Bgrmystr2,bitmaps are what ppl use to make like pixel art and stuff xD
+31-07-2018T02:14:20,iliar,Why do you think that another version also has JPG artifacts?
+31-07-2018T02:15:49,iliar,png is based on pixels foo. png is not vector image.
+31-07-2018T02:15:53,Bgrmystr2,"the only reason they're called jpeg artifacts is because when you increase a jpeg in size, the pixels aren't suited for upscale"
+31-07-2018T02:16:14,Bgrmystr2,bitmaps get artifacts too
+31-07-2018T02:16:45,Bgrmystr2,"of course png is based on pixels, but it stores the image data differently than standard ones like jpg and such"
+31-07-2018T02:16:56,Bgrmystr2,"it also saves a lot more, tis why they're bigger"
+31-07-2018T02:17:08,Bgrmystr2,jpegs are compressed to save space
+31-07-2018T02:17:15,Bgrmystr2,a lot of space.
+31-07-2018T02:17:23,SiliconCarbide,"and that compression is lossy, thats why you get artifacts"
+31-07-2018T02:17:35,SiliconCarbide,"specifically sharp transitions in color space cause something called ""ringing"""
+31-07-2018T02:17:55,SiliconCarbide,because the compression algorithm is based on a fourier decomposition of pixel space
+31-07-2018T02:18:29,SiliconCarbide,its much less noticeable on pictures with soft transitions
+31-07-2018T02:18:34,SiliconCarbide,as is typical for photographs
+31-07-2018T02:18:48,iliar,BMP is a format without compression and without loss. I save PNG as BMP. Why do you think that this file has JPG artifacts?
+31-07-2018T02:19:37,Bgrmystr2,because I can SEE artifacts in both images you posted xD
+31-07-2018T02:19:51,Bgrmystr2,I have eyes!
+31-07-2018T02:19:56,Bgrmystr2,:ptv-excited:
+31-07-2018T02:20:43,iliar,"Just in case, I want to clarify. Do you know what this button does? https://yadi.sk/i/UyB889nE3ZnKrH"
+31-07-2018T02:21:18,Bgrmystr2,"yeah, I do"
+31-07-2018T02:22:59,iliar,And did you save the file before opening it?
+31-07-2018T02:23:13,Bgrmystr2,the site has the full image displayed
+31-07-2018T02:23:57,Bgrmystr2,"when you click it, it gives a preview"
+31-07-2018T02:24:01,iliar,You a an idiot.
+31-07-2018T02:24:23,iliar,You looked at the preview of the file.
+31-07-2018T02:24:55,Bgrmystr2,please tell me you're joking. the file is going to be the same thing. I'll go download the thing right now and go to the same spot
+31-07-2018T02:25:00,Bgrmystr2,and find the same artifacts
+31-07-2018T02:25:01,iliar,Preview in JPG.
+31-07-2018T02:26:25,iliar,Download the BPM files and compare them again.
+31-07-2018T02:27:29,Bgrmystr2,"I did, and I can see artifcts in both, though A is much less so, going to presume A was the PNG"
+31-07-2018T02:29:26,Bgrmystr2,"Also, comparing it to the original png, the bitmap of A has a worse transition"
+31-07-2018T02:29:31,Bgrmystr2,from one color to another
+31-07-2018T02:29:39,Bgrmystr2,it's abrupt
+31-07-2018T02:29:58,Bgrmystr2,like the boy's hair to keith's  shirt
+31-07-2018T02:30:19,iliar,"You're right. But in my opinion, the difference is very small, that would be greatly upset getting JPG version."
+31-07-2018T02:30:56,Bgrmystr2,"many people upscale the images and use them for wallpapers, or print them and have them framed on their wall"
+31-07-2018T02:31:11,Bgrmystr2,so it being a jpg kind of removes both of those possibilities
+31-07-2018T02:32:37,iliar,"Я не понимаю, что ты имеешь в виду? https://yadi.sk/i/SmIghNw-3ZnMG4"
+31-07-2018T02:34:13,iliar,JPG removes?
+31-07-2018T02:35:21,iliar,"When you print a poster, the biggest problem is a low resolution."
+31-07-2018T02:36:08,iliar,"JPG does a little worse, but is not a big problem."
+31-07-2018T02:40:24,Bgrmystr2,I'm just going to leave this here http://www.differencebetween.info/difference-between-bmp-and-png
+31-07-2018T02:40:28,Bgrmystr2,"and this ""Also, as a bitmap image is a pixel by pixel image, if one tries to zoom in or enhance a bitmap picture, the image seems pixilated."""
+31-07-2018T02:42:33,Bgrmystr2,"jpg isn't a problem if it's big enough where the size won't give you artifacts, but generally it will because it doesn't save all the data in a jpg"
+31-07-2018T02:43:24,Bgrmystr2,"kind of like lossy audio, the more you save and transfer it, the more distorted the sound becomes"
+31-07-2018T02:43:29,Bgrmystr2,jpgs do the same
+31-07-2018T02:46:48,iliar,"If you compare the original PSD and public PNG then you will realize - the biggest problem, Tom publish result in less resolution. https://yadi.sk/i/am6zL5XM3ZnP7F"
+31-07-2018T02:47:41,iliar,"In comparison with this, the difference between PNG and JPG very low."
+31-07-2018T02:50:38,Bgrmystr2,"of course resolution is a big factor, but that's a completely separate thing that can both combine and compound the problems with a jpg lol"
+31-07-2018T03:14:05,iliar,"In my opinion, the dispute between JPG and PNG looks like a dispute, which is better than Cola with a temperature of 24.8 °C or 25.1 °C. In theory, 24.8 °C is cooler and means better. But in my opinion it does not matter, because both versions are warm"
+31-07-2018T03:46:54,Bgrmystr2,I guess you just don't have a lot of background in seeing the difference a png can make
+31-07-2018T04:15:08,iliar,I have 4k monitor. Does it counts?
+31-07-2018T04:17:19,Bgrmystr2,Well I mean like.. spanning the course of two dozen years collecting images and seeing the difference
+31-07-2018T04:17:45,Bgrmystr2,"yeah, just about 24 years now.."
+31-07-2018T08:53:09,NightMeaty22,"I love my dad's logic just yesterday he said that he would pay for a computer that i was going pay for then today he says ""i'm going to start making you pay for it 20 dollars at a time if you dont start getting up earlier"""
+31-07-2018T08:57:18,NightMeaty22,"And i'm like ""you made me stay up tell 11:00pm working it is 7:00am how early do you want me to get up"""
+31-07-2018T08:59:01,NightMeaty22,And when i get out of bed i grab a small blanket and he says it hot in here why do you need that and it's 61°
+31-07-2018T08:59:20,NightMeaty22,Fahrenheit
+31-07-2018T09:02:16,NightMeaty22,I have a migraine and he says your fine i'm just like how can you say that when you have never had more than one
+31-07-2018T09:03:08,NightMeaty22,He got a migraine and we had to take him to the hospital
+31-07-2018T09:05:02,NightMeaty22,Sorry about that i just had to get it out
+31-07-2018T11:20:09,PotatoRights,Ok?
+31-07-2018T12:06:37,TheGamePlayer,6094 followers yet only 64-250 join the stream
+31-07-2018T12:42:36,SpazztasticKiwi,“I like you but not enough to watch you live”
+31-07-2018T12:57:55,TorqueEmUp,"Hell, Tom's number of Patreon supporters has more than double, almost tripled since around this time last year."
+31-07-2018T12:58:19,TorqueEmUp,iird
+31-07-2018T12:58:31,TorqueEmUp,iirc*
+31-07-2018T13:06:20,TorqueEmUp,can't remember if it was around 300 or 600 supporters this time last year.
+31-07-2018T13:54:30,TheGamePlayer,"So right now I'm torn between art and music, I love making both, but I'd rather do just one"
+31-07-2018T15:57:59,TheGamePlayer,"Great I'm being told I no longer have Xbox live gold, which is not true, and  I can't download a free dlc pack for battlefield 4 and everything is being an absolute prick"
+31-07-2018T15:58:49,TheGamePlayer,:ptv-angry: Give me my gold back!!!!
+31-07-2018T16:00:43,TheGamePlayer,I'ma go on a verbal rampage here in
+31-07-2018T16:00:45,TheGamePlayer,a sec
+31-07-2018T16:34:44,TheGamePlayer,Fixed it
+31-07-2018T18:26:44,SpazztasticKiwi,You know those days that you wake up and just aaaaaaaaahhhhhhhhhh
+31-07-2018T18:28:53,CrRAR,AAAAAAAAHHHHHHH?
+31-07-2018T18:29:50,CrRAR,(real monsters?)
+31-07-2018T18:33:09,Bgrmystr2,uh
+31-07-2018T18:33:11,Bgrmystr2,not really?
+31-07-2018T18:33:19,Bgrmystr2,I don't think I've ever had a day like that
+31-07-2018T18:37:49,CrRAR,I have that feeling when I GO to bed.
+31-07-2018T18:38:00,CrRAR,Like when my head hits the pillow.
+31-07-2018T18:38:09,CrRAR,and the comfy sheets~
+31-07-2018T18:40:41,Bgrmystr2,that's more of an aaahhhh~ with the tilde at the end
+31-07-2018T18:45:09,TheGamePlayer,:ptv-shock: MORNING!!!
+31-07-2018T18:45:20,CrRAR,:sunny:
+31-07-2018T18:45:29,TheGamePlayer,Make it night MAKE IT NIGHT!!!
+31-07-2018T18:45:39,TheGamePlayer,Like that?
+31-07-2018T18:45:41,CrRAR,:waning_crescent_moon:
+31-07-2018T18:46:28,CrRAR,:sparkles:
+31-07-2018T18:54:35,totallynotTrace,wait so AAAHHHH like https://youtu.be/9FHw2aItRlw or you know... a yawn
+31-07-2018T18:57:08,TheGamePlayer,XD
+31-07-2018T19:36:48,TheGamePlayer,"Hehe I'm hanging under a helicopter racking up ""Medici's most wanted"" witch requires a heat level of five and I've held it for 12 minutes so far"
+31-07-2018T19:37:58,TheGamePlayer,"I can hear the piolet yelling ""get him off get him off"" ""the target is on the helicopter take him out"""
+31-07-2018T19:39:03,TheGamePlayer,Lol enemy boats are waiting below me
+31-07-2018T19:50:51,totallynotTrace,just cause 3?
+31-07-2018T19:50:59,Dadrobit,"Ahhh, good old Wilhelm. Big fan. Howie's pretty stellar as well. https://www.youtube.com/watch?v=wzdF0bVH6e8"
+31-07-2018T19:52:10,totallynotTrace,so thats what they used for tie fighters XD
+31-07-2018T19:52:30,Dadrobit,And the Academy in StarCraft 1
+31-07-2018T19:54:31,totallynotTrace,https://youtu.be/XkHdgMOuuBs
+31-07-2018T20:12:25,TheGamePlayer,Ya just cause 3
+31-07-2018T20:12:38,TheGamePlayer,47 minutes now and counting
+31-07-2018T20:12:52,TheGamePlayer,I will not share my secret
+31-07-2018T20:17:34,totallynotTrace,high altitude?
+31-07-2018T20:22:11,TheGamePlayer,"Low actually, the AI are just dumb and don't know what to do"
+31-07-2018T20:22:25,TheGamePlayer,Except yell at me
+31-07-2018T20:22:35,totallynotTrace,wow
+31-07-2018T20:23:08,totallynotTrace,I have jc2 and ive encountered some dumb moments but nothing particularly exploitable.
+31-07-2018T20:23:32,TheGamePlayer,I was having fun tying helicopters together and making them try to recover from falling but I got board and decided to watch Marks try not to laughs
+31-07-2018T20:23:53,TheGamePlayer,About to hit an hour
+31-07-2018T20:24:02,TheGamePlayer,Got JC2 too
+31-07-2018T20:24:10,TheGamePlayer,That was fun
+31-07-2018T20:24:17,totallynotTrace,"except grenades. get an enemy to go under low ledges, then they would throw a grenade and it would bounce back at them"
+31-07-2018T20:26:19,TheGamePlayer,XD I hit the limit
+31-07-2018T20:26:37,totallynotTrace,music stop?
+31-07-2018T20:26:39,TheGamePlayer,Oh ya I've down that
+31-07-2018T20:26:45,TheGamePlayer,No
+31-07-2018T20:26:54,TheGamePlayer,The counter stoped
+31-07-2018T20:26:59,TheGamePlayer,Stopped
+31-07-2018T20:27:03,totallynotTrace,oh
+31-07-2018T20:27:20,TheGamePlayer,Well was gonna go for 2 hours
+31-07-2018T20:29:25,TheGamePlayer,I died opps
+31-07-2018T20:33:11,TheGamePlayer,Wait it didn't record it :ptv-confused:
+31-07-2018T20:37:40,TheGamePlayer,Restarting the game
+31-07-2018T20:37:53,TheGamePlayer,To make sure
+31-07-2018T20:46:27,TheGamePlayer,Nope got to do it over
+31-07-2018T20:47:42,TheGamePlayer,Guess I had to escape
+31-07-2018T20:47:47,TheGamePlayer,Not die
+31-07-2018T20:48:19,TheGamePlayer,Well I also guess I'm going to get two hours
+31-07-2018T21:14:55,TheGamePlayer,Ok back on top
+31-07-2018T21:41:55,TheGamePlayer,"Watch Silo entertainment an airsoft player in a 3 day huge military simulation, it's pretty frickin cool."
+31-07-2018T22:15:37,TheGamePlayer,I ment watching
+31-07-2018T22:15:49,TheGamePlayer,You don't have to watch it
+31-07-2018T22:18:52,TheGamePlayer,My time is 61 minute and 44.29 seconds
+31-07-2018T23:21:38,TheGamePlayer,Testing out my audio visualizer if anyone wants to see it https://picarto.tv/TheGamePlayer

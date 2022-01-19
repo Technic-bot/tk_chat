@@ -1,0 +1,596 @@
+date,user,comment
+23-06-2019T00:16:15,AspiringNoodle,I hope people are abusing the sale
+23-06-2019T01:22:50,Dadrobit,"Ever had one one of those ""I want a snack for dinner"" nights?"
+23-06-2019T01:23:18,Dadrobit,Made some tasty biscuits for myself. They are tasty.
+23-06-2019T01:23:27,Dadrobit,https://i.imgur.com/ET7zGuS.jpg
+23-06-2019T01:25:48,Dadrobit,Cheat day best day
+23-06-2019T01:31:14,SpazztasticKiwi,you got cheat day?
+23-06-2019T01:31:27,SpazztasticKiwi,nice - back into the exercise circle
+23-06-2019T01:31:53,SpazztasticKiwi,I’ve had a dead need for veggies and rice lately
+23-06-2019T01:32:29,SpazztasticKiwi,put it on a butter roll n make a mini sandwich - been my lunch a few times this week
+23-06-2019T01:36:05,Dadrobit,"Naw, today is straight up unhealthy times. Homemade butter biscuits with sharp cheddar mixed in and on top. Then slathered in a butter sauce with parsley, onion, and garlic."
+23-06-2019T01:36:32,Dadrobit,Actually not even able to finish this lol. 2.5 down. The rest is going in the fridge methinks.
+23-06-2019T02:20:35,SpazztasticKiwi,that’s not unhealthy
+23-06-2019T02:21:03,SpazztasticKiwi,fats are a requirement to live and herbs and plants are very healthy
+23-06-2019T02:21:13,SpazztasticKiwi,like dairy and grains
+23-06-2019T02:21:26,SpazztasticKiwi,it’s like all the food groups in one
+23-06-2019T03:20:41,SpazztasticKiwi,🛌
+23-06-2019T03:28:44,TerraTheWizard,:ctwokinds-natsducky:
+23-06-2019T04:13:08,AspiringNoodle,*Goes to bed at reasonable time*
+23-06-2019T04:13:20,AspiringNoodle,*Two hours later*
+23-06-2019T04:13:27,AspiringNoodle,"Body: ""Okay, that's enough of that."""
+23-06-2019T04:13:30,AspiringNoodle,"Me: ""But..."""
+23-06-2019T04:13:43,AspiringNoodle,"Body: ""Nope"" :ptv-SteelwormHades:"
+23-06-2019T04:17:27,AspiringNoodle,Friendly reminder that the Clip Studio Paint sale ends in 23 hours if you live on the east coast :ptv-hearts:
+23-06-2019T06:03:22,AspiringNoodle,Did Picarto act weird for anyone else or was it just me?
+23-06-2019T06:19:34,AspiringNoodle,"Okay, I'm pretty sure it's just me now xD"
+23-06-2019T06:23:57,Bgrmystr2,"naw it prolly broked for everyone, mine disconnected too"
+23-06-2019T06:24:04,Bgrmystr2,off to bed :ptv-sleepy:
+23-06-2019T07:28:45,AspiringNoodle,Looks like the internet's been freaking out since ~7 A.M. EST
+23-06-2019T07:40:17,AspiringNoodle,"Eeeeeeeeey, looks like everything's back to normal!"
+23-06-2019T07:43:32,TerraTheWizard,discord is being funky too
+23-06-2019T07:46:05,AspiringNoodle,"I tried using Ookla to confirm it was just me, but I was getting full download speeds.  Then Ookla started having connection issues.  Then when I finally connected to it again, it was getting notices of potential problems from big companies"
+23-06-2019T07:46:39,AspiringNoodle,"Then when I went to a website that monitors websites for either downtime or complaints of downtime, a lot of big companies were getting spikes."
+23-06-2019T07:47:08,AspiringNoodle,"Companies like Reddit, Crunchyroll, Amazon, etc."
+23-06-2019T07:47:36,AspiringNoodle,Might be another DDoS on DNS.  Been a while too.
+23-06-2019T07:48:52,AspiringNoodle,Ugh... now I'M the one who needs coffee... and I don't have any :ptv-unimpressed:
+23-06-2019T07:49:13,TerraTheWizard,:ctwokinds-kingtea:
+23-06-2019T07:50:25,AspiringNoodle,"Don't test me Terra, when I need caffeine, I will kill:ptv-angry:"
+23-06-2019T07:50:44,TerraTheWizard,:ctwokinds-smug:
+23-06-2019T07:50:53,AspiringNoodle,:ptv-pouty:
+23-06-2019T07:52:34,TeapotOfDoom,DDOS on DNS you say?
+23-06-2019T07:53:01,AspiringNoodle,I was reading about it on a site that miraculously wasn't down.  Apparently this happened ~2.5 years back
+23-06-2019T07:53:18,TeapotOfDoom,Yeah I think I heard of that incident
+23-06-2019T07:53:47,AspiringNoodle,"More or less someone wanted extra brownie points and decided to DDoS the backbone of the internet.  They didn't hate one site, they hated ALL the sites xD"
+23-06-2019T07:54:01,TeapotOfDoom,"If you're suspicion is right, this won't be the last we've hear of this incident now"
+23-06-2019T07:54:40,TeapotOfDoom,"Usually the DNS backbone get's used for DDOS attacks, not as the target"
+23-06-2019T07:55:06,TeapotOfDoom,Ever heard of DNS amplification
+23-06-2019T07:55:12,AspiringNoodle,Nope
+23-06-2019T07:56:48,TeapotOfDoom,You send a DNS request with a field called response size of something of that sort. But you spoof the IP address of the sender to be your target instead of you. Then the DNS replies to the alleged sender with the requested response. And DNS is powerfull.
+23-06-2019T07:57:06,TeapotOfDoom,It's like the entire internet wants to talk to you at once
+23-06-2019T07:57:38,TeapotOfDoom,The last attack of this nature I heard about had several Gigabytes/sek of bandwidth
+23-06-2019T07:57:55,TeapotOfDoom,That was a report by Cloudflare
+23-06-2019T07:58:48,AspiringNoodle,"Luckily Newegg was down, so I was able to tentatively build a computer xD"
+23-06-2019T07:58:51,AspiringNoodle,wasn't*
+23-06-2019T07:58:59,AspiringNoodle,"Maybe a bit slow, but still up and running :P"
+23-06-2019T07:59:12,TeapotOfDoom,What's the latest status?
+23-06-2019T07:59:20,AspiringNoodle,Everything seems to be working fine
+23-06-2019T07:59:47,TeapotOfDoom,What does Ookla say?
+23-06-2019T08:00:24,AspiringNoodle,Haven't bothered <3
+23-06-2019T08:10:25,CrimsonQuill,Hullo...
+23-06-2019T08:10:45,AspiringNoodle,Hallo :ptv-greetings:
+23-06-2019T08:10:49,CrimsonQuill,:ptv-greetings:
+23-06-2019T08:10:59,CrimsonQuill,I've been gone a while...
+23-06-2019T08:11:06,CrimsonQuill,Just started back last night...
+23-06-2019T08:11:12,TeapotOfDoom,QUILL
+23-06-2019T08:11:13,CrimsonQuill,How are you?
+23-06-2019T08:11:14,TerraTheWizard,:ctwokinds-nibrun:
+23-06-2019T08:11:18,CrimsonQuill,Hello Teapot!
+23-06-2019T08:11:20,CrimsonQuill,Hello Terra!
+23-06-2019T08:11:24,CrimsonQuill,Nice to see ya!
+23-06-2019T08:11:28,TerraTheWizard,'lo
+23-06-2019T08:11:30,CrimsonQuill,;)
+23-06-2019T08:11:58,CrimsonQuill,So...
+23-06-2019T08:12:11,CrimsonQuill,Just how much have I missed over the past month?
+23-06-2019T08:12:43,AspiringNoodle,Kitty Nora is a thing
+23-06-2019T08:13:01,CrimsonQuill,It does seem to say so in my emails./...
+23-06-2019T08:13:20,CrimsonQuill,"I haven't actually looked at the sketches yet, as I am re-reading the comic...again."
+23-06-2019T08:13:29,CrimsonQuill,And would like to leave it until I am a little way in.
+23-06-2019T08:13:35,CrimsonQuill,The wait is killing me...
+23-06-2019T08:14:32,TeapotOfDoom,Well this month seems to be not the bussiest since there is a truckload of conventions
+23-06-2019T08:15:12,CrimsonQuill,I see...
+23-06-2019T08:15:20,CrimsonQuill,Anything new on the Keenspot Shop?
+23-06-2019T08:25:11,TeapotOfDoom,I'm back to studying. Cya!
+23-06-2019T08:25:33,CrimsonQuill,Cya!
+23-06-2019T09:15:05,AspiringNoodle,"Oh god, this is about to be hilariously bad"
+23-06-2019T09:15:21,AspiringNoodle,"So there's an overwatch event running right now, and I typically partake for the sake of it xD"
+23-06-2019T09:15:42,AspiringNoodle,"But for now, my graphics are being run by my CPU's HD Graphics 4000"
+23-06-2019T09:16:18,AspiringNoodle,"Overwatch's minimum system requirements list the 4400, but that's basically a MoE improvement.  Here's hoping I can play!"
+23-06-2019T09:22:11,PotatoRights,Heres a question for you
+23-06-2019T09:22:27,PotatoRights,"Who is more powerful, nora of tom?"
+23-06-2019T09:23:41,AspiringNoodle,Think of that old Looney Tunes cartoon where Daffy was fighting with the animator :P
+23-06-2019T09:24:52,PotatoRights,Nora is powerful
+23-06-2019T09:24:58,PotatoRights,Daffy is not
+23-06-2019T09:25:19,PotatoRights,May have to be a sketch suggestion if i could
+23-06-2019T09:27:05,PotatoRights,"Also, have there been any time in the comic or sketches where they have broken the 4th wall?"
+23-06-2019T09:31:12,PotatoRights,Besides tom being in the comic
+23-06-2019T09:38:06,AspiringNoodle,...not that I can remember
+23-06-2019T09:47:10,AspiringNoodle,:ptv-sleepy:
+23-06-2019T10:00:08,TerraTheWizard,:ctwokinds-floraquestion:
+23-06-2019T10:34:16,CrimsonQuill,:]
+23-06-2019T12:14:22,NibblyBot,New Patreon Post: Between a Cat and a Squirrel https://www.patreon.com/posts/between-cat-and-27870061
+23-06-2019T12:15:25,NibblyBot,New Deviantart Post: Between a Cat and a Squirrel https://www.deviantart.com/twokinds/art/Between-a-Cat-and-a-Squirrel-803031857
+23-06-2019T12:16:43,TerraTheWizard,:ctwokinds-NoraEyebrows:
+23-06-2019T12:28:53,Azumachan,:ctwokinds-floraquestion:
+23-06-2019T17:19:18,AspiringNoodle,I am officially impressed
+23-06-2019T17:19:29,AspiringNoodle,"Might not be ideal, but that poor little igpu is doing its best!"
+23-06-2019T17:39:53,Bgrmystr2,:ptv-sleepy: mmmnmmnhnm
+23-06-2019T18:05:59,TerraTheWizard,:ctwokinds-RainezZz:
+23-06-2019T18:06:13,TeapotOfDoom,Guys I found out what knocked the internet offline today
+23-06-2019T18:06:21,TeapotOfDoom,Night Terra btw
+23-06-2019T18:07:43,TeapotOfDoom,Verizon decided to route their entire traffic through the servers of a small powerplant in Northern Pennsylvania
+23-06-2019T18:08:48,TeapotOfDoom,Took half of the internet with it. Also expleins why Europe hasn't really noticed major problems. Cloudflare postet something on their blog
+23-06-2019T18:09:16,Bgrmystr2,fuckin.. verizon. Wow
+23-06-2019T18:09:40,TeapotOfDoom,That's what I call an epic fail
+23-06-2019T18:13:20,TeapotOfDoom,I mean that's like rerouting a nine lane freeway through a garage driveway. Ain't gonna happen
+23-06-2019T18:15:37,RimaDraws,hiiii
+23-06-2019T18:18:02,TeapotOfDoom,Hi Rima
+23-06-2019T18:18:32,RimaDraws,sup
+23-06-2019T18:19:07,TeapotOfDoom,Internet in North America went down for about an hour today. So nothing much since I'm in Europe
+23-06-2019T18:19:23,TeapotOfDoom,wbu
+23-06-2019T18:20:28,RimaDraws,why did it go down?
+23-06-2019T18:20:47,TeapotOfDoom,Verizon fucked up in a pretty epic way
+23-06-2019T18:20:57,RimaDraws,just got home from the store and gym. oh boy? what did they do
+23-06-2019T18:21:54,TeapotOfDoom,They rerouted their entire traffic through the servers of a small power plant. That's like trying to reroute a freeway through some small unpaved neighbourhood street
+23-06-2019T18:22:42,TeapotOfDoom,The obvious followed. Took down their network. Halted half of the internet traffic
+23-06-2019T18:22:43,RimaDraws,wow lol
+23-06-2019T18:23:03,RimaDraws,i have verizon and i cant believe they screwed that up
+23-06-2019T18:23:11,TeapotOfDoom,That's a pretty epic fail. We already speculated about a possible attack
+23-06-2019T18:23:17,TeapotOfDoom,But nooo
+23-06-2019T18:23:44,TeapotOfDoom,I think in hindsight that's pretty funny
+23-06-2019T18:23:57,TeapotOfDoom,I wonder what the admins at the power plant were seing
+23-06-2019T18:24:06,TeapotOfDoom,That must have been a truckload of traffix
+23-06-2019T18:24:43,RimaDraws,lol big time
+23-06-2019T18:25:42,TeapotOfDoom,Well it's already pretty late where I am. Just doing a bit of graphics work and then I will see myself to bed
+23-06-2019T18:26:20,TeapotOfDoom,Still something planned for you?
+23-06-2019T18:26:37,RimaDraws,drawing up comms
+23-06-2019T18:26:44,RimaDraws,i got alot to finish
+23-06-2019T18:29:42,TeapotOfDoom,Going to some conventions?
+23-06-2019T18:29:46,SpazztasticKiwi,Mark. Locked Amy. Out of the house
+23-06-2019T18:29:48,SpazztasticKiwi,AGAIN
+23-06-2019T18:29:57,TeapotOfDoom,Or just usual work?
+23-06-2019T18:30:16,TeapotOfDoom,You mean Mark I. Plier?
+23-06-2019T18:30:22,SpazztasticKiwi,yep
+23-06-2019T18:30:46,TeapotOfDoom,Isn't he home atm?
+23-06-2019T18:31:57,SpazztasticKiwi,yep
+23-06-2019T18:32:07,SpazztasticKiwi,and he accidentally locked Amy out
+23-06-2019T18:32:09,SpazztasticKiwi,again
+23-06-2019T18:32:44,SpazztasticKiwi,she apparently ended up spending the night in the van in the garage because he phone didn’t ring and he sleeps like the dead apparently
+23-06-2019T18:33:06,SpazztasticKiwi,"he, and I quote him “fucked up”"
+23-06-2019T18:34:33,SpazztasticKiwi,she’s a saint cause I’d be pissed for weeks
+23-06-2019T18:35:51,TeapotOfDoom,Doesn't she have a key?
+23-06-2019T18:36:03,TeapotOfDoom,Well i bet he got his share of trouble
+23-06-2019T18:36:40,SpazztasticKiwi,she has a key. It was left inside cause she left it behind for the Austin trip
+23-06-2019T18:37:09,SpazztasticKiwi,Mark says he woke up to ten missed calls and multiple texts
+23-06-2019T18:37:24,TeapotOfDoom,oh shit
+23-06-2019T18:37:47,SpazztasticKiwi,I can pick some locks. I’d have gotten in and dumped a bucket of ice on him
+23-06-2019T18:38:13,SpazztasticKiwi,Well not really perhaps
+23-06-2019T18:38:50,SpazztasticKiwi,but I have a feeling that he feels even worse because she’s not mad
+23-06-2019T18:39:16,TeapotOfDoom,Pick locks? Sick
+23-06-2019T18:39:27,TeapotOfDoom,Why'd you need keys then anyway?
+23-06-2019T18:39:46,TeapotOfDoom,I bet you. I'd feel horrible
+23-06-2019T18:41:21,SpazztasticKiwi,he’s apparently promised her a vacation
+23-06-2019T18:42:13,SpazztasticKiwi,he’s an idiot but not a complete one
+23-06-2019T18:44:57,TeapotOfDoom,Well I'd sleep one night in a van if I get a vacation in return
+23-06-2019T18:45:14,TeapotOfDoom,But I think everyone profits from this
+23-06-2019T18:45:23,TeapotOfDoom,They get to go on vacation
+23-06-2019T18:46:07,TeapotOfDoom,I just noticed i had selection smoothing turned off in ps. That's why my last attempt looked so rough
+23-06-2019T18:46:53,TeapotOfDoom,and i mispositioned the image
+23-06-2019T18:47:00,TeapotOfDoom,well time to start over
+23-06-2019T18:56:30,Twokinds,:ctwokinds-nibrun:
+23-06-2019T18:56:39,TeapotOfDoom,Hoi Tom
+23-06-2019T18:57:11,TeapotOfDoom,Say is there a stickerpack of the TK emotes?
+23-06-2019T18:57:59,Twokinds,"No, but that might be neat!"
+23-06-2019T18:58:13,Twokinds,If only I could somehow print animated stickers.
+23-06-2019T18:58:37,TeapotOfDoom,Haha now that would be a feat of engineering
+23-06-2019T18:58:50,TeapotOfDoom,I was referring to telegram
+23-06-2019T19:00:07,RimaDraws,hi tom
+23-06-2019T19:00:32,Twokinds,Hello
+23-06-2019T19:14:24,SpazztasticKiwi,sup
+23-06-2019T19:19:52,RimaDraws,not much just doing some things
+23-06-2019T19:20:00,Twokinds,Thinking of making a poll
+23-06-2019T19:20:11,RimaDraws,poll?
+23-06-2019T19:23:15,Twokinds,It's where you ask people their opinions in survey form
+23-06-2019T19:23:55,RimaDraws,yea i know. is it for the stream next week or ?
+23-06-2019T19:24:32,Ordithus,:cw0lfmare-Florascience: hi Tom
+23-06-2019T19:24:39,RimaDraws,hi ord
+23-06-2019T19:24:48,TeapotOfDoom,Hi ord
+23-06-2019T19:25:39,SpazztasticKiwi,my manager cut up a cake for free samples today and there was this little kid that got hyped™️
+23-06-2019T19:25:43,Ordithus,"ello Rima, Tea, Kiwi"
+23-06-2019T19:25:57,SpazztasticKiwi,so unbelievably excited for a piece of cinnamon cake
+23-06-2019T19:25:57,TeapotOfDoom,Now that's just cute
+23-06-2019T19:26:12,SpazztasticKiwi,I wish I had that energy
+23-06-2019T19:26:36,SpazztasticKiwi,"It was precious. Jumping around, chanting “cake cake cake”"
+23-06-2019T19:26:42,Ordithus,d'aww
+23-06-2019T19:26:52,Twokinds,I'd like to know what kind of relationship dynamics people are interested in.
+23-06-2019T19:26:55,SpazztasticKiwi,Meanwhile her sibling was like “are we related?”
+23-06-2019T19:27:38,TeapotOfDoom,lol
+23-06-2019T19:29:10,Ordithus,Not sure how you'd really ask that
+23-06-2019T19:30:01,Twokinds,I just want to know if people would prefer male human with female anthro or female human with male anthro
+23-06-2019T19:30:18,Ordithus,"Ah, that's a fairly straightforward one"
+23-06-2019T19:30:21,AspiringNoodle,Or male anthro with female feral? ;D
+23-06-2019T19:30:32,AspiringNoodle,:ptv-snicker:
+23-06-2019T19:30:33,SpazztasticKiwi,as long as they’re not dicks to each other I don’t have any preference
+23-06-2019T19:30:42,Ordithus,I though you meant something having to do with the personalities
+23-06-2019T19:31:06,Ordithus,How about female human with female dunno? :ctwokinds-RainezZz:
+23-06-2019T19:31:14,Ordithus,:ptv-snicker:
+23-06-2019T19:31:28,SpazztasticKiwi,m anthro with a lady reminds me of Tigers Curse
+23-06-2019T19:31:30,AspiringNoodle,"Eff it, everyone with everyone"
+23-06-2019T19:31:33,SpazztasticKiwi,Good book
+23-06-2019T19:31:34,AspiringNoodle,Polygamy for everybody!!!
+23-06-2019T19:31:41,SpazztasticKiwi,shit ending
+23-06-2019T19:31:48,Twokinds,lol
+23-06-2019T19:32:06,Ordithus,"More seriously, I don't care one way or the other"
+23-06-2019T19:32:39,iliar,"Tom, may I ask. When do you plan to publish Nibs? Actually, I don't care, just curiosity."
+23-06-2019T19:32:57,Twokinds,Huh? Nibs?
+23-06-2019T19:33:19,iliar,My Nora Card
+23-06-2019T19:33:36,Twokinds,"Oh, I can post it after the June color art"
+23-06-2019T19:34:27,Twokinds,What about human x canine vs human x feline?
+23-06-2019T19:35:28,TeapotOfDoom,"I just thought I knew what you were referring to, now I'm sightly confused"
+23-06-2019T19:36:22,TeapotOfDoom,You talking about turning Sythe into a human and Maren into a cat? Or the more obvious but hopeless couple?
+23-06-2019T19:36:30,Ordithus,"Same lack of definitive opinion, sorry"
+23-06-2019T19:36:47,Ordithus,I just like cute couples
+23-06-2019T19:36:56,Ordithus,:ctwokinds-natkeith::ctwokinds-traceflohug:
+23-06-2019T19:37:13,TeapotOfDoom,Me too. Cuteness is everything that's needed
+23-06-2019T19:37:18,Bgrmystr2,"Honestly, I don't care either way. Everything's fine to me."
+23-06-2019T19:37:41,SpazztasticKiwi,both are pretty good
+23-06-2019T19:38:02,iliar,About Human Male x Anthro Female vs Anthro Male x Human Female. I like both options. I can not give preference to one.
+23-06-2019T19:38:10,Bgrmystr2,"I enjoy watching people get up in arms about ships, and I have some characters I like more than others, but honestly, I don't have any preference to anything. They're all equal."
+23-06-2019T19:38:46,Twokinds,I'm not referencing anything.
+23-06-2019T19:38:56,Twokinds,I'm talking about new characters.
+23-06-2019T19:39:01,TeapotOfDoom,Oooohhh
+23-06-2019T19:39:22,SpazztasticKiwi,depends on who you want to attract to the story
+23-06-2019T19:39:41,Ordithus,:ctwokinds-statuerawr: why are lizards excluded (not serious or am I)
+23-06-2019T19:40:00,TeapotOfDoom,Well still I have no preference. Like I said cuteness is everything that's really needed ^^
+23-06-2019T19:40:03,TeapotOfDoom,lol ord
+23-06-2019T19:40:34,SpazztasticKiwi,you got the male dynamic down and a good bit of the female - how you place them and direct them will determine who you lure
+23-06-2019T19:40:57,SpazztasticKiwi,the characters that it - how you place and direct them
+23-06-2019T19:41:39,RimaDraws,oooh new characters
+23-06-2019T19:42:39,Ordithus,"The characters come first.  If at the end of the day, you come up with a male cat you like that fits well with a lady hooman, the overall species thing doesn't really matter"
+23-06-2019T19:42:55,Ordithus,Or whoever you come up with
+23-06-2019T19:43:08,TeapotOfDoom,Agreed. Character is definitely more important
+23-06-2019T19:43:56,SpazztasticKiwi,whatever is made will attract someone
+23-06-2019T19:44:16,SpazztasticKiwi,"if it’s a real debate, flip a coin"
+23-06-2019T19:45:07,TeapotOfDoom,I'm gonna head to bed. I've been up for way to long especially considering when I have to get up again... G'night yall!
+23-06-2019T19:45:21,Ordithus,"g'night, tea"
+23-06-2019T19:45:26,iliar,"About Human x Canine vs Human x Feline. I don't know why, but I prefer to see Canine as Male, Feline as Female. So if Human is Male then prefer Feline. If Human is Female then prefer Canine."
+23-06-2019T19:45:30,SpazztasticKiwi,Nat/Keith Flora/Trace both have my investment and for different reasons
+23-06-2019T19:46:24,SpazztasticKiwi,I can see a human female with a male feline like “you have to stop laying in my lap. I can’t feel my legs”
+23-06-2019T19:46:34,Ordithus,"iliar, I can see that being cats are generally seen as more feminine and dogs more masculine?"
+23-06-2019T19:50:09,Bgrmystr2,:ptv-pouty: you sayin girls are lazy?
+23-06-2019T19:51:56,Ordithus,Are you saying dogs aren't?
+23-06-2019T19:54:39,Bgrmystr2,BORKBORKBORKBORKBORK 24/7/365
+23-06-2019T19:54:47,Bgrmystr2,"I dunno, what do you think?"
+23-06-2019T19:55:32,Bgrmystr2,I don't see cats excited to go for walks or to catch balls or going outside to do.. anything. xD
+23-06-2019T19:55:41,Bgrmystr2,other than laze about in the sun.
+23-06-2019T19:56:20,Bgrmystr2,"and then dogs sleep cuz they're tired, and then wake up and turn their energy up to 11 all over again."
+23-06-2019T19:56:37,iliar,But I think this is not the rule. I think the characters can be absolutely any races. In absolutely any combination. For me it is more important how you build their relationship.
+23-06-2019T19:56:44,iliar,"Although perhaps there is one rule, a pair of different characters look interesting."
+23-06-2019T19:57:21,Bgrmystr2,"yeah I think anyone can be with anyone else, but the personality of the person is what fuels the shippers in the fandom."
+23-06-2019T20:00:24,Ordithus,Ship all the ships
+23-06-2019T20:00:40,CrRAR,:cruise_ship:
+23-06-2019T20:00:43,Bgrmystr2,:ship::ptv-shipit::cruise_ship:
+23-06-2019T20:00:49,Ordithus,Seraphina x young Alabaster
+23-06-2019T20:00:53,Ordithus,<3
+23-06-2019T20:02:14,iliar,Fun fact. I ordered some fan art from Tsukinori. She doesn't like to draw Anthro x Human. Even simple things like kisses. This immediately makes impossible many ideas for fan art. Because Tom has a lot of Anthro x Human pairs.
+23-06-2019T20:03:53,SpazztasticKiwi,Bagheera for the past hour “I MUST sit on your foot”
+23-06-2019T20:04:00,RimaDraws,lol
+23-06-2019T20:06:33,iliar,"By the way. On Adira's ref sheet, Tom uses ""fun fact"". But fact actually is not fun. I'm interested. Only I find this moment weird?"
+23-06-2019T20:06:38,Ordithus,yeah Tom does like to have his characters break boundaries
+23-06-2019T20:07:17,Dadrobit,Just binged Tsukinori and found Nora. Was that it?
+23-06-2019T20:08:13,Dadrobit,"Also, JFC, what even is perspective"
+23-06-2019T20:09:22,iliar,"Yes. This https://www.furaffinity.net/view/32031765/ , this https://www.furaffinity.net/view/30037273/ and this https://www.furaffinity.net/view/28909535/ is my commissions."
+23-06-2019T20:09:44,SpazztasticKiwi,yo just hit me. You know what happened today
+23-06-2019T20:09:57,Ordithus,:ctwokinds-NoraEyebrows:
+23-06-2019T20:10:35,SpazztasticKiwi,our rotisserie was funky so they called it in for repair. Dude showed today and piddled with it
+23-06-2019T20:10:47,SpazztasticKiwi,The heating element in the front was eating itself
+23-06-2019T20:11:03,AspiringNoodle,Ohnooooooo
+23-06-2019T20:11:11,SpazztasticKiwi,corroded all to hell. Guess what year it was installed
+23-06-2019T20:11:17,Ordithus,1912
+23-06-2019T20:11:22,SpazztasticKiwi,1989
+23-06-2019T20:11:56,SpazztasticKiwi,That element was in business longer than I’ve been alive no wonder it was dying
+23-06-2019T20:12:07,Ordithus,"My oven, range, and rangehood are all 1959 and work"
+23-06-2019T20:12:19,Ordithus,Granted they aren't working nearly as much
+23-06-2019T20:12:44,SpazztasticKiwi,but that’s not all. He turned on the bottom rotisserie to test it and try working on it and I shit you not it started making “demons in the basement” noises
+23-06-2019T20:12:53,SpazztasticKiwi,literally growling
+23-06-2019T20:13:00,Ordithus,It must be fed~
+23-06-2019T20:13:07,AspiringNoodle,"""Aw HELL naw, fuck this shit I'm out!"""
+23-06-2019T20:13:14,Ordithus,:ctwokinds-maevecute:*[Gib me meat]
+23-06-2019T20:13:16,AspiringNoodle,"""PEACE!"""
+23-06-2019T20:13:19,SpazztasticKiwi,I told my manager that if that thing exploded and killed me I was haunting this place till rapture
+23-06-2019T20:13:34,Ordithus,ha
+23-06-2019T20:13:44,SpazztasticKiwi,She told me she’d probably have to quit
+23-06-2019T20:13:59,AspiringNoodle,"Would you be doing ""naked lady with grotesque visage""? :P"
+23-06-2019T20:14:12,SpazztasticKiwi,“Why are the pans floating?” “That’s just Kiwi”
+23-06-2019T20:14:53,SpazztasticKiwi,I also told her I’d mainly want to sit in the middle of the produce area and juggle bananas
+23-06-2019T20:15:29,SpazztasticKiwi,"provided I’m transparent or invisible cause I a ghostie, I imagine I’d be a spectacle"
+23-06-2019T20:15:32,Dadrobit,"Not gonna lie, not a huge fan of those commissions. They've got a lot of uncanny valley going on."
+23-06-2019T20:15:43,Ordithus,:ctwokinds-zenshocked:*[Hey I was gonna buy that]
+23-06-2019T20:15:58,SpazztasticKiwi,she told me that’d probably get the produce lady to retire (she’s the work gossip)
+23-06-2019T20:15:59,Dadrobit,Things just seem... off...
+23-06-2019T20:16:19,Ordithus,"Hm, I liked em."
+23-06-2019T20:16:56,Ordithus,The most recent one could do without the exaggerated tilt
+23-06-2019T20:17:05,AspiringNoodle,Maybe it's the amount of detail?
+23-06-2019T20:17:20,AspiringNoodle,It seems stuck in that zone between light detail and heavy detail.
+23-06-2019T20:18:04,Bgrmystr2,"Honestly, I'm not a fan of the face design"
+23-06-2019T20:18:13,Bgrmystr2,but other than that. they look okay
+23-06-2019T20:18:42,Dadrobit,"Yeah, it's the faces for sure. Also the most recent one is just all over the place."
+23-06-2019T20:24:25,SpazztasticKiwi,I don’t know why but today has been random waves of unreasonable nausea
+23-06-2019T20:26:19,Ordithus,ick
+23-06-2019T20:26:27,CrRAR,aww
+23-06-2019T20:26:36,CrRAR,no bueno spazz
+23-06-2019T20:29:00,SpazztasticKiwi,Like. I ate something for a little breakfast. Had just one soda and the rest was water
+23-06-2019T20:29:05,SpazztasticKiwi,What’s the problem here
+23-06-2019T20:30:06,Ordithus,You have the dread black ebolatitis C
+23-06-2019T20:36:40,AspiringNoodle,I feel that I am forever cursed to have no stable sleep schedule.
+23-06-2019T20:37:17,SpazztasticKiwi,I just learned that a D cup boob can weigh 15-23 pounds
+23-06-2019T20:38:18,Bgrmystr2,:ptv-ohmy: Thas a lotta squish
+23-06-2019T20:39:47,SpazztasticKiwi,that’s like wearing turkeys on the chest
+23-06-2019T20:40:29,CrRAR,:ctwokinds-keith8D:
+23-06-2019T20:40:31,CrRAR,:turkey::turkey:
+23-06-2019T20:40:41,SpazztasticKiwi,but it doesn’t sound right
+23-06-2019T20:41:00,CrRAR,Perky turks
+23-06-2019T20:41:04,SpazztasticKiwi,maybe cause I have the equivalent of two hamsters but
+23-06-2019T20:42:11,CrRAR,That sounds more reasonable
+23-06-2019T20:42:47,AspiringNoodle,"To be fair, flesh is deceptively heavy :P"
+23-06-2019T20:43:27,SpazztasticKiwi,That sounds insulting
+23-06-2019T20:43:41,AspiringNoodle,Gimme a sec
+23-06-2019T20:44:11,CrRAR,I feel like silly putty would be a good weight equivalent.
+23-06-2019T20:44:32,Ordithus,A person weighs roughly as much as their volume in water
+23-06-2019T20:44:40,CrRAR,Plz Noodle no dismemberment
+23-06-2019T20:44:44,RimaDraws,hi CrRAR
+23-06-2019T20:44:46,RimaDraws,hi noodle
+23-06-2019T20:44:47,CrRAR,...even if for science
+23-06-2019T20:44:53,CrRAR,Hi rima!
+23-06-2019T20:44:59,RimaDraws,^^
+23-06-2019T20:45:03,Ordithus,I had two wabbits in my front yard a moment ago
+23-06-2019T20:45:19,RimaDraws,were they cute
+23-06-2019T20:45:21,Ordithus,I think they may be living behind the shrubs
+23-06-2019T20:45:23,CrRAR,:rabbit::rabbit::ptv-excited:
+23-06-2019T20:45:28,Ordithus,Their wabbits
+23-06-2019T20:45:34,Ordithus,Of course they are
+23-06-2019T20:45:54,Ordithus,And I know I'm tired when I mess up their there they're
+23-06-2019T20:45:56,CrRAR,I saw one last night
+23-06-2019T20:46:22,Ordithus,wascally wabbit
+23-06-2019T20:46:24,AspiringNoodle,"2 days ago, I looked outside, saw a wabbit"
+23-06-2019T20:46:31,CrRAR,nice
+23-06-2019T20:46:34,AspiringNoodle,"When I came back 10 minutes later, there was a second wabbit"
+23-06-2019T20:46:46,SpazztasticKiwi,there were two buns sitting in my grandmas yard when I came home
+23-06-2019T20:46:53,Ordithus,[They're multiplying]*:ctwokinds-floAAA:
+23-06-2019T20:46:56,AspiringNoodle,"I thought to myself, ""Okay, if I come back and there's FOUR rabbits, I'm gonna have to have a serious talk with them"""
+23-06-2019T20:47:03,CrRAR,damn bun uprising
+23-06-2019T20:47:10,CrRAR,so many BUNS
+23-06-2019T20:47:13,Ordithus,"Mike needs to get ""eating"""
+23-06-2019T20:47:22,CrRAR,haha
+23-06-2019T20:47:31,AspiringNoodle,Remember the sign to Bunnyburrow in Zootopia?
+23-06-2019T20:47:36,CrRAR,That'll distract 'em!
+23-06-2019T20:47:39,RimaDraws,buns are cute
+23-06-2019T20:47:42,AspiringNoodle,"""ahahahaha, rabbits are good at multiplying joke #1, so funny"""
+23-06-2019T20:47:45,RimaDraws,200 some brothers and sisters good god
+23-06-2019T20:48:14,CrRAR,At least there's an endless supply of clothes to borrow
+23-06-2019T20:48:14,AspiringNoodle,I've started embracing my inner CinemaSins
+23-06-2019T20:48:29,AspiringNoodle,"""We get it, you're rabbits, you're good at f*cking, let's move on already!"""
+23-06-2019T20:49:08,CrRAR,They should adopt the Basitin Way!™
+23-06-2019T20:49:12,SpazztasticKiwi,burrowing beetles will eat their young if they beg for food too much
+23-06-2019T20:49:15,SpazztasticKiwi,Well then
+23-06-2019T20:49:21,FloofyCat,"Tom, not gunna lie, I've been hoping you'd make some new characters for ages, fudge yeah. A poll/survey would be awesome, would 13/10 be interested in whatever survey you could think of, even if it is just like favourite species/character/chapter/arc etc."
+23-06-2019T20:49:28,CrRAR,stupid needy baby beetles
+23-06-2019T20:49:35,FloofyCat,(Replying to a comment very late but still)
+23-06-2019T20:49:58,CrRAR,"""You want food? YOU WANT FOOD!? I'll show you food!"""
+23-06-2019T20:50:08,CrRAR,*Garumpsh*
+23-06-2019T20:50:38,Ordithus,:ctwokinds-keithdotdotdot:
+23-06-2019T20:51:53,AspiringNoodle,"Question: If you could become an anthropomorphic animal (no restrictions), what species would you choose?"
+23-06-2019T20:52:36,Dadrobit,Human
+23-06-2019T20:52:39,CrRAR,meercat
+23-06-2019T20:53:02,Ordithus,Trogdor
+23-06-2019T20:53:13,CrRAR,lol
+23-06-2019T20:53:18,Ordithus,:ctwokinds-reniderp::fire::fire::fire:
+23-06-2019T20:53:24,Dadrobit,The Burninator!
+23-06-2019T20:53:34,CrRAR,:fish::wrench:
+23-06-2019T20:53:45,CrRAR,:muscle:
+23-06-2019T20:53:52,AspiringNoodle,Maeve and Adira make a good case for sneps :p
+23-06-2019T20:53:58,CrRAR,yis
+23-06-2019T20:53:59,AspiringNoodle,Sooooooooooooo fluffy~
+23-06-2019T20:54:11,Ordithus,Good for cold climates
+23-06-2019T20:54:16,SpazztasticKiwi,I’m still not over Mark’s story this morning
+23-06-2019T20:54:27,RimaDraws,oh is that the video he uploaded
+23-06-2019T20:54:29,CrRAR,"yes pretty snow, pretty snowmews"
+23-06-2019T20:54:32,SpazztasticKiwi,remember snow leopards are endangered
+23-06-2019T20:54:38,SpazztasticKiwi,The livestream
+23-06-2019T20:54:53,SpazztasticKiwi,and they only live about 15ish years
+23-06-2019T20:56:04,CrRAR,New characters? Reni should introduce everyone to her first boyfriend:
+23-06-2019T20:56:06,CrRAR,:lizard:
+23-06-2019T20:56:13,SpazztasticKiwi,they do have the poofiest puff tail
+23-06-2019T20:56:25,SpazztasticKiwi,a gecko?
+23-06-2019T20:56:25,CrRAR,Most poof per square inch
+23-06-2019T20:56:34,CrRAR,yes spazz xD
+23-06-2019T20:56:45,Ordithus,"She was young, love is a silly thing"
+23-06-2019T20:57:12,CrRAR,of course there's still always
+23-06-2019T20:57:13,CrRAR,:ctwokinds-keifacepalm:
+23-06-2019T20:57:16,AspiringNoodle,"Hey now, I said anthropomorphic, regular lifespans doesn't apply :P"
+23-06-2019T20:57:18,SpazztasticKiwi,“Love is blind”
+23-06-2019T20:57:39,SpazztasticKiwi,Yeah and apparently it’s senseless too
+23-06-2019T21:00:16,SpazztasticKiwi,Oh and apparently there’s a bit of a vote for me to start wearing a bell at work
+23-06-2019T21:00:30,SpazztasticKiwi,Either that or become a spy
+23-06-2019T21:00:35,SpazztasticKiwi,I’m too quiet
+23-06-2019T21:01:00,AspiringNoodle,"Kiwi's Heart Attack Counter: ""TOO DAMN HIGH!"""
+23-06-2019T21:01:40,AspiringNoodle,Have you been slapped and / or hit in surprise yet? :P
+23-06-2019T21:01:55,CrRAR,lol That's me... unintentionally sneaking up on people since forever.
+23-06-2019T21:02:32,CrRAR,What do normal folks ANNOUNCE their approach or something? xD
+23-06-2019T21:03:22,AspiringNoodle,"No, they just don't have f*cking ninja training in the art of the silent walk"
+23-06-2019T21:03:44,AspiringNoodle,*stares at Kiwi*
+23-06-2019T21:03:48,CrRAR,lol
+23-06-2019T21:04:16,Dadrobit,"Oh yeah, I definitely announce myself."
+23-06-2019T21:04:27,Dadrobit,"""Sup fuckers, the party has arrived!"""
+23-06-2019T21:04:36,Dadrobit,Or something like that
+23-06-2019T21:04:40,CrRAR,:ctwokinds-reniderp:
+23-06-2019T21:05:06,CrRAR,*[WASSSAPPPPP]
+23-06-2019T21:06:23,Twokinds,If I was going to poll people it might look something like this: https://forms.gle/sKejmv6cyz5WbcD39
+23-06-2019T21:06:39,CrRAR,:ctwokinds-maddiessparkles:
+23-06-2019T21:07:06,CrRAR,"""suspiciously"" like that"
+23-06-2019T21:07:20,Ordithus,":ctwokinds-rose:*[Begun, the shipping wars have]"
+23-06-2019T21:07:28,Dadrobit,"TFW ""Paired up with ""Other"""" is the only way to get more humans."
+23-06-2019T21:07:29,iliar,Is this a real poll?
+23-06-2019T21:07:50,CrRAR,An official unofficial certified real poll
+23-06-2019T21:10:12,Bgrmystr2,I dunno if I should really participate considering I have basically no preference at all..?
+23-06-2019T21:10:22,Twokinds,Human with human is boring. You can find that anywhere.
+23-06-2019T21:10:44,Twokinds,This isn't OneKinds!
+23-06-2019T21:10:48,Ordithus,Like... outside?
+23-06-2019T21:11:30,Dadrobit,"Pfffft, I wish I could find that outside...."
+23-06-2019T21:11:38,Dadrobit,"Awww, I made myself sad."
+23-06-2019T21:11:45,CrRAR,:ctwokinds-floraquestion:*[Trace DID find ME outside]
+23-06-2019T21:12:38,Dadrobit,"Screw it, sent in the ballot."
+23-06-2019T21:12:51,CrRAR,lol
+23-06-2019T21:13:00,Dadrobit,Male human with the male canine. Might as well be spicy.
+23-06-2019T21:13:17,Ordithus,:ctwokinds-KeithNeat:
+23-06-2019T21:15:18,CrRAR,[Hey there bby]*:ctwokinds-sadtrace2::ctwokinds-nataniAAAAshake:
+23-06-2019T21:15:53,Dadrobit,"Actually, wait, basitin are available options? This changes everything!"
+23-06-2019T21:16:08,CrRAR,lul
+23-06-2019T21:16:09,iliar,The first question is obvious: Female Human. Just because female humans Tom draw better than male humans.
+23-06-2019T21:17:41,iliar,Female Human x Male Canine - Maren x Sythe
+23-06-2019T21:18:31,iliar,Female Human x Male Basitin - Sealeen x Lynn
+23-06-2019T21:18:42,CrRAR,yes very intriguing combo
+23-06-2019T21:19:15,iliar,Female Human x Male Feline - I cant remember.
+23-06-2019T21:19:37,Ordithus,The explorer and the snow leopard from the sketches
+23-06-2019T21:19:49,CrRAR,yeah them
+23-06-2019T21:19:52,FloofyCat,"Hey Tom, is the map like one big continent or the known world and there's possibly more?"
+23-06-2019T21:19:56,FloofyCat,Oooh Ord I liked those.
+23-06-2019T21:20:07,iliar,But not in the comic.
+23-06-2019T21:20:17,CrRAR,true
+23-06-2019T21:20:17,Ordithus,Can't think of any in the comic
+23-06-2019T21:20:27,Dadrobit,"Just need to have ""All of the above"""
+23-06-2019T21:21:00,CrRAR,There was the King Tiger guy.
+23-06-2019T21:21:06,iliar,Although there are still options: Female Human x Female Canine/Basitin/Feline
+23-06-2019T21:21:28,CrRAR,Explorer girl could just follow him around in awe and he would just scoff.
+23-06-2019T21:21:33,CrRAR,:ctwokinds-LauraCry:
+23-06-2019T21:21:33,Ordithus,Erica x FemEvals
+23-06-2019T21:22:03,iliar,And of course there are still dragons.
+23-06-2019T21:22:16,Ordithus,:ctwokinds-reniembarrassed:
+23-06-2019T21:22:19,CrRAR,yes cunning dragons
+23-06-2019T21:22:23,CrRAR,:ctwokinds-NoraEyebrows:
+23-06-2019T21:22:26,Dadrobit,"Anywho, time to get ready for workings."
+23-06-2019T21:22:32,Dadrobit,Be back later sometime.
+23-06-2019T21:22:33,iliar,Although dragons are not Tom's greatest strength.
+23-06-2019T21:22:42,Dadrobit,Have fun with the pollings
+23-06-2019T21:22:56,FloofyCat,"You sure, iliar?"
+23-06-2019T21:22:57,CrRAR,"alright, try not to anguish TOO hard."
+23-06-2019T21:23:02,Ordithus,see ya robit~
+23-06-2019T21:23:13,FloofyCat,Nora is getting a lot of attention!
+23-06-2019T21:23:47,CrRAR,yup
+23-06-2019T21:23:48,FloofyCat,Or at least her other forms are.
+23-06-2019T21:23:48,iliar,When she is NOT a dragon.
+23-06-2019T21:24:03,CrRAR,:thinking:
+23-06-2019T21:24:20,FloofyCat,Poor Nora.
+23-06-2019T21:24:59,FloofyCat,She just wants some small blue-haired guy to tie her up without some feisty orange tiger getting in the way.
+23-06-2019T21:25:00,iliar,She got a lot of attention when she turned into a cat.
+23-06-2019T21:25:11,Ordithus,She sure did
+23-06-2019T21:25:45,FloofyCat,Also what about a three-way relationship?
+23-06-2019T21:26:19,FloofyCat,"Not saying it needs to be in the poll or anything just interested what everyone else thinks, not necessarily romantic."
+23-06-2019T21:26:21,SpazztasticKiwi,I have a theory on Nora
+23-06-2019T21:26:30,CrRAR,3rd wheel you say!?
+23-06-2019T21:26:34,CrRAR,:ccrrar-reni:
+23-06-2019T21:26:36,SpazztasticKiwi,She has a gentleman kink
+23-06-2019T21:26:47,iliar,"With dragons, I see a problem. They are too big. I like couples with characters of different sizes. But with dragons the difference is too big."
+23-06-2019T21:26:54,FloofyCat,Keith gave third wheel vibes in the early chapters.
+23-06-2019T21:26:55,SpazztasticKiwi,if he’s a sweetheart she want
+23-06-2019T21:27:00,Ordithus,"Mike, Evals, and fMike are already that~"
+23-06-2019T21:27:07,CrRAR,true floofy
+23-06-2019T21:27:07,FloofyCat,"But nah, CrRAR kinda like the dynamic between Mike, Evals and Kathrin for instanc-"
+23-06-2019T21:27:18,FloofyCat,Ord we were very close lul
+23-06-2019T21:27:29,CrRAR,yeah floof I wish spinny Kat was around lol
+23-06-2019T21:28:06,Ordithus,Adrakists are an interesting twist for dragon-type
+23-06-2019T21:28:19,FloofyCat,"Mike and Evals were slaves, but not really that poorly treated (as far as we know), and Kat was still a slave, but she was a 'favourite'."
+23-06-2019T21:28:23,CrRAR,overly attached 3rd wheel
+23-06-2019T21:28:27,CrRAR,:ctwokinds-daydreamingkat:
+23-06-2019T21:28:42,FloofyCat,"Nora is kinda like a third wheel on Trace and Flora in the recent sketches, heh."
+23-06-2019T21:28:54,Ordithus,:ctwokinds-daydreamingkat:*[ :ctwokinds-natkeith: ]
+23-06-2019T21:29:00,FloofyCat,That too!
+23-06-2019T21:29:05,CrRAR,lol
+23-06-2019T21:30:01,FloofyCat,"Although, I never figured out if Kat liked Natani in a platonic way or not."
+23-06-2019T21:30:28,FloofyCat,"Not as in, ahem, Keith and Natani's platonic 'sparring' behind closed doors."
+23-06-2019T21:31:00,Ordithus,That ain't platonic
+23-06-2019T21:31:23,FloofyCat,It's 'platonic' to everyone else.
+23-06-2019T21:31:29,Ordithus,"Not anymore, it isn't"
+23-06-2019T21:31:38,Ordithus,Not after a kiss in front of everyone
+23-06-2019T21:31:45,FloofyCat,True.
+23-06-2019T21:32:10,FloofyCat,Mike and Evals probably think Natani is being controlled by Basitin black magic though.
+23-06-2019T21:32:26,Ordithus,Did you read the Edinmire chapter?
+23-06-2019T21:32:43,FloofyCat,"Yeah, probably should re-read it."
+23-06-2019T21:32:58,Ordithus,"Yeah, Natani explained it."
+23-06-2019T21:33:35,Ordithus,Though Evals didn't quite get it haha
+23-06-2019T21:33:53,Ordithus,[That poor sexy bastard]*:ctwokinds-evalswink_sparkl:
+23-06-2019T21:36:00,FloofyCat,^ I was thinking of that precise quote.
+23-06-2019T21:38:25,FloofyCat,Ooh I just remembered something
+23-06-2019T21:44:44,FloofyCat,"Is the email thingy for magical mishaps #2 suggestions still an open thing? We could answer some questions in emails unless there's already been a ton. Regardless though, a survey would still be awesome."
+23-06-2019T21:51:15,SpazztasticKiwi,I wonder if mark knows about the emergency call mode
+23-06-2019T21:51:28,SpazztasticKiwi,It may have helped Amy get through his do not disturb
+23-06-2019T21:53:15,FloofyCat,Wha?
+23-06-2019T21:59:56,SpazztasticKiwi,On iPhones there is a do not disturb mode
+23-06-2019T22:00:13,SpazztasticKiwi,Calls don’t make noise.  Texts and notifications don’t go through
+23-06-2019T22:01:03,SpazztasticKiwi,"But if you turn on repeat calls, a caller from your favorites, contract list, whatever have you"
+23-06-2019T22:01:13,Dadrobit,"Oh, is Amy a person?"
+23-06-2019T22:01:32,SpazztasticKiwi,can get through and make the phone ring if they call multiple times in a certain spanse
+23-06-2019T22:01:45,SpazztasticKiwi,Amy is Marks girlfriend
+23-06-2019T22:01:52,Dadrobit,"I saw a comment earlier that Mark locked an Amy outside, just kinda figured it was his dog."
+23-06-2019T22:01:54,FloofyCat,"I have my call volume up, media volume down but I'm always so damn nervous I'm going to get a call for an interview and I'll be asleep and it won't wake me up or won't ring or something."
+23-06-2019T22:02:12,SpazztasticKiwi,Chica is his dog
+23-06-2019T22:02:21,SpazztasticKiwi,And this isn’t the first time he’s done this
+23-06-2019T22:02:24,Dadrobit,Never occurred to me that he could have a girlfriend.
+23-06-2019T22:02:33,Ordithus,:ctwokinds-karenOOO:
+23-06-2019T22:02:47,SpazztasticKiwi,been with her for something around 3 years
+23-06-2019T22:03:02,SpazztasticKiwi,rude
+23-06-2019T22:03:22,FloofyCat,"If you could use animated gifs without Nitro on Discord I'd totally upload some of these gifs, they're great."
+23-06-2019T22:03:55,Dadrobit,"I dunno, he just seemed too... eccentric.... And he had pink hair last I checked. And only hung out with dudes."
+23-06-2019T22:04:34,SpazztasticKiwi,He hasn’t had pink hair for years
+23-06-2019T22:04:45,SpazztasticKiwi,near two or something to be exact
+23-06-2019T22:04:57,Dadrobit,At least 3 by the looks of it lol.
+23-06-2019T22:05:16,SpazztasticKiwi,He was with Amy during the tail end of the red hair days
+23-06-2019T22:05:38,Dadrobit,He had red hair?
+23-06-2019T22:05:52,SpazztasticKiwi,He went pink to blue to purple to red
+23-06-2019T22:06:17,SpazztasticKiwi,And some blonde if you want to count the bleaching
+23-06-2019T22:06:22,Dadrobit,I'll be over her in brown town.
+23-06-2019T22:07:03,SpazztasticKiwi,"Before I came across Mark, I dyed my hair red - right out of high school"
+23-06-2019T22:07:21,SpazztasticKiwi,People kept asking me if it was a Markiplier thing
+23-06-2019T22:07:24,Dadrobit,Before I came across Mark... Fuck what was I doing back then?
+23-06-2019T22:07:29,SpazztasticKiwi,“What’s a Markiplier”
+23-06-2019T22:07:36,SpazztasticKiwi,was my reaction
+23-06-2019T22:07:37,Dadrobit,I think that was my StarCraft 2 days.
+23-06-2019T22:08:02,SpazztasticKiwi,I miss my red hair
+23-06-2019T22:08:05,Dadrobit,"Also, TwoKinds. That and a few other comics."
+23-06-2019T22:08:11,SpazztasticKiwi,It was bright red
+23-06-2019T22:08:26,SpazztasticKiwi,Looked like a fire truck
+23-06-2019T22:08:27,FloofyCat,"Markiplier... a marker pen and a pair of pliers together, duh.."
+23-06-2019T22:08:30,Dadrobit,TK is one of the few that have kept going from back then.
+23-06-2019T22:08:57,SpazztasticKiwi,You never know what you’ll get with Mark nowadays
+23-06-2019T22:09:08,Dadrobit,Screeching usually?
+23-06-2019T22:09:20,Dadrobit,"And ""Helloooo Everybody"""
+23-06-2019T22:09:21,SpazztasticKiwi,he can get loud
+23-06-2019T22:09:42,SpazztasticKiwi,But it’s mostly volume since his voice is so damn low
+23-06-2019T22:09:50,SpazztasticKiwi,unless he screams
+23-06-2019T22:10:01,SpazztasticKiwi,dude can hit some high frequencies
+23-06-2019T22:10:16,Dadrobit,"Anyways, time to head off for work, gotta pick up some foods for tonight. Chef salad or something."
+23-06-2019T22:10:25,SpazztasticKiwi,Mmmmmmmmk
+23-06-2019T22:10:43,Dadrobit,o/
+23-06-2019T22:10:52,SpazztasticKiwi,his streams I find one of the most interesting things. He just
+23-06-2019T22:10:54,SpazztasticKiwi,talks
+23-06-2019T22:11:02,SpazztasticKiwi,For what can be literally hours
+23-06-2019T22:11:21,SpazztasticKiwi,Some people can talk on any subject. Mark don’t need a subject
+23-06-2019T22:15:33,SpazztasticKiwi,oh and I got a gun
+23-06-2019T22:15:57,SpazztasticKiwi,https://cdn.discordapp.com/attachments/524825976597643265/592915645952294934/image0.jpg
+23-06-2019T22:17:33,AspiringNoodle,So cute~
+23-06-2019T22:17:34,Ordithus,":ctwokinds-redrose:*[you'll shoot your eye out, kid]"
+23-06-2019T22:20:28,SpazztasticKiwi,I have no idea how to work the keychain
+23-06-2019T22:20:40,SpazztasticKiwi,and it can shoot
+23-06-2019T22:20:55,SpazztasticKiwi,it just doesn’t have its projectile
+23-06-2019T22:21:10,Ordithus,Flip the little lever on the left
+23-06-2019T22:21:34,SpazztasticKiwi,But on the bright side I can say I’m not compensating for anything
+23-06-2019T22:22:43,Ordithus,So it's a capgun?
+23-06-2019T22:23:20,SpazztasticKiwi,no it looks like it’s made to shoot something like a spear or needle
+23-06-2019T22:33:25,SpazztasticKiwi,keychain still no do the thing
+23-06-2019T22:33:49,FloofyCat,Are you a 'murican?
+23-06-2019T22:35:21,FloofyCat,"Oh, the coin."
+23-06-2019T22:35:42,FloofyCat,"Not gunna lie, having a keychain that can shoot is very American >_>"
+23-06-2019T22:45:58,AspiringNoodle,It's about time for a culling of game developers
+23-06-2019T22:46:15,AspiringNoodle,"But let's be honest, people who only play sports games are the lowest of the low ;D"
+23-06-2019T22:48:11,AspiringNoodle,"Okay, that's a bit harsh, but sports games are the ones being most egregiously ""monetized"""
+23-06-2019T22:51:08,Ordithus,:ctwokinds-RainezZz:
+23-06-2019T23:02:23,AspiringNoodle,"In my not so humble opinion, 2K games needs to go up in flames :)"
+23-06-2019T23:33:04,Dadrobit,"Goddamn it. Not only does my guard house smell like popcorn, it's burnt popcorn..."
+23-06-2019T23:33:22,AspiringNoodle,Irritation rising...
+23-06-2019T23:33:26,AspiringNoodle,Anger growing...
+23-06-2019T23:33:35,AspiringNoodle,Rage EXPLODING :ptv-angry:
+23-06-2019T23:35:03,Dadrobit,"Also I forgot my belt at home, so here's hoping no one important comes by..."
+23-06-2019T23:35:29,AspiringNoodle,:ptv-shock:
+23-06-2019T23:35:46,AspiringNoodle,"Your uniform, it's not up to code! :ptv-ohmy:"
+23-06-2019T23:36:53,Dadrobit,"No joke, if a mobile supervisor comes by to check on me, I'm getting written up and sent home."
+23-06-2019T23:37:11,AspiringNoodle,:ptv-kippi2:
